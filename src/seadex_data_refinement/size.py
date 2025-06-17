@@ -60,7 +60,7 @@ class SeaDexSizeCalculator:
 
     @cached_property
     def total_size(self) -> ByteSize:
-        sizes: list[ByteSize] = []
+        sizes: list[int] = []
 
         for torrent in self.filtered_trs:
             sizes.extend(file.size for file in torrent.files)
@@ -69,7 +69,7 @@ class SeaDexSizeCalculator:
 
     @cached_property
     def best_size(self) -> ByteSize:
-        sizes: list[ByteSize] = []
+        sizes: list[int] = []
 
         for torrent in self.filtered_trs:
             if torrent.is_best:

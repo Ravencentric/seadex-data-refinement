@@ -5,11 +5,12 @@ description = "CLI for SeaDex Data Refinement"
 readme = "README.md"
 license = "MIT"
 authors = [{ name = "Ravencentric", email = "me@ravencentric.cc" }]
-requires-python = ">=3.11"
+requires-python = ">=3.13"
 dependencies = [
     "cyclopts>=3.9.0",
     "httpx>=0.28.1",
     "prettytable>=3.14.0",
+    "pyanilist>=0.8.1",
     "pydantic>=2.10.6",
     "seadex>=0.6.1",
 ]
