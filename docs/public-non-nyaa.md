@@ -10,4 +10,3 @@
 | 7   | Angel's 3Piece!              | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683) |
 | 8   | Destiny of the Shrine Maiden | 2004 | 02 Oct 2025 | [SeaDex](https://releases.moe/143/), [AniList](https://anilist.co/anime/143)     |
 | 9   | Eiken                        | 2003 | 17 Jul 2025 | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)     |
-| 10  | The Reflection               | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461) |

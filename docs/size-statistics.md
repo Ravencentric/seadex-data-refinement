@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `128.6 TiB`
-- Best size: `97.5 TiB`
+- Total size: `128.8 TiB`
+- Best size: `97.6 TiB`
 - Alt size: `31.2 TiB`
-- Realistic size: `101.0 TiB`
+- Realistic size: `101.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 142 (~75.3 GiB each)  |
 | 3    | NAN0             | 7.9 TiB    | 7.9 TiB (99.05%)    | 107 (~75.9 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
-| 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 93 (~40.4 GiB each)   |
+| 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 95 (~40.3 GiB each)   |
 | 6    | Headpatter       | 3.3 TiB    | 2.8 TiB (85.60%)    | 99 (~34.2 GiB each)   |
 | 7    | PMR              | 2.7 TiB    | 2.7 TiB (100.00%)   | 35 (~79.3 GiB each)   |
 | 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (68.18%)    | 70 (~39.1 GiB each)   |
@@ -38,14 +38,14 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 16   | SubsPlease       | 1.3 TiB    | 161.3 GiB (11.88%)  | 79 (~17.2 GiB each)   |
 | 17   | FLE              | 1.0 TiB    | 993.1 GiB (96.30%)  | 26 (~39.7 GiB each)   |
 | 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
-| 19   | NOGRP            | 973.2 GiB  | 771.9 GiB (79.32%)  | 31 (~31.4 GiB each)   |
-| 20   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
-| 21   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 22   | GetItTwisted     | 899.4 GiB  | 610.8 GiB (67.92%)  | 43 (~20.9 GiB each)   |
+| 19   | GetItTwisted     | 986.7 GiB  | 685.9 GiB (69.51%)  | 45 (~21.9 GiB each)   |
+| 20   | NOGRP            | 973.2 GiB  | 771.9 GiB (79.32%)  | 31 (~31.4 GiB each)   |
+| 21   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
+| 22   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 23   | YURASUKA         | 894.4 GiB  | 237.5 GiB (26.56%)  | 78 (~11.5 GiB each)   |
-| 24   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
-| 25   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
-| 26   | YURI             | 867.7 GiB  | 367.0 GiB (42.29%)  | 71 (~12.2 GiB each)   |
+| 24   | YURI             | 890.4 GiB  | 389.7 GiB (43.76%)  | 72 (~12.4 GiB each)   |
+| 25   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
+| 26   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
 | 27   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 28   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 29   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
