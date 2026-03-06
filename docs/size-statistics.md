@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `128.8 TiB`
+- Total size: `128.9 TiB`
 - Best size: `97.6 TiB`
 - Alt size: `31.2 TiB`
-- Realistic size: `101.1 TiB`
+- Realistic size: `101.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -26,8 +26,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 95 (~40.3 GiB each)   |
 | 6    | Headpatter       | 3.3 TiB    | 2.8 TiB (85.60%)    | 99 (~34.2 GiB each)   |
-| 7    | PMR              | 2.7 TiB    | 2.7 TiB (100.00%)   | 35 (~79.3 GiB each)   |
-| 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (68.18%)    | 70 (~39.1 GiB each)   |
+| 7    | hchcsen          | 2.7 TiB    | 1.8 TiB (67.25%)    | 71 (~39.1 GiB each)   |
+| 8    | PMR              | 2.7 TiB    | 2.7 TiB (100.00%)   | 35 (~79.3 GiB each)   |
 | 9    | TTGA             | 2.6 TiB    | 2.5 TiB (95.07%)    | 36 (~73.5 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
