@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `128.9 TiB`
-- Best size: `97.6 TiB`
+- Best size: `97.7 TiB`
 - Alt size: `31.2 TiB`
 - Realistic size: `101.2 TiB`
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 48   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
 | 49   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
-| 50   | Others           | 41.5 TiB   | 23.2 TiB (55.96%)   | 1876 (~22.6 GiB each) |
+| 50   | Others           | 41.5 TiB   | 23.3 TiB (56.12%)   | 1877 (~22.7 GiB each) |
