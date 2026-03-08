@@ -32,13 +32,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Okay-Subs                   | 38    |
 | 17   | Erai-raws / LYS1TH3A / TTGA | 36    |
 | 18   | Commie / PMR                | 35    |
-| 19   | GetItTwisted / Lulu         | 34    |
+| 19   | GetItTwisted                | 34    |
 | 20   | Bunny-Apocalypse            | 33    |
-| 21   | Holomux / NOGRP / VARYG     | 31    |
-| 22   | Kametsu                     | 29    |
-| 23   | Orphan                      | 28    |
-| 24   | Pog42 / SCY                 | 27    |
-| 25   | B00BA / FLE / Reza          | 26    |
+| 21   | Lulu                        | 32    |
+| 22   | Holomux / NOGRP / VARYG     | 31    |
+| 23   | Kametsu                     | 29    |
+| 24   | Orphan                      | 28    |
+| 25   | Pog42 / SCY                 | 27    |
 
 ## Top 25 - Best dual audio entries
 
@@ -54,8 +54,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | TTGA                                             | 24    |
 | 9    | smol                                             | 23    |
 | 10   | FLE                                              | 22    |
-| 11   | Lulu / Moxie                                     | 19    |
-| 12   | Flugel                                           | 17    |
+| 11   | Moxie                                            | 19    |
+| 12   | Flugel / Lulu                                    | 17    |
 | 13   | GetItTwisted / LazyRemux / YURI                  | 16    |
 | 14   | ZeroBuild / koala                                | 15    |
 | 15   | Arid / LostYears / YURASUKA                      | 13    |
@@ -89,16 +89,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | YURI                     | 33    |
 | 14   | B00BA / Orphan           | 26    |
 | 15   | FLE                      | 24    |
-| 16   | Lulu                     | 22    |
-| 17   | GetItTwisted             | 21    |
-| 18   | Arid / LazyRemux         | 20    |
-| 19   | LaCroiX                  | 19    |
-| 20   | Mehul / YURASUKA / koala | 18    |
-| 21   | Flugel                   | 17    |
-| 22   | Drag                     | 16    |
-| 23   | ZeroBuild                | 15    |
-| 24   | UDF / Vodes              | 14    |
-| 25   | Beatrice / LostYears     | 13    |
+| 16   | GetItTwisted             | 21    |
+| 17   | Arid / LazyRemux / Lulu  | 20    |
+| 18   | LaCroiX                  | 19    |
+| 19   | Mehul / YURASUKA / koala | 18    |
+| 20   | Flugel                   | 17    |
+| 21   | Drag                     | 16    |
+| 22   | ZeroBuild                | 15    |
+| 23   | UDF / Vodes              | 14    |
+| 24   | Beatrice / LostYears     | 13    |
+| 25   | FraMeSToR / Reza         | 12    |
 
 ## Top 25 - Alt entries
 
