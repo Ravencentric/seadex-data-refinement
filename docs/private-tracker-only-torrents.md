@@ -5,24 +5,25 @@ This list excludes groups that do not want their releases mirrored to public tra
 
 | Idx | Title                                               | Year | Updated At  | Links                                                                              |
 | :---| :---------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Thus Spoke Rohan Kishibe                            | 2017 | 06 Mar 2026 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
-| 2   | Date A Live II: Kurumi Star Festival                | 2014 | 25 Feb 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
-| 3   | The Eccentric Family                                | 2013 | 25 Feb 2026 | [SeaDex](https://releases.moe/17909/), [AniList](https://anilist.co/anime/17909)   |
-| 4   | Gatchaman Crowds                                    | 2013 | 01 Mar 2026 | [SeaDex](https://releases.moe/18229/), [AniList](https://anilist.co/anime/18229)   |
-| 5   | There's No Freaking Way I'll Be Your Lover! Unless… | 2025 | 03 Mar 2026 | [SeaDex](https://releases.moe/184591/), [AniList](https://anilist.co/anime/184591) |
-| 6   | C3                                                  | 2011 | 04 Mar 2026 | [SeaDex](https://releases.moe/10578/), [AniList](https://anilist.co/anime/10578)   |
-| 7   | To LOVE-Ru Darkness OVA                             | 2012 | 28 Feb 2026 | [SeaDex](https://releases.moe/13851/), [AniList](https://anilist.co/anime/13851)   |
-| 8   | Mitsudomoe                                          | 2010 | 23 Feb 2026 | [SeaDex](https://releases.moe/7627/), [AniList](https://anilist.co/anime/7627)     |
-| 9   | To LOVE-Ru Darkness 2nd OVA                         | 2016 | 28 Feb 2026 | [SeaDex](https://releases.moe/21853/), [AniList](https://anilist.co/anime/21853)   |
-| 10  | Phi Brain: Puzzle of God                            | 2011 | 04 Mar 2026 | [SeaDex](https://releases.moe/9981/), [AniList](https://anilist.co/anime/9981)     |
-| 11  | Muv-Luv Alternative: Total Eclipse                  | 2012 | 23 Feb 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
-| 12  | The Eccentric Family 2                              | 2017 | 27 Feb 2026 | [SeaDex](https://releases.moe/97642/), [AniList](https://anilist.co/anime/97642)   |
-| 13  | Gatchaman Crowds insight                            | 2015 | 01 Mar 2026 | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
-| 14  | To LOVE-Ru: Multiplication - Mae kara Ushiro kara   | 2017 | 01 Mar 2026 | [SeaDex](https://releases.moe/100659/), [AniList](https://anilist.co/anime/100659) |
-| 15  | Tears to Tiara                                      | 2009 | 24 Feb 2026 | [SeaDex](https://releases.moe/3594/), [AniList](https://anilist.co/anime/3594)     |
-| 16  | I Want to Deliver Your Voice                        | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
-| 17  | Gatchaman Crowds insight: Inbound                   | 2015 | 01 Mar 2026 | [SeaDex](https://releases.moe/21252/), [AniList](https://anilist.co/anime/21252)   |
-| 18  | C3: Outdoor School Confusion                        | 2012 | 04 Mar 2026 | [SeaDex](https://releases.moe/12505/), [AniList](https://anilist.co/anime/12505)   |
-| 19  | Gatchaman Crowds: Embrace                           | 2014 | 01 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
-| 20  | Flying Witch Petit                                  | 2016 | 25 Feb 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
-| 21  | Flying Witch Petit Special                          | 2016 | 25 Feb 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
+| 1   | White Album 2                                       | 2013 | 10 Mar 2026 | [SeaDex](https://releases.moe/18245/), [AniList](https://anilist.co/anime/18245)   |
+| 2   | Thus Spoke Rohan Kishibe                            | 2017 | 06 Mar 2026 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
+| 3   | Date A Live II: Kurumi Star Festival                | 2014 | 25 Feb 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
+| 4   | The Eccentric Family                                | 2013 | 25 Feb 2026 | [SeaDex](https://releases.moe/17909/), [AniList](https://anilist.co/anime/17909)   |
+| 5   | Gatchaman Crowds                                    | 2013 | 01 Mar 2026 | [SeaDex](https://releases.moe/18229/), [AniList](https://anilist.co/anime/18229)   |
+| 6   | There's No Freaking Way I'll Be Your Lover! Unless… | 2025 | 03 Mar 2026 | [SeaDex](https://releases.moe/184591/), [AniList](https://anilist.co/anime/184591) |
+| 7   | C3                                                  | 2011 | 04 Mar 2026 | [SeaDex](https://releases.moe/10578/), [AniList](https://anilist.co/anime/10578)   |
+| 8   | To LOVE-Ru Darkness OVA                             | 2012 | 28 Feb 2026 | [SeaDex](https://releases.moe/13851/), [AniList](https://anilist.co/anime/13851)   |
+| 9   | Mitsudomoe                                          | 2010 | 23 Feb 2026 | [SeaDex](https://releases.moe/7627/), [AniList](https://anilist.co/anime/7627)     |
+| 10  | To LOVE-Ru Darkness 2nd OVA                         | 2016 | 28 Feb 2026 | [SeaDex](https://releases.moe/21853/), [AniList](https://anilist.co/anime/21853)   |
+| 11  | Phi Brain: Puzzle of God                            | 2011 | 04 Mar 2026 | [SeaDex](https://releases.moe/9981/), [AniList](https://anilist.co/anime/9981)     |
+| 12  | Muv-Luv Alternative: Total Eclipse                  | 2012 | 23 Feb 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
+| 13  | The Eccentric Family 2                              | 2017 | 27 Feb 2026 | [SeaDex](https://releases.moe/97642/), [AniList](https://anilist.co/anime/97642)   |
+| 14  | Gatchaman Crowds insight                            | 2015 | 01 Mar 2026 | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
+| 15  | To LOVE-Ru: Multiplication - Mae kara Ushiro kara   | 2017 | 01 Mar 2026 | [SeaDex](https://releases.moe/100659/), [AniList](https://anilist.co/anime/100659) |
+| 16  | Tears to Tiara                                      | 2009 | 24 Feb 2026 | [SeaDex](https://releases.moe/3594/), [AniList](https://anilist.co/anime/3594)     |
+| 17  | I Want to Deliver Your Voice                        | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 18  | Gatchaman Crowds insight: Inbound                   | 2015 | 01 Mar 2026 | [SeaDex](https://releases.moe/21252/), [AniList](https://anilist.co/anime/21252)   |
+| 19  | C3: Outdoor School Confusion                        | 2012 | 04 Mar 2026 | [SeaDex](https://releases.moe/12505/), [AniList](https://anilist.co/anime/12505)   |
+| 20  | Gatchaman Crowds: Embrace                           | 2014 | 01 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
+| 21  | Flying Witch Petit                                  | 2016 | 25 Feb 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
+| 22  | Flying Witch Petit Special                          | 2016 | 25 Feb 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
