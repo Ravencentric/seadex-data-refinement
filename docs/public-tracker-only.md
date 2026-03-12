@@ -5,16 +5,16 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                             | Year | Updated At  | Links                                                                              |
 | :---| :-----------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Miru Tights                                                       | 2019 | 10 Mar 2026 | [SeaDex](https://releases.moe/106967/), [AniList](https://anilist.co/anime/106967) |
-| 2   | Arifureta: From Commonplace to World's Strongest                  | 2019 | 10 Mar 2026 | [SeaDex](https://releases.moe/100668/), [AniList](https://anilist.co/anime/100668) |
-| 3   | From Old Country Bumpkin to Master Swordsman                      | 2025 | 08 Mar 2026 | [SeaDex](https://releases.moe/179955/), [AniList](https://anilist.co/anime/179955) |
-| 4   | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved   | 2025 | 08 Mar 2026 | [SeaDex](https://releases.moe/181839/), [AniList](https://anilist.co/anime/181839) |
-| 5   | Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings? | 2005 | 07 Mar 2026 | [SeaDex](https://releases.moe/376/), [AniList](https://anilist.co/anime/376)       |
-| 6   | Elfen Lied                                                        | 2004 | 07 Mar 2026 | [SeaDex](https://releases.moe/226/), [AniList](https://anilist.co/anime/226)       |
-| 7   | Kaiju No. 8 Season 2                                              | 2025 | 05 Mar 2026 | [SeaDex](https://releases.moe/178754/), [AniList](https://anilist.co/anime/178754) |
-| 8   | The Reflection                                                    | 2017 | 04 Mar 2026 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
-| 9   | Paranoia Agent                                                    | 2004 | 04 Mar 2026 | [SeaDex](https://releases.moe/323/), [AniList](https://anilist.co/anime/323)       |
-| 10  | Girls und Panzer                                                  | 2012 | 03 Mar 2026 | [SeaDex](https://releases.moe/14131/), [AniList](https://anilist.co/anime/14131)   |
+| 1   | ONE PIECE                                                         | 1999 | 12 Mar 2026 | [SeaDex](https://releases.moe/21/), [AniList](https://anilist.co/anime/21)         |
+| 2   | In the Heart of Kunoichi Tsubaki                                  | 2022 | 11 Mar 2026 | [SeaDex](https://releases.moe/141350/), [AniList](https://anilist.co/anime/141350) |
+| 3   | Miru Tights                                                       | 2019 | 10 Mar 2026 | [SeaDex](https://releases.moe/106967/), [AniList](https://anilist.co/anime/106967) |
+| 4   | From Old Country Bumpkin to Master Swordsman                      | 2025 | 08 Mar 2026 | [SeaDex](https://releases.moe/179955/), [AniList](https://anilist.co/anime/179955) |
+| 5   | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved   | 2025 | 08 Mar 2026 | [SeaDex](https://releases.moe/181839/), [AniList](https://anilist.co/anime/181839) |
+| 6   | Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings? | 2005 | 07 Mar 2026 | [SeaDex](https://releases.moe/376/), [AniList](https://anilist.co/anime/376)       |
+| 7   | Elfen Lied                                                        | 2004 | 07 Mar 2026 | [SeaDex](https://releases.moe/226/), [AniList](https://anilist.co/anime/226)       |
+| 8   | Kaiju No. 8 Season 2                                              | 2025 | 05 Mar 2026 | [SeaDex](https://releases.moe/178754/), [AniList](https://anilist.co/anime/178754) |
+| 9   | The Reflection                                                    | 2017 | 04 Mar 2026 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
+| 10  | Paranoia Agent                                                    | 2004 | 04 Mar 2026 | [SeaDex](https://releases.moe/323/), [AniList](https://anilist.co/anime/323)       |
 | 11  | Monster                                                           | 2004 | 03 Mar 2026 | [SeaDex](https://releases.moe/19/), [AniList](https://anilist.co/anime/19)         |
 | 12  | BUCCHIGIRI?!                                                      | 2024 | 02 Mar 2026 | [SeaDex](https://releases.moe/165254/), [AniList](https://anilist.co/anime/165254) |
 | 13  | Call of the Night Season 2                                        | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/175914/), [AniList](https://anilist.co/anime/175914) |

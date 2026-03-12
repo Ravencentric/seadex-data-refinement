@@ -19,8 +19,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                        | 132   |
 | 4    | NAN0                                       | 107   |
 | 5    | MTBB                                       | 103   |
-| 6    | Moxie                                      | 95    |
-| 7    | Headpatter                                 | 93    |
+| 6    | Headpatter                                 | 96    |
+| 7    | Moxie                                      | 95    |
 | 8    | SubsPlease                                 | 79    |
 | 9    | YURASUKA                                   | 78    |
 | 10   | YURI                                       | 70    |
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | NAN0                                             | 83    |
 | 4    | hchcsen                                          | 34    |
 | 5    | LYS1TH3A                                         | 33    |
-| 6    | Headpatter                                       | 26    |
+| 6    | Headpatter                                       | 27    |
 | 7    | TTGA                                             | 24    |
 | 8    | smol                                             | 23    |
 | 9    | FLE                                              | 22    |
@@ -80,7 +80,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0                     | 106   |
 | 5    | Moxie                    | 95    |
 | 6    | MTBB                     | 73    |
-| 7    | Headpatter               | 66    |
+| 7    | Headpatter               | 67    |
 | 8    | smol                     | 56    |
 | 9    | hchcsen                  | 38    |
 | 10   | Okay-Subs                | 37    |
@@ -109,8 +109,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | KH                                       | 46    |
 | 4    | Drag                                     | 43    |
 | 5    | -ZR- / YURI                              | 38    |
-| 6    | Commie                                   | 35    |
-| 7    | Headpatter                               | 34    |
+| 6    | Headpatter                               | 36    |
+| 7    | Commie                                   | 35    |
 | 8    | hchcsen                                  | 33    |
 | 9    | Erai-raws / LostYears / MTBB             | 30    |
 | 10   | VARYG                                    | 29    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Datte13 / FFF / Mysteria                 | 12    |
 | 23   | Asakura / CyC / Netaro / Pookie & Others | 10    |
 | 24   | Tsundere / WBDP / Yoghurt                | 9     |
-| 25   | GSK_kun / OZR / RASETSU / Starbez        | 8     |
+| 25   | GSK_kun / RASETSU / Starbez              | 8     |

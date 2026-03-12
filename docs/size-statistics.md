@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `128.9 TiB`
-- Best size: `97.8 TiB`
-- Alt size: `31.1 TiB`
-- Realistic size: `101.3 TiB`
+- Total size: `129.2 TiB`
+- Best size: `98.0 TiB`
+- Alt size: `31.2 TiB`
+- Realistic size: `101.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -25,7 +25,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 7.9 TiB    | 7.9 TiB (99.05%)    | 107 (~75.9 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 95 (~40.3 GiB each)   |
-| 6    | Headpatter       | 3.3 TiB    | 2.8 TiB (85.25%)    | 100 (~34.0 GiB each)  |
+| 6    | Headpatter       | 3.4 TiB    | 2.9 TiB (84.99%)    | 103 (~34.0 GiB each)  |
 | 7    | hchcsen          | 2.7 TiB    | 1.8 TiB (67.25%)    | 71 (~39.1 GiB each)   |
 | 8    | PMR              | 2.7 TiB    | 2.7 TiB (100.00%)   | 35 (~79.3 GiB each)   |
 | 9    | TTGA             | 2.6 TiB    | 2.5 TiB (95.07%)    | 36 (~73.5 GiB each)   |
@@ -65,8 +65,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 43   | Mehul            | 584.6 GiB  | 584.6 GiB (100.00%) | 20 (~29.2 GiB each)   |
 | 44   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 45   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 46   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
-| 47   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 48   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
-| 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 41.6 TiB   | 23.0 TiB (55.37%)   | 1882 (~22.6 GiB each) |
+| 46   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
+| 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
+| 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
+| 49   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
+| 50   | Others           | 41.8 TiB   | 23.0 TiB (55.13%)   | 1889 (~22.6 GiB each) |
