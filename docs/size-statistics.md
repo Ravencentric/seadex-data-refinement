@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `129.4 TiB`
-- Best size: `98.2 TiB`
+- Total size: `129.5 TiB`
+- Best size: `98.3 TiB`
 - Alt size: `31.2 TiB`
 - Realistic size: `101.7 TiB`
 
@@ -28,7 +28,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 6    | Headpatter       | 3.5 TiB    | 3.0 TiB (85.30%)    | 104 (~34.4 GiB each)  |
 | 7    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 36 (~79.1 GiB each)   |
 | 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (67.25%)    | 71 (~39.1 GiB each)   |
-| 9    | TTGA             | 2.6 TiB    | 2.5 TiB (95.07%)    | 36 (~73.5 GiB each)   |
+| 9    | TTGA             | 2.7 TiB    | 2.5 TiB (95.22%)    | 37 (~73.9 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | MTBB             | 1.6 TiB    | 1.3 TiB (84.20%)    | 103 (~15.7 GiB each)  |
@@ -42,7 +42,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | NOGRP            | 973.2 GiB  | 771.9 GiB (79.32%)  | 31 (~31.4 GiB each)   |
 | 21   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 22   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 23   | YURASUKA         | 894.4 GiB  | 222.8 GiB (24.91%)  | 78 (~11.5 GiB each)   |
+| 23   | YURASUKA         | 894.4 GiB  | 237.5 GiB (26.56%)  | 78 (~11.5 GiB each)   |
 | 24   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
 | 25   | YURI             | 873.3 GiB  | 389.7 GiB (44.62%)  | 71 (~12.3 GiB each)   |
 | 26   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
@@ -56,7 +56,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 34   | ZeroBuild        | 761.7 GiB  | 712.7 GiB (93.57%)  | 17 (~44.8 GiB each)   |
 | 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
 | 36   | Bunny-Apocalypse | 698.0 GiB  | 161.0 GiB (23.06%)  | 33 (~21.2 GiB each)   |
-| 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
+| 37   | Reza             | 665.1 GiB  | 301.5 GiB (45.33%)  | 27 (~24.6 GiB each)   |
 | 38   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
 | 39   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
 | 40   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |

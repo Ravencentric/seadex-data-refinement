@@ -12,7 +12,5 @@
 | 9   | Muv-Luv Alternative: Total Eclipse                  | 2012 | 23 Feb 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
 | 10  | To LOVE-Ru: Multiplication - Mae kara Ushiro kara   | 2017 | 01 Mar 2026 | [SeaDex](https://releases.moe/100659/), [AniList](https://anilist.co/anime/100659) |
 | 11  | Tears to Tiara                                      | 2009 | 24 Feb 2026 | [SeaDex](https://releases.moe/3594/), [AniList](https://anilist.co/anime/3594)     |
-| 12  | TIGER & BUNNY 2                                     | 2022 | 13 Jan 2026 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
-| 13  | Overlord: Ple Ple Pleiades 4                        | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 14  | TIGER & BUNNY 2 Part 2                              | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
-| 15  | Tekkaman Blade II                                   | 1994 | 28 Jan 2026 | [SeaDex](https://releases.moe/1460/), [AniList](https://anilist.co/anime/1460)     |
+| 12  | Overlord: Ple Ple Pleiades 4                        | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 13  | Tekkaman Blade II                                   | 1994 | 28 Jan 2026 | [SeaDex](https://releases.moe/1460/), [AniList](https://anilist.co/anime/1460)     |
