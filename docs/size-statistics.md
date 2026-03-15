@@ -9,9 +9,9 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `129.5 TiB`
-- Best size: `98.3 TiB`
-- Alt size: `31.2 TiB`
-- Realistic size: `101.7 TiB`
+- Best size: `98.2 TiB`
+- Alt size: `31.3 TiB`
+- Realistic size: `101.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -25,7 +25,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 7.9 TiB    | 7.9 TiB (99.05%)    | 107 (~75.9 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 95 (~40.3 GiB each)   |
-| 6    | Headpatter       | 3.5 TiB    | 3.0 TiB (85.30%)    | 104 (~34.4 GiB each)  |
+| 6    | Headpatter       | 3.5 TiB    | 3.0 TiB (84.89%)    | 105 (~34.2 GiB each)  |
 | 7    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 36 (~79.1 GiB each)   |
 | 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (67.25%)    | 71 (~39.1 GiB each)   |
 | 9    | TTGA             | 2.7 TiB    | 2.5 TiB (95.22%)    | 37 (~73.9 GiB each)   |
@@ -42,7 +42,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | NOGRP            | 973.2 GiB  | 771.9 GiB (79.32%)  | 31 (~31.4 GiB each)   |
 | 21   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 22   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 23   | YURASUKA         | 894.4 GiB  | 237.5 GiB (26.56%)  | 78 (~11.5 GiB each)   |
+| 23   | YURASUKA         | 899.9 GiB  | 243.1 GiB (27.01%)  | 79 (~11.4 GiB each)   |
 | 24   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
 | 25   | YURI             | 873.3 GiB  | 389.7 GiB (44.62%)  | 71 (~12.3 GiB each)   |
 | 26   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
@@ -56,11 +56,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 34   | ZeroBuild        | 761.7 GiB  | 712.7 GiB (93.57%)  | 17 (~44.8 GiB each)   |
 | 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
 | 36   | Bunny-Apocalypse | 698.0 GiB  | 161.0 GiB (23.06%)  | 33 (~21.2 GiB each)   |
-| 37   | Reza             | 665.1 GiB  | 301.5 GiB (45.33%)  | 27 (~24.6 GiB each)   |
-| 38   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
-| 39   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
-| 40   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
-| 41   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
+| 37   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
+| 38   | Arid             | 645.1 GiB  | 207.8 GiB (32.20%)  | 45 (~14.3 GiB each)   |
+| 39   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
+| 40   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
+| 41   | Reza             | 636.9 GiB  | 273.3 GiB (42.91%)  | 26 (~24.5 GiB each)   |
 | 42   | Erai-raws        | 613.2 GiB  | 84.2 GiB (13.73%)   | 36 (~17.0 GiB each)   |
 | 43   | Mehul            | 584.6 GiB  | 584.6 GiB (100.00%) | 20 (~29.2 GiB each)   |
 | 44   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
-| 50   | Others           | 41.8 TiB   | 23.0 TiB (55.12%)   | 1889 (~22.6 GiB each) |
+| 50   | Others           | 41.8 TiB   | 23.0 TiB (55.06%)   | 1890 (~22.7 GiB each) |
