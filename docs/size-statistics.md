@@ -25,7 +25,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 7.9 TiB    | 7.9 TiB (99.05%)    | 107 (~75.9 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 95 (~40.3 GiB each)   |
-| 6    | Headpatter       | 3.5 TiB    | 3.0 TiB (84.89%)    | 105 (~34.2 GiB each)  |
+| 6    | Headpatter       | 3.5 TiB    | 3.0 TiB (84.48%)    | 106 (~34.1 GiB each)  |
 | 7    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 36 (~79.1 GiB each)   |
 | 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (67.25%)    | 71 (~39.1 GiB each)   |
 | 9    | TTGA             | 2.7 TiB    | 2.5 TiB (95.22%)    | 37 (~73.9 GiB each)   |
@@ -35,7 +35,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 14   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
 | 15   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
-| 16   | SubsPlease       | 1.3 TiB    | 161.3 GiB (11.88%)  | 79 (~17.2 GiB each)   |
+| 16   | SubsPlease       | 1.3 TiB    | 161.3 GiB (12.03%)  | 78 (~17.2 GiB each)   |
 | 17   | GetItTwisted     | 1.1 TiB    | 834.1 GiB (73.50%)  | 47 (~24.1 GiB each)   |
 | 18   | FLE              | 1.0 TiB    | 993.1 GiB (96.30%)  | 26 (~39.7 GiB each)   |
 | 19   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
-| 50   | Others           | 41.8 TiB   | 23.0 TiB (55.06%)   | 1890 (~22.7 GiB each) |
+| 50   | Others           | 41.8 TiB   | 23.0 TiB (55.04%)   | 1890 (~22.7 GiB each) |
