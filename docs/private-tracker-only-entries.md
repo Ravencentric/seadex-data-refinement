@@ -2,7 +2,7 @@
 | Idx | Title                                               | Year | Updated At  | Links                                                                              |
 | :---| :---------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Re:Monster                                          | 2024 | 14 Mar 2026 | [SeaDex](https://releases.moe/169417/), [AniList](https://anilist.co/anime/169417) |
-| 2   | HIGH CARD                                           | 2023 | 15 Mar 2026 | [SeaDex](https://releases.moe/135778/), [AniList](https://anilist.co/anime/135778) |
+| 2   | HIGH CARD                                           | 2023 | 16 Mar 2026 | [SeaDex](https://releases.moe/135778/), [AniList](https://anilist.co/anime/135778) |
 | 3   | There's No Freaking Way I'll Be Your Lover! Unless… | 2025 | 03 Mar 2026 | [SeaDex](https://releases.moe/184591/), [AniList](https://anilist.co/anime/184591) |
 | 4   | Immoral Guild                                       | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
 | 5   | Scarlet Nexus                                       | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
