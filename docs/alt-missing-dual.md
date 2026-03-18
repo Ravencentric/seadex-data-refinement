@@ -37,8 +37,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 31  | Plunderer                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 32  | Golden Kamuy                                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
-| 33  | BLUE LOCK Season 2                                                                          | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
-| 34  | Blue Box                                                                                    | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 33  | Blue Box                                                                                    | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 34  | BLUE LOCK Season 2                                                                          | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
 | 35  | Chihayafuru                                                                                 | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
 | 36  | The Hidden Dungeon Only I Can Enter                                                         | 2021 | 28 Jan 2026 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
 | 37  | Science Fell in Love, So I Tried to Prove It                                                | 2020 | 29 Dec 2024 | [SeaDex](https://releases.moe/107067/), [AniList](https://anilist.co/anime/107067) |
@@ -53,8 +53,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 46  | IRODUKU: The World in Colors                                                                | 2018 | 19 Aug 2025 | [SeaDex](https://releases.moe/101316/), [AniList](https://anilist.co/anime/101316) |
 | 47  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                           | 2021 | 30 Jan 2024 | [SeaDex](https://releases.moe/124140/), [AniList](https://anilist.co/anime/124140) |
 | 48  | Spice and Wolf II                                                                           | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
-| 49  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
-| 50  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
+| 49  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
+| 50  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
 | 51  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
 | 52  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
 | 53  | Cells at Work!!                                                                             | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
@@ -90,8 +90,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 83  | Sound of the Sky                                                                            | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 84  | The Weakest Tamer Began a Journey to Pick Up Trash                                          | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
 | 85  | Chihayafuru 3                                                                               | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |
-| 86  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
-| 87  | Helck                                                                                       | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
+| 86  | Helck                                                                                       | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
+| 87  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
 | 88  | Spice and Wolf II: Wolf and the Amber Melancholy                                            | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
 | 89  | Tenchi Muyo! War on Geminar                                                                 | 2009 | 12 Nov 2023 | [SeaDex](https://releases.moe/5781/), [AniList](https://anilist.co/anime/5781)     |
 | 90  | Mysteria Friends                                                                            | 2019 | 09 Sep 2025 | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
