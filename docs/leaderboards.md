@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                            | Count |
 | :----| :------------------------------------------------| :-----|
-| 🥇   | -ZR-                                             | 179   |
+| 🥇   | -ZR-                                             | 178   |
 | 🥈   | CRUCiBLE                                         | 140   |
 | 🥉   | sam                                              | 132   |
 | 4    | NAN0                                             | 109   |
@@ -44,37 +44,37 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                            | Count |
 | :----| :------------------------------------------------| :-----|
-| 🥇   | -ZR- / CRUCiBLE                                  | 112   |
-| 🥈   | sam                                              | 91    |
-| 🥉   | NAN0                                             | 85    |
-| 4    | hchcsen                                          | 34    |
-| 5    | LYS1TH3A                                         | 33    |
-| 6    | Headpatter                                       | 29    |
-| 7    | TTGA                                             | 25    |
-| 8    | smol                                             | 23    |
-| 9    | FLE                                              | 22    |
-| 10   | Moxie                                            | 19    |
-| 11   | GetItTwisted                                     | 18    |
-| 12   | Flugel / Lulu                                    | 17    |
-| 13   | LazyRemux / YURI                                 | 16    |
-| 14   | ZeroBuild / koala                                | 15    |
-| 15   | Arid / LostYears / YURASUKA                      | 13    |
-| 16   | FraMeSToR / PMR / Vodes                          | 12    |
-| 17   | DemiHuman                                        | 11    |
-| 18   | SCY / hydes                                      | 10    |
-| 19   | KH                                               | 9     |
-| 20   | LaCroiX / Meakes                                 | 8     |
-| 21   | IK / Kametsu / Mehul                             | 7     |
-| 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
-| 23   | CTR / Doc / Holomux / NH & Others                | 5     |
-| 24   | Ignore / Iznjie Biznjie / Kuraze / MK & Others   | 4     |
-| 25   | Aergia / Arg0 / DorK / EJF & Others              | 3     |
+| 🥇   | CRUCiBLE                                         | 112   |
+| 🥈   | -ZR-                                             | 111   |
+| 🥉   | sam                                              | 91    |
+| 4    | NAN0                                             | 85    |
+| 5    | hchcsen                                          | 34    |
+| 6    | LYS1TH3A                                         | 33    |
+| 7    | Headpatter                                       | 29    |
+| 8    | TTGA                                             | 25    |
+| 9    | smol                                             | 23    |
+| 10   | FLE                                              | 22    |
+| 11   | Moxie                                            | 19    |
+| 12   | GetItTwisted                                     | 18    |
+| 13   | Flugel / Lulu                                    | 17    |
+| 14   | LazyRemux / YURI                                 | 16    |
+| 15   | ZeroBuild / koala                                | 15    |
+| 16   | Arid / LostYears / YURASUKA                      | 13    |
+| 17   | FraMeSToR / PMR / Vodes                          | 12    |
+| 18   | DemiHuman                                        | 11    |
+| 19   | SCY / hydes                                      | 10    |
+| 20   | KH                                               | 9     |
+| 21   | LaCroiX / Meakes                                 | 8     |
+| 22   | IK / Kametsu / Mehul                             | 7     |
+| 23   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
+| 24   | CTR / Doc / Holomux / NH & Others                | 5     |
+| 25   | Ignore / Iznjie Biznjie / Kuraze / MK & Others   | 4     |
 
 ## Top 25 - Best entries
 
 | Rank | Group                     | Count |
 | :----| :-------------------------| :-----|
-| 🥇   | -ZR-                      | 153   |
+| 🥇   | -ZR-                      | 152   |
 | 🥈   | CRUCiBLE                  | 140   |
 | 🥉   | sam                       | 122   |
 | 4    | NAN0                      | 108   |

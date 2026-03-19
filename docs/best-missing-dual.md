@@ -15,7 +15,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 8   | takt op.Destiny                                                            | 2021 | 14 Jan 2026 | [SeaDex](https://releases.moe/131565/), [AniList](https://anilist.co/anime/131565) |
 | 9   | Laid-Back Camp                                                             | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 10  | Evangelion: 1.0 You Are (Not) Alone                                        | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
-| 11  | Evangelion: 2.0 You Can (Not) Advance                                      | 2009 | 23 Jun 2025 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
+| 11  | Evangelion: 2.0 You Can (Not) Advance                                      | 2009 | 18 Mar 2026 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
 | 12  | March comes in like a lion Season 2                                        | 2017 | 17 Jan 2026 | [SeaDex](https://releases.moe/98478/), [AniList](https://anilist.co/anime/98478)   |
 | 13  | SHIROBAKO                                                                  | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
 | 14  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
