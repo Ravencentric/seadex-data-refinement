@@ -35,8 +35,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 28  | My Dress-Up Darling Season 2                                                                | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
 | 29  | ODDTAXI                                                                                     | 2021 | 06 Feb 2026 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
-| 31  | Golden Kamuy                                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
-| 32  | Plunderer                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
+| 31  | Plunderer                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
+| 32  | Golden Kamuy                                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 33  | Blue Box                                                                                    | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
 | 34  | BLUE LOCK Season 2                                                                          | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
 | 35  | Chihayafuru                                                                                 | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
