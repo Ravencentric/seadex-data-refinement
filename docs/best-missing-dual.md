@@ -41,8 +41,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 34  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
 | 35  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
 | 36  | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                  | 2016 | 20 Feb 2026 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
-| 37  | Gatchaman Crowds: Embrace                                                  | 2014 | 01 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
-| 38  | Flying Witch Petit                                                         | 2016 | 25 Feb 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
+| 37  | Gatchaman Crowds: Embrace                                                  | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
+| 38  | Flying Witch Petit                                                         | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
 | 39  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
 | 40  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
-| 41  | Flying Witch Petit Special                                                 | 2016 | 25 Feb 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
+| 41  | Flying Witch Petit Special                                                 | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |

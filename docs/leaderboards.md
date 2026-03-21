@@ -19,36 +19,36 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                  | 132   |
 | 4    | NAN0                                 | 111   |
 | 5    | MTBB                                 | 103   |
-| 6    | Headpatter                           | 100   |
+| 6    | Headpatter                           | 101   |
 | 7    | Moxie                                | 97    |
-| 8    | SubsPlease / YURASUKA                | 78    |
-| 9    | YURI                                 | 70    |
-| 10   | hchcsen                              | 67    |
-| 11   | Drag / smol                          | 58    |
-| 12   | KH                                   | 55    |
-| 13   | Arid                                 | 44    |
-| 14   | LostYears                            | 43    |
-| 15   | Okay-Subs                            | 39    |
-| 16   | Erai-raws                            | 37    |
-| 17   | GetItTwisted / LYS1TH3A / PMR / TTGA | 36    |
-| 18   | Commie                               | 35    |
-| 19   | Bunny-Apocalypse                     | 33    |
-| 20   | Lulu / VARYG                         | 32    |
-| 21   | Holomux / NOGRP                      | 31    |
-| 22   | Kametsu                              | 29    |
-| 23   | Orphan                               | 28    |
-| 24   | Pog42 / SCY                          | 27    |
-| 25   | B00BA / FLE                          | 26    |
+| 8    | YURASUKA                             | 78    |
+| 9    | SubsPlease                           | 77    |
+| 10   | YURI                                 | 70    |
+| 11   | hchcsen                              | 68    |
+| 12   | Drag / smol                          | 58    |
+| 13   | KH                                   | 55    |
+| 14   | Arid                                 | 44    |
+| 15   | LostYears                            | 43    |
+| 16   | Okay-Subs                            | 39    |
+| 17   | Erai-raws                            | 38    |
+| 18   | GetItTwisted / LYS1TH3A / PMR / TTGA | 36    |
+| 19   | Commie                               | 35    |
+| 20   | Bunny-Apocalypse / Holomux           | 33    |
+| 21   | Lulu / VARYG                         | 32    |
+| 22   | NOGRP                                | 31    |
+| 23   | Kametsu                              | 29    |
+| 24   | Orphan                               | 28    |
+| 25   | Pog42 / SCY                          | 27    |
 
 ## Top 25 - Best dual audio entries
 
 | Rank | Group                                            | Count |
 | :----| :------------------------------------------------| :-----|
 | 🥇   | CRUCiBLE                                         | 112   |
-| 🥈   | -ZR-                                             | 111   |
+| 🥈   | -ZR-                                             | 110   |
 | 🥉   | sam                                              | 91    |
 | 4    | NAN0                                             | 86    |
-| 5    | hchcsen                                          | 35    |
+| 5    | hchcsen                                          | 38    |
 | 6    | LYS1TH3A                                         | 33    |
 | 7    | Headpatter                                       | 30    |
 | 8    | TTGA                                             | 25    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                     | Count |
 | :----| :-------------------------| :-----|
-| 🥇   | -ZR-                      | 152   |
+| 🥇   | -ZR-                      | 151   |
 | 🥈   | CRUCiBLE                  | 140   |
 | 🥉   | sam                       | 122   |
 | 4    | NAN0                      | 110   |
@@ -82,7 +82,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | MTBB                      | 73    |
 | 7    | Headpatter                | 71    |
 | 8    | smol                      | 56    |
-| 9    | hchcsen                   | 39    |
+| 9    | hchcsen                   | 40    |
 | 10   | Okay-Subs                 | 37    |
 | 11   | PMR                       | 36    |
 | 12   | TTGA                      | 35    |
@@ -104,20 +104,20 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                    | Count |
 | :----| :----------------------------------------| :-----|
-| 🥇   | SubsPlease                               | 68    |
+| 🥇   | SubsPlease                               | 67    |
 | 🥈   | YURASUKA                                 | 59    |
 | 🥉   | KH                                       | 46    |
 | 4    | Drag                                     | 43    |
-| 5    | -ZR- / Headpatter                        | 39    |
-| 6    | YURI                                     | 38    |
-| 7    | Commie                                   | 35    |
-| 8    | hchcsen                                  | 33    |
-| 9    | Erai-raws                                | 31    |
-| 10   | LostYears / MTBB / VARYG                 | 30    |
-| 11   | Bunny-Apocalypse                         | 27    |
-| 12   | Arid                                     | 26    |
-| 13   | GetItTwisted                             | 24    |
-| 14   | Holomux                                  | 22    |
+| 5    | Headpatter                               | 40    |
+| 6    | -ZR-                                     | 39    |
+| 7    | YURI                                     | 38    |
+| 8    | Commie                                   | 35    |
+| 9    | hchcsen                                  | 33    |
+| 10   | Erai-raws                                | 32    |
+| 11   | LostYears / MTBB / VARYG                 | 30    |
+| 12   | Bunny-Apocalypse                         | 27    |
+| 13   | Arid                                     | 26    |
+| 14   | GetItTwisted / Holomux                   | 24    |
 | 15   | Chihiro / Kametsu / NOGRP                | 21    |
 | 16   | CTR                                      | 20    |
 | 17   | Kitsune / Pog42 / Reza / SCY             | 16    |

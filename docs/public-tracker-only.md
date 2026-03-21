@@ -5,15 +5,15 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                      | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2 | 2024 | 19 Mar 2026 | [SeaDex](https://releases.moe/156131/), [AniList](https://anilist.co/anime/156131) |
-| 2   | From Old Country Bumpkin to Master Swordsman                                               | 2025 | 14 Mar 2026 | [SeaDex](https://releases.moe/179955/), [AniList](https://anilist.co/anime/179955) |
-| 3   | Our Last Crusade or the Rise of a New World                                                | 2020 | 14 Mar 2026 | [SeaDex](https://releases.moe/112667/), [AniList](https://anilist.co/anime/112667) |
-| 4   | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2                     | 2025 | 13 Mar 2026 | [SeaDex](https://releases.moe/143337/), [AniList](https://anilist.co/anime/143337) |
-| 5   | In the Heart of Kunoichi Tsubaki                                                           | 2022 | 11 Mar 2026 | [SeaDex](https://releases.moe/141350/), [AniList](https://anilist.co/anime/141350) |
-| 6   | Miru Tights                                                                                | 2019 | 10 Mar 2026 | [SeaDex](https://releases.moe/106967/), [AniList](https://anilist.co/anime/106967) |
-| 7   | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved                            | 2025 | 08 Mar 2026 | [SeaDex](https://releases.moe/181839/), [AniList](https://anilist.co/anime/181839) |
-| 8   | Kaiju No. 8 Season 2                                                                       | 2025 | 05 Mar 2026 | [SeaDex](https://releases.moe/178754/), [AniList](https://anilist.co/anime/178754) |
-| 9   | The Reflection                                                                             | 2017 | 04 Mar 2026 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
+| 1   | The Irregular at Magic High School Season 3                                                | 2024 | 20 Mar 2026 | [SeaDex](https://releases.moe/143271/), [AniList](https://anilist.co/anime/143271) |
+| 2   | From Old Country Bumpkin to Master Swordsman                                               | 2025 | 20 Mar 2026 | [SeaDex](https://releases.moe/179955/), [AniList](https://anilist.co/anime/179955) |
+| 3   | Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2 | 2024 | 19 Mar 2026 | [SeaDex](https://releases.moe/156131/), [AniList](https://anilist.co/anime/156131) |
+| 4   | Our Last Crusade or the Rise of a New World                                                | 2020 | 14 Mar 2026 | [SeaDex](https://releases.moe/112667/), [AniList](https://anilist.co/anime/112667) |
+| 5   | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2                     | 2025 | 13 Mar 2026 | [SeaDex](https://releases.moe/143337/), [AniList](https://anilist.co/anime/143337) |
+| 6   | In the Heart of Kunoichi Tsubaki                                                           | 2022 | 11 Mar 2026 | [SeaDex](https://releases.moe/141350/), [AniList](https://anilist.co/anime/141350) |
+| 7   | Miru Tights                                                                                | 2019 | 10 Mar 2026 | [SeaDex](https://releases.moe/106967/), [AniList](https://anilist.co/anime/106967) |
+| 8   | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved                            | 2025 | 08 Mar 2026 | [SeaDex](https://releases.moe/181839/), [AniList](https://anilist.co/anime/181839) |
+| 9   | Kaiju No. 8 Season 2                                                                       | 2025 | 05 Mar 2026 | [SeaDex](https://releases.moe/178754/), [AniList](https://anilist.co/anime/178754) |
 | 10  | Paranoia Agent                                                                             | 2004 | 04 Mar 2026 | [SeaDex](https://releases.moe/323/), [AniList](https://anilist.co/anime/323)       |
 | 11  | Monster                                                                                    | 2004 | 03 Mar 2026 | [SeaDex](https://releases.moe/19/), [AniList](https://anilist.co/anime/19)         |
 | 12  | BUCCHIGIRI?!                                                                               | 2024 | 02 Mar 2026 | [SeaDex](https://releases.moe/165254/), [AniList](https://anilist.co/anime/165254) |
