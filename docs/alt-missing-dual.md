@@ -31,8 +31,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 24  | Spice and Wolf                                                                              | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
 | 25  | Ghost in the Shell                                                                          | 1995 | 21 Feb 2026 | [SeaDex](https://releases.moe/43/), [AniList](https://anilist.co/anime/43)         |
 | 26  | Akudama Drive                                                                               | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
-| 27  | Welcome to Demon School! Iruma-kun                                                          | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
-| 28  | My Dress-Up Darling Season 2                                                                | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
+| 27  | My Dress-Up Darling Season 2                                                                | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
+| 28  | Welcome to Demon School! Iruma-kun                                                          | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
 | 29  | ODDTAXI                                                                                     | 2021 | 06 Feb 2026 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 31  | Plunderer                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
@@ -55,8 +55,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 48  | Spice and Wolf II                                                                           | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
 | 49  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 50  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
-| 51  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
-| 52  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
+| 51  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
+| 52  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
 | 53  | Cells at Work!!                                                                             | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 54  | Love Tyrant                                                                                 | 2017 | 15 Nov 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
 | 55  | NANBAKA                                                                                     | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
