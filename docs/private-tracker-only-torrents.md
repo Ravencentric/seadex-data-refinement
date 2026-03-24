@@ -6,7 +6,7 @@ This list excludes groups that do not want their releases mirrored to public tra
 | Idx | Title                                             | Year | Updated At  | Links                                                                              |
 | :---| :-------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | High School of the Dead                           | 2010 | 22 Mar 2026 | [SeaDex](https://releases.moe/8074/), [AniList](https://anilist.co/anime/8074)     |
-| 2   | Summoned to Another World for a Second Time       | 2023 | 22 Mar 2026 | [SeaDex](https://releases.moe/140754/), [AniList](https://anilist.co/anime/140754) |
+| 2   | Summoned to Another World for a Second Time       | 2023 | 23 Mar 2026 | [SeaDex](https://releases.moe/140754/), [AniList](https://anilist.co/anime/140754) |
 | 3   | To LOVE-Ru Darkness OVA                           | 2012 | 28 Feb 2026 | [SeaDex](https://releases.moe/13851/), [AniList](https://anilist.co/anime/13851)   |
 | 4   | To LOVE-Ru Darkness 2nd OVA                       | 2016 | 28 Feb 2026 | [SeaDex](https://releases.moe/21853/), [AniList](https://anilist.co/anime/21853)   |
 | 5   | HIGH CARD Season 2                                | 2024 | 22 Mar 2026 | [SeaDex](https://releases.moe/163151/), [AniList](https://anilist.co/anime/163151) |
