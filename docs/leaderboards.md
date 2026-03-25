@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | KH                                   | 55    |
 | 14   | Arid                                 | 44    |
 | 15   | LostYears                            | 43    |
-| 16   | Okay-Subs                            | 39    |
+| 16   | Okay-Subs                            | 40    |
 | 17   | Erai-raws                            | 37    |
 | 18   | GetItTwisted / LYS1TH3A / PMR / TTGA | 36    |
 | 19   | Commie                               | 35    |
@@ -83,7 +83,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | Headpatter                | 72    |
 | 8    | smol                      | 56    |
 | 9    | hchcsen                   | 40    |
-| 10   | Okay-Subs                 | 37    |
+| 10   | Okay-Subs                 | 38    |
 | 11   | PMR                       | 36    |
 | 12   | TTGA                      | 35    |
 | 13   | LYS1TH3A                  | 34    |
@@ -125,7 +125,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | HorribleSubs                             | 14    |
 | 20   | CBT / Lulu                               | 13    |
 | 21   | Datte13 / FFF / Mysteria / NH            | 12    |
-| 22   | Asakura / CyC / Netaro / Pookie & Others | 10    |
-| 23   | WBDP / Yoghurt                           | 9     |
-| 24   | GSK_kun / RASETSU / Starbez              | 8     |
-| 25   | AC / Baws / BlurayDesuYo / Exp & Others  | 7     |
+| 22   | UDF                                      | 11    |
+| 23   | Asakura / CyC / Netaro / Pookie & Others | 10    |
+| 24   | WBDP / Yoghurt                           | 9     |
+| 25   | GSK_kun / RASETSU / Starbez              | 8     |
