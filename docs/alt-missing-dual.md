@@ -18,8 +18,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 11  | Overlord III                                                                                | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 12  | Perfect Blue                                                                                | 1998 | 10 Feb 2026 | [SeaDex](https://releases.moe/437/), [AniList](https://anilist.co/anime/437)       |
 | 13  | SPY x FAMILY Season 2                                                                       | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
-| 14  | Angels of Death                                                                             | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
-| 15  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
+| 14  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
+| 15  | Angels of Death                                                                             | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
 | 16  | Summer Time Rendering                                                                       | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
 | 17  | The Case Study of Vanitas                                                                   | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
 | 18  | How NOT to Summon a Demon Lord                                                              | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
