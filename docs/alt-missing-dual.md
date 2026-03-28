@@ -105,7 +105,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 98  | Photo Kano                                                                                  | 2013 | 04 Apr 2024 | [SeaDex](https://releases.moe/16397/), [AniList](https://anilist.co/anime/16397)   |
 | 99  | Wave, Listen to Me!                                                                         | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
 | 100 | Blue Exorcist: Runaway Kuro                                                                 | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
-| 101 | Bye Bye, Earth                                                                              | 2024 | 10 Aug 2025 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
+| 101 | Bye Bye, Earth                                                                              | 2024 | 27 Mar 2026 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
 | 102 | Diary of Our Days at the Breakwater                                                         | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
 | 103 | Once Upon a Witch's Death                                                                   | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
 | 104 | Hi Score Girl: Extra Stage                                                                  | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |

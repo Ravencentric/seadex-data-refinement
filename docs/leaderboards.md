@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                          | Count |
 | :----| :------------------------------| :-----|
-| 🥇   | -ZR-                           | 179   |
+| 🥇   | -ZR-                           | 178   |
 | 🥈   | CRUCiBLE                       | 140   |
 | 🥉   | sam                            | 132   |
 | 4    | NAN0                           | 110   |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                                 | Count |
 | :----| :-----------------------------------------------------| :-----|
 | 🥇   | CRUCiBLE                                              | 112   |
-| 🥈   | -ZR-                                                  | 110   |
+| 🥈   | -ZR-                                                  | 109   |
 | 🥉   | sam                                                   | 91    |
 | 4    | NAN0                                                  | 85    |
 | 5    | hchcsen                                               | 38    |
@@ -64,17 +64,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | SCY / hydes                                           | 10    |
 | 19   | KH                                                    | 9     |
 | 20   | LaCroiX / Meakes / Mehul                              | 8     |
-| 21   | IK / Kametsu                                          | 7     |
+| 21   | IK / Kametsu / fig                                    | 7     |
 | 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others      | 6     |
 | 23   | CTR / Doc / Holomux / NH & Others                     | 5     |
 | 24   | BlackRose / Ignore / Iznjie Biznjie / Kuraze & Others | 4     |
-| 25   | Aergia / Arg0 / DorK / EJF & Others                   | 3     |
+| 25   | Aergia / Arg0 / EJF / FateSucks & Others              | 3     |
 
 ## Top 25 - Best entries
 
 | Rank | Group                             | Count |
 | :----| :---------------------------------| :-----|
-| 🥇   | -ZR-                              | 151   |
+| 🥇   | -ZR-                              | 150   |
 | 🥈   | CRUCiBLE                          | 140   |
 | 🥉   | sam                               | 122   |
 | 4    | NAN0                              | 109   |
