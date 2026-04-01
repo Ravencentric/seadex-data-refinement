@@ -9,8 +9,8 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `131.7 TiB`
-- Best size: `100.1 TiB`
-- Alt size: `31.7 TiB`
+- Best size: `100.0 TiB`
+- Alt size: `31.6 TiB`
 - Realistic size: `103.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -23,8 +23,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.05%)   | 189 (~75.3 GiB each)  |
 | 2    | CRUCiBLE         | 10.3 TiB   | 10.3 TiB (100.00%)  | 140 (~75.3 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.2 TiB (99.09%)    | 110 (~76.8 GiB each)  |
-| 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
-| 5    | Headpatter       | 3.8 TiB    | 3.2 TiB (81.89%)    | 116 (~34.0 GiB each)  |
+| 4    | Headpatter       | 3.9 TiB    | 3.2 TiB (82.01%)    | 118 (~34.1 GiB each)  |
+| 5    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 6    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 7    | hchcsen          | 3.0 TiB    | 2.1 TiB (70.18%)    | 73 (~41.8 GiB each)   |
 | 8    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 37 (~78.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 42.8 TiB   | 23.6 TiB (55.07%)   | 1928 (~22.8 GiB each) |
+| 50   | Others           | 42.7 TiB   | 23.5 TiB (54.99%)   | 1926 (~22.7 GiB each) |

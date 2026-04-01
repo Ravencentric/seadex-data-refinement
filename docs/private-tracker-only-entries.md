@@ -7,7 +7,6 @@
 | 4   | Star Driver                                       | 2010 | 29 Mar 2026 | [SeaDex](https://releases.moe/8934/), [AniList](https://anilist.co/anime/8934)     |
 | 5   | The Qwaser of Stigmata II                         | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
 | 6   | To LOVE-Ru Darkness 2nd OVA                       | 2016 | 28 Feb 2026 | [SeaDex](https://releases.moe/21853/), [AniList](https://anilist.co/anime/21853)   |
-| 7   | TOKYO MEW MEW NEW                                 | 2022 | 25 Mar 2026 | [SeaDex](https://releases.moe/117196/), [AniList](https://anilist.co/anime/117196) |
-| 8   | To LOVE-Ru: Multiplication - Mae kara Ushiro kara | 2017 | 01 Mar 2026 | [SeaDex](https://releases.moe/100659/), [AniList](https://anilist.co/anime/100659) |
-| 9   | Overlord: Ple Ple Pleiades 4                      | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 10  | Tekkaman Blade II                                 | 1994 | 28 Jan 2026 | [SeaDex](https://releases.moe/1460/), [AniList](https://anilist.co/anime/1460)     |
+| 7   | To LOVE-Ru: Multiplication - Mae kara Ushiro kara | 2017 | 01 Mar 2026 | [SeaDex](https://releases.moe/100659/), [AniList](https://anilist.co/anime/100659) |
+| 8   | Overlord: Ple Ple Pleiades 4                      | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 9   | Tekkaman Blade II                                 | 1994 | 28 Jan 2026 | [SeaDex](https://releases.moe/1460/), [AniList](https://anilist.co/anime/1460)     |
