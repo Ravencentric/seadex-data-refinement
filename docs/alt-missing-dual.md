@@ -92,8 +92,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 85  | Sound of the Sky                                                                            | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 86  | Chihayafuru 3                                                                               | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |
 | 87  | Helck                                                                                       | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
-| 88  | Spice and Wolf II: Wolf and the Amber Melancholy                                            | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
-| 89  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
+| 88  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
+| 89  | Spice and Wolf II: Wolf and the Amber Melancholy                                            | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
 | 90  | Gurren Lagann The Movie: Childhood's End                                                    | 2008 | 20 Mar 2026 | [SeaDex](https://releases.moe/4107/), [AniList](https://anilist.co/anime/4107)     |
 | 91  | Tenchi Muyo! War on Geminar                                                                 | 2009 | 12 Nov 2023 | [SeaDex](https://releases.moe/5781/), [AniList](https://anilist.co/anime/5781)     |
 | 92  | Mysteria Friends                                                                            | 2019 | 09 Sep 2025 | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
