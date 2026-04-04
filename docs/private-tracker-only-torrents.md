@@ -9,7 +9,7 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 2   | BURN THE WITCH                                    | 2020 | 31 Mar 2026 | [SeaDex](https://releases.moe/116673/), [AniList](https://anilist.co/anime/116673) |
 | 3   | WIND BREAKER Season 2                             | 2025 | 25 Mar 2026 | [SeaDex](https://releases.moe/178680/), [AniList](https://anilist.co/anime/178680) |
 | 4   | Summoned to Another World for a Second Time       | 2023 | 23 Mar 2026 | [SeaDex](https://releases.moe/140754/), [AniList](https://anilist.co/anime/140754) |
-| 5   | Jin-Roh: The Wolf Brigade                         | 2000 | 02 Apr 2026 | [SeaDex](https://releases.moe/570/), [AniList](https://anilist.co/anime/570)       |
+| 5   | Jin-Roh: The Wolf Brigade                         | 2000 | 04 Apr 2026 | [SeaDex](https://releases.moe/570/), [AniList](https://anilist.co/anime/570)       |
 | 6   | RE-MAIN                                           | 2021 | 28 Mar 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
 | 7   | Viral Hit                                         | 2024 | 01 Apr 2026 | [SeaDex](https://releases.moe/174653/), [AniList](https://anilist.co/anime/174653) |
 | 8   | To LOVE-Ru Darkness OVA                           | 2012 | 28 Feb 2026 | [SeaDex](https://releases.moe/13851/), [AniList](https://anilist.co/anime/13851)   |

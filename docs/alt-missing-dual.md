@@ -41,8 +41,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 34  | BLUE LOCK Season 2                                                                          | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
 | 35  | Chihayafuru                                                                                 | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
 | 36  | The Hidden Dungeon Only I Can Enter                                                         | 2021 | 28 Jan 2026 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
-| 37  | Science Fell in Love, So I Tried to Prove It                                                | 2020 | 29 Dec 2024 | [SeaDex](https://releases.moe/107067/), [AniList](https://anilist.co/anime/107067) |
-| 38  | Takopi's Original Sin                                                                       | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
+| 37  | Takopi's Original Sin                                                                       | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
+| 38  | Science Fell in Love, So I Tried to Prove It                                                | 2020 | 29 Dec 2024 | [SeaDex](https://releases.moe/107067/), [AniList](https://anilist.co/anime/107067) |
 | 39  | NieR:Automata Ver1.1a                                                                       | 2023 | 14 Feb 2026 | [SeaDex](https://releases.moe/145665/), [AniList](https://anilist.co/anime/145665) |
 | 40  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                      | 2021 | 30 Jan 2026 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 41  | The Secret World of Arrietty                                                                | 2010 | 07 Jan 2026 | [SeaDex](https://releases.moe/7711/), [AniList](https://anilist.co/anime/7711)     |
@@ -92,8 +92,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 85  | Sound of the Sky                                                                            | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 86  | Chihayafuru 3                                                                               | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |
 | 87  | Helck                                                                                       | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
-| 88  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
-| 89  | Spice and Wolf II: Wolf and the Amber Melancholy                                            | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
+| 88  | Spice and Wolf II: Wolf and the Amber Melancholy                                            | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
+| 89  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
 | 90  | Gurren Lagann The Movie: Childhood's End                                                    | 2008 | 20 Mar 2026 | [SeaDex](https://releases.moe/4107/), [AniList](https://anilist.co/anime/4107)     |
 | 91  | Tenchi Muyo! War on Geminar                                                                 | 2009 | 12 Nov 2023 | [SeaDex](https://releases.moe/5781/), [AniList](https://anilist.co/anime/5781)     |
 | 92  | Mysteria Friends                                                                            | 2019 | 09 Sep 2025 | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
@@ -107,7 +107,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 100 | Blue Exorcist: Runaway Kuro                                                                 | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
 | 101 | Bye Bye, Earth                                                                              | 2024 | 27 Mar 2026 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
 | 102 | Diary of Our Days at the Breakwater                                                         | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
-| 103 | mono                                                                                        | 2025 | 01 Apr 2026 | [SeaDex](https://releases.moe/176246/), [AniList](https://anilist.co/anime/176246) |
+| 103 | mono                                                                                        | 2025 | 03 Apr 2026 | [SeaDex](https://releases.moe/176246/), [AniList](https://anilist.co/anime/176246) |
 | 104 | Once Upon a Witch's Death                                                                   | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
 | 105 | Hi Score Girl: Extra Stage                                                                  | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
 | 106 | number24                                                                                    | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |

@@ -58,8 +58,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 36   | Bunny-Apocalypse | 698.0 GiB  | 161.0 GiB (23.06%)  | 33 (~21.2 GiB each)   |
 | 37   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
 | 38   | Mehul            | 662.7 GiB  | 662.7 GiB (100.00%) | 21 (~31.6 GiB each)   |
-| 39   | Arid             | 645.1 GiB  | 207.8 GiB (32.20%)  | 45 (~14.3 GiB each)   |
-| 40   | Erai-raws        | 644.7 GiB  | 84.2 GiB (13.06%)   | 38 (~17.0 GiB each)   |
+| 39   | Erai-raws        | 660.9 GiB  | 100.4 GiB (15.19%)  | 39 (~16.9 GiB each)   |
+| 40   | Arid             | 645.1 GiB  | 207.8 GiB (32.20%)  | 45 (~14.3 GiB each)   |
 | 41   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 42   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 43   | Reza             | 636.9 GiB  | 273.3 GiB (42.91%)  | 26 (~24.5 GiB each)   |

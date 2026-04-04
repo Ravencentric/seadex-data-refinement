@@ -30,7 +30,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Arid                       | 44    |
 | 15   | LostYears                  | 43    |
 | 16   | Okay-Subs                  | 40    |
-| 17   | Erai-raws                  | 38    |
+| 17   | Erai-raws                  | 39    |
 | 18   | GetItTwisted / PMR         | 37    |
 | 19   | LYS1TH3A / TTGA            | 36    |
 | 20   | Commie                     | 35    |
