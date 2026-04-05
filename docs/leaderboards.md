@@ -21,7 +21,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | Headpatter                 | 108   |
 | 6    | MTBB                       | 105   |
 | 7    | Moxie                      | 97    |
-| 8    | YURASUKA                   | 80    |
+| 8    | YURASUKA                   | 81    |
 | 9    | SubsPlease                 | 76    |
 | 10   | YURI                       | 70    |
 | 11   | hchcsen                    | 68    |
@@ -56,8 +56,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | FLE                                                   | 22    |
 | 11   | GetItTwisted / Moxie                                  | 19    |
 | 12   | Flugel / Lulu                                         | 17    |
-| 13   | LazyRemux / YURI                                      | 16    |
-| 14   | YURASUKA / ZeroBuild / koala                          | 15    |
+| 13   | LazyRemux / YURASUKA / YURI                           | 16    |
+| 14   | ZeroBuild / koala                                     | 15    |
 | 15   | Arid / LostYears / PMR                                | 13    |
 | 16   | FraMeSToR / Vodes                                     | 12    |
 | 17   | DemiHuman                                             | 11    |
@@ -88,17 +88,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | TTGA                   | 35    |
 | 13   | LYS1TH3A               | 34    |
 | 14   | YURI                   | 33    |
-| 15   | B00BA / Orphan         | 26    |
-| 16   | FLE / GetItTwisted     | 24    |
-| 17   | YURASUKA               | 21    |
-| 18   | LazyRemux / Lulu       | 20    |
-| 19   | Arid / LaCroiX / Mehul | 19    |
-| 20   | koala                  | 18    |
-| 21   | Flugel                 | 17    |
-| 22   | Drag                   | 16    |
-| 23   | ZeroBuild              | 15    |
-| 24   | Vodes                  | 14    |
-| 25   | Beatrice / LostYears   | 13    |
+| 15   | B00BA                  | 27    |
+| 16   | Orphan                 | 26    |
+| 17   | FLE / GetItTwisted     | 24    |
+| 18   | YURASUKA               | 22    |
+| 19   | LazyRemux / Lulu       | 20    |
+| 20   | Arid / LaCroiX / Mehul | 19    |
+| 21   | koala                  | 18    |
+| 22   | Flugel                 | 17    |
+| 23   | Drag                   | 16    |
+| 24   | ZeroBuild              | 15    |
+| 25   | Vodes                  | 14    |
 
 ## Top 25 - Alt entries
 

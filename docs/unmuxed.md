@@ -198,8 +198,8 @@
 | 195 | MUSHI-SHI The Next Passage Special - Path of Thorns                                | 2014 | 15 Jul 2025 | [SeaDex](https://releases.moe/20752/), [AniList](https://anilist.co/anime/20752)   |
 | 196 | Yowamushi Pedal: Grande Road                                                       | 2014 | 31 Dec 2025 | [SeaDex](https://releases.moe/20723/), [AniList](https://anilist.co/anime/20723)   |
 | 197 | Sweet Blue Flowers                                                                 | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6164/), [AniList](https://anilist.co/anime/6164)     |
-| 198 | Mayoi Neko Overrun!                                                                | 2010 | 13 Jan 2026 | [SeaDex](https://releases.moe/7590/), [AniList](https://anilist.co/anime/7590)     |
-| 199 | Record of Lodoss War                                                               | 1990 | 20 Jan 2026 | [SeaDex](https://releases.moe/207/), [AniList](https://anilist.co/anime/207)       |
+| 198 | Record of Lodoss War                                                               | 1990 | 20 Jan 2026 | [SeaDex](https://releases.moe/207/), [AniList](https://anilist.co/anime/207)       |
+| 199 | Mayoi Neko Overrun!                                                                | 2010 | 13 Jan 2026 | [SeaDex](https://releases.moe/7590/), [AniList](https://anilist.co/anime/7590)     |
 | 200 | TONIKAWA: Over The Moon For You ~High School Days~                                 | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
 | 201 | Heaven's Lost Property the Movie: The Angeloid of Clockwork                        | 2011 | 05 Feb 2026 | [SeaDex](https://releases.moe/9790/), [AniList](https://anilist.co/anime/9790)     |
 | 202 | Concrete Revolutio                                                                 | 2015 | 25 Jun 2025 | [SeaDex](https://releases.moe/21249/), [AniList](https://anilist.co/anime/21249)   |

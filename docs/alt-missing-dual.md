@@ -51,8 +51,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 44  | The Case Study of Vanitas Part 2                                                            | 2022 | 02 Aug 2025 | [SeaDex](https://releases.moe/135136/), [AniList](https://anilist.co/anime/135136) |
 | 45  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                           | 2021 | 30 Jan 2024 | [SeaDex](https://releases.moe/124140/), [AniList](https://anilist.co/anime/124140) |
 | 46  | IRODUKU: The World in Colors                                                                | 2018 | 19 Aug 2025 | [SeaDex](https://releases.moe/101316/), [AniList](https://anilist.co/anime/101316) |
-| 47  | Spice and Wolf II                                                                           | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
-| 48  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
+| 47  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
+| 48  | Spice and Wolf II                                                                           | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
 | 49  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
 | 50  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
 | 51  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
@@ -83,7 +83,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 76  | Date A Live II: Kurumi Star Festival                                                        | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
 | 77  | Gurren Lagann The Movie: The Lights in the Sky are Stars                                    | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
 | 78  | Tiger & Bunny                                                                               | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
-| 79  | RE-MAIN                                                                                     | 2021 | 28 Mar 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
+| 79  | RE-MAIN                                                                                     | 2021 | 04 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
 | 80  | Pretty Boy Detective Club                                                                   | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
 | 81  | Tales of Wedding Rings                                                                      | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
 | 82  | SUPER HXEROS                                                                                | 2020 | 29 Sep 2025 | [SeaDex](https://releases.moe/112818/), [AniList](https://anilist.co/anime/112818) |

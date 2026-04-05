@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `131.7 TiB`
-- Best size: `100.0 TiB`
+- Total size: `131.9 TiB`
+- Best size: `100.2 TiB`
 - Alt size: `31.7 TiB`
-- Realistic size: `103.0 TiB`
+- Realistic size: `103.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -29,7 +29,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 7    | hchcsen          | 3.0 TiB    | 2.1 TiB (70.18%)    | 73 (~41.8 GiB each)   |
 | 8    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 37 (~78.8 GiB each)   |
 | 9    | TTGA             | 2.6 TiB    | 2.5 TiB (95.12%)    | 36 (~74.4 GiB each)   |
-| 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
+| 10   | B00BA            | 2.6 TiB    | 2.6 TiB (100.00%)   | 27 (~97.4 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | MTBB             | 1.6 TiB    | 1.4 TiB (84.49%)    | 105 (~15.7 GiB each)  |
 | 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
@@ -43,7 +43,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | NOGRP            | 984.4 GiB  | 771.9 GiB (78.41%)  | 32 (~30.8 GiB each)   |
 | 22   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 23   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 24   | YURASUKA         | 894.8 GiB  | 250.7 GiB (28.02%)  | 80 (~11.2 GiB each)   |
+| 24   | YURASUKA         | 911.4 GiB  | 267.4 GiB (29.33%)  | 81 (~11.3 GiB each)   |
 | 25   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
 | 26   | Holomux          | 887.0 GiB  | 193.5 GiB (21.81%)  | 34 (~26.1 GiB each)   |
 | 27   | YURI             | 873.3 GiB  | 389.7 GiB (44.62%)  | 71 (~12.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 42.7 TiB   | 23.5 TiB (54.90%)   | 1923 (~22.8 GiB each) |
+| 50   | Others           | 42.7 TiB   | 23.4 TiB (54.81%)   | 1922 (~22.7 GiB each) |
