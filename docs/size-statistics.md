@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `131.8 TiB`
-- Best size: `100.2 TiB`
+- Total size: `131.9 TiB`
+- Best size: `100.3 TiB`
 - Alt size: `31.6 TiB`
 - Realistic size: `103.3 TiB`
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | Kawatare         | 534.0 GiB  | 450.5 GiB (84.37%)  | 17 (~31.4 GiB each)   |
-| 50   | Others           | 42.8 TiB   | 23.0 TiB (53.72%)   | 1914 (~22.9 GiB each) |
+| 50   | Others           | 42.9 TiB   | 23.1 TiB (53.81%)   | 1915 (~23.0 GiB each) |
