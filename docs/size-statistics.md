@@ -10,7 +10,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 - Total size: `132.1 TiB`
 - Best size: `100.6 TiB`
-- Alt size: `31.5 TiB`
+- Alt size: `31.6 TiB`
 - Realistic size: `103.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -23,7 +23,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.05%)   | 189 (~75.3 GiB each)  |
 | 2    | CRUCiBLE         | 10.2 TiB   | 10.2 TiB (100.00%)  | 139 (~75.2 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.2 TiB (99.09%)    | 110 (~76.8 GiB each)  |
-| 4    | Headpatter       | 4.1 TiB    | 3.3 TiB (80.90%)    | 124 (~33.4 GiB each)  |
+| 4    | Headpatter       | 4.1 TiB    | 3.3 TiB (80.29%)    | 125 (~33.4 GiB each)  |
 | 5    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 6    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 7    | hchcsen          | 3.0 TiB    | 2.1 TiB (70.18%)    | 73 (~41.8 GiB each)   |
