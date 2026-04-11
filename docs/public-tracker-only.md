@@ -5,11 +5,11 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                      | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Food Wars! The Third Plate: Erina at Polar Star Dormitory                                  | 2018 | 07 Apr 2026 | [SeaDex](https://releases.moe/101924/), [AniList](https://anilist.co/anime/101924) |
-| 2   | Food Wars! The Second Plate OVA                                                            | 2017 | 07 Apr 2026 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |
-| 3   | Food Wars! Shokugeki no Soma OVA                                                           | 2016 | 07 Apr 2026 | [SeaDex](https://releases.moe/21691/), [AniList](https://anilist.co/anime/21691)   |
-| 4   | Food Wars! The Fourth Plate                                                                | 2019 | 07 Apr 2026 | [SeaDex](https://releases.moe/109963/), [AniList](https://anilist.co/anime/109963) |
-| 5   | Food Wars! The Second Plate                                                                | 2016 | 07 Apr 2026 | [SeaDex](https://releases.moe/21518/), [AniList](https://anilist.co/anime/21518)   |
+| 1   | Nina the Starry Bride                                                                      | 2024 | 10 Apr 2026 | [SeaDex](https://releases.moe/171038/), [AniList](https://anilist.co/anime/171038) |
+| 2   | Ultramarine Magmell                                                                        | 2019 | 10 Apr 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
+| 3   | Food Wars! The Third Plate: Erina at Polar Star Dormitory                                  | 2018 | 07 Apr 2026 | [SeaDex](https://releases.moe/101924/), [AniList](https://anilist.co/anime/101924) |
+| 4   | Food Wars! The Second Plate OVA                                                            | 2017 | 07 Apr 2026 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |
+| 5   | Food Wars! Shokugeki no Soma OVA                                                           | 2016 | 07 Apr 2026 | [SeaDex](https://releases.moe/21691/), [AniList](https://anilist.co/anime/21691)   |
 | 6   | Idol Densetsu Eriko                                                                        | 1989 | 06 Apr 2026 | [SeaDex](https://releases.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
 | 7   | Brynhildr in the Darkness                                                                  | 2014 | 05 Apr 2026 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
 | 8   | Arifureta Shokugyou de Sekai Saikyou 2nd season Special                                    | 2022 | 05 Apr 2026 | [SeaDex](https://releases.moe/143846/), [AniList](https://anilist.co/anime/143846) |
