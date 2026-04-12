@@ -30,6 +30,7 @@ no-dub.md
 encode-best-entries.md
 patch-required.md
 broken-entries.md
+missing-season-pack.md
 ```
 
 ## Overview
@@ -65,6 +66,8 @@ broken-entries.md
 * {doc}`patch-required`: An entry appears here if at least one of its releases requires a patch to be applied.
 
 * {doc}`broken-entries`: An entry appears here if at least one of its releases is marked as broken.
+
+* {doc}`missing-season-pack.md`: Entries that do not have a complete season pack available.
 
 ## Running locally
 

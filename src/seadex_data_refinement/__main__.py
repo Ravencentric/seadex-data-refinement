@@ -36,6 +36,7 @@ def get_entries(
         "encode-best-entries",
         "patch-required",
         "broken-entries",
+        "missing-season-pack",
     ],
     /,
     *,
@@ -224,6 +225,16 @@ def get_entries(
                 for entry in seadex_entry.iterator():
                     if predicate(entry):
                         entries[entry.anilist_id] = entry
+
+        case "missing-season-pack":
+            header = "# Missing season pack\n\n"
+            header += "Entries that do not have a complete season pack available.\n\n"
+            with seadex.SeaDexEntry() as seadex_entry:
+                for entry in seadex_entry.iterator():
+                    for torrent in entry.torrents:
+                        if torrent.grouped_url is not None:
+                            entries[entry.anilist_id] = entry
+                            break
 
         case unknown:
             assert_never(unknown)
