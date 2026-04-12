@@ -3,7 +3,7 @@ from __future__ import annotations
 import datetime as dt
 import re
 from pathlib import Path
-from typing import Final, Literal
+from typing import Final, Literal, assert_never
 
 import seadex
 from cyclopts import App, Group
@@ -35,6 +35,7 @@ def get_entries(
         "no-dub",
         "encode-best-entries",
         "patch-required",
+        "broken-entries",
     ],
     /,
     *,
@@ -100,6 +101,17 @@ def get_entries(
                 for entry in seadex_entry.iterator():
                     for torrent in entry.torrents:
                         if seadex.Tag.PATCH_REQUIRED in torrent.tags:
+                            entries[entry.anilist_id] = entry
+                            break
+
+        case "broken-entries":
+            header = "# Broken entries"
+            header += "\n\nAn entry appears here if at least one of its releases is marked as broken.\n\n"
+
+            with seadex.SeaDexEntry() as seadex_entry:
+                for entry in seadex_entry.iterator():
+                    for torrent in entry.torrents:
+                        if seadex.Tag.BROKEN in torrent.tags:
                             entries[entry.anilist_id] = entry
                             break
 
@@ -213,8 +225,8 @@ def get_entries(
                     if predicate(entry):
                         entries[entry.anilist_id] = entry
 
-        case _:  # Won't ever happen because cyclopts already validates the input.
-            raise ValueError(criteria)
+        case unknown:
+            assert_never(unknown)
 
     collection = MediaEntryCollection.from_entry_records(entries, sort_by)
 

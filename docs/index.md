@@ -29,6 +29,7 @@ alt-missing-dual.md
 no-dub.md
 encode-best-entries.md
 patch-required.md
+broken-entries.md
 ```
 
 ## Overview
@@ -62,6 +63,8 @@ patch-required.md
 * {doc}`encode-best-entries`: Entries where an encode beats the store.
 
 * {doc}`patch-required`: An entry appears here if at least one of its releases requires a patch to be applied.
+
+* {doc}`broken-entries`: An entry appears here if at least one of its releases is marked as broken.
 
 ## Running locally
 

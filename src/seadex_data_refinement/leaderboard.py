@@ -14,7 +14,7 @@ class SeaDexLeaderboard:
         with SeaDexEntry() as se:
             return tuple(se.iterator())
 
-    def by_total_count(self) -> dict[str, int]:
+    def by_total_count(self) -> dict[int, list[str]]:
         data: dict[str, int] = defaultdict(lambda: 0)
 
         for entry in self.entries:
@@ -24,7 +24,7 @@ class SeaDexLeaderboard:
 
         return self.do_groupping(data)
 
-    def by_best_dual_count(self) -> dict[str, int]:
+    def by_best_dual_count(self) -> dict[int, list[str]]:
         data: dict[str, int] = defaultdict(lambda: 0)
 
         for entry in self.entries:
@@ -34,7 +34,7 @@ class SeaDexLeaderboard:
 
         return self.do_groupping(data)
 
-    def by_best_count(self) -> dict[str, int]:
+    def by_best_count(self) -> dict[int, list[str]]:
         data: dict[str, int] = defaultdict(lambda: 0)
 
         for entry in self.entries:
@@ -44,7 +44,7 @@ class SeaDexLeaderboard:
 
         return self.do_groupping(data)
 
-    def by_alt_count(self) -> dict[str, int]:
+    def by_alt_count(self) -> dict[int, list[str]]:
         data: dict[str, int] = defaultdict(lambda: 0)
 
         for entry in self.entries:
@@ -82,7 +82,7 @@ class SeaDexLeaderboard:
                 return "🥈"
             case 3:
                 return "🥉"
-        return count
+        return str(count)
 
     def generate_markdown_report(self) -> str:
         header = "# Leaderboards\n\n"

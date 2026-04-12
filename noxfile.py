@@ -106,6 +106,8 @@ def build_docs(session: nox.Session) -> None:
     sleep()
     session.run("sdr", "get-entries", "patch-required", "--outfile", src / "patch-required.md", *session.posargs)
     sleep()
+    session.run("sdr", "get-entries", "broken-entries", "--outfile", src / "broken-entries.md", *session.posargs)
+    sleep()
     session.run("sdr", "top-missing", "--count", "500", "--outfile", src / "top-500.md", *session.posargs)
     sleep()
     session.run("sdr", "get-entries", "no-dub", "--outfile", src / "no-dub.md", *session.posargs)
