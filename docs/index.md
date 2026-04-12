@@ -67,7 +67,7 @@ missing-season-pack.md
 
 * {doc}`broken-entries`: An entry appears here if at least one of its releases is marked as broken.
 
-* {doc}`missing-season-pack.md`: Entries that do not have a complete season pack available.
+* {doc}`missing-season-pack`: Entries that do not have a complete season pack available.
 
 ## Running locally
 
