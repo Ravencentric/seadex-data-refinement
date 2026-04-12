@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `132.3 TiB`
-- Best size: `100.7 TiB`
+- Best size: `100.6 TiB`
 - Alt size: `31.6 TiB`
 - Realistic size: `103.7 TiB`
 
@@ -22,11 +22,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.05%)   | 189 (~75.3 GiB each)  |
 | 2    | CRUCiBLE         | 10.2 TiB   | 10.2 TiB (100.00%)  | 139 (~75.2 GiB each)  |
-| 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 111 (~76.8 GiB each)  |
-| 4    | Headpatter       | 4.2 TiB    | 3.4 TiB (80.30%)    | 128 (~33.5 GiB each)  |
+| 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.2 GiB each)  |
+| 4    | Headpatter       | 4.1 TiB    | 3.3 TiB (80.44%)    | 129 (~32.7 GiB each)  |
 | 5    | sam              | 3.9 TiB    | 3.6 TiB (93.22%)    | 131 (~30.3 GiB each)  |
 | 6    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
-| 7    | hchcsen          | 3.0 TiB    | 2.1 TiB (70.18%)    | 73 (~41.8 GiB each)   |
+| 7    | hchcsen          | 2.8 TiB    | 2.0 TiB (68.85%)    | 70 (~41.7 GiB each)   |
 | 8    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 37 (~78.8 GiB each)   |
 | 9    | B00BA            | 2.6 TiB    | 2.6 TiB (100.00%)   | 28 (~96.0 GiB each)   |
 | 10   | TTGA             | 2.6 TiB    | 2.5 TiB (95.10%)    | 35 (~76.2 GiB each)   |
@@ -42,8 +42,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 21   | NOGRP            | 984.4 GiB  | 771.9 GiB (78.41%)  | 32 (~30.8 GiB each)   |
 | 22   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
-| 23   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 24   | YURASUKA         | 911.4 GiB  | 267.4 GiB (29.33%)  | 81 (~11.3 GiB each)   |
+| 23   | YURASUKA         | 929.1 GiB  | 285.1 GiB (30.68%)  | 82 (~11.3 GiB each)   |
+| 24   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 25   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
 | 26   | Holomux          | 887.0 GiB  | 193.5 GiB (21.81%)  | 34 (~26.1 GiB each)   |
 | 27   | YURI             | 873.3 GiB  | 389.7 GiB (44.62%)  | 71 (~12.3 GiB each)   |
@@ -61,12 +61,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 39   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 40   | Arid             | 638.4 GiB  | 201.1 GiB (31.49%)  | 44 (~14.5 GiB each)   |
 | 41   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 42   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 43   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 44   | fig              | 552.9 GiB  | 552.9 GiB (100.00%) | 7 (~79.0 GiB each)    |
-| 45   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
-| 46   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
-| 47   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 48   | Kawatare         | 534.0 GiB  | 450.5 GiB (84.37%)  | 17 (~31.4 GiB each)   |
+| 42   | Kawatare         | 600.8 GiB  | 517.3 GiB (86.11%)  | 20 (~30.0 GiB each)   |
+| 43   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
+| 44   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
+| 45   | fig              | 552.9 GiB  | 552.9 GiB (100.00%) | 7 (~79.0 GiB each)    |
+| 46   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
+| 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
+| 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 43.0 TiB   | 23.1 TiB (53.67%)   | 1936 (~22.8 GiB each) |
+| 50   | Others           | 43.1 TiB   | 23.1 TiB (53.62%)   | 1940 (~22.7 GiB each) |

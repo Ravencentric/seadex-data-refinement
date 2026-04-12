@@ -3,11 +3,17 @@
 This list excludes groups that do not want their releases mirrored to public trackers.
 
 
-| Idx | Title                        | Year | Updated At  | Links                                                                              |
-| :---| :----------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | K                            | 2012 | 07 Apr 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
-| 2   | Sword of the Stranger        | 2007 | 11 Apr 2026 | [SeaDex](https://releases.moe/2418/), [AniList](https://anilist.co/anime/2418)     |
-| 3   | Ultramarine Magmell          | 2019 | 10 Apr 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
-| 4   | DAYS                         | 2016 | 08 Apr 2026 | [SeaDex](https://releases.moe/21578/), [AniList](https://anilist.co/anime/21578)   |
-| 5   | AIURA                        | 2013 | 09 Apr 2026 | [SeaDex](https://releases.moe/17082/), [AniList](https://anilist.co/anime/17082)   |
-| 6   | I Want to Deliver Your Voice | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| Idx | Title                                                                      | Year | Updated At  | Links                                                                              |
+| :---| :--------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
+| 1   | K                                                                          | 2012 | 07 Apr 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
+| 2   | Danganronpa 3: The End of Hope’s Peak High School - Future Arc             | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21509/), [AniList](https://anilist.co/anime/21509)   |
+| 3   | Danganronpa 3: The End of Hope’s Peak High School - Despair Arc            | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21825/), [AniList](https://anilist.co/anime/21825)   |
+| 4   | Kiss x Sis                                                                 | 2008 | 11 Apr 2026 | [SeaDex](https://releases.moe/5042/), [AniList](https://anilist.co/anime/5042)     |
+| 5   | Sword of the Stranger                                                      | 2007 | 11 Apr 2026 | [SeaDex](https://releases.moe/2418/), [AniList](https://anilist.co/anime/2418)     |
+| 6   | Danganronpa 3: The End of Hope's Peak High School - Hope Arc               | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/97672/), [AniList](https://anilist.co/anime/97672)   |
+| 7   | Ultramarine Magmell                                                        | 2019 | 10 Apr 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
+| 8   | DAYS                                                                       | 2016 | 08 Apr 2026 | [SeaDex](https://releases.moe/21578/), [AniList](https://anilist.co/anime/21578)   |
+| 9   | AIURA                                                                      | 2013 | 09 Apr 2026 | [SeaDex](https://releases.moe/17082/), [AniList](https://anilist.co/anime/17082)   |
+| 10  | I Want to Deliver Your Voice                                               | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 11  | Garakowa -Restore the World-                                               | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21042/), [AniList](https://anilist.co/anime/21042)   |
+| 12  | Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1 | 2024 | 11 Apr 2026 | [SeaDex](https://releases.moe/166476/), [AniList](https://anilist.co/anime/166476) |
