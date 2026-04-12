@@ -5,8 +5,8 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                      | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Mayo Chiki!                                                                                | 2011 | 11 Apr 2026 | [SeaDex](https://releases.moe/10110/), [AniList](https://anilist.co/anime/10110)   |
-| 2   | Nina the Starry Bride                                                                      | 2024 | 10 Apr 2026 | [SeaDex](https://releases.moe/171038/), [AniList](https://anilist.co/anime/171038) |
+| 1   | Nina the Starry Bride                                                                      | 2024 | 12 Apr 2026 | [SeaDex](https://releases.moe/171038/), [AniList](https://anilist.co/anime/171038) |
+| 2   | Mayo Chiki!                                                                                | 2011 | 11 Apr 2026 | [SeaDex](https://releases.moe/10110/), [AniList](https://anilist.co/anime/10110)   |
 | 3   | Ultramarine Magmell                                                                        | 2019 | 10 Apr 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
 | 4   | Food Wars! The Third Plate: Erina at Polar Star Dormitory                                  | 2018 | 07 Apr 2026 | [SeaDex](https://releases.moe/101924/), [AniList](https://anilist.co/anime/101924) |
 | 5   | Food Wars! The Second Plate OVA                                                            | 2017 | 07 Apr 2026 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |

@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `132.3 TiB`
-- Best size: `100.6 TiB`
-- Alt size: `31.6 TiB`
-- Realistic size: `103.7 TiB`
+- Total size: `132.5 TiB`
+- Best size: `100.8 TiB`
+- Alt size: `31.7 TiB`
+- Realistic size: `103.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -26,9 +26,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 4    | Headpatter       | 4.1 TiB    | 3.3 TiB (80.44%)    | 129 (~32.7 GiB each)  |
 | 5    | sam              | 3.9 TiB    | 3.6 TiB (93.22%)    | 131 (~30.3 GiB each)  |
 | 6    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
-| 7    | hchcsen          | 2.8 TiB    | 2.0 TiB (68.85%)    | 70 (~41.7 GiB each)   |
+| 7    | hchcsen          | 2.9 TiB    | 2.0 TiB (69.26%)    | 71 (~41.6 GiB each)   |
 | 8    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 37 (~78.8 GiB each)   |
-| 9    | B00BA            | 2.6 TiB    | 2.6 TiB (100.00%)   | 28 (~96.0 GiB each)   |
+| 9    | B00BA            | 2.7 TiB    | 2.7 TiB (100.00%)   | 30 (~92.8 GiB each)   |
 | 10   | TTGA             | 2.6 TiB    | 2.5 TiB (95.10%)    | 35 (~76.2 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
@@ -68,5 +68,5 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 46   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 43.1 TiB   | 23.1 TiB (53.62%)   | 1940 (~22.7 GiB each) |
+| 49   | SEV              | 537.6 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
+| 50   | Others           | 43.1 TiB   | 23.5 TiB (54.40%)   | 1941 (~22.7 GiB each) |

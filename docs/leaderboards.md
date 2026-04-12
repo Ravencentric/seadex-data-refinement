@@ -24,7 +24,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | YURASUKA                 | 82    |
 | 9    | SubsPlease               | 76    |
 | 10   | YURI                     | 70    |
-| 11   | hchcsen                  | 65    |
+| 11   | hchcsen                  | 66    |
 | 12   | Drag / smol              | 58    |
 | 13   | KH                       | 55    |
 | 14   | Arid / LostYears         | 43    |
@@ -36,9 +36,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | Holomux                  | 33    |
 | 21   | Lulu / NOGRP             | 32    |
 | 22   | Bunny-Apocalypse / VARYG | 31    |
-| 23   | Kametsu                  | 29    |
-| 24   | B00BA / Orphan / Pog42   | 28    |
-| 25   | SCY                      | 27    |
+| 23   | B00BA                    | 30    |
+| 24   | Kametsu                  | 29    |
+| 25   | Orphan / Pog42           | 28    |
 
 ## Top 25 - Best dual audio entries
 
@@ -82,11 +82,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Headpatter           | 78    |
 | 7    | MTBB                 | 76    |
 | 8    | smol                 | 56    |
-| 9    | Okay-Subs            | 38    |
-| 10   | PMR / hchcsen        | 37    |
+| 9    | Okay-Subs / hchcsen  | 38    |
+| 10   | PMR                  | 37    |
 | 11   | LYS1TH3A / TTGA      | 34    |
 | 12   | YURI                 | 33    |
-| 13   | B00BA                | 28    |
+| 13   | B00BA                | 30    |
 | 14   | Orphan               | 26    |
 | 15   | GetItTwisted         | 25    |
 | 16   | FLE                  | 24    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | HorribleSubs                             | 14    |
 | 21   | CBT / Lulu                               | 13    |
 | 22   | Datte13 / FFF / Mysteria / NH / Reza     | 12    |
-| 23   | UDF                                      | 11    |
-| 24   | Asakura / CyC / Netaro / SEV / o7        | 10    |
+| 23   | SEV / UDF                                | 11    |
+| 24   | Asakura / CyC / Netaro / o7              | 10    |
 | 25   | Pookie / Tsundere / WBDP / Yoghurt / sam | 9     |

@@ -14,6 +14,9 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 7   | Ultramarine Magmell                                                        | 2019 | 10 Apr 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
 | 8   | DAYS                                                                       | 2016 | 08 Apr 2026 | [SeaDex](https://releases.moe/21578/), [AniList](https://anilist.co/anime/21578)   |
 | 9   | AIURA                                                                      | 2013 | 09 Apr 2026 | [SeaDex](https://releases.moe/17082/), [AniList](https://anilist.co/anime/17082)   |
-| 10  | I Want to Deliver Your Voice                                               | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
-| 11  | Garakowa -Restore the World-                                               | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21042/), [AniList](https://anilist.co/anime/21042)   |
-| 12  | Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1 | 2024 | 11 Apr 2026 | [SeaDex](https://releases.moe/166476/), [AniList](https://anilist.co/anime/166476) |
+| 10  | ViVid Strike!                                                              | 2016 | 12 Apr 2026 | [SeaDex](https://releases.moe/21871/), [AniList](https://anilist.co/anime/21871)   |
+| 11  | I Want to Deliver Your Voice                                               | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 12  | Garakowa -Restore the World-                                               | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21042/), [AniList](https://anilist.co/anime/21042)   |
+| 13  | Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1 | 2024 | 11 Apr 2026 | [SeaDex](https://releases.moe/166476/), [AniList](https://anilist.co/anime/166476) |
+| 14  | ViVid Strike! OVA                                                          | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98220/), [AniList](https://anilist.co/anime/98220)   |
+| 15  | The Wings of Rean                                                          | 2005 | 12 Apr 2026 | [SeaDex](https://releases.moe/574/), [AniList](https://anilist.co/anime/574)       |
