@@ -23,7 +23,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.05%)   | 189 (~75.3 GiB each)  |
 | 2    | CRUCiBLE         | 10.2 TiB   | 10.2 TiB (100.00%)  | 139 (~75.2 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.2 GiB each)  |
-| 4    | Headpatter       | 4.1 TiB    | 3.3 TiB (80.44%)    | 129 (~32.7 GiB each)  |
+| 4    | Headpatter       | 4.2 TiB    | 3.3 TiB (79.80%)    | 131 (~32.5 GiB each)  |
 | 5    | sam              | 3.9 TiB    | 3.6 TiB (93.22%)    | 131 (~30.3 GiB each)  |
 | 6    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 7    | hchcsen          | 2.9 TiB    | 2.0 TiB (69.26%)    | 71 (~41.6 GiB each)   |
@@ -36,8 +36,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 14   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
 | 15   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 16   | GetItTwisted     | 1.3 TiB    | 992.8 GiB (73.80%)  | 51 (~26.4 GiB each)   |
-| 17   | SubsPlease       | 1.3 TiB    | 161.3 GiB (12.34%)  | 76 (~17.2 GiB each)   |
-| 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
+| 17   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
+| 18   | SubsPlease       | 1.3 TiB    | 161.3 GiB (12.49%)  | 75 (~17.2 GiB each)   |
 | 19   | FLE              | 1.0 TiB    | 993.1 GiB (96.30%)  | 26 (~39.7 GiB each)   |
 | 20   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 21   | NOGRP            | 984.4 GiB  | 771.9 GiB (78.41%)  | 32 (~30.8 GiB each)   |
@@ -54,9 +54,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 32   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 33   | ZeroBuild        | 761.7 GiB  | 712.7 GiB (93.57%)  | 17 (~44.8 GiB each)   |
 | 34   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
-| 35   | Erai-raws        | 677.3 GiB  | 100.4 GiB (14.82%)  | 40 (~16.9 GiB each)   |
-| 36   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
-| 37   | Mehul            | 662.7 GiB  | 662.7 GiB (100.00%) | 21 (~31.6 GiB each)   |
+| 35   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
+| 36   | Mehul            | 662.7 GiB  | 662.7 GiB (100.00%) | 21 (~31.6 GiB each)   |
+| 37   | Erai-raws        | 660.9 GiB  | 100.4 GiB (15.19%)  | 39 (~16.9 GiB each)   |
 | 38   | Bunny-Apocalypse | 657.3 GiB  | 161.0 GiB (24.49%)  | 31 (~21.2 GiB each)   |
 | 39   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 40   | Arid             | 638.4 GiB  | 201.1 GiB (31.49%)  | 44 (~14.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | SEV              | 537.6 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
-| 50   | Others           | 43.1 TiB   | 23.5 TiB (54.40%)   | 1941 (~22.7 GiB each) |
+| 50   | Others           | 43.2 TiB   | 23.5 TiB (54.50%)   | 1940 (~22.8 GiB each) |
