@@ -12,33 +12,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Total entries
 
-| Rank | Group                    | Count |
-| :----| :------------------------| :-----|
-| 🥇   | -ZR-                     | 178   |
-| 🥈   | CRUCiBLE                 | 139   |
-| 🥉   | sam                      | 131   |
-| 4    | Headpatter               | 119   |
-| 5    | NAN0                     | 112   |
-| 6    | MTBB                     | 106   |
-| 7    | Moxie                    | 97    |
-| 8    | YURASUKA                 | 82    |
-| 9    | SubsPlease               | 75    |
-| 10   | YURI                     | 70    |
-| 11   | hchcsen                  | 66    |
-| 12   | Drag / smol              | 58    |
-| 13   | KH                       | 55    |
-| 14   | Arid / LostYears         | 43    |
-| 15   | Okay-Subs                | 40    |
-| 16   | Erai-raws                | 39    |
-| 17   | GetItTwisted             | 38    |
-| 18   | PMR                      | 37    |
-| 19   | LYS1TH3A                 | 36    |
-| 20   | Commie / TTGA            | 35    |
-| 21   | Holomux                  | 33    |
-| 22   | Lulu / NOGRP             | 32    |
-| 23   | Bunny-Apocalypse / VARYG | 31    |
-| 24   | B00BA                    | 30    |
-| 25   | Kametsu                  | 29    |
+| Rank | Group                            | Count |
+| :----| :--------------------------------| :-----|
+| 🥇   | -ZR-                             | 178   |
+| 🥈   | CRUCiBLE                         | 139   |
+| 🥉   | sam                              | 131   |
+| 4    | Headpatter                       | 119   |
+| 5    | NAN0                             | 112   |
+| 6    | MTBB                             | 106   |
+| 7    | Moxie                            | 97    |
+| 8    | YURASUKA                         | 82    |
+| 9    | SubsPlease                       | 75    |
+| 10   | YURI                             | 70    |
+| 11   | hchcsen                          | 66    |
+| 12   | Drag / smol                      | 58    |
+| 13   | KH                               | 55    |
+| 14   | Arid / LostYears                 | 43    |
+| 15   | Okay-Subs                        | 40    |
+| 16   | Erai-raws                        | 39    |
+| 17   | GetItTwisted                     | 38    |
+| 18   | PMR                              | 37    |
+| 19   | LYS1TH3A / TTGA                  | 36    |
+| 20   | Commie                           | 35    |
+| 21   | Holomux                          | 33    |
+| 22   | Lulu / NOGRP                     | 32    |
+| 23   | B00BA / Bunny-Apocalypse / VARYG | 31    |
+| 24   | Kametsu                          | 29    |
+| 25   | Orphan / Pog42                   | 28    |
 
 ## Top 25 - Best dual audio entries
 
@@ -86,7 +86,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | PMR                  | 37    |
 | 11   | LYS1TH3A / TTGA      | 34    |
 | 12   | YURI                 | 33    |
-| 13   | B00BA                | 30    |
+| 13   | B00BA                | 31    |
 | 14   | Orphan               | 26    |
 | 15   | GetItTwisted         | 25    |
 | 16   | FLE                  | 24    |

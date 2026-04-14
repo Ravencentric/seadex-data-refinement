@@ -19,6 +19,7 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 12  | ViVid Strike!                                                                               | 2016 | 12 Apr 2026 | [SeaDex](https://releases.moe/21871/), [AniList](https://anilist.co/anime/21871)   |
 | 13  | I Want to Deliver Your Voice                                                                | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
 | 14  | Garakowa -Restore the World-                                                                | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21042/), [AniList](https://anilist.co/anime/21042)   |
-| 15  | Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1                  | 2024 | 11 Apr 2026 | [SeaDex](https://releases.moe/166476/), [AniList](https://anilist.co/anime/166476) |
-| 16  | ViVid Strike! OVA                                                                           | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98220/), [AniList](https://anilist.co/anime/98220)   |
-| 17  | The Wings of Rean                                                                           | 2005 | 12 Apr 2026 | [SeaDex](https://releases.moe/574/), [AniList](https://anilist.co/anime/574)       |
+| 15  | Kabukibu!                                                                                   | 2017 | 13 Apr 2026 | [SeaDex](https://releases.moe/87500/), [AniList](https://anilist.co/anime/87500)   |
+| 16  | Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1                  | 2024 | 11 Apr 2026 | [SeaDex](https://releases.moe/166476/), [AniList](https://anilist.co/anime/166476) |
+| 17  | ViVid Strike! OVA                                                                           | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98220/), [AniList](https://anilist.co/anime/98220)   |
+| 18  | The Wings of Rean                                                                           | 2005 | 12 Apr 2026 | [SeaDex](https://releases.moe/574/), [AniList](https://anilist.co/anime/574)       |
