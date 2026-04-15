@@ -37,7 +37,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 15   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 16   | GetItTwisted     | 1.3 TiB    | 992.8 GiB (73.80%)  | 51 (~26.4 GiB each)   |
 | 17   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
-| 18   | SubsPlease       | 1.3 TiB    | 161.3 GiB (12.49%)  | 75 (~17.2 GiB each)   |
+| 18   | SubsPlease       | 1.2 TiB    | 161.3 GiB (12.65%)  | 74 (~17.2 GiB each)   |
 | 19   | FLE              | 1.0 TiB    | 993.1 GiB (96.30%)  | 26 (~39.7 GiB each)   |
 | 20   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 21   | NOGRP            | 984.4 GiB  | 771.9 GiB (78.41%)  | 32 (~30.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | SEV              | 537.6 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
-| 50   | Others           | 43.2 TiB   | 23.5 TiB (54.48%)   | 1941 (~22.8 GiB each) |
+| 50   | Others           | 43.2 TiB   | 23.6 TiB (54.47%)   | 1945 (~22.8 GiB each) |
