@@ -10,8 +10,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 - Total size: `132.7 TiB`
 - Best size: `100.9 TiB`
-- Alt size: `31.8 TiB`
-- Realistic size: `104.0 TiB`
+- Alt size: `31.7 TiB`
+- Realistic size: `103.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -23,7 +23,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.05%)   | 189 (~75.3 GiB each)  |
 | 2    | CRUCiBLE         | 10.2 TiB   | 10.2 TiB (100.00%)  | 139 (~75.2 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.2 GiB each)  |
-| 4    | Headpatter       | 4.2 TiB    | 3.3 TiB (79.80%)    | 131 (~32.5 GiB each)  |
+| 4    | Headpatter       | 4.2 TiB    | 3.3 TiB (79.63%)    | 132 (~32.3 GiB each)  |
 | 5    | sam              | 3.9 TiB    | 3.6 TiB (93.22%)    | 131 (~30.3 GiB each)  |
 | 6    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 7    | hchcsen          | 2.9 TiB    | 2.0 TiB (69.26%)    | 71 (~41.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | SEV              | 537.6 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
-| 50   | Others           | 43.2 TiB   | 23.6 TiB (54.47%)   | 1945 (~22.8 GiB each) |
+| 50   | Others           | 43.2 TiB   | 23.6 TiB (54.51%)   | 1944 (~22.8 GiB each) |

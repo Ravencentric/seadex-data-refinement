@@ -16,7 +16,7 @@
 | 13  | Nichijou - My Ordinary Life                                                                       | 2011 | 08 Jan 2026 | [SeaDex](https://releases.moe/10165/), [AniList](https://anilist.co/anime/10165)   |
 | 14  | The Rising of the Shield Hero Season 2                                                            | 2022 | 14 Mar 2026 | [SeaDex](https://releases.moe/111321/), [AniList](https://anilist.co/anime/111321) |
 | 15  | Danganronpa: The Animation                                                                        | 2013 | 20 Mar 2025 | [SeaDex](https://releases.moe/16592/), [AniList](https://anilist.co/anime/16592)   |
-| 16  | Food Wars! The Third Plate                                                                        | 2017 | 07 Apr 2026 | [SeaDex](https://releases.moe/99255/), [AniList](https://anilist.co/anime/99255)   |
+| 16  | Food Wars! The Third Plate                                                                        | 2017 | 15 Apr 2026 | [SeaDex](https://releases.moe/99255/), [AniList](https://anilist.co/anime/99255)   |
 | 17  | SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist                          | 2015 | 25 Feb 2026 | [SeaDex](https://releases.moe/20910/), [AniList](https://anilist.co/anime/20910)   |
 | 18  | The Seven Deadly Sins: Imperial Wrath of the Gods                                                 | 2019 | 28 Jan 2024 | [SeaDex](https://releases.moe/108928/), [AniList](https://anilist.co/anime/108928) |
 | 19  | MUSHI-SHI                                                                                         | 2005 | 02 Aug 2025 | [SeaDex](https://releases.moe/457/), [AniList](https://anilist.co/anime/457)       |
@@ -133,8 +133,8 @@
 | 130 | Baki: The Great Raitai Tournament Saga                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/108522/), [AniList](https://anilist.co/anime/108522) |
 | 131 | The Master of Ragnarök & Blesser of Einherjar                                                     | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/101289/), [AniList](https://anilist.co/anime/101289) |
 | 132 | Rainbow Days                                                                                      | 2016 | 09 Jun 2025 | [SeaDex](https://releases.moe/21292/), [AniList](https://anilist.co/anime/21292)   |
-| 133 | KOKKOKU                                                                                           | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/100332/), [AniList](https://anilist.co/anime/100332) |
-| 134 | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | 2025 | 14 Apr 2026 | [SeaDex](https://releases.moe/178090/), [AniList](https://anilist.co/anime/178090) |
+| 133 | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | 2025 | 14 Apr 2026 | [SeaDex](https://releases.moe/178090/), [AniList](https://anilist.co/anime/178090) |
+| 134 | KOKKOKU                                                                                           | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/100332/), [AniList](https://anilist.co/anime/100332) |
 | 135 | Kono Oto Tomare!: Sounds of Life Season 2                                                         | 2019 | 23 Feb 2026 | [SeaDex](https://releases.moe/108891/), [AniList](https://anilist.co/anime/108891) |
 | 136 | Heaven's Memo Pad                                                                                 | 2011 | 04 Jun 2025 | [SeaDex](https://releases.moe/10568/), [AniList](https://anilist.co/anime/10568)   |
 | 137 | Okami-san and Her Seven Companions                                                                | 2010 | 17 Mar 2026 | [SeaDex](https://releases.moe/7769/), [AniList](https://anilist.co/anime/7769)     |

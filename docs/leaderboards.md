@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                     | 178   |
 | 🥈   | CRUCiBLE                 | 139   |
 | 🥉   | sam                      | 131   |
-| 4    | Headpatter               | 119   |
+| 4    | Headpatter               | 120   |
 | 5    | NAN0                     | 112   |
 | 6    | MTBB                     | 106   |
 | 7    | Moxie                    | 97    |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------------------------------| :-----|
 | 🥇   | SubsPlease                               | 64    |
 | 🥈   | YURASUKA                                 | 59    |
-| 🥉   | Headpatter                               | 53    |
+| 🥉   | Headpatter                               | 54    |
 | 4    | KH                                       | 46    |
 | 5    | Drag                                     | 43    |
 | 6    | -ZR-                                     | 39    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | HorribleSubs                             | 14    |
 | 21   | CBT / Lulu                               | 13    |
 | 22   | Datte13 / FFF / Mysteria / NH            | 12    |
-| 23   | Reza / SEV / UDF                         | 11    |
+| 23   | SEV / UDF                                | 11    |
 | 24   | Asakura / CyC / Netaro / o7              | 10    |
 | 25   | Pookie / Tsundere / WBDP / Yoghurt / sam | 9     |

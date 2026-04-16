@@ -23,4 +23,4 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 16  | Kabukibu!                                                                                   | 2017 | 13 Apr 2026 | [SeaDex](https://releases.moe/87500/), [AniList](https://anilist.co/anime/87500)   |
 | 17  | Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1                  | 2024 | 11 Apr 2026 | [SeaDex](https://releases.moe/166476/), [AniList](https://anilist.co/anime/166476) |
 | 18  | ViVid Strike! OVA                                                                           | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98220/), [AniList](https://anilist.co/anime/98220)   |
-| 19  | The Wings of Rean                                                                           | 2005 | 12 Apr 2026 | [SeaDex](https://releases.moe/574/), [AniList](https://anilist.co/anime/574)       |
+| 19  | The Wings of Rean                                                                           | 2005 | 15 Apr 2026 | [SeaDex](https://releases.moe/574/), [AniList](https://anilist.co/anime/574)       |

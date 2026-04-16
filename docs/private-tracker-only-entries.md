@@ -14,5 +14,5 @@
 | 11  | Witch Craft Works OVA                                                                       | 2015 | 11 Apr 2026 | [SeaDex](https://releases.moe/20601/), [AniList](https://anilist.co/anime/20601)   |
 | 12  | Modern Magic Made Simple                                                                    | 2009 | 09 Apr 2026 | [SeaDex](https://releases.moe/5454/), [AniList](https://anilist.co/anime/5454)     |
 | 13  | Overlord: Ple Ple Pleiades 4                                                                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 14  | The Wings of Rean                                                                           | 2005 | 12 Apr 2026 | [SeaDex](https://releases.moe/574/), [AniList](https://anilist.co/anime/574)       |
+| 14  | The Wings of Rean                                                                           | 2005 | 15 Apr 2026 | [SeaDex](https://releases.moe/574/), [AniList](https://anilist.co/anime/574)       |
 | 15  | Tekkaman Blade II                                                                           | 1994 | 28 Jan 2026 | [SeaDex](https://releases.moe/1460/), [AniList](https://anilist.co/anime/1460)     |
