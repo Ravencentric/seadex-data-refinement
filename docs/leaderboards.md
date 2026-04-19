@@ -35,10 +35,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LYS1TH3A                 | 36    |
 | 20   | Commie                   | 35    |
 | 21   | NOGRP                    | 34    |
-| 22   | Holomux                  | 33    |
-| 23   | Lulu / VARYG             | 32    |
-| 24   | B00BA / Bunny-Apocalypse | 31    |
-| 25   | Kametsu                  | 29    |
+| 22   | Holomux / Lulu / VARYG   | 32    |
+| 23   | B00BA / Bunny-Apocalypse | 31    |
+| 24   | Kametsu                  | 29    |
+| 25   | Orphan / Pog42           | 28    |
 
 ## Top 25 - Best dual audio entries
 
@@ -102,30 +102,30 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Alt entries
 
-| Rank | Group                                          | Count |
-| :----| :----------------------------------------------| :-----|
-| 🥇   | SubsPlease                                     | 64    |
-| 🥈   | YURASUKA                                       | 59    |
-| 🥉   | Headpatter                                     | 55    |
-| 4    | KH                                             | 46    |
-| 5    | Drag                                           | 43    |
-| 6    | -ZR-                                           | 39    |
-| 7    | YURI                                           | 38    |
-| 8    | Commie                                         | 35    |
-| 9    | hchcsen                                        | 33    |
-| 10   | Erai-raws                                      | 32    |
-| 11   | LostYears / MTBB / VARYG                       | 30    |
-| 12   | Arid / GetItTwisted                            | 26    |
-| 13   | Bunny-Apocalypse                               | 25    |
-| 14   | Holomux / NOGRP                                | 24    |
-| 15   | Chihiro / Kametsu                              | 21    |
-| 16   | CTR                                            | 20    |
-| 17   | Pog42                                          | 17    |
-| 18   | Kitsune / SCY                                  | 16    |
-| 19   | HorribleSubs                                   | 14    |
-| 20   | CBT / Lulu                                     | 13    |
-| 21   | Datte13 / FFF / Mysteria / NH                  | 12    |
-| 22   | SEV / UDF                                      | 11    |
-| 23   | Asakura / CyC / Netaro / o7                    | 10    |
-| 24   | Pookie / Tsundere / WBDP / Yoghurt / sam       | 9     |
-| 25   | GSK_kun / RASETSU / Reza / Starbez / crane0922 | 8     |
+| Rank | Group                                    | Count |
+| :----| :----------------------------------------| :-----|
+| 🥇   | SubsPlease                               | 64    |
+| 🥈   | YURASUKA                                 | 59    |
+| 🥉   | Headpatter                               | 55    |
+| 4    | KH                                       | 46    |
+| 5    | Drag                                     | 43    |
+| 6    | -ZR-                                     | 39    |
+| 7    | YURI                                     | 38    |
+| 8    | Commie                                   | 35    |
+| 9    | hchcsen                                  | 33    |
+| 10   | Erai-raws                                | 32    |
+| 11   | LostYears / MTBB / VARYG                 | 30    |
+| 12   | Arid / GetItTwisted                      | 26    |
+| 13   | Bunny-Apocalypse                         | 25    |
+| 14   | NOGRP                                    | 24    |
+| 15   | Holomux                                  | 23    |
+| 16   | Chihiro / Kametsu                        | 21    |
+| 17   | CTR                                      | 20    |
+| 18   | Pog42                                    | 17    |
+| 19   | Kitsune / SCY                            | 16    |
+| 20   | HorribleSubs                             | 14    |
+| 21   | CBT / Lulu                               | 13    |
+| 22   | Datte13 / FFF / Mysteria / NH            | 12    |
+| 23   | SEV / UDF                                | 11    |
+| 24   | Asakura / CyC / Netaro / o7              | 10    |
+| 25   | Pookie / Tsundere / WBDP / Yoghurt / sam | 9     |
