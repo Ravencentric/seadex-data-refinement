@@ -11,7 +11,8 @@
 | 8   | The Qwaser of Stigmata II                                                                   | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
 | 9   | Nina the Starry Bride                                                                       | 2024 | 13 Apr 2026 | [SeaDex](https://releases.moe/171038/), [AniList](https://anilist.co/anime/171038) |
 | 10  | The Stories of Girls Who Couldn't Be Magicians                                              | 2024 | 14 Apr 2026 | [SeaDex](https://releases.moe/107372/), [AniList](https://anilist.co/anime/107372) |
-| 11  | Witch Craft Works OVA                                                                       | 2015 | 11 Apr 2026 | [SeaDex](https://releases.moe/20601/), [AniList](https://anilist.co/anime/20601)   |
-| 12  | Modern Magic Made Simple                                                                    | 2009 | 09 Apr 2026 | [SeaDex](https://releases.moe/5454/), [AniList](https://anilist.co/anime/5454)     |
-| 13  | Overlord: Ple Ple Pleiades 4                                                                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 14  | Tekkaman Blade II                                                                           | 1994 | 28 Jan 2026 | [SeaDex](https://releases.moe/1460/), [AniList](https://anilist.co/anime/1460)     |
+| 11  | Shagahai ReLIFE Kenkyuujo Support-ka                                                        | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 12  | Witch Craft Works OVA                                                                       | 2015 | 11 Apr 2026 | [SeaDex](https://releases.moe/20601/), [AniList](https://anilist.co/anime/20601)   |
+| 13  | Modern Magic Made Simple                                                                    | 2009 | 09 Apr 2026 | [SeaDex](https://releases.moe/5454/), [AniList](https://anilist.co/anime/5454)     |
+| 14  | Overlord: Ple Ple Pleiades 4                                                                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 15  | Tekkaman Blade II                                                                           | 1994 | 28 Jan 2026 | [SeaDex](https://releases.moe/1460/), [AniList](https://anilist.co/anime/1460)     |
