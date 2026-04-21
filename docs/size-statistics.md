@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `133.3 TiB`
+- Total size: `133.4 TiB`
 - Best size: `101.3 TiB`
 - Alt size: `32.0 TiB`
 - Realistic size: `104.4 TiB`
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 43.6 TiB   | 23.8 TiB (54.59%)   | 1953 (~22.9 GiB each) |
+| 50   | Others           | 43.7 TiB   | 23.8 TiB (54.58%)   | 1957 (~22.9 GiB each) |

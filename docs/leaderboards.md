@@ -67,7 +67,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | IK / Kametsu / fig                               | 7     |
 | 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
 | 23   | BlackRose / CTR / Doc / Holomux & Others         | 5     |
-| 24   | Ignore / Iznjie Biznjie / Kuraze / MK & Others   | 4     |
+| 24   | Ignore / Iznjie Biznjie / MK / Netaro & Others   | 4     |
 | 25   | Aergia / Arg0 / EJF / FateSucks & Others         | 3     |
 
 ## Top 25 - Best entries
