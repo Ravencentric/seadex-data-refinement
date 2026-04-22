@@ -5,7 +5,7 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                      | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | JUNI TAISEN：ZODIAC WAR                                                                    | 2017 | 20 Apr 2026 | [SeaDex](https://releases.moe/98443/), [AniList](https://anilist.co/anime/98443)   |
+| 1   | JUNI TAISEN：ZODIAC WAR                                                                    | 2017 | 21 Apr 2026 | [SeaDex](https://releases.moe/98443/), [AniList](https://anilist.co/anime/98443)   |
 | 2   | Air                                                                                        | 2005 | 20 Apr 2026 | [SeaDex](https://releases.moe/101/), [AniList](https://anilist.co/anime/101)       |
 | 3   | ReLIFE: Final Arc                                                                          | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/98635/), [AniList](https://anilist.co/anime/98635)   |
 | 4   | Armed Girl's Machiavellism                                                                 | 2017 | 19 Apr 2026 | [SeaDex](https://releases.moe/21851/), [AniList](https://anilist.co/anime/21851)   |
