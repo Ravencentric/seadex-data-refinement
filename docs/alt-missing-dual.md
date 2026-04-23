@@ -23,8 +23,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 16  | The Case Study of Vanitas                                                                  | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
 | 17  | How NOT to Summon a Demon Lord                                                             | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
 | 18  | Grave of the Fireflies                                                                     | 1988 | 25 Feb 2026 | [SeaDex](https://releases.moe/578/), [AniList](https://anilist.co/anime/578)       |
-| 19  | Sword Art Online the Movie: Ordinal Scale                                                  | 2017 | 07 Aug 2025 | [SeaDex](https://releases.moe/21403/), [AniList](https://anilist.co/anime/21403)   |
-| 20  | Cautious Hero: The Hero Is Overpowered but Overly Cautious                                 | 2019 | 09 Nov 2025 | [SeaDex](https://releases.moe/105156/), [AniList](https://anilist.co/anime/105156) |
+| 19  | Cautious Hero: The Hero Is Overpowered but Overly Cautious                                 | 2019 | 09 Nov 2025 | [SeaDex](https://releases.moe/105156/), [AniList](https://anilist.co/anime/105156) |
+| 20  | Sword Art Online the Movie: Ordinal Scale                                                  | 2017 | 07 Aug 2025 | [SeaDex](https://releases.moe/21403/), [AniList](https://anilist.co/anime/21403)   |
 | 21  | Sword Art Online: Alicization - War of Underworld Part 2                                   | 2020 | 13 Nov 2023 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
 | 22  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                 | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
 | 23  | Spice and Wolf                                                                             | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
