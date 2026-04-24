@@ -5,7 +5,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 
 | Idx | Title                                                                                         | Year | Updated At  | Links                                                                              |
 | :---| :---------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | DARLING in the FRANXX                                                                         | 2018 | 22 Apr 2026 | [SeaDex](https://releases.moe/99423/), [AniList](https://anilist.co/anime/99423)   |
+| 1   | DARLING in the FRANXX                                                                         | 2018 | 23 Apr 2026 | [SeaDex](https://releases.moe/99423/), [AniList](https://anilist.co/anime/99423)   |
 | 2   | Death Parade                                                                                  | 2015 | 07 Jun 2025 | [SeaDex](https://releases.moe/20931/), [AniList](https://anilist.co/anime/20931)   |
 | 3   | Clannad                                                                                       | 2007 | 07 Sep 2025 | [SeaDex](https://releases.moe/2167/), [AniList](https://anilist.co/anime/2167)     |
 | 4   | Classroom of the Elite Season 2                                                               | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |

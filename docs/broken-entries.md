@@ -32,7 +32,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 25  | Hell Girl                                                                                    | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
 | 26  | ONIMAI: I'm Now Your Sister!                                                                 | 2023 | 07 Aug 2025 | [SeaDex](https://releases.moe/147864/), [AniList](https://anilist.co/anime/147864) |
 | 27  | K: RETURN OF KINGS                                                                           | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
-| 28  | Monster Girl Doctor                                                                          | 2020 | 22 Apr 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
+| 28  | Monster Girl Doctor                                                                          | 2020 | 23 Apr 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
 | 29  | Air Gear                                                                                     | 2006 | 05 Jan 2026 | [SeaDex](https://releases.moe/857/), [AniList](https://anilist.co/anime/857)       |
 | 30  | KanColle                                                                                     | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 31  | Puella Magi Madoka Magica the Movie Part 1: Beginnings                                       | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11977/), [AniList](https://anilist.co/anime/11977)   |

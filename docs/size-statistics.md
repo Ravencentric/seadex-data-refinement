@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 43.8 TiB   | 23.9 TiB (54.58%)   | 1965 (~22.8 GiB each) |
+| 50   | Others           | 43.8 TiB   | 23.9 TiB (54.54%)   | 1969 (~22.8 GiB each) |

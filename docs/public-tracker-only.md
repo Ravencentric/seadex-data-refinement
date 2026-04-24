@@ -5,7 +5,7 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                      | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Monster Girl Doctor                                                                        | 2020 | 22 Apr 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
+| 1   | Monster Girl Doctor                                                                        | 2020 | 23 Apr 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
 | 2   | Rage of Bahamut: Virgin Soul                                                               | 2017 | 22 Apr 2026 | [SeaDex](https://releases.moe/21184/), [AniList](https://anilist.co/anime/21184)   |
 | 3   | JUNI TAISEN：ZODIAC WAR                                                                    | 2017 | 21 Apr 2026 | [SeaDex](https://releases.moe/98443/), [AniList](https://anilist.co/anime/98443)   |
 | 4   | Air                                                                                        | 2005 | 20 Apr 2026 | [SeaDex](https://releases.moe/101/), [AniList](https://anilist.co/anime/101)       |
