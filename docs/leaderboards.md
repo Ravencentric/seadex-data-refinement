@@ -125,7 +125,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Kitsune / SCY                               | 16    |
 | 20   | HorribleSubs                                | 14    |
 | 21   | CBT / Lulu                                  | 13    |
-| 22   | Datte13 / FFF / NH / SEV / UDF              | 12    |
-| 23   | Asakura / CyC / Mysteria / Netaro / o7      | 10    |
-| 24   | GSK_kun / Pookie / Tsundere / WBDP & Others | 9     |
-| 25   | RASETSU / Reza / Starbez / crane0922        | 8     |
+| 22   | Datte13 / FFF / NH / UDF                    | 12    |
+| 23   | SEV / o7                                    | 11    |
+| 24   | Asakura / CyC / Mysteria / Netaro           | 10    |
+| 25   | GSK_kun / Pookie / Tsundere / WBDP & Others | 9     |
