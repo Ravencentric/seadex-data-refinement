@@ -89,7 +89,10 @@ class MediaEntryCollection(BaseModel):
         with pyanilist.AniList() as anilist:
             media_iter = itertools.islice(
                 anilist.get_media_many(
-                    id_not_in=ids, sort=pyanilist.MediaSort.POPULARITY_DESC, type=pyanilist.MediaType.ANIME
+                    id_not_in=ids,
+                    sort=pyanilist.MediaSort.POPULARITY_DESC,
+                    type=pyanilist.MediaType.ANIME,
+                    status=pyanilist.MediaStatus.FINISHED,
                 ),
                 count,
             )
