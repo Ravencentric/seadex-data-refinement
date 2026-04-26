@@ -17,11 +17,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                     | 178   |
 | 🥈   | CRUCiBLE                 | 138   |
 | 🥉   | sam                      | 131   |
-| 4    | Headpatter               | 122   |
+| 4    | Headpatter               | 121   |
 | 5    | NAN0                     | 112   |
 | 6    | MTBB                     | 106   |
 | 7    | Moxie                    | 97    |
-| 8    | YURASUKA                 | 82    |
+| 8    | YURASUKA                 | 84    |
 | 9    | SubsPlease               | 74    |
 | 10   | YURI                     | 70    |
 | 11   | hchcsen                  | 66    |
@@ -35,10 +35,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LYS1TH3A                 | 36    |
 | 20   | Commie                   | 35    |
 | 21   | NOGRP                    | 34    |
-| 22   | Holomux / Lulu / VARYG   | 32    |
-| 23   | B00BA / Bunny-Apocalypse | 31    |
-| 24   | Kametsu                  | 29    |
-| 25   | Orphan / Pog42           | 28    |
+| 22   | VARYG                    | 33    |
+| 23   | Holomux / Lulu           | 32    |
+| 24   | B00BA / Bunny-Apocalypse | 31    |
+| 25   | Kametsu                  | 29    |
 
 ## Top 25 - Best dual audio entries
 
@@ -72,60 +72,60 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best entries
 
-| Rank | Group                | Count |
-| :----| :--------------------| :-----|
-| 🥇   | -ZR-                 | 150   |
-| 🥈   | CRUCiBLE             | 138   |
-| 🥉   | sam                  | 122   |
-| 4    | NAN0                 | 111   |
-| 5    | Moxie                | 97    |
-| 6    | Headpatter           | 78    |
-| 7    | MTBB                 | 76    |
-| 8    | smol                 | 56    |
-| 9    | Okay-Subs / hchcsen  | 38    |
-| 10   | PMR / TTGA           | 37    |
-| 11   | LYS1TH3A             | 34    |
-| 12   | YURI                 | 33    |
-| 13   | B00BA                | 31    |
-| 14   | Orphan               | 26    |
-| 15   | FLE / GetItTwisted   | 25    |
-| 16   | YURASUKA             | 23    |
-| 17   | Mehul                | 21    |
-| 18   | LazyRemux / Lulu     | 20    |
-| 19   | LaCroiX              | 19    |
-| 20   | Arid / koala         | 18    |
-| 21   | Flugel               | 17    |
-| 22   | Drag                 | 16    |
-| 23   | Kawatare / ZeroBuild | 15    |
-| 24   | Vodes                | 14    |
-| 25   | Beatrice / LostYears | 13    |
+| Rank | Group                         | Count |
+| :----| :-----------------------------| :-----|
+| 🥇   | -ZR-                          | 150   |
+| 🥈   | CRUCiBLE                      | 138   |
+| 🥉   | sam                           | 122   |
+| 4    | NAN0                          | 111   |
+| 5    | Moxie                         | 97    |
+| 6    | Headpatter                    | 77    |
+| 7    | MTBB                          | 76    |
+| 8    | smol                          | 56    |
+| 9    | Okay-Subs / hchcsen           | 38    |
+| 10   | PMR / TTGA                    | 37    |
+| 11   | LYS1TH3A                      | 34    |
+| 12   | YURI                          | 33    |
+| 13   | B00BA                         | 31    |
+| 14   | Orphan                        | 26    |
+| 15   | FLE / GetItTwisted / YURASUKA | 25    |
+| 16   | Mehul                         | 21    |
+| 17   | LazyRemux / Lulu              | 20    |
+| 18   | LaCroiX                       | 19    |
+| 19   | Arid / koala                  | 18    |
+| 20   | Flugel                        | 17    |
+| 21   | Drag                          | 16    |
+| 22   | Kawatare / ZeroBuild          | 15    |
+| 23   | Vodes                         | 14    |
+| 24   | Beatrice / LostYears          | 13    |
+| 25   | FraMeSToR                     | 12    |
 
 ## Top 25 - Alt entries
 
-| Rank | Group                                       | Count |
-| :----| :-------------------------------------------| :-----|
-| 🥇   | SubsPlease                                  | 64    |
-| 🥈   | YURASUKA                                    | 59    |
-| 🥉   | Headpatter                                  | 56    |
-| 4    | KH                                          | 46    |
-| 5    | Drag                                        | 43    |
-| 6    | -ZR-                                        | 39    |
-| 7    | YURI                                        | 38    |
-| 8    | Commie                                      | 35    |
-| 9    | hchcsen                                     | 33    |
-| 10   | Erai-raws                                   | 32    |
-| 11   | LostYears / MTBB / VARYG                    | 30    |
-| 12   | Arid / GetItTwisted                         | 26    |
-| 13   | Bunny-Apocalypse                            | 25    |
-| 14   | NOGRP                                       | 24    |
-| 15   | Holomux                                     | 23    |
-| 16   | Chihiro / Kametsu                           | 21    |
-| 17   | CTR                                         | 20    |
-| 18   | Pog42                                       | 17    |
-| 19   | Kitsune / SCY                               | 16    |
-| 20   | HorribleSubs                                | 14    |
-| 21   | CBT / Lulu                                  | 13    |
-| 22   | Datte13 / FFF / NH / UDF                    | 12    |
-| 23   | SEV / o7                                    | 11    |
-| 24   | Asakura / CyC / Mysteria / Netaro           | 10    |
-| 25   | GSK_kun / Pookie / Tsundere / WBDP & Others | 9     |
+| Rank | Group                             | Count |
+| :----| :---------------------------------| :-----|
+| 🥇   | SubsPlease                        | 64    |
+| 🥈   | YURASUKA                          | 59    |
+| 🥉   | Headpatter                        | 56    |
+| 4    | KH                                | 46    |
+| 5    | Drag                              | 43    |
+| 6    | -ZR-                              | 39    |
+| 7    | YURI                              | 38    |
+| 8    | Commie                            | 35    |
+| 9    | hchcsen                           | 33    |
+| 10   | Erai-raws                         | 32    |
+| 11   | VARYG                             | 31    |
+| 12   | LostYears / MTBB                  | 30    |
+| 13   | Arid / GetItTwisted               | 26    |
+| 14   | Bunny-Apocalypse                  | 25    |
+| 15   | NOGRP                             | 24    |
+| 16   | Holomux                           | 23    |
+| 17   | Chihiro / Kametsu                 | 21    |
+| 18   | CTR                               | 20    |
+| 19   | Pog42                             | 17    |
+| 20   | Kitsune / SCY                     | 16    |
+| 21   | HorribleSubs                      | 14    |
+| 22   | CBT / Lulu                        | 13    |
+| 23   | Datte13 / FFF / NH / UDF          | 12    |
+| 24   | SEV / o7                          | 11    |
+| 25   | Asakura / CyC / Mysteria / Netaro | 10    |
