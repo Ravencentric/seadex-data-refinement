@@ -5,7 +5,7 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                      | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | KINMOZA The Movie: Thank you!!                                                             | 2021 | 24 Apr 2026 | [SeaDex](https://releases.moe/116676/), [AniList](https://anilist.co/anime/116676) |
+| 1   | DARLING in the FRANXX                                                                      | 2018 | 25 Apr 2026 | [SeaDex](https://releases.moe/99423/), [AniList](https://anilist.co/anime/99423)   |
 | 2   | Monster Girl Doctor                                                                        | 2020 | 23 Apr 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
 | 3   | Rage of Bahamut: Virgin Soul                                                               | 2017 | 22 Apr 2026 | [SeaDex](https://releases.moe/21184/), [AniList](https://anilist.co/anime/21184)   |
 | 4   | JUNI TAISEN：ZODIAC WAR                                                                    | 2017 | 21 Apr 2026 | [SeaDex](https://releases.moe/98443/), [AniList](https://anilist.co/anime/98443)   |

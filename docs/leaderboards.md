@@ -42,33 +42,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best dual audio entries
 
-| Rank | Group                                            | Count |
-| :----| :------------------------------------------------| :-----|
-| 🥇   | CRUCiBLE                                         | 110   |
-| 🥈   | -ZR-                                             | 109   |
-| 🥉   | sam                                              | 91    |
-| 4    | NAN0                                             | 86    |
-| 5    | hchcsen                                          | 35    |
-| 6    | LYS1TH3A                                         | 33    |
-| 7    | Headpatter                                       | 31    |
-| 8    | TTGA                                             | 28    |
-| 9    | FLE / smol                                       | 23    |
-| 10   | GetItTwisted                                     | 20    |
-| 11   | Moxie                                            | 19    |
-| 12   | Flugel / Lulu                                    | 17    |
-| 13   | LazyRemux / YURASUKA / YURI                      | 16    |
-| 14   | ZeroBuild / koala                                | 15    |
-| 15   | Arid / LostYears / PMR                           | 13    |
-| 16   | FraMeSToR / Vodes                                | 12    |
-| 17   | DemiHuman                                        | 11    |
-| 18   | Mehul / SCY                                      | 10    |
-| 19   | KH / hydes                                       | 9     |
-| 20   | LaCroiX / Meakes                                 | 8     |
-| 21   | IK / Kametsu / fig                               | 7     |
-| 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
-| 23   | BlackRose / CTR / Doc / Holomux & Others         | 5     |
-| 24   | Ignore / Iznjie Biznjie / MK / Netaro & Others   | 4     |
-| 25   | Aergia / Arg0 / EJF / FateSucks & Others         | 3     |
+| Rank | Group                                                | Count |
+| :----| :----------------------------------------------------| :-----|
+| 🥇   | CRUCiBLE                                             | 110   |
+| 🥈   | -ZR-                                                 | 109   |
+| 🥉   | sam                                                  | 91    |
+| 4    | NAN0                                                 | 86    |
+| 5    | hchcsen                                              | 35    |
+| 6    | LYS1TH3A                                             | 33    |
+| 7    | Headpatter                                           | 31    |
+| 8    | TTGA                                                 | 28    |
+| 9    | FLE / smol                                           | 23    |
+| 10   | GetItTwisted                                         | 20    |
+| 11   | Moxie                                                | 19    |
+| 12   | Flugel / Lulu                                        | 17    |
+| 13   | LazyRemux / YURASUKA / YURI                          | 16    |
+| 14   | ZeroBuild / koala                                    | 15    |
+| 15   | Arid / LostYears / PMR                               | 13    |
+| 16   | FraMeSToR / Vodes                                    | 12    |
+| 17   | DemiHuman                                            | 11    |
+| 18   | Mehul / SCY                                          | 10    |
+| 19   | KH / hydes                                           | 9     |
+| 20   | LaCroiX / Meakes                                     | 8     |
+| 21   | IK / Kametsu / fig                                   | 7     |
+| 22   | B00BA / BlackRose / Bunny-Apocalypse / Drag & Others | 6     |
+| 23   | CTR / Doc / Holomux / Kuraze & Others                | 5     |
+| 24   | Ignore / Iznjie Biznjie / MK / Netaro & Others       | 4     |
+| 25   | Aergia / Arg0 / EJF / FateSucks & Others             | 3     |
 
 ## Top 25 - Best entries
 
@@ -95,8 +95,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LaCroiX              | 19    |
 | 20   | Arid / koala         | 18    |
 | 21   | Flugel               | 17    |
-| 22   | Drag / Kawatare      | 16    |
-| 23   | ZeroBuild            | 15    |
+| 22   | Drag                 | 16    |
+| 23   | Kawatare / ZeroBuild | 15    |
 | 24   | Vodes                | 14    |
 | 25   | Beatrice / LostYears | 13    |
 

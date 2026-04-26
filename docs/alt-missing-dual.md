@@ -97,8 +97,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 90  | Gurren Lagann The Movie: Childhood's End                                                   | 2008 | 20 Mar 2026 | [SeaDex](https://releases.moe/4107/), [AniList](https://anilist.co/anime/4107)     |
 | 91  | Tenchi Muyo! War on Geminar                                                                | 2009 | 12 Nov 2023 | [SeaDex](https://releases.moe/5781/), [AniList](https://anilist.co/anime/5781)     |
 | 92  | Mysteria Friends                                                                           | 2019 | 09 Sep 2025 | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
-| 93  | Angels of Death (ONA)                                                                      | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
-| 94  | Hi Score Girl II                                                                           | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
+| 93  | Hi Score Girl II                                                                           | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
+| 94  | Angels of Death (ONA)                                                                      | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
 | 95  | NANBAKA - Part Two                                                                         | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
 | 96  | A.I.C.O. -Incarnation-                                                                     | 2018 | 18 Feb 2026 | [SeaDex](https://releases.moe/99725/), [AniList](https://anilist.co/anime/99725)   |
 | 97  | Your lie in April: Moments                                                                 | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
