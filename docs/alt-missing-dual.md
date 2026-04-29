@@ -69,8 +69,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 62  | Taboo Tattoo                                                                               | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
 | 63  | Golden Kamuy Season 2                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
 | 64  | From Up on Poppy Hill                                                                      | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
-| 65  | No Guns Life                                                                               | 2019 | 02 Feb 2026 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
-| 66  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                 | 2025 | 11 Feb 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 65  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                 | 2025 | 11 Feb 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 66  | No Guns Life                                                                               | 2019 | 02 Feb 2026 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 67  | Tokyo Ghoul: [JACK]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
 | 68  | MEGALOBOX 2: NOMAD                                                                         | 2021 | 08 Oct 2025 | [SeaDex](https://releases.moe/113359/), [AniList](https://anilist.co/anime/113359) |
 | 69  | My Roommate is a Cat                                                                       | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
@@ -114,8 +114,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 107 | SWORDGAI The Animation                                                                     | 2018 | 16 Apr 2026 | [SeaDex](https://releases.moe/20875/), [AniList](https://anilist.co/anime/20875)   |
 | 108 | Revue Starlight: The Movie                                                                 | 2021 | 09 Jul 2025 | [SeaDex](https://releases.moe/113024/), [AniList](https://anilist.co/anime/113024) |
 | 109 | Dungeon People                                                                             | 2024 | 02 Nov 2025 | [SeaDex](https://releases.moe/168345/), [AniList](https://anilist.co/anime/168345) |
-| 110 | FrFr! ~Free! short movie~                                                                  | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
-| 111 | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
+| 110 | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
+| 111 | FrFr! ~Free! short movie~                                                                  | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
 | 112 | 18if                                                                                       | 2017 | 25 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 113 | Future Boy Conan                                                                           | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
 | 114 | Wanna be the Strongest in the World!                                                       | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
