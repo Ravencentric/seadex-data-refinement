@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `133.8 TiB`
-- Best size: `101.6 TiB`
-- Alt size: `32.2 TiB`
-- Realistic size: `104.7 TiB`
+- Total size: `134.0 TiB`
+- Best size: `101.7 TiB`
+- Alt size: `32.3 TiB`
+- Realistic size: `104.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -32,10 +32,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | B00BA            | 2.8 TiB    | 2.8 TiB (100.00%)   | 31 (~92.3 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
-| 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
-| 14   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
-| 15   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
-| 16   | GetItTwisted     | 1.3 TiB    | 992.8 GiB (73.80%)  | 51 (~26.4 GiB each)   |
+| 13   | GetItTwisted     | 1.4 TiB    | 1.1 TiB (72.86%)    | 55 (~26.9 GiB each)   |
+| 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
+| 15   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
+| 16   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 17   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 18   | SubsPlease       | 1.2 TiB    | 161.3 GiB (12.65%)  | 74 (~17.2 GiB each)   |
 | 19   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
@@ -61,7 +61,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 39   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 40   | Arid             | 638.4 GiB  | 201.1 GiB (31.49%)  | 44 (~14.5 GiB each)   |
 | 41   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 42   | Kawatare         | 600.8 GiB  | 517.3 GiB (86.11%)  | 20 (~30.0 GiB each)   |
+| 42   | Kawatare         | 630.3 GiB  | 546.8 GiB (86.76%)  | 21 (~30.0 GiB each)   |
 | 43   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 44   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 45   | fig              | 552.9 GiB  | 552.9 GiB (100.00%) | 7 (~79.0 GiB each)    |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 44.1 TiB   | 24.1 TiB (54.58%)   | 1979 (~22.8 GiB each) |
+| 50   | Others           | 44.1 TiB   | 24.1 TiB (54.54%)   | 1979 (~22.8 GiB each) |

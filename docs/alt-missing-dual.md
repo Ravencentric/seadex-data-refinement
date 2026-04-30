@@ -86,8 +86,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 79  | Tales of Wedding Rings                                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
 | 80  | RE-MAIN                                                                                    | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
 | 81  | Pretty Boy Detective Club                                                                  | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
-| 82  | SUPER HXEROS                                                                               | 2020 | 29 Sep 2025 | [SeaDex](https://releases.moe/112818/), [AniList](https://anilist.co/anime/112818) |
-| 83  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 82  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 83  | SUPER HXEROS                                                                               | 2020 | 29 Sep 2025 | [SeaDex](https://releases.moe/112818/), [AniList](https://anilist.co/anime/112818) |
 | 84  | Super Cub                                                                                  | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |
 | 85  | Sound of the Sky                                                                           | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 86  | Chihayafuru 3                                                                              | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |

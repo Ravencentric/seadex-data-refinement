@@ -69,6 +69,6 @@ An entry appears here if at least one of its releases is marked as broken.
 | 62  | Granblue Fantasy: The Animation Special                                                      | 2017 | 26 Feb 2025 | [SeaDex](https://releases.moe/100469/), [AniList](https://anilist.co/anime/100469) |
 | 63  | Celestial Method: Aru Shoujo no Kyuujitsu★                                                   | 2015 | 15 Jul 2024 | [SeaDex](https://releases.moe/21276/), [AniList](https://anilist.co/anime/21276)   |
 | 64  | Bakuon!! OVA                                                                                 | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21441/), [AniList](https://anilist.co/anime/21441)   |
-| 65  | Idol Densetsu Eriko                                                                          | 1989 | 06 Apr 2026 | [SeaDex](https://releases.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
+| 65  | Idol Densetsu Eriko                                                                          | 1989 | 29 Apr 2026 | [SeaDex](https://releases.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
 | 66  | Bakuon!! no Kobeya                                                                           | 2016 | 08 Jun 2025 | [SeaDex](https://releases.moe/99841/), [AniList](https://anilist.co/anime/99841)   |
 | 67  | Garo: Crimson Moon - The Butterfly of Time                                                   | 2016 | 07 Nov 2025 | [SeaDex](https://releases.moe/102429/), [AniList](https://anilist.co/anime/102429) |
