@@ -8,8 +8,8 @@
 | 5   | Ultramarine Magmell                                                                         | 2019 | 17 Apr 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
 | 6   | Immoral Guild                                                                               | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
 | 7   | Scarlet Nexus                                                                               | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 8   | The Qwaser of Stigmata II                                                                   | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
-| 9   | Nina the Starry Bride                                                                       | 2024 | 13 Apr 2026 | [SeaDex](https://releases.moe/171038/), [AniList](https://anilist.co/anime/171038) |
+| 8   | Nina the Starry Bride                                                                       | 2024 | 13 Apr 2026 | [SeaDex](https://releases.moe/171038/), [AniList](https://anilist.co/anime/171038) |
+| 9   | The Qwaser of Stigmata II                                                                   | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
 | 10  | The Stories of Girls Who Couldn't Be Magicians                                              | 2024 | 14 Apr 2026 | [SeaDex](https://releases.moe/107372/), [AniList](https://anilist.co/anime/107372) |
 | 11  | Shagahai ReLIFE Kenkyuujo Support-ka                                                        | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 12  | Witch Craft Works OVA                                                                       | 2015 | 11 Apr 2026 | [SeaDex](https://releases.moe/20601/), [AniList](https://anilist.co/anime/20601)   |
