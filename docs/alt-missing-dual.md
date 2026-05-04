@@ -39,8 +39,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 32  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 33  | Blue Box                                                                                   | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
 | 34  | BLUE LOCK Season 2                                                                         | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
-| 35  | Chihayafuru                                                                                | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
-| 36  | Takopi's Original Sin                                                                      | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
+| 35  | Takopi's Original Sin                                                                      | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
+| 36  | Chihayafuru                                                                                | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
 | 37  | The Hidden Dungeon Only I Can Enter                                                        | 2021 | 28 Jan 2026 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
 | 38  | Science Fell in Love, So I Tried to Prove It                                               | 2020 | 29 Dec 2024 | [SeaDex](https://releases.moe/107067/), [AniList](https://anilist.co/anime/107067) |
 | 39  | NieR:Automata Ver1.1a                                                                      | 2023 | 14 Feb 2026 | [SeaDex](https://releases.moe/145665/), [AniList](https://anilist.co/anime/145665) |
@@ -82,8 +82,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 75  | Sarazanmai                                                                                 | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 76  | Date A Live II: Kurumi Star Festival                                                       | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
 | 77  | Gurren Lagann The Movie: The Lights in the Sky are Stars                                   | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
-| 78  | Tiger & Bunny                                                                              | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
-| 79  | Tales of Wedding Rings                                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
+| 78  | Tales of Wedding Rings                                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
+| 79  | Tiger & Bunny                                                                              | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
 | 80  | RE-MAIN                                                                                    | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
 | 81  | Pretty Boy Detective Club                                                                  | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
 | 82  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |

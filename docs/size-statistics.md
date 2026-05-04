@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `134.3 TiB`
-- Best size: `101.9 TiB`
+- Total size: `134.6 TiB`
+- Best size: `102.2 TiB`
 - Alt size: `32.4 TiB`
-- Realistic size: `105.1 TiB`
+- Realistic size: `105.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -32,9 +32,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | B00BA            | 2.8 TiB    | 2.8 TiB (100.00%)   | 31 (~92.3 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
-| 13   | GetItTwisted     | 1.4 TiB    | 1.1 TiB (72.86%)    | 55 (~26.9 GiB each)   |
-| 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
-| 15   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
+| 13   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
+| 14   | GetItTwisted     | 1.4 TiB    | 1.1 TiB (72.86%)    | 55 (~26.9 GiB each)   |
+| 15   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 16   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 17   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 18   | SubsPlease       | 1.2 TiB    | 161.3 GiB (12.65%)  | 74 (~17.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 44.3 TiB   | 24.1 TiB (54.49%)   | 1985 (~22.8 GiB each) |
+| 50   | Others           | 44.5 TiB   | 24.4 TiB (54.76%)   | 1988 (~22.9 GiB each) |
