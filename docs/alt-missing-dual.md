@@ -130,5 +130,6 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 123 | Guin Saga                                                                                  | 2009 | 19 Nov 2025 | [SeaDex](https://releases.moe/5041/), [AniList](https://anilist.co/anime/5041)     |
 | 124 | Valkyrie Drive: Mermaid Specials                                                           | 2015 | 28 Nov 2024 | [SeaDex](https://releases.moe/21413/), [AniList](https://anilist.co/anime/21413)   |
 | 125 | Brain Powerd                                                                               | 1998 | 17 Jun 2024 | [SeaDex](https://releases.moe/1542/), [AniList](https://anilist.co/anime/1542)     |
-| 126 | Sekai de Ichiban Tsuyoku Naritai! Specials                                                 | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/20522/), [AniList](https://anilist.co/anime/20522)   |
-| 127 | Odd Taxi Original Picture Drama                                                            | 2022 | 19 Nov 2025 | [SeaDex](https://releases.moe/158676/), [AniList](https://anilist.co/anime/158676) |
+| 126 | Toaru Kagaku no Accelerator: Tobidase Ippou-san Hachamecha Kaishingeki                     | 2019 | 05 May 2026 | [SeaDex](https://releases.moe/112031/), [AniList](https://anilist.co/anime/112031) |
+| 127 | Sekai de Ichiban Tsuyoku Naritai! Specials                                                 | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/20522/), [AniList](https://anilist.co/anime/20522)   |
+| 128 | Odd Taxi Original Picture Drama                                                            | 2022 | 19 Nov 2025 | [SeaDex](https://releases.moe/158676/), [AniList](https://anilist.co/anime/158676) |
