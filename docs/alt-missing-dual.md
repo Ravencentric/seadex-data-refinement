@@ -108,7 +108,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 101 | Blue Exorcist: Runaway Kuro                                                                | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
 | 102 | Bye Bye, Earth                                                                             | 2024 | 27 Mar 2026 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
 | 103 | Diary of Our Days at the Breakwater                                                        | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
-| 104 | mono                                                                                       | 2025 | 03 Apr 2026 | [SeaDex](https://releases.moe/176246/), [AniList](https://anilist.co/anime/176246) |
+| 104 | mono                                                                                       | 2025 | 06 May 2026 | [SeaDex](https://releases.moe/176246/), [AniList](https://anilist.co/anime/176246) |
 | 105 | Once Upon a Witch's Death                                                                  | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
 | 106 | Hi Score Girl: Extra Stage                                                                 | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
 | 107 | number24                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |
