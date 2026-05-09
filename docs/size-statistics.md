@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `135.8 TiB`
-- Best size: `103.0 TiB`
-- Alt size: `32.8 TiB`
-- Realistic size: `106.3 TiB`
+- Total size: `136.2 TiB`
+- Best size: `103.3 TiB`
+- Alt size: `32.9 TiB`
+- Realistic size: `106.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.2 TiB (99.09%)    | 111 (~76.3 GiB each)  |
 | 4    | Headpatter       | 4.3 TiB    | 3.3 TiB (78.14%)    | 137 (~31.9 GiB each)  |
-| 5    | hchcsen          | 3.9 TiB    | 2.9 TiB (73.19%)    | 75 (~53.5 GiB each)   |
+| 5    | hchcsen          | 4.2 TiB    | 3.2 TiB (75.27%)    | 76 (~57.2 GiB each)   |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
@@ -56,9 +56,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 34   | LostYears        | 738.3 GiB  | 207.6 GiB (28.12%)  | 44 (~16.8 GiB each)   |
 | 35   | Mehul            | 735.2 GiB  | 735.2 GiB (100.00%) | 23 (~32.0 GiB each)   |
 | 36   | Erai-raws        | 692.9 GiB  | 100.4 GiB (14.49%)  | 41 (~16.9 GiB each)   |
-| 37   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
-| 38   | Bunny-Apocalypse | 657.3 GiB  | 161.0 GiB (24.49%)  | 31 (~21.2 GiB each)   |
-| 39   | Kawatare         | 647.2 GiB  | 546.8 GiB (84.49%)  | 22 (~29.4 GiB each)   |
+| 37   | Kawatare         | 675.5 GiB  | 575.2 GiB (85.14%)  | 23 (~29.4 GiB each)   |
+| 38   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
+| 39   | Bunny-Apocalypse | 657.3 GiB  | 161.0 GiB (24.49%)  | 31 (~21.2 GiB each)   |
 | 40   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 41   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 42   | Arid             | 602.0 GiB  | 201.1 GiB (33.40%)  | 42 (~14.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 44.7 TiB   | 24.4 TiB (54.50%)   | 1993 (~23.0 GiB each) |
+| 50   | Others           | 44.8 TiB   | 24.4 TiB (54.39%)   | 1994 (~23.0 GiB each) |
