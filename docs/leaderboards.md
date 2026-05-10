@@ -22,23 +22,23 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | MTBB                     | 106   |
 | 7    | Moxie                    | 97    |
 | 8    | YURASUKA                 | 84    |
-| 9    | SubsPlease               | 74    |
-| 10   | hchcsen                  | 71    |
-| 11   | YURI                     | 70    |
-| 12   | Drag / smol              | 58    |
-| 13   | KH                       | 55    |
-| 14   | LostYears                | 44    |
-| 15   | Arid / Erai-raws         | 41    |
-| 16   | GetItTwisted / Okay-Subs | 40    |
-| 17   | TTGA                     | 39    |
-| 18   | PMR                      | 38    |
-| 19   | Commie / LYS1TH3A        | 36    |
-| 20   | NOGRP                    | 35    |
-| 21   | VARYG                    | 33    |
-| 22   | Holomux / Lulu           | 32    |
-| 23   | B00BA / Bunny-Apocalypse | 31    |
-| 24   | Kametsu                  | 29    |
-| 25   | Orphan / Pog42           | 28    |
+| 9    | SubsPlease / hchcsen     | 74    |
+| 10   | YURI                     | 70    |
+| 11   | Drag / smol              | 58    |
+| 12   | KH                       | 56    |
+| 13   | LostYears                | 44    |
+| 14   | Arid / Erai-raws         | 41    |
+| 15   | GetItTwisted / Okay-Subs | 40    |
+| 16   | TTGA                     | 39    |
+| 17   | PMR                      | 38    |
+| 18   | Commie / LYS1TH3A        | 36    |
+| 19   | NOGRP                    | 35    |
+| 20   | VARYG                    | 33    |
+| 21   | Holomux / Lulu           | 32    |
+| 22   | B00BA / Bunny-Apocalypse | 31    |
+| 23   | Kametsu                  | 29    |
+| 24   | Orphan / Pog42           | 28    |
+| 25   | FLE / SCY                | 27    |
 
 ## Top 25 - Best dual audio entries
 
@@ -48,7 +48,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                                             | 108   |
 | 🥉   | sam                                                  | 92    |
 | 4    | NAN0                                                 | 85    |
-| 5    | hchcsen                                              | 38    |
+| 5    | hchcsen                                              | 39    |
 | 6    | LYS1TH3A                                             | 33    |
 | 7    | Headpatter                                           | 31    |
 | 8    | TTGA                                                 | 28    |
@@ -82,7 +82,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Headpatter                 | 78    |
 | 7    | MTBB                       | 76    |
 | 8    | smol                       | 56    |
-| 9    | hchcsen                    | 42    |
+| 9    | hchcsen                    | 45    |
 | 10   | Okay-Subs / PMR            | 38    |
 | 11   | TTGA                       | 37    |
 | 12   | LYS1TH3A                   | 34    |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :-------------------------------------------| :-----|
 | 🥇   | SubsPlease                                  | 64    |
 | 🥈   | Headpatter / YURASUKA                       | 59    |
-| 🥉   | KH                                          | 46    |
+| 🥉   | KH                                          | 47    |
 | 4    | Drag                                        | 43    |
 | 5    | -ZR-                                        | 39    |
 | 6    | YURI                                        | 38    |
