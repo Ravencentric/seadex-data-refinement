@@ -1,19 +1,9 @@
 # Private tracker only entries
-| Idx | Title                                                                                       | Year | Updated At  | Links                                                                              |
-| :---| :-------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Danganronpa 3: The End of Hope’s Peak High School - Future Arc                              | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21509/), [AniList](https://anilist.co/anime/21509)   |
-| 2   | Danganronpa 3: The End of Hope’s Peak High School - Despair Arc                             | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/21825/), [AniList](https://anilist.co/anime/21825)   |
-| 3   | The Familiar of Zero: "Rondo" of Princesses                                                 | 2008 | 06 May 2026 | [SeaDex](https://releases.moe/3712/), [AniList](https://anilist.co/anime/3712)     |
-| 4   | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 12 Apr 2026 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
-| 5   | Danganronpa 3: The End of Hope's Peak High School - Hope Arc                                | 2016 | 11 Apr 2026 | [SeaDex](https://releases.moe/97672/), [AniList](https://anilist.co/anime/97672)   |
-| 6   | Ultramarine Magmell                                                                         | 2019 | 17 Apr 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
-| 7   | Immoral Guild                                                                               | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
-| 8   | Scarlet Nexus                                                                               | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 9   | Nina the Starry Bride                                                                       | 2024 | 13 Apr 2026 | [SeaDex](https://releases.moe/171038/), [AniList](https://anilist.co/anime/171038) |
-| 10  | The Qwaser of Stigmata II                                                                   | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
-| 11  | The Familiar of Zero: "Rondo" of Princesses - Seductive Beach                               | 2008 | 06 May 2026 | [SeaDex](https://releases.moe/5764/), [AniList](https://anilist.co/anime/5764)     |
-| 12  | The Stories of Girls Who Couldn't Be Magicians                                              | 2024 | 14 Apr 2026 | [SeaDex](https://releases.moe/107372/), [AniList](https://anilist.co/anime/107372) |
-| 13  | Shagahai ReLIFE Kenkyuujo Support-ka                                                        | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 14  | Witch Craft Works OVA                                                                       | 2015 | 11 Apr 2026 | [SeaDex](https://releases.moe/20601/), [AniList](https://anilist.co/anime/20601)   |
-| 15  | Modern Magic Made Simple                                                                    | 2009 | 09 Apr 2026 | [SeaDex](https://releases.moe/5454/), [AniList](https://anilist.co/anime/5454)     |
-| 16  | Overlord: Ple Ple Pleiades 4                                                                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| Idx | Title                                | Year | Updated At  | Links                                                                              |
+| :---| :------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
+| 1   | Immoral Guild                        | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
+| 2   | Scarlet Nexus                        | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
+| 3   | The Qwaser of Stigmata II            | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
+| 4   | Shagahai ReLIFE Kenkyuujo Support-ka | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 5   | Witch Craft Works OVA                | 2015 | 11 Apr 2026 | [SeaDex](https://releases.moe/20601/), [AniList](https://anilist.co/anime/20601)   |
+| 6   | Overlord: Ple Ple Pleiades 4         | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |

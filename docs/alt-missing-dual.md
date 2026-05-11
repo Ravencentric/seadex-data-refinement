@@ -28,7 +28,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 21  | Sword Art Online: Alicization - War of Underworld Part 2                                   | 2020 | 13 Nov 2023 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
 | 22  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                 | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
 | 23  | Spice and Wolf                                                                             | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
-| 24  | K                                                                                          | 2012 | 07 Apr 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
+| 24  | K                                                                                          | 2012 | 10 May 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 25  | Ghost in the Shell                                                                         | 1995 | 21 Feb 2026 | [SeaDex](https://releases.moe/43/), [AniList](https://anilist.co/anime/43)         |
 | 26  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
 | 27  | Akudama Drive                                                                              | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
@@ -53,8 +53,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 46  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                          | 2021 | 30 Jan 2024 | [SeaDex](https://releases.moe/124140/), [AniList](https://anilist.co/anime/124140) |
 | 47  | IRODUKU: The World in Colors                                                               | 2018 | 19 Aug 2025 | [SeaDex](https://releases.moe/101316/), [AniList](https://anilist.co/anime/101316) |
 | 48  | Spice and Wolf II                                                                          | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
-| 49  | Somali and the Forest Spirit                                                               | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
-| 50  | Isekai Cheat Magician                                                                      | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
+| 49  | Isekai Cheat Magician                                                                      | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
+| 50  | Somali and the Forest Spirit                                                               | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
 | 51  | Given The Movie                                                                            | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
 | 52  | Cells at Work!!                                                                            | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 53  | Love Tyrant                                                                                | 2017 | 15 Nov 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
@@ -76,8 +76,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 69  | My Roommate is a Cat                                                                       | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 70  | Infinite Dendrogram                                                                        | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
 | 71  | Thus Spoke Rohan Kishibe                                                                   | 2017 | 20 Mar 2026 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
-| 72  | Children who Chase Lost Voices                                                             | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
-| 73  | Tokyo Ghoul: [PINTO]                                                                       | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
+| 72  | Tokyo Ghoul: [PINTO]                                                                       | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
+| 73  | Children who Chase Lost Voices                                                             | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
 | 74  | Japan Sinks: 2020                                                                          | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 75  | Sarazanmai                                                                                 | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 76  | Date A Live II: Kurumi Star Festival                                                       | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
@@ -108,11 +108,11 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 101 | Blue Exorcist: Runaway Kuro                                                                | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
 | 102 | Bye Bye, Earth                                                                             | 2024 | 27 Mar 2026 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
 | 103 | Diary of Our Days at the Breakwater                                                        | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
-| 104 | mono                                                                                       | 2025 | 06 May 2026 | [SeaDex](https://releases.moe/176246/), [AniList](https://anilist.co/anime/176246) |
-| 105 | Once Upon a Witch's Death                                                                  | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
+| 104 | Once Upon a Witch's Death                                                                  | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
+| 105 | mono                                                                                       | 2025 | 06 May 2026 | [SeaDex](https://releases.moe/176246/), [AniList](https://anilist.co/anime/176246) |
 | 106 | Hi Score Girl: Extra Stage                                                                 | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
-| 107 | number24                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |
-| 108 | SWORDGAI The Animation                                                                     | 2018 | 16 Apr 2026 | [SeaDex](https://releases.moe/20875/), [AniList](https://anilist.co/anime/20875)   |
+| 107 | SWORDGAI The Animation                                                                     | 2018 | 10 May 2026 | [SeaDex](https://releases.moe/20875/), [AniList](https://anilist.co/anime/20875)   |
+| 108 | number24                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |
 | 109 | Revue Starlight: The Movie                                                                 | 2021 | 09 Jul 2025 | [SeaDex](https://releases.moe/113024/), [AniList](https://anilist.co/anime/113024) |
 | 110 | Dungeon People                                                                             | 2024 | 02 Nov 2025 | [SeaDex](https://releases.moe/168345/), [AniList](https://anilist.co/anime/168345) |
 | 111 | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
@@ -124,12 +124,12 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 117 | TAMAYOMI: The Baseball Girls                                                               | 2020 | 14 Feb 2026 | [SeaDex](https://releases.moe/110130/), [AniList](https://anilist.co/anime/110130) |
 | 118 | URAHARA                                                                                    | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
 | 119 | Gargantia on the Verdurous Planet OVA (2014)                                               | 2014 | 18 Feb 2026 | [SeaDex](https://releases.moe/20449/), [AniList](https://anilist.co/anime/20449)   |
-| 120 | SWORDGAI The Animation Part II                                                             | 2018 | 16 Apr 2026 | [SeaDex](https://releases.moe/101471/), [AniList](https://anilist.co/anime/101471) |
+| 120 | SWORDGAI The Animation Part II                                                             | 2018 | 10 May 2026 | [SeaDex](https://releases.moe/101471/), [AniList](https://anilist.co/anime/101471) |
 | 121 | MIX                                                                                        | 2019 | 23 Jul 2024 | [SeaDex](https://releases.moe/103555/), [AniList](https://anilist.co/anime/103555) |
 | 122 | Nanbaka: Idiots with Student Numbers!                                                      | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/100227/), [AniList](https://anilist.co/anime/100227) |
 | 123 | Guin Saga                                                                                  | 2009 | 19 Nov 2025 | [SeaDex](https://releases.moe/5041/), [AniList](https://anilist.co/anime/5041)     |
 | 124 | Valkyrie Drive: Mermaid Specials                                                           | 2015 | 28 Nov 2024 | [SeaDex](https://releases.moe/21413/), [AniList](https://anilist.co/anime/21413)   |
 | 125 | Brain Powerd                                                                               | 1998 | 17 Jun 2024 | [SeaDex](https://releases.moe/1542/), [AniList](https://anilist.co/anime/1542)     |
-| 126 | Toaru Kagaku no Accelerator: Tobidase Ippou-san Hachamecha Kaishingeki                     | 2019 | 05 May 2026 | [SeaDex](https://releases.moe/112031/), [AniList](https://anilist.co/anime/112031) |
+| 126 | Toaru Kagaku no Accelerator: Tobidase Ippou-san Hachamecha Kaishingeki                     | 2019 | 10 May 2026 | [SeaDex](https://releases.moe/112031/), [AniList](https://anilist.co/anime/112031) |
 | 127 | Sekai de Ichiban Tsuyoku Naritai! Specials                                                 | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/20522/), [AniList](https://anilist.co/anime/20522)   |
 | 128 | Odd Taxi Original Picture Drama                                                            | 2022 | 19 Nov 2025 | [SeaDex](https://releases.moe/158676/), [AniList](https://anilist.co/anime/158676) |
