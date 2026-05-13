@@ -47,7 +47,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 40  | BEATLESS                                                                                     | 2018 | 01 Aug 2025 | [SeaDex](https://releases.moe/100245/), [AniList](https://anilist.co/anime/100245) |
 | 41  | Casshern Sins                                                                                | 2008 | 16 Sep 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
 | 42  | Clockwork Planet                                                                             | 2017 | 29 Jan 2026 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
-| 43  | Minami-ke                                                                                    | 2007 | 09 May 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
+| 43  | Minami-ke                                                                                    | 2007 | 12 May 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
 | 44  | DRAMAtical Murder                                                                            | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 45  | Ace of the Diamond Second Season                                                             | 2015 | 29 Apr 2026 | [SeaDex](https://releases.moe/21085/), [AniList](https://anilist.co/anime/21085)   |
 | 46  | Celestial Method                                                                             | 2014 | 02 Feb 2026 | [SeaDex](https://releases.moe/20672/), [AniList](https://anilist.co/anime/20672)   |
@@ -72,10 +72,10 @@ An entry appears here if at least one of its releases is marked as broken.
 | 65  | Le Chevalier D'Eon                                                                           | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 66  | Air Gear: Special Trick                                                                      | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
 | 67  | Garo: Crimson Moon                                                                           | 2015 | 07 Nov 2025 | [SeaDex](https://releases.moe/21277/), [AniList](https://anilist.co/anime/21277)   |
-| 68  | Minami-ke: Omatase                                                                           | 2012 | 10 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
+| 68  | Minami-ke: Omatase                                                                           | 2012 | 12 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
 | 69  | Minami-ke: Betsubara                                                                         | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5713/), [AniList](https://anilist.co/anime/5713)     |
 | 70  | Granblue Fantasy: The Animation Special                                                      | 2017 | 26 Feb 2025 | [SeaDex](https://releases.moe/100469/), [AniList](https://anilist.co/anime/100469) |
-| 71  | Minami-ke Natsuyasumi                                                                        | 2013 | 10 May 2026 | [SeaDex](https://releases.moe/20221/), [AniList](https://anilist.co/anime/20221)   |
+| 71  | Minami-ke Natsuyasumi                                                                        | 2013 | 12 May 2026 | [SeaDex](https://releases.moe/20221/), [AniList](https://anilist.co/anime/20221)   |
 | 72  | Celestial Method: Aru Shoujo no Kyuujitsu★                                                   | 2015 | 15 Jul 2024 | [SeaDex](https://releases.moe/21276/), [AniList](https://anilist.co/anime/21276)   |
 | 73  | Bakuon!! OVA                                                                                 | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21441/), [AniList](https://anilist.co/anime/21441)   |
 | 74  | Idol Densetsu Eriko                                                                          | 1989 | 29 Apr 2026 | [SeaDex](https://releases.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
