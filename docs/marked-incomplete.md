@@ -204,14 +204,14 @@
 | 201 | Re-Kan!                                                                              | 2015 | 18 Nov 2023 | [SeaDex](https://releases.moe/20814/), [AniList](https://anilist.co/anime/20814)   |
 | 202 | Maria†Holic Alive                                                                    | 2011 | 22 Jul 2024 | [SeaDex](https://releases.moe/9712/), [AniList](https://anilist.co/anime/9712)     |
 | 203 | Durarara!! X2 The Second Arc: Onoroke Chakapoko                                      | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21331/), [AniList](https://anilist.co/anime/21331)   |
-| 204 | Big Fish & Begonia                                                                   | 2016 | 11 Aug 2025 | [SeaDex](https://releases.moe/10259/), [AniList](https://anilist.co/anime/10259)   |
-| 205 | Takunomi                                                                             | 2018 | 13 Nov 2023 | [SeaDex](https://releases.moe/99753/), [AniList](https://anilist.co/anime/99753)   |
+| 204 | Takunomi                                                                             | 2018 | 13 Nov 2023 | [SeaDex](https://releases.moe/99753/), [AniList](https://anilist.co/anime/99753)   |
+| 205 | Big Fish & Begonia                                                                   | 2016 | 11 Aug 2025 | [SeaDex](https://releases.moe/10259/), [AniList](https://anilist.co/anime/10259)   |
 | 206 | Bayonetta: Bloody Fate                                                               | 2013 | 19 Aug 2024 | [SeaDex](https://releases.moe/20442/), [AniList](https://anilist.co/anime/20442)   |
 | 207 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://releases.moe/4983/), [AniList](https://anilist.co/anime/4983)     |
 | 208 | Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings               | 2022 | 10 Apr 2025 | [SeaDex](https://releases.moe/143082/), [AniList](https://anilist.co/anime/143082) |
 | 209 | Stella Women's Academy, High School Division Class C3                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/17821/), [AniList](https://anilist.co/anime/17821)   |
-| 210 | Beyond the Boundary: Mini Theater                                                    | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20531/), [AniList](https://anilist.co/anime/20531)   |
-| 211 | Kabaneri of the Iron Fortress: Light That Gathers                                    | 2016 | 09 Dec 2023 | [SeaDex](https://releases.moe/98662/), [AniList](https://anilist.co/anime/98662)   |
+| 210 | Kabaneri of the Iron Fortress: Light That Gathers                                    | 2016 | 09 Dec 2023 | [SeaDex](https://releases.moe/98662/), [AniList](https://anilist.co/anime/98662)   |
+| 211 | Beyond the Boundary: Mini Theater                                                    | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20531/), [AniList](https://anilist.co/anime/20531)   |
 | 212 | Waiting in the Summer OVA                                                            | 2014 | 14 Nov 2023 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
 | 213 | GIRLS Bravo: second season                                                           | 2005 | 03 Jul 2024 | [SeaDex](https://releases.moe/487/), [AniList](https://anilist.co/anime/487)       |
 | 214 | Gunslinger Girl -Il Teatrino-                                                        | 2008 | 02 Aug 2025 | [SeaDex](https://releases.moe/3231/), [AniList](https://anilist.co/anime/3231)     |
@@ -239,8 +239,8 @@
 | 236 | The Master of Killing Time OVA                                                       | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20600/), [AniList](https://anilist.co/anime/20600)   |
 | 237 | Golden Kamuy OVA                                                                     | 2018 | 31 Jan 2026 | [SeaDex](https://releases.moe/101830/), [AniList](https://anilist.co/anime/101830) |
 | 238 | Myriad Colors Phantom World: Limitless Phantom World                                 | 2016 | 08 Jun 2025 | [SeaDex](https://releases.moe/97951/), [AniList](https://anilist.co/anime/97951)   |
-| 239 | Miss Hokusai                                                                         | 2015 | 23 Feb 2026 | [SeaDex](https://releases.moe/20709/), [AniList](https://anilist.co/anime/20709)   |
-| 240 | The Relative Worlds                                                                  | 2019 | 25 Jun 2025 | [SeaDex](https://releases.moe/104562/), [AniList](https://anilist.co/anime/104562) |
+| 239 | The Relative Worlds                                                                  | 2019 | 25 Jun 2025 | [SeaDex](https://releases.moe/104562/), [AniList](https://anilist.co/anime/104562) |
+| 240 | Miss Hokusai                                                                         | 2015 | 23 Feb 2026 | [SeaDex](https://releases.moe/20709/), [AniList](https://anilist.co/anime/20709)   |
 | 241 | Macross Zero                                                                         | 2002 | 01 Jun 2025 | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
 | 242 | Shinmai Maou no Testament: BURST Specials                                            | 2015 | 26 Feb 2025 | [SeaDex](https://releases.moe/102508/), [AniList](https://anilist.co/anime/102508) |
 | 243 | GJ-bu@                                                                               | 2014 | 03 Jul 2024 | [SeaDex](https://releases.moe/20567/), [AniList](https://anilist.co/anime/20567)   |
@@ -249,8 +249,8 @@
 | 246 | The Master of Killing Time Specials                                                  | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20738/), [AniList](https://anilist.co/anime/20738)   |
 | 247 | Yokohama Kaidashi Kikou: Quiet Country Cafe                                          | 2002 | 13 Nov 2024 | [SeaDex](https://releases.moe/976/), [AniList](https://anilist.co/anime/976)       |
 | 248 | Overlord: Ple Ple Pleiades 3                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/103209/), [AniList](https://anilist.co/anime/103209) |
-| 249 | Renkin San-kyuu Magical? Pokaan                                                      | 2006 | 17 Nov 2023 | [SeaDex](https://releases.moe/941/), [AniList](https://anilist.co/anime/941)       |
-| 250 | IS: Infinite Stratos 2 - Infinite Wedding                                            | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 249 | IS: Infinite Stratos 2 - Infinite Wedding                                            | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 250 | Renkin San-kyuu Magical? Pokaan                                                      | 2006 | 17 Nov 2023 | [SeaDex](https://releases.moe/941/), [AniList](https://anilist.co/anime/941)       |
 | 251 | Ronja, the Robber's Daughter                                                         | 2014 | 16 Nov 2023 | [SeaDex](https://releases.moe/20617/), [AniList](https://anilist.co/anime/20617)   |
 | 252 | Megazone 23                                                                          | 1985 | 22 Jul 2024 | [SeaDex](https://releases.moe/1935/), [AniList](https://anilist.co/anime/1935)     |
 | 253 | Hyperdimension Neptunia: The Eternity (True Ending) Promised                         | 2014 | 11 Jul 2024 | [SeaDex](https://releases.moe/20472/), [AniList](https://anilist.co/anime/20472)   |
@@ -258,8 +258,8 @@
 | 255 | ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes                                   | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/114981/), [AniList](https://anilist.co/anime/114981) |
 | 256 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
 | 257 | Natsume's Book of Friends: Nyanko-sensei & The First Errand                          | 2013 | 01 Jan 2024 | [SeaDex](https://releases.moe/18849/), [AniList](https://anilist.co/anime/18849)   |
-| 258 | Beyond the Boundary: Idol Trial!                                                     | 2013 | 17 Jun 2024 | [SeaDex](https://releases.moe/20524/), [AniList](https://anilist.co/anime/20524)   |
-| 259 | Demon City Shinjuku                                                                  | 1988 | 25 Jun 2024 | [SeaDex](https://releases.moe/499/), [AniList](https://anilist.co/anime/499)       |
+| 258 | Demon City Shinjuku                                                                  | 1988 | 25 Jun 2024 | [SeaDex](https://releases.moe/499/), [AniList](https://anilist.co/anime/499)       |
+| 259 | Beyond the Boundary: Idol Trial!                                                     | 2013 | 17 Jun 2024 | [SeaDex](https://releases.moe/20524/), [AniList](https://anilist.co/anime/20524)   |
 | 260 | Gintama: Shinyaku Benizakura-hen Special                                             | 2010 | 16 Nov 2023 | [SeaDex](https://releases.moe/9735/), [AniList](https://anilist.co/anime/9735)     |
 | 261 | UN-GO MOVIE                                                                          | 2011 | 21 Feb 2025 | [SeaDex](https://releases.moe/11531/), [AniList](https://anilist.co/anime/11531)   |
 | 262 | Golden Kamuy 2nd Season OVA                                                          | 2019 | 31 Jan 2026 | [SeaDex](https://releases.moe/124756/), [AniList](https://anilist.co/anime/124756) |

@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `137.1 TiB`
-- Best size: `104.0 TiB`
+- Total size: `137.6 TiB`
+- Best size: `104.5 TiB`
 - Alt size: `33.1 TiB`
-- Realistic size: `107.2 TiB`
+- Realistic size: `107.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -23,8 +23,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.8 TiB   | 13.0 TiB (94.13%)   | 187 (~75.5 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.2 TiB    | 8.1 TiB (99.08%)    | 110 (~76.2 GiB each)  |
-| 4    | hchcsen          | 5.0 TiB    | 3.9 TiB (78.92%)    | 79 (~64.6 GiB each)   |
-| 5    | Headpatter       | 4.3 TiB    | 3.3 TiB (78.17%)    | 138 (~31.7 GiB each)  |
+| 4    | hchcsen          | 5.2 TiB    | 4.3 TiB (82.84%)    | 80 (~66.2 GiB each)   |
+| 5    | Headpatter       | 4.4 TiB    | 3.4 TiB (77.88%)    | 141 (~31.9 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
@@ -32,8 +32,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | B00BA            | 2.8 TiB    | 2.8 TiB (100.00%)   | 31 (~92.3 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
-| 13   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
-| 14   | GetItTwisted     | 1.4 TiB    | 1.1 TiB (72.86%)    | 55 (~26.9 GiB each)   |
+| 13   | GetItTwisted     | 1.5 TiB    | 1.1 TiB (74.25%)    | 56 (~27.9 GiB each)   |
+| 14   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
 | 15   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 16   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 17   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 45.0 TiB   | 24.4 TiB (54.22%)   | 1998 (~23.1 GiB each) |
+| 50   | Others           | 45.1 TiB   | 24.4 TiB (54.09%)   | 1999 (~23.1 GiB each) |
