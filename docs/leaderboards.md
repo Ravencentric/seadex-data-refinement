@@ -28,17 +28,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Drag / smol              | 58    |
 | 13   | KH                       | 56    |
 | 14   | LostYears                | 44    |
-| 15   | Arid / GetItTwisted      | 41    |
-| 16   | Erai-raws / Okay-Subs    | 40    |
-| 17   | TTGA                     | 39    |
-| 18   | NOGRP / PMR              | 38    |
-| 19   | Commie / LYS1TH3A        | 36    |
-| 20   | Holomux / Lulu / VARYG   | 32    |
-| 21   | B00BA / Bunny-Apocalypse | 31    |
-| 22   | Kametsu                  | 29    |
-| 23   | Orphan / Pog42           | 28    |
-| 24   | FLE / SCY                | 27    |
-| 25   | CTR                      | 25    |
+| 15   | GetItTwisted             | 42    |
+| 16   | Arid                     | 41    |
+| 17   | Erai-raws / Okay-Subs    | 40    |
+| 18   | TTGA                     | 39    |
+| 19   | NOGRP / PMR              | 38    |
+| 20   | Commie / LYS1TH3A        | 36    |
+| 21   | Holomux / Lulu / VARYG   | 32    |
+| 22   | B00BA / Bunny-Apocalypse | 31    |
+| 23   | Kametsu                  | 29    |
+| 24   | Orphan / Pog42           | 28    |
+| 25   | FLE / SCY                | 27    |
 
 ## Top 25 - Best dual audio entries
 
@@ -88,17 +88,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | LYS1TH3A                   | 34    |
 | 13   | YURI                       | 33    |
 | 14   | B00BA                      | 31    |
-| 15   | GetItTwisted / YURASUKA    | 28    |
-| 16   | Orphan                     | 26    |
-| 17   | FLE                        | 25    |
-| 18   | Mehul                      | 21    |
-| 19   | LaCroiX / LazyRemux / Lulu | 20    |
-| 20   | Arid / Kawatare / koala    | 18    |
-| 21   | Flugel                     | 17    |
-| 22   | Drag                       | 16    |
-| 23   | ZeroBuild                  | 15    |
-| 24   | Vodes                      | 14    |
-| 25   | Beatrice / LostYears       | 13    |
+| 15   | GetItTwisted               | 29    |
+| 16   | YURASUKA                   | 28    |
+| 17   | Orphan                     | 26    |
+| 18   | FLE                        | 25    |
+| 19   | Mehul                      | 21    |
+| 20   | LaCroiX / LazyRemux / Lulu | 20    |
+| 21   | Arid / koala               | 18    |
+| 22   | Flugel                     | 17    |
+| 23   | Drag                       | 16    |
+| 24   | Kawatare / ZeroBuild       | 15    |
+| 25   | Vodes                      | 14    |
 
 ## Top 25 - Alt entries
 
