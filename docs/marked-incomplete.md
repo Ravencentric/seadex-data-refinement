@@ -85,8 +85,8 @@
 | 82  | Oreimo (ONA)                                                                         | 2011 | 04 Jan 2024 | [SeaDex](https://releases.moe/10020/), [AniList](https://anilist.co/anime/10020)   |
 | 83  | Bokurano                                                                             | 2007 | 04 Aug 2025 | [SeaDex](https://releases.moe/1690/), [AniList](https://anilist.co/anime/1690)     |
 | 84  | Dropkick on My Devil!                                                                | 2018 | 26 Jun 2024 | [SeaDex](https://releases.moe/100714/), [AniList](https://anilist.co/anime/100714) |
-| 85  | Pupa                                                                                 | 2014 | 01 Apr 2026 | [SeaDex](https://releases.moe/19315/), [AniList](https://anilist.co/anime/19315)   |
-| 86  | Skip Beat!                                                                           | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/4722/), [AniList](https://anilist.co/anime/4722)     |
+| 85  | Skip Beat!                                                                           | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/4722/), [AniList](https://anilist.co/anime/4722)     |
+| 86  | Pupa                                                                                 | 2014 | 01 Apr 2026 | [SeaDex](https://releases.moe/19315/), [AniList](https://anilist.co/anime/19315)   |
 | 87  | Moribito: Guardian of the Spirit                                                     | 2007 | 24 Jan 2024 | [SeaDex](https://releases.moe/1827/), [AniList](https://anilist.co/anime/1827)     |
 | 88  | Ghost in the Shell: Stand Alone Complex 2nd GIG                                      | 2004 | 01 Aug 2025 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
 | 89  | Soul Eater Not!                                                                      | 2014 | 15 Nov 2023 | [SeaDex](https://releases.moe/20547/), [AniList](https://anilist.co/anime/20547)   |
@@ -94,8 +94,8 @@
 | 91  | Spice and Wolf II: Wolf and the Amber Melancholy                                     | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
 | 92  | Umineko: When They Cry                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/4896/), [AniList](https://anilist.co/anime/4896)     |
 | 93  | Gunslinger Girl                                                                      | 2003 | 06 Jul 2024 | [SeaDex](https://releases.moe/134/), [AniList](https://anilist.co/anime/134)       |
-| 94  | True Tears                                                                           | 2008 | 14 Nov 2024 | [SeaDex](https://releases.moe/2129/), [AniList](https://anilist.co/anime/2129)     |
-| 95  | High School DxD NEW OVA Oppai, Tsutsumimasu!                                         | 2015 | 14 Feb 2026 | [SeaDex](https://releases.moe/21103/), [AniList](https://anilist.co/anime/21103)   |
+| 94  | High School DxD NEW OVA Oppai, Tsutsumimasu!                                         | 2015 | 14 Feb 2026 | [SeaDex](https://releases.moe/21103/), [AniList](https://anilist.co/anime/21103)   |
+| 95  | True Tears                                                                           | 2008 | 14 Nov 2024 | [SeaDex](https://releases.moe/2129/), [AniList](https://anilist.co/anime/2129)     |
 | 96  | GJ Club                                                                              | 2013 | 03 Jul 2024 | [SeaDex](https://releases.moe/14811/), [AniList](https://anilist.co/anime/14811)   |
 | 97  | the Garden of sinners Chapter 8: The Final Chapter                                   | 2011 | 17 Jul 2025 | [SeaDex](https://releases.moe/6954/), [AniList](https://anilist.co/anime/6954)     |
 | 98  | Karneval (TV)                                                                        | 2013 | 12 Apr 2025 | [SeaDex](https://releases.moe/16035/), [AniList](https://anilist.co/anime/16035)   |
@@ -133,8 +133,8 @@
 | 130 | Laughing Under the Clouds                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20817/), [AniList](https://anilist.co/anime/20817)   |
 | 131 | Time of Eve: The Movie                                                               | 2010 | 17 Jul 2025 | [SeaDex](https://releases.moe/7465/), [AniList](https://anilist.co/anime/7465)     |
 | 132 | The Testament of Sister New Devil DEPARTURES                                         | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/100451/), [AniList](https://anilist.co/anime/100451) |
-| 133 | RahXephon                                                                            | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
-| 134 | TONIKAWA: Over The Moon For You ~High School Days~                                   | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 133 | TONIKAWA: Over The Moon For You ~High School Days~                                   | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 134 | RahXephon                                                                            | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
 | 135 | Food Wars! The Third Plate: Erina at Polar Star Dormitory                            | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/101924/), [AniList](https://anilist.co/anime/101924) |
 | 136 | Slow Start                                                                           | 2018 | 03 Aug 2025 | [SeaDex](https://releases.moe/98693/), [AniList](https://anilist.co/anime/98693)   |
 | 137 | Expelled From Paradise                                                               | 2014 | 17 Jul 2025 | [SeaDex](https://releases.moe/13391/), [AniList](https://anilist.co/anime/13391)   |
@@ -209,8 +209,8 @@
 | 206 | Bayonetta: Bloody Fate                                                               | 2013 | 19 Aug 2024 | [SeaDex](https://releases.moe/20442/), [AniList](https://anilist.co/anime/20442)   |
 | 207 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://releases.moe/4983/), [AniList](https://anilist.co/anime/4983)     |
 | 208 | Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings               | 2022 | 10 Apr 2025 | [SeaDex](https://releases.moe/143082/), [AniList](https://anilist.co/anime/143082) |
-| 209 | Stella Women's Academy, High School Division Class C3                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/17821/), [AniList](https://anilist.co/anime/17821)   |
-| 210 | Kabaneri of the Iron Fortress: Light That Gathers                                    | 2016 | 09 Dec 2023 | [SeaDex](https://releases.moe/98662/), [AniList](https://anilist.co/anime/98662)   |
+| 209 | Kabaneri of the Iron Fortress: Light That Gathers                                    | 2016 | 09 Dec 2023 | [SeaDex](https://releases.moe/98662/), [AniList](https://anilist.co/anime/98662)   |
+| 210 | Stella Women's Academy, High School Division Class C3                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/17821/), [AniList](https://anilist.co/anime/17821)   |
 | 211 | Beyond the Boundary: Mini Theater                                                    | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20531/), [AniList](https://anilist.co/anime/20531)   |
 | 212 | GIRLS Bravo: second season                                                           | 2005 | 03 Jul 2024 | [SeaDex](https://releases.moe/487/), [AniList](https://anilist.co/anime/487)       |
 | 213 | Waiting in the Summer OVA                                                            | 2014 | 14 Nov 2023 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
@@ -362,8 +362,8 @@
 | 359 | Super High Speed Galvion                                                             | 1984 | 13 Nov 2023 | [SeaDex](https://releases.moe/6636/), [AniList](https://anilist.co/anime/6636)     |
 | 360 | Superdimensional Romanesque Samy: Missing 99                                         | 1986 | 21 Jun 2024 | [SeaDex](https://releases.moe/7192/), [AniList](https://anilist.co/anime/7192)     |
 | 361 | YAMATO2520                                                                           | 1994 | 13 Nov 2023 | [SeaDex](https://releases.moe/6718/), [AniList](https://anilist.co/anime/6718)     |
-| 362 | The Green Cat                                                                        | 1989 | 14 Nov 2023 | [SeaDex](https://releases.moe/11799/), [AniList](https://anilist.co/anime/11799)   |
-| 363 | Uchuu no Kishi Tekkaman Blade: TWIN BLOOD                                            | 1994 | 08 Jun 2025 | [SeaDex](https://releases.moe/2300/), [AniList](https://anilist.co/anime/2300)     |
+| 362 | Uchuu no Kishi Tekkaman Blade: TWIN BLOOD                                            | 1994 | 08 Jun 2025 | [SeaDex](https://releases.moe/2300/), [AniList](https://anilist.co/anime/2300)     |
+| 363 | The Green Cat                                                                        | 1989 | 14 Nov 2023 | [SeaDex](https://releases.moe/11799/), [AniList](https://anilist.co/anime/11799)   |
 | 364 | Hentatsu                                                                             | 2018 | 07 Jul 2024 | [SeaDex](https://releases.moe/111433/), [AniList](https://anilist.co/anime/111433) |
 | 365 | Coluboccoro                                                                          | 2007 | 22 Jun 2024 | [SeaDex](https://releases.moe/11735/), [AniList](https://anilist.co/anime/11735)   |
 | 366 | Amefuri Kozou                                                                        | 1983 | 30 Nov 2023 | [SeaDex](https://releases.moe/6462/), [AniList](https://anilist.co/anime/6462)     |

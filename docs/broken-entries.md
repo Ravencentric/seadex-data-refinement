@@ -51,8 +51,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 44  | DRAMAtical Murder                                                                            | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 45  | Ace of the Diamond Second Season                                                             | 2015 | 29 Apr 2026 | [SeaDex](https://releases.moe/21085/), [AniList](https://anilist.co/anime/21085)   |
 | 46  | Celestial Method                                                                             | 2014 | 02 Feb 2026 | [SeaDex](https://releases.moe/20672/), [AniList](https://anilist.co/anime/20672)   |
-| 47  | RahXephon                                                                                    | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
-| 48  | TONIKAWA: Over The Moon For You ~High School Days~                                           | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 47  | TONIKAWA: Over The Moon For You ~High School Days~                                           | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 48  | RahXephon                                                                                    | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
 | 49  | A Ninja and an Assassin Under One Roof                                                       | 2025 | 11 May 2026 | [SeaDex](https://releases.moe/177120/), [AniList](https://anilist.co/anime/177120) |
 | 50  | Sweet Blue Flowers                                                                           | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6164/), [AniList](https://anilist.co/anime/6164)     |
 | 51  | The Qwaser of Stigmata II                                                                    | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |

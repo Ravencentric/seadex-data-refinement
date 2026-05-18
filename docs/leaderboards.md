@@ -27,7 +27,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | YURI                     | 70    |
 | 12   | Drag / smol              | 58    |
 | 13   | KH                       | 56    |
-| 14   | LostYears                | 44    |
+| 14   | LostYears                | 43    |
 | 15   | GetItTwisted             | 42    |
 | 16   | Arid                     | 41    |
 | 17   | Erai-raws / Okay-Subs    | 40    |
@@ -61,14 +61,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | PMR                                              | 14    |
 | 16   | Arid / LostYears                                 | 13    |
 | 17   | FraMeSToR / Vodes                                | 12    |
-| 18   | DemiHuman / Mehul                                | 10    |
-| 19   | KH / LaCroiX / SCY / hydes                       | 9     |
-| 20   | Meakes                                           | 8     |
-| 21   | BlackRose / IK / Kametsu / fig                   | 7     |
-| 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
-| 23   | CTR / Doc / Holomux / Kuraze & Others            | 5     |
-| 24   | Arg0 / Ignore / Iznjie Biznjie / MK & Others     | 4     |
-| 25   | Aergia / EJF / FateSucks / Hinna & Others        | 3     |
+| 18   | Mehul                                            | 11    |
+| 19   | DemiHuman                                        | 10    |
+| 20   | KH / LaCroiX / SCY / hydes                       | 9     |
+| 21   | Meakes                                           | 8     |
+| 22   | BlackRose / IK / Kametsu / fig                   | 7     |
+| 23   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
+| 24   | CTR / Doc / Holomux / Kuraze & Others            | 5     |
+| 25   | Arg0 / Ignore / Iznjie Biznjie / MK & Others     | 4     |
 
 ## Top 25 - Best entries
 
@@ -92,7 +92,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | YURASUKA                   | 28    |
 | 17   | Orphan                     | 26    |
 | 18   | FLE                        | 25    |
-| 19   | Mehul                      | 21    |
+| 19   | Mehul                      | 22    |
 | 20   | LaCroiX / LazyRemux / Lulu | 20    |
 | 21   | Arid / koala               | 18    |
 | 22   | Flugel                     | 17    |
@@ -112,20 +112,20 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | -ZR- / YURI                                 | 38    |
 | 7    | Commie                                      | 36    |
 | 8    | Erai-raws / hchcsen                         | 33    |
-| 9    | LostYears                                   | 31    |
-| 10   | MTBB / VARYG                                | 30    |
-| 11   | GetItTwisted                                | 28    |
-| 12   | NOGRP                                       | 27    |
-| 13   | Bunny-Apocalypse                            | 25    |
-| 14   | Arid                                        | 24    |
-| 15   | Holomux                                     | 23    |
-| 16   | Chihiro / Kametsu                           | 21    |
-| 17   | CTR                                         | 20    |
-| 18   | Pog42 / SCY                                 | 17    |
-| 19   | Kitsune                                     | 16    |
-| 20   | HorribleSubs                                | 14    |
-| 21   | CBT / Lulu                                  | 13    |
-| 22   | Datte13 / FFF / NH / UDF                    | 12    |
-| 23   | Mysteria / Netaro / SEV / o7                | 11    |
-| 24   | Asakura / CyC                               | 10    |
-| 25   | GSK_kun / Pookie / Tsundere / WBDP & Others | 9     |
+| 9    | LostYears / MTBB / VARYG                    | 30    |
+| 10   | GetItTwisted                                | 29    |
+| 11   | NOGRP                                       | 27    |
+| 12   | Bunny-Apocalypse                            | 25    |
+| 13   | Arid                                        | 24    |
+| 14   | Holomux                                     | 23    |
+| 15   | Chihiro / Kametsu                           | 21    |
+| 16   | CTR                                         | 20    |
+| 17   | Pog42 / SCY                                 | 17    |
+| 18   | Kitsune                                     | 16    |
+| 19   | HorribleSubs                                | 14    |
+| 20   | CBT / Lulu                                  | 13    |
+| 21   | Datte13 / FFF / NH / UDF                    | 12    |
+| 22   | Mysteria / Netaro / SEV / o7                | 11    |
+| 23   | Asakura / CyC                               | 10    |
+| 24   | GSK_kun / Pookie / Tsundere / WBDP & Others | 9     |
+| 25   | RASETSU / Reza / Starbez / crane0922        | 8     |

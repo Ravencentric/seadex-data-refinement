@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `137.6 TiB`
+- Total size: `137.7 TiB`
 - Best size: `104.6 TiB`
-- Alt size: `33.0 TiB`
-- Realistic size: `107.5 TiB`
+- Alt size: `33.1 TiB`
+- Realistic size: `107.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -31,8 +31,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | TTGA             | 2.8 TiB    | 2.7 TiB (93.76%)    | 39 (~74.3 GiB each)   |
 | 10   | B00BA            | 2.8 TiB    | 2.8 TiB (100.00%)   | 31 (~92.3 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
-| 12   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
-| 13   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (75.34%)    | 57 (~28.6 GiB each)   |
+| 12   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (74.01%)    | 58 (~28.6 GiB each)   |
+| 13   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
 | 14   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
 | 15   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 16   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
@@ -49,12 +49,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 27   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
 | 28   | Holomux          | 854.9 GiB  | 193.5 GiB (22.63%)  | 33 (~25.9 GiB each)   |
 | 29   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 30   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 31   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
-| 32   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
-| 33   | ZeroBuild        | 761.7 GiB  | 712.7 GiB (93.57%)  | 17 (~44.8 GiB each)   |
-| 34   | LostYears        | 738.3 GiB  | 207.6 GiB (28.12%)  | 44 (~16.8 GiB each)   |
-| 35   | Mehul            | 735.2 GiB  | 735.2 GiB (100.00%) | 23 (~32.0 GiB each)   |
+| 30   | Mehul            | 835.9 GiB  | 817.7 GiB (97.82%)  | 25 (~33.4 GiB each)   |
+| 31   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 32   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
+| 33   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
+| 34   | ZeroBuild        | 761.7 GiB  | 712.7 GiB (93.57%)  | 17 (~44.8 GiB each)   |
+| 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
 | 36   | Erai-raws        | 676.8 GiB  | 100.4 GiB (14.83%)  | 40 (~16.9 GiB each)   |
 | 37   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
 | 38   | Bunny-Apocalypse | 657.3 GiB  | 161.0 GiB (24.49%)  | 31 (~21.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 45.1 TiB   | 24.4 TiB (54.19%)   | 2001 (~23.1 GiB each) |
+| 50   | Others           | 45.1 TiB   | 24.4 TiB (54.20%)   | 2000 (~23.1 GiB each) |
