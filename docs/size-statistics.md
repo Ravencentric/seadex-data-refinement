@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `138.0 TiB`
-- Best size: `104.8 TiB`
+- Total size: `138.3 TiB`
+- Best size: `105.1 TiB`
 - Alt size: `33.2 TiB`
-- Realistic size: `107.9 TiB`
+- Realistic size: `108.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -23,8 +23,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.8 TiB   | 13.0 TiB (94.13%)   | 187 (~75.5 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.2 TiB    | 8.1 TiB (99.08%)    | 110 (~76.2 GiB each)  |
-| 4    | hchcsen          | 5.3 TiB    | 4.3 TiB (80.27%)    | 81 (~67.5 GiB each)   |
-| 5    | Headpatter       | 4.5 TiB    | 3.5 TiB (78.02%)    | 143 (~32.1 GiB each)  |
+| 4    | hchcsen          | 5.5 TiB    | 4.4 TiB (80.68%)    | 83 (~67.2 GiB each)   |
+| 5    | Headpatter       | 4.5 TiB    | 3.5 TiB (77.47%)    | 144 (~32.1 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
@@ -37,8 +37,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 15   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 16   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 17   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
-| 18   | SubsPlease       | 1.2 TiB    | 161.3 GiB (12.83%)  | 73 (~17.2 GiB each)   |
-| 19   | NOGRP            | 1.1 TiB    | 786.3 GiB (71.23%)  | 38 (~29.0 GiB each)   |
+| 18   | NOGRP            | 1.2 TiB    | 949.3 GiB (74.88%)  | 39 (~32.5 GiB each)   |
+| 19   | SubsPlease       | 1.2 TiB    | 161.3 GiB (12.83%)  | 73 (~17.2 GiB each)   |
 | 20   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
 | 21   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 22   | YURASUKA         | 998.1 GiB  | 354.1 GiB (35.47%)  | 87 (~11.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 45.1 TiB   | 24.5 TiB (54.30%)   | 1999 (~23.1 GiB each) |
+| 50   | Others           | 45.1 TiB   | 24.5 TiB (54.33%)   | 2000 (~23.1 GiB each) |

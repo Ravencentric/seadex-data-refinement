@@ -27,8 +27,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 20  | Inu X Boku Secret Service                                                                    | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/11013/), [AniList](https://anilist.co/anime/11013)   |
 | 21  | Heaven's Lost Property                                                                       | 2009 | 01 Feb 2026 | [SeaDex](https://releases.moe/5958/), [AniList](https://anilist.co/anime/5958)     |
 | 22  | The Future Diary: Redial                                                                     | 2013 | 02 Feb 2026 | [SeaDex](https://releases.moe/16762/), [AniList](https://anilist.co/anime/16762)   |
-| 23  | Life Lessons with Uramichi Oniisan                                                           | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
-| 24  | How a Realist Hero Rebuilt the Kingdom Part 2                                                | 2022 | 06 Aug 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
+| 23  | How a Realist Hero Rebuilt the Kingdom Part 2                                                | 2022 | 06 Aug 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
+| 24  | Life Lessons with Uramichi Oniisan                                                           | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 25  | The Elusive Samurai                                                                          | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 26  | LAID-BACK CAMP SEASON2                                                                       | 2021 | 13 Aug 2025 | [SeaDex](https://releases.moe/104459/), [AniList](https://anilist.co/anime/104459) |
 | 27  | Hell Girl                                                                                    | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
@@ -72,7 +72,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 65  | Le Chevalier D'Eon                                                                           | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 66  | Air Gear: Special Trick                                                                      | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
 | 67  | Garo: Crimson Moon                                                                           | 2015 | 07 Nov 2025 | [SeaDex](https://releases.moe/21277/), [AniList](https://anilist.co/anime/21277)   |
-| 68  | Minami-ke: Omatase                                                                           | 2012 | 12 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
+| 68  | Minami-ke: Omatase                                                                           | 2012 | 19 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
 | 69  | Minami-ke: Betsubara                                                                         | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5713/), [AniList](https://anilist.co/anime/5713)     |
 | 70  | Granblue Fantasy: The Animation Special                                                      | 2017 | 26 Feb 2025 | [SeaDex](https://releases.moe/100469/), [AniList](https://anilist.co/anime/100469) |
 | 71  | Minami-ke Natsuyasumi                                                                        | 2013 | 12 May 2026 | [SeaDex](https://releases.moe/20221/), [AniList](https://anilist.co/anime/20221)   |
