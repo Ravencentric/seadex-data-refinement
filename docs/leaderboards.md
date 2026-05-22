@@ -28,8 +28,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | KH                               | 56    |
 | 13   | LostYears                        | 43    |
 | 14   | GetItTwisted                     | 42    |
-| 15   | Arid                             | 41    |
-| 16   | Erai-raws / Okay-Subs            | 40    |
+| 15   | Arid / Erai-raws                 | 41    |
+| 16   | Okay-Subs                        | 40    |
 | 17   | NOGRP / TTGA                     | 39    |
 | 18   | PMR                              | 38    |
 | 19   | Commie / LYS1TH3A                | 36    |
@@ -47,7 +47,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR- / CRUCiBLE                                  | 108   |
 | 🥈   | sam                                              | 92    |
 | 🥉   | NAN0                                             | 84    |
-| 4    | hchcsen                                          | 42    |
+| 4    | hchcsen                                          | 43    |
 | 5    | Headpatter / LYS1TH3A                            | 33    |
 | 6    | TTGA                                             | 28    |
 | 7    | FLE / smol                                       | 23    |
@@ -82,7 +82,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Headpatter                 | 82    |
 | 7    | MTBB                       | 76    |
 | 8    | smol                       | 56    |
-| 9    | hchcsen                    | 49    |
+| 9    | hchcsen                    | 50    |
 | 10   | Okay-Subs / PMR            | 38    |
 | 11   | TTGA                       | 37    |
 | 12   | LYS1TH3A                   | 34    |
@@ -111,8 +111,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | Drag                                        | 43    |
 | 6    | -ZR- / YURI                                 | 38    |
 | 7    | Commie                                      | 36    |
-| 8    | hchcsen                                     | 34    |
-| 9    | Erai-raws                                   | 33    |
+| 8    | Erai-raws                                   | 34    |
+| 9    | hchcsen                                     | 33    |
 | 10   | LostYears / MTBB                            | 30    |
 | 11   | GetItTwisted / VARYG                        | 29    |
 | 12   | NOGRP                                       | 27    |
