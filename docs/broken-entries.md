@@ -34,8 +34,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 27  | Hell Girl                                                                                    | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
 | 28  | ONIMAI: I'm Now Your Sister!                                                                 | 2023 | 07 Aug 2025 | [SeaDex](https://releases.moe/147864/), [AniList](https://anilist.co/anime/147864) |
 | 29  | K: RETURN OF KINGS                                                                           | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
-| 30  | Ace of the Diamond                                                                           | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
-| 31  | Monster Girl Doctor                                                                          | 2020 | 10 May 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
+| 30  | Monster Girl Doctor                                                                          | 2020 | 10 May 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
+| 31  | Ace of the Diamond                                                                           | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
 | 32  | Air Gear                                                                                     | 2006 | 05 Jan 2026 | [SeaDex](https://releases.moe/857/), [AniList](https://anilist.co/anime/857)       |
 | 33  | KanColle                                                                                     | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 34  | Puella Magi Madoka Magica the Movie Part 1: Beginnings                                       | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11977/), [AniList](https://anilist.co/anime/11977)   |

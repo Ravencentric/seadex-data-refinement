@@ -120,8 +120,8 @@
 | 117 | the Garden of sinners -recalled out summer-                                          | 2013 | 17 Jul 2025 | [SeaDex](https://releases.moe/14807/), [AniList](https://anilist.co/anime/14807)   |
 | 118 | Food Wars! Shokugeki no Soma OVA                                                     | 2016 | 12 Apr 2026 | [SeaDex](https://releases.moe/21691/), [AniList](https://anilist.co/anime/21691)   |
 | 119 | Tekkonkinkreet                                                                       | 2006 | 26 Apr 2026 | [SeaDex](https://releases.moe/2154/), [AniList](https://anilist.co/anime/2154)     |
-| 120 | Metropolis                                                                           | 2001 | 02 Aug 2025 | [SeaDex](https://releases.moe/522/), [AniList](https://anilist.co/anime/522)       |
-| 121 | Attack on Titan ~Chronicle~                                                          | 2020 | 19 Jun 2025 | [SeaDex](https://releases.moe/119113/), [AniList](https://anilist.co/anime/119113) |
+| 120 | Attack on Titan ~Chronicle~                                                          | 2020 | 19 Jun 2025 | [SeaDex](https://releases.moe/119113/), [AniList](https://anilist.co/anime/119113) |
+| 121 | Metropolis                                                                           | 2001 | 02 Aug 2025 | [SeaDex](https://releases.moe/522/), [AniList](https://anilist.co/anime/522)       |
 | 122 | ROOM CAMP                                                                            | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/104461/), [AniList](https://anilist.co/anime/104461) |
 | 123 | Baby Steps                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20510/), [AniList](https://anilist.co/anime/20510)   |
 | 124 | Ao Haru Ride: unwritten                                                              | 2014 | 17 Nov 2025 | [SeaDex](https://releases.moe/20837/), [AniList](https://anilist.co/anime/20837)   |

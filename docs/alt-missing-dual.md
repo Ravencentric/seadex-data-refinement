@@ -83,8 +83,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 76  | Date A Live II: Kurumi Star Festival                                                       | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
 | 77  | Gurren Lagann The Movie: The Lights in the Sky are Stars                                   | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
 | 78  | Sarazanmai                                                                                 | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
-| 79  | Tiger & Bunny                                                                              | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
-| 80  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 79  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 80  | Tiger & Bunny                                                                              | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
 | 81  | RE-MAIN                                                                                    | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
 | 82  | Pretty Boy Detective Club                                                                  | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
 | 83  | SUPER HXEROS                                                                               | 2020 | 29 Sep 2025 | [SeaDex](https://releases.moe/112818/), [AniList](https://anilist.co/anime/112818) |
