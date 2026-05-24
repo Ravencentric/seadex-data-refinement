@@ -22,7 +22,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 15  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 16  | The Elusive Samurai                                                        | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 17  | I Parry Everything                                                         | 2024 | 15 Sep 2025 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
-| 18  | Urusei Yatsura (2022)                                                      | 2022 | 11 Jun 2025 | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
+| 18  | Urusei Yatsura (2022) Seasons 1 & 2                                        | 2022 | 11 Jun 2025 | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
 | 19  | FLIP FLAPPERS                                                              | 2016 | 10 Feb 2026 | [SeaDex](https://releases.moe/21714/), [AniList](https://anilist.co/anime/21714)   |
 | 20  | K: RETURN OF KINGS                                                         | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 21  | Clannad: Another World, Tomoyo Chapter                                     | 2008 | 07 Sep 2025 | [SeaDex](https://releases.moe/4059/), [AniList](https://anilist.co/anime/4059)     |

@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                             | 176   |
 | 🥈   | CRUCiBLE                         | 136   |
 | 🥉   | Headpatter / sam                 | 132   |
-| 4    | NAN0                             | 110   |
+| 4    | NAN0                             | 111   |
 | 5    | MTBB                             | 106   |
 | 6    | Moxie                            | 97    |
 | 7    | YURASUKA                         | 87    |
@@ -27,8 +27,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | Drag / smol                      | 58    |
 | 12   | KH                               | 56    |
 | 13   | LostYears                        | 43    |
-| 14   | GetItTwisted                     | 42    |
-| 15   | Arid / Erai-raws                 | 41    |
+| 14   | Erai-raws / GetItTwisted         | 42    |
+| 15   | Arid                             | 41    |
 | 16   | Okay-Subs                        | 40    |
 | 17   | NOGRP / TTGA                     | 39    |
 | 18   | PMR                              | 38    |
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                       | 149   |
 | 🥈   | CRUCiBLE                   | 136   |
 | 🥉   | sam                        | 123   |
-| 4    | NAN0                       | 109   |
+| 4    | NAN0                       | 110   |
 | 5    | Moxie                      | 97    |
 | 6    | Headpatter                 | 82    |
 | 7    | MTBB                       | 76    |
@@ -111,7 +111,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | Drag                                        | 43    |
 | 6    | -ZR- / YURI                                 | 38    |
 | 7    | Commie                                      | 36    |
-| 8    | Erai-raws                                   | 34    |
+| 8    | Erai-raws                                   | 35    |
 | 9    | hchcsen                                     | 33    |
 | 10   | LostYears / MTBB                            | 30    |
 | 11   | GetItTwisted / VARYG                        | 29    |
