@@ -177,8 +177,8 @@
 | 174 | Blue Exorcist Specials                                                               | 2011 | 25 Nov 2024 | [SeaDex](https://releases.moe/10647/), [AniList](https://anilist.co/anime/10647)   |
 | 175 | Wicked City                                                                          | 1987 | 04 Aug 2025 | [SeaDex](https://releases.moe/1107/), [AniList](https://anilist.co/anime/1107)     |
 | 176 | Accel World: Infinite∞Burst                                                          | 2016 | 27 Jul 2024 | [SeaDex](https://releases.moe/21404/), [AniList](https://anilist.co/anime/21404)   |
-| 177 | Aquarion EVOL                                                                        | 2012 | 16 Aug 2024 | [SeaDex](https://releases.moe/10447/), [AniList](https://anilist.co/anime/10447)   |
-| 178 | Angel's 3Piece!                                                                      | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683)   |
+| 177 | Angel's 3Piece!                                                                      | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683)   |
+| 178 | Aquarion EVOL                                                                        | 2012 | 16 Aug 2024 | [SeaDex](https://releases.moe/10447/), [AniList](https://anilist.co/anime/10447)   |
 | 179 | Patlabor: The Movie                                                                  | 1989 | 08 Jun 2025 | [SeaDex](https://releases.moe/1095/), [AniList](https://anilist.co/anime/1095)     |
 | 180 | Strike Witches 2                                                                     | 2010 | 14 Nov 2023 | [SeaDex](https://releases.moe/6381/), [AniList](https://anilist.co/anime/6381)     |
 | 181 | Asobi Asobase -workshop of fun- OVA                                                  | 2018 | 08 May 2024 | [SeaDex](https://releases.moe/104170/), [AniList](https://anilist.co/anime/104170) |
@@ -198,8 +198,8 @@
 | 195 | Durarara!! X2 The Third Arc: DuFuFuFu!!                                              | 2016 | 27 Jun 2024 | [SeaDex](https://releases.moe/21695/), [AniList](https://anilist.co/anime/21695)   |
 | 196 | The Dragon Dentist                                                                   | 2017 | 11 Nov 2023 | [SeaDex](https://releases.moe/87539/), [AniList](https://anilist.co/anime/87539)   |
 | 197 | Kabaneri of the Iron Fortress: Life That Burns                                       | 2017 | 09 Dec 2023 | [SeaDex](https://releases.moe/98663/), [AniList](https://anilist.co/anime/98663)   |
-| 198 | Girls und Panzer das Finale - Part 2                                                 | 2019 | 22 Nov 2023 | [SeaDex](https://releases.moe/107208/), [AniList](https://anilist.co/anime/107208) |
-| 199 | Bungaku Shoujo                                                                       | 2010 | 18 Jun 2024 | [SeaDex](https://releases.moe/6408/), [AniList](https://anilist.co/anime/6408)     |
+| 198 | Bungaku Shoujo                                                                       | 2010 | 18 Jun 2024 | [SeaDex](https://releases.moe/6408/), [AniList](https://anilist.co/anime/6408)     |
+| 199 | Girls und Panzer das Finale - Part 2                                                 | 2019 | 22 Nov 2023 | [SeaDex](https://releases.moe/107208/), [AniList](https://anilist.co/anime/107208) |
 | 200 | Library War                                                                          | 2008 | 02 Aug 2025 | [SeaDex](https://releases.moe/3613/), [AniList](https://anilist.co/anime/3613)     |
 | 201 | Spice and Wolf II Specials                                                           | 2009 | 03 Aug 2025 | [SeaDex](https://releases.moe/6884/), [AniList](https://anilist.co/anime/6884)     |
 | 202 | Re-Kan!                                                                              | 2015 | 18 Nov 2023 | [SeaDex](https://releases.moe/20814/), [AniList](https://anilist.co/anime/20814)   |
@@ -229,12 +229,12 @@
 | 226 | Overlord: Ple Ple Pleiades 2                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/101083/), [AniList](https://anilist.co/anime/101083) |
 | 227 | Natsume's Book of Friends Season 6 Specials                                          | 2017 | 02 Oct 2024 | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
 | 228 | Seven Days War                                                                       | 2019 | 28 Nov 2024 | [SeaDex](https://releases.moe/101610/), [AniList](https://anilist.co/anime/101610) |
-| 229 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
-| 230 | Dropkick on My Devil! Episode 12                                                     | 2018 | 26 Jun 2024 | [SeaDex](https://releases.moe/104278/), [AniList](https://anilist.co/anime/104278) |
+| 229 | Dropkick on My Devil! Episode 12                                                     | 2018 | 26 Jun 2024 | [SeaDex](https://releases.moe/104278/), [AniList](https://anilist.co/anime/104278) |
+| 230 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
 | 231 | One Room 3rd                                                                         | 2020 | 30 Dec 2023 | [SeaDex](https://releases.moe/116147/), [AniList](https://anilist.co/anime/116147) |
 | 232 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
-| 233 | School Days: Valentine Days                                                          | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3759/), [AniList](https://anilist.co/anime/3759)     |
-| 234 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
+| 233 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
+| 234 | School Days: Valentine Days                                                          | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3759/), [AniList](https://anilist.co/anime/3759)     |
 | 235 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
 | 236 | Pingu in the City                                                                    | 2017 | 27 Dec 2023 | [SeaDex](https://releases.moe/99994/), [AniList](https://anilist.co/anime/99994)   |
 | 237 | The Master of Killing Time OVA                                                       | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20600/), [AniList](https://anilist.co/anime/20600)   |

@@ -14,15 +14,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                            | Count |
 | :----| :--------------------------------| :-----|
-| 🥇   | -ZR-                             | 176   |
+| 🥇   | -ZR-                             | 177   |
 | 🥈   | CRUCiBLE                         | 136   |
 | 🥉   | Headpatter / sam                 | 132   |
 | 4    | NAN0                             | 111   |
 | 5    | MTBB                             | 106   |
 | 6    | Moxie                            | 97    |
-| 7    | YURASUKA                         | 87    |
+| 7    | YURASUKA                         | 88    |
 | 8    | hchcsen                          | 78    |
-| 9    | SubsPlease                       | 73    |
+| 9    | SubsPlease                       | 75    |
 | 10   | YURI                             | 70    |
 | 11   | Drag / smol                      | 58    |
 | 12   | KH                               | 56    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                      | Count |
 | :----| :--------------------------| :-----|
-| 🥇   | -ZR-                       | 149   |
+| 🥇   | -ZR-                       | 150   |
 | 🥈   | CRUCiBLE                   | 136   |
 | 🥉   | sam                        | 123   |
 | 4    | NAN0                       | 110   |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :-------------------------------------------| :-----|
 | 🥇   | SubsPlease                                  | 63    |
 | 🥈   | Headpatter                                  | 62    |
-| 🥉   | YURASUKA                                    | 59    |
+| 🥉   | YURASUKA                                    | 60    |
 | 4    | KH                                          | 47    |
 | 5    | Drag                                        | 43    |
 | 6    | -ZR- / YURI                                 | 38    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | HorribleSubs                                | 14    |
 | 21   | CBT / Lulu                                  | 13    |
 | 22   | Datte13 / FFF / NH / UDF                    | 12    |
-| 23   | Mysteria / Netaro / SEV / o7                | 11    |
+| 23   | Mysteria / Netaro / SEV / WBDP / o7         | 11    |
 | 24   | Asakura / CyC                               | 10    |
-| 25   | GSK_kun / Pookie / Tsundere / WBDP & Others | 9     |
+| 25   | GSK_kun / Pookie / Tsundere / Yoghurt / sam | 9     |
