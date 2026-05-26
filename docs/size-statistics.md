@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `138.7 TiB`
-- Best size: `105.4 TiB`
+- Total size: `138.8 TiB`
+- Best size: `105.5 TiB`
 - Alt size: `33.3 TiB`
-- Realistic size: `108.4 TiB`
+- Realistic size: `108.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -23,8 +23,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.16%)   | 188 (~75.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.2 TiB (99.09%)    | 111 (~76.1 GiB each)  |
-| 4    | hchcsen          | 5.4 TiB    | 4.5 TiB (83.50%)    | 83 (~66.4 GiB each)   |
-| 5    | Headpatter       | 4.5 TiB    | 3.5 TiB (77.47%)    | 144 (~32.1 GiB each)  |
+| 4    | hchcsen          | 5.5 TiB    | 4.5 TiB (82.03%)    | 84 (~66.8 GiB each)   |
+| 5    | Headpatter       | 4.5 TiB    | 3.5 TiB (77.19%)    | 145 (~32.0 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
@@ -55,7 +55,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 33   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 34   | ZeroBuild        | 761.7 GiB  | 712.7 GiB (93.57%)  | 17 (~44.8 GiB each)   |
 | 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
-| 36   | Erai-raws        | 709.2 GiB  | 100.4 GiB (14.16%)  | 42 (~16.9 GiB each)   |
+| 36   | Erai-raws        | 692.9 GiB  | 100.4 GiB (14.49%)  | 41 (~16.9 GiB each)   |
 | 37   | Lulu             | 664.4 GiB  | 339.0 GiB (51.02%)  | 33 (~20.1 GiB each)   |
 | 38   | Bunny-Apocalypse | 657.3 GiB  | 161.0 GiB (24.49%)  | 31 (~21.2 GiB each)   |
 | 39   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 45.4 TiB   | 24.6 TiB (54.23%)   | 2009 (~23.1 GiB each) |
+| 50   | Others           | 45.4 TiB   | 24.6 TiB (54.28%)   | 2010 (~23.1 GiB each) |

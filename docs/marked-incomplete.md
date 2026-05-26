@@ -120,8 +120,8 @@
 | 117 | the Garden of sinners -recalled out summer-                                          | 2013 | 17 Jul 2025 | [SeaDex](https://releases.moe/14807/), [AniList](https://anilist.co/anime/14807)   |
 | 118 | Food Wars! Shokugeki no Soma OVA                                                     | 2016 | 12 Apr 2026 | [SeaDex](https://releases.moe/21691/), [AniList](https://anilist.co/anime/21691)   |
 | 119 | Tekkonkinkreet                                                                       | 2006 | 26 Apr 2026 | [SeaDex](https://releases.moe/2154/), [AniList](https://anilist.co/anime/2154)     |
-| 120 | Attack on Titan ~Chronicle~                                                          | 2020 | 19 Jun 2025 | [SeaDex](https://releases.moe/119113/), [AniList](https://anilist.co/anime/119113) |
-| 121 | Metropolis                                                                           | 2001 | 02 Aug 2025 | [SeaDex](https://releases.moe/522/), [AniList](https://anilist.co/anime/522)       |
+| 120 | Metropolis                                                                           | 2001 | 02 Aug 2025 | [SeaDex](https://releases.moe/522/), [AniList](https://anilist.co/anime/522)       |
+| 121 | Attack on Titan ~Chronicle~                                                          | 2020 | 19 Jun 2025 | [SeaDex](https://releases.moe/119113/), [AniList](https://anilist.co/anime/119113) |
 | 122 | ROOM CAMP                                                                            | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/104461/), [AniList](https://anilist.co/anime/104461) |
 | 123 | Baby Steps                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20510/), [AniList](https://anilist.co/anime/20510)   |
 | 124 | Ao Haru Ride: unwritten                                                              | 2014 | 17 Nov 2025 | [SeaDex](https://releases.moe/20837/), [AniList](https://anilist.co/anime/20837)   |
@@ -132,8 +132,8 @@
 | 129 | Monster Musume: Everyday Life With Monster Girls OVA                                 | 2016 | 24 Jan 2024 | [SeaDex](https://releases.moe/21650/), [AniList](https://anilist.co/anime/21650)   |
 | 130 | Tsugumomo2                                                                           | 2020 | 20 Apr 2025 | [SeaDex](https://releases.moe/108266/), [AniList](https://anilist.co/anime/108266) |
 | 131 | Laughing Under the Clouds                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20817/), [AniList](https://anilist.co/anime/20817)   |
-| 132 | Time of Eve: The Movie                                                               | 2010 | 17 Jul 2025 | [SeaDex](https://releases.moe/7465/), [AniList](https://anilist.co/anime/7465)     |
-| 133 | TONIKAWA: Over The Moon For You ~High School Days~                                   | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 132 | TONIKAWA: Over The Moon For You ~High School Days~                                   | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 133 | Time of Eve: The Movie                                                               | 2010 | 17 Jul 2025 | [SeaDex](https://releases.moe/7465/), [AniList](https://anilist.co/anime/7465)     |
 | 134 | The Testament of Sister New Devil DEPARTURES                                         | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/100451/), [AniList](https://anilist.co/anime/100451) |
 | 135 | RahXephon                                                                            | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
 | 136 | Food Wars! The Third Plate: Erina at Polar Star Dormitory                            | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/101924/), [AniList](https://anilist.co/anime/101924) |
@@ -233,8 +233,8 @@
 | 230 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
 | 231 | One Room 3rd                                                                         | 2020 | 30 Dec 2023 | [SeaDex](https://releases.moe/116147/), [AniList](https://anilist.co/anime/116147) |
 | 232 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
-| 233 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
-| 234 | School Days: Valentine Days                                                          | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3759/), [AniList](https://anilist.co/anime/3759)     |
+| 233 | School Days: Valentine Days                                                          | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3759/), [AniList](https://anilist.co/anime/3759)     |
+| 234 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 235 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
 | 236 | Pingu in the City                                                                    | 2017 | 27 Dec 2023 | [SeaDex](https://releases.moe/99994/), [AniList](https://anilist.co/anime/99994)   |
 | 237 | The Master of Killing Time OVA                                                       | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20600/), [AniList](https://anilist.co/anime/20600)   |
@@ -301,8 +301,8 @@
 | 298 | Gunslinger Girl: Il Teatrino OVA                                                     | 2008 | 06 Jul 2024 | [SeaDex](https://releases.moe/4765/), [AniList](https://anilist.co/anime/4765)     |
 | 299 | Toward the Terra                                                                     | 1980 | 17 Jul 2025 | [SeaDex](https://releases.moe/2560/), [AniList](https://anilist.co/anime/2560)     |
 | 300 | Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou                            | 2014 | 12 Jul 2024 | [SeaDex](https://releases.moe/20846/), [AniList](https://anilist.co/anime/20846)   |
-| 301 | Ichigo Mashimaro Episode 0                                                           | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/4156/), [AniList](https://anilist.co/anime/4156)     |
-| 302 | Call Me Tonight                                                                      | 1986 | 18 Jun 2024 | [SeaDex](https://releases.moe/2147/), [AniList](https://anilist.co/anime/2147)     |
+| 301 | Call Me Tonight                                                                      | 1986 | 18 Jun 2024 | [SeaDex](https://releases.moe/2147/), [AniList](https://anilist.co/anime/2147)     |
+| 302 | Ichigo Mashimaro Episode 0                                                           | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/4156/), [AniList](https://anilist.co/anime/4156)     |
 | 303 | Senyuu. Specials                                                                     | 2013 | 15 Nov 2023 | [SeaDex](https://releases.moe/17391/), [AniList](https://anilist.co/anime/17391)   |
 | 304 | .hack//INTERMEZZO                                                                    | 2003 | 05 Jun 2025 | [SeaDex](https://releases.moe/1143/), [AniList](https://anilist.co/anime/1143)     |
 | 305 | Oreimo Animated Commentary                                                           | 2010 | 28 Nov 2024 | [SeaDex](https://releases.moe/10108/), [AniList](https://anilist.co/anime/10108)   |

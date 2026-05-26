@@ -16,29 +16,29 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :--------------------------------| :-----|
 | 🥇   | -ZR-                             | 177   |
 | 🥈   | CRUCiBLE                         | 136   |
-| 🥉   | Headpatter / sam                 | 132   |
-| 4    | NAN0                             | 111   |
-| 5    | MTBB                             | 106   |
-| 6    | Moxie                            | 97    |
-| 7    | YURASUKA                         | 88    |
-| 8    | hchcsen                          | 78    |
-| 9    | SubsPlease                       | 75    |
-| 10   | YURI                             | 70    |
-| 11   | Drag / smol                      | 58    |
-| 12   | KH                               | 56    |
-| 13   | LostYears                        | 43    |
-| 14   | Erai-raws / GetItTwisted         | 42    |
-| 15   | Arid                             | 41    |
-| 16   | Okay-Subs                        | 40    |
-| 17   | NOGRP / TTGA                     | 39    |
-| 18   | PMR                              | 38    |
-| 19   | Commie / LYS1TH3A                | 36    |
-| 20   | Holomux / Lulu                   | 32    |
-| 21   | B00BA / Bunny-Apocalypse / VARYG | 31    |
-| 22   | Kametsu                          | 29    |
-| 23   | Orphan / Pog42                   | 28    |
-| 24   | FLE                              | 27    |
-| 25   | SCY                              | 26    |
+| 🥉   | Headpatter                       | 133   |
+| 4    | sam                              | 132   |
+| 5    | NAN0                             | 111   |
+| 6    | MTBB                             | 106   |
+| 7    | Moxie                            | 97    |
+| 8    | YURASUKA                         | 88    |
+| 9    | hchcsen                          | 79    |
+| 10   | SubsPlease                       | 75    |
+| 11   | YURI                             | 70    |
+| 12   | Drag / smol                      | 58    |
+| 13   | KH                               | 56    |
+| 14   | LostYears                        | 43    |
+| 15   | GetItTwisted                     | 42    |
+| 16   | Arid / Erai-raws                 | 41    |
+| 17   | Okay-Subs                        | 40    |
+| 18   | NOGRP / TTGA                     | 39    |
+| 19   | PMR                              | 38    |
+| 20   | Commie / LYS1TH3A                | 36    |
+| 21   | Holomux / Lulu                   | 32    |
+| 22   | B00BA / Bunny-Apocalypse / VARYG | 31    |
+| 23   | Kametsu                          | 29    |
+| 24   | Orphan / Pog42                   | 28    |
+| 25   | FLE                              | 27    |
 
 ## Top 25 - Best dual audio entries
 
@@ -104,28 +104,28 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                       | Count |
 | :----| :-------------------------------------------| :-----|
-| 🥇   | SubsPlease                                  | 63    |
-| 🥈   | Headpatter                                  | 62    |
-| 🥉   | YURASUKA                                    | 60    |
-| 4    | KH                                          | 47    |
-| 5    | Drag                                        | 43    |
-| 6    | -ZR- / YURI                                 | 38    |
-| 7    | Commie                                      | 36    |
-| 8    | Erai-raws                                   | 35    |
-| 9    | hchcsen                                     | 33    |
-| 10   | LostYears / MTBB                            | 30    |
-| 11   | GetItTwisted / VARYG                        | 29    |
-| 12   | NOGRP                                       | 27    |
-| 13   | Bunny-Apocalypse                            | 25    |
-| 14   | Arid                                        | 24    |
-| 15   | Holomux                                     | 23    |
-| 16   | Chihiro / Kametsu                           | 21    |
-| 17   | CTR                                         | 20    |
-| 18   | Pog42                                       | 17    |
-| 19   | Kitsune / SCY                               | 16    |
-| 20   | HorribleSubs                                | 14    |
-| 21   | CBT / Lulu                                  | 13    |
-| 22   | Datte13 / FFF / NH / UDF                    | 12    |
-| 23   | Mysteria / Netaro / SEV / WBDP / o7         | 11    |
-| 24   | Asakura / CyC                               | 10    |
-| 25   | GSK_kun / Pookie / Tsundere / Yoghurt / sam | 9     |
+| 🥇   | Headpatter / SubsPlease                     | 63    |
+| 🥈   | YURASUKA                                    | 60    |
+| 🥉   | KH                                          | 47    |
+| 4    | Drag                                        | 43    |
+| 5    | -ZR- / YURI                                 | 38    |
+| 6    | Commie                                      | 36    |
+| 7    | Erai-raws / hchcsen                         | 34    |
+| 8    | LostYears / MTBB                            | 30    |
+| 9    | GetItTwisted / VARYG                        | 29    |
+| 10   | NOGRP                                       | 27    |
+| 11   | Bunny-Apocalypse                            | 25    |
+| 12   | Arid                                        | 24    |
+| 13   | Holomux                                     | 23    |
+| 14   | Chihiro / Kametsu                           | 21    |
+| 15   | CTR                                         | 20    |
+| 16   | Pog42                                       | 17    |
+| 17   | Kitsune / SCY                               | 16    |
+| 18   | HorribleSubs                                | 14    |
+| 19   | CBT / Lulu                                  | 13    |
+| 20   | Datte13 / FFF / NH / UDF                    | 12    |
+| 21   | Mysteria / Netaro / SEV / WBDP / o7         | 11    |
+| 22   | Asakura / CyC                               | 10    |
+| 23   | GSK_kun / Pookie / Tsundere / Yoghurt / sam | 9     |
+| 24   | RASETSU / Reza / Starbez / crane0922        | 8     |
+| 25   | Baws / BlurayDesuYo / Exp / LCE & Others    | 7     |
