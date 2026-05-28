@@ -5,11 +5,11 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                     | Year | Updated At  | Links                                                                              |
 | :---| :---------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | The Apothecary Diaries Season 2                           | 2025 | 25 May 2026 | [SeaDex](https://releases.moe/176301/), [AniList](https://anilist.co/anime/176301) |
-| 2   | Cosmic Princess Kaguya!                                   | 2026 | 25 May 2026 | [SeaDex](https://releases.moe/201903/), [AniList](https://anilist.co/anime/201903) |
-| 3   | The Heroic Legend of Arslan: Dust Storm Dance             | 2016 | 24 May 2026 | [SeaDex](https://releases.moe/21424/), [AniList](https://anilist.co/anime/21424)   |
-| 4   | The Heroic Legend of Arslan                               | 2015 | 24 May 2026 | [SeaDex](https://releases.moe/20935/), [AniList](https://anilist.co/anime/20935)   |
-| 5   | Revenger                                                  | 2023 | 21 May 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
+| 1   | Revenger                                                  | 2023 | 27 May 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
+| 2   | The Apothecary Diaries Season 2                           | 2025 | 25 May 2026 | [SeaDex](https://releases.moe/176301/), [AniList](https://anilist.co/anime/176301) |
+| 3   | Cosmic Princess Kaguya!                                   | 2026 | 25 May 2026 | [SeaDex](https://releases.moe/201903/), [AniList](https://anilist.co/anime/201903) |
+| 4   | The Heroic Legend of Arslan: Dust Storm Dance             | 2016 | 24 May 2026 | [SeaDex](https://releases.moe/21424/), [AniList](https://anilist.co/anime/21424)   |
+| 5   | The Heroic Legend of Arslan                               | 2015 | 24 May 2026 | [SeaDex](https://releases.moe/20935/), [AniList](https://anilist.co/anime/20935)   |
 | 6   | PSYCHO-PASS: The Movie                                    | 2015 | 20 May 2026 | [SeaDex](https://releases.moe/20514/), [AniList](https://anilist.co/anime/20514)   |
 | 7   | Minami-ke: Omatase                                        | 2012 | 19 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
 | 8   | Mobile Suit GUNDAM Iron Blooded Orphans 2                 | 2016 | 19 May 2026 | [SeaDex](https://releases.moe/21749/), [AniList](https://anilist.co/anime/21749)   |
