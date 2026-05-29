@@ -98,8 +98,8 @@
 | 95  | The Familiar of Zero: "Rondo" of Princesses                                        | 2008 | 10 May 2026 | [SeaDex](https://releases.moe/3712/), [AniList](https://anilist.co/anime/3712)     |
 | 96  | The Familiar of Zero F                                                             | 2012 | 06 May 2026 | [SeaDex](https://releases.moe/11319/), [AniList](https://anilist.co/anime/11319)   |
 | 97  | By the Grace of the Gods                                                           | 2020 | 05 Feb 2026 | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
-| 98  | Sekirei                                                                            | 2008 | 15 Feb 2026 | [SeaDex](https://releases.moe/4063/), [AniList](https://anilist.co/anime/4063)     |
-| 99  | Hell Girl                                                                          | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
+| 98  | Hell Girl                                                                          | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
+| 99  | Sekirei                                                                            | 2008 | 15 Feb 2026 | [SeaDex](https://releases.moe/4063/), [AniList](https://anilist.co/anime/4063)     |
 | 100 | Ninja Kamui                                                                        | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
 | 101 | The Heroic Legend of Arslan                                                        | 2015 | 24 May 2026 | [SeaDex](https://releases.moe/20935/), [AniList](https://anilist.co/anime/20935)   |
 | 102 | Flying Witch                                                                       | 2016 | 01 Jun 2025 | [SeaDex](https://releases.moe/21284/), [AniList](https://anilist.co/anime/21284)   |
@@ -146,7 +146,7 @@
 | 143 | Taisho Otome Fairy Tale                                                            | 2021 | 17 Mar 2026 | [SeaDex](https://releases.moe/127412/), [AniList](https://anilist.co/anime/127412) |
 | 144 | Yowamushi Pedal                                                                    | 2013 | 13 Jul 2025 | [SeaDex](https://releases.moe/18179/), [AniList](https://anilist.co/anime/18179)   |
 | 145 | Qualidea Code                                                                      | 2016 | 16 Nov 2024 | [SeaDex](https://releases.moe/21557/), [AniList](https://anilist.co/anime/21557)   |
-| 146 | ISHURA                                                                             | 2024 | 25 May 2026 | [SeaDex](https://releases.moe/161476/), [AniList](https://anilist.co/anime/161476) |
+| 146 | ISHURA                                                                             | 2024 | 28 May 2026 | [SeaDex](https://releases.moe/161476/), [AniList](https://anilist.co/anime/161476) |
 | 147 | Real Girl 2                                                                        | 2019 | 28 Apr 2025 | [SeaDex](https://releases.moe/102882/), [AniList](https://anilist.co/anime/102882) |
 | 148 | Rewrite                                                                            | 2016 | 16 Nov 2023 | [SeaDex](https://releases.moe/21382/), [AniList](https://anilist.co/anime/21382)   |
 | 149 | Occultic;Nine                                                                      | 2016 | 30 Dec 2023 | [SeaDex](https://releases.moe/21708/), [AniList](https://anilist.co/anime/21708)   |
@@ -267,8 +267,8 @@
 | 264 | Hell Girl: Fourth Twilight                                                         | 2017 | 14 Feb 2026 | [SeaDex](https://releases.moe/98379/), [AniList](https://anilist.co/anime/98379)   |
 | 265 | Forest of Piano Season 2                                                           | 2019 | 24 Apr 2026 | [SeaDex](https://releases.moe/103049/), [AniList](https://anilist.co/anime/103049) |
 | 266 | Natsume's Book of Friends Season 7                                                 | 2024 | 20 Aug 2025 | [SeaDex](https://releases.moe/166611/), [AniList](https://anilist.co/anime/166611) |
-| 267 | KanColle Season 2: Let's Meet at Sea                                               | 2022 | 11 Nov 2025 | [SeaDex](https://releases.moe/21294/), [AniList](https://anilist.co/anime/21294)   |
-| 268 | Mobile Suit Gundam 0083: Stardust Memory                                           | 1991 | 26 May 2026 | [SeaDex](https://releases.moe/84/), [AniList](https://anilist.co/anime/84)         |
+| 267 | Mobile Suit Gundam 0083: Stardust Memory                                           | 1991 | 26 May 2026 | [SeaDex](https://releases.moe/84/), [AniList](https://anilist.co/anime/84)         |
+| 268 | KanColle Season 2: Let's Meet at Sea                                               | 2022 | 11 Nov 2025 | [SeaDex](https://releases.moe/21294/), [AniList](https://anilist.co/anime/21294)   |
 | 269 | Yowamushi Pedal Glory Line                                                         | 2018 | 31 Dec 2025 | [SeaDex](https://releases.moe/99476/), [AniList](https://anilist.co/anime/99476)   |
 | 270 | Tears to Tiara                                                                     | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/3594/), [AniList](https://anilist.co/anime/3594)     |
 | 271 | My Girlfriend is Shobitch OVA                                                      | 2018 | 05 Feb 2026 | [SeaDex](https://releases.moe/100518/), [AniList](https://anilist.co/anime/100518) |
@@ -281,8 +281,8 @@
 | 278 | Ooya-san wa Shishunki!                                                             | 2016 | 25 Nov 2024 | [SeaDex](https://releases.moe/21359/), [AniList](https://anilist.co/anime/21359)   |
 | 279 | BLACK ROCK SHOOTER DAWN FALL                                                       | 2022 | 02 Aug 2025 | [SeaDex](https://releases.moe/139303/), [AniList](https://anilist.co/anime/139303) |
 | 280 | Minami-ke: Okaeri                                                                  | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5162/), [AniList](https://anilist.co/anime/5162)     |
-| 281 | The Girl in Twilight                                                               | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
-| 282 | Inazuma Eleven Ares                                                                | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
+| 281 | Inazuma Eleven Ares                                                                | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
+| 282 | The Girl in Twilight                                                               | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
 | 283 | Cencoroll 2                                                                        | 2019 | 19 Jun 2025 | [SeaDex](https://releases.moe/9488/), [AniList](https://anilist.co/anime/9488)     |
 | 284 | Saint Seiya: The Lost Canvas 2                                                     | 2011 | 12 Feb 2025 | [SeaDex](https://releases.moe/9130/), [AniList](https://anilist.co/anime/9130)     |
 | 285 | You're Under Arrest! (TV)                                                          | 1996 | 20 Mar 2026 | [SeaDex](https://releases.moe/1372/), [AniList](https://anilist.co/anime/1372)     |

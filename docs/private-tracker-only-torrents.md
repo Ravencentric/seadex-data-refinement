@@ -10,7 +10,7 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 3   | Welcome to Demon School! Iruma-kun Season 3                                                       | 2022 | 13 May 2026 | [SeaDex](https://releases.moe/139092/), [AniList](https://anilist.co/anime/139092) |
 | 4   | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | 2025 | 26 May 2026 | [SeaDex](https://releases.moe/178090/), [AniList](https://anilist.co/anime/178090) |
 | 5   | Kämpfer                                                                                           | 2009 | 26 May 2026 | [SeaDex](https://releases.moe/6205/), [AniList](https://anilist.co/anime/6205)     |
-| 6   | ISHURA                                                                                            | 2024 | 25 May 2026 | [SeaDex](https://releases.moe/161476/), [AniList](https://anilist.co/anime/161476) |
+| 6   | ISHURA                                                                                            | 2024 | 28 May 2026 | [SeaDex](https://releases.moe/161476/), [AniList](https://anilist.co/anime/161476) |
 | 7   | Sakura Quest                                                                                      | 2017 | 27 May 2026 | [SeaDex](https://releases.moe/97903/), [AniList](https://anilist.co/anime/97903)   |
 | 8   | Ultramarine Magmell                                                                               | 2019 | 10 May 2026 | [SeaDex](https://releases.moe/101597/), [AniList](https://anilist.co/anime/101597) |
 | 9   | Mobile Suit Gundam 00                                                                             | 2007 | 21 May 2026 | [SeaDex](https://releases.moe/2581/), [AniList](https://anilist.co/anime/2581)     |
@@ -23,3 +23,4 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 16  | I Want to Deliver Your Voice                                                                      | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
 | 17  | Shagahai ReLIFE Kenkyuujo Support-ka                                                              | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 18  | Linebarrels of Iron                                                                               | 2008 | 27 May 2026 | [SeaDex](https://releases.moe/3653/), [AniList](https://anilist.co/anime/3653)     |
+| 19  | Active Raid Second                                                                                | 2016 | 28 May 2026 | [SeaDex](https://releases.moe/21534/), [AniList](https://anilist.co/anime/21534)   |

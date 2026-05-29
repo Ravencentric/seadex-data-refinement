@@ -17,8 +17,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 10  | Overlord III                                                                               | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 11  | Perfect Blue                                                                               | 1998 | 10 Feb 2026 | [SeaDex](https://releases.moe/437/), [AniList](https://anilist.co/anime/437)       |
 | 12  | SPY x FAMILY Season 2                                                                      | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
-| 13  | Sword Art Online: Alicization - War of Underworld                                          | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
-| 14  | Summer Time Rendering                                                                      | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
+| 13  | Summer Time Rendering                                                                      | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
+| 14  | Sword Art Online: Alicization - War of Underworld                                          | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 15  | Angels of Death                                                                            | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
 | 16  | The Case Study of Vanitas                                                                  | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
 | 17  | How NOT to Summon a Demon Lord                                                             | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
@@ -36,8 +36,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 29  | ODDTAXI                                                                                    | 2021 | 06 Feb 2026 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                  | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 31  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
-| 32  | Golden Kamuy                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
-| 33  | Blue Box                                                                                   | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 32  | Blue Box                                                                                   | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 33  | Golden Kamuy                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 34  | BLUE LOCK Season 2                                                                         | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
 | 35  | Takopi's Original Sin                                                                      | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
 | 36  | The Hidden Dungeon Only I Can Enter                                                        | 2021 | 28 Jan 2026 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
@@ -62,8 +62,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 55  | Love After World Domination                                                                | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
 | 56  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!           | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
 | 57  | Revolutionary Girl Utena                                                                   | 1997 | 12 May 2026 | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
-| 58  | Brynhildr in the Darkness                                                                  | 2014 | 02 May 2026 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
-| 59  | Clevatess                                                                                  | 2025 | 05 Feb 2026 | [SeaDex](https://releases.moe/178869/), [AniList](https://anilist.co/anime/178869) |
+| 58  | Clevatess                                                                                  | 2025 | 05 Feb 2026 | [SeaDex](https://releases.moe/178869/), [AniList](https://anilist.co/anime/178869) |
+| 59  | Brynhildr in the Darkness                                                                  | 2014 | 02 May 2026 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
 | 60  | Hi Score Girl                                                                              | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/20574/), [AniList](https://anilist.co/anime/20574)   |
 | 61  | My Instant Death Ability is Overpowered                                                    | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
 | 62  | Taboo Tattoo                                                                               | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |

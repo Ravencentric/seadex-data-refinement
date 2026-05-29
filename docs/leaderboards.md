@@ -21,7 +21,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB                     | 106   |
 | 6    | Moxie                    | 97    |
 | 7    | YURASUKA                 | 88    |
-| 8    | hchcsen                  | 80    |
+| 8    | hchcsen                  | 81    |
 | 9    | SubsPlease               | 75    |
 | 10   | YURI                     | 70    |
 | 11   | Drag / smol              | 58    |
@@ -82,7 +82,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Headpatter                 | 84    |
 | 7    | MTBB                       | 76    |
 | 8    | smol                       | 56    |
-| 9    | hchcsen                    | 50    |
+| 9    | hchcsen                    | 51    |
 | 10   | Okay-Subs / PMR            | 38    |
 | 11   | TTGA                       | 37    |
 | 12   | LYS1TH3A                   | 34    |

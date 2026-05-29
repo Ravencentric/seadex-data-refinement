@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `139.1 TiB`
-- Best size: `105.6 TiB`
+- Total size: `139.2 TiB`
+- Best size: `105.7 TiB`
 - Alt size: `33.5 TiB`
 - Realistic size: `108.8 TiB`
 
@@ -23,7 +23,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.16%)   | 188 (~75.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.2 TiB (99.09%)    | 111 (~76.1 GiB each)  |
-| 4    | hchcsen          | 5.6 TiB    | 4.5 TiB (80.81%)    | 85 (~67.0 GiB each)   |
+| 4    | hchcsen          | 5.6 TiB    | 4.6 TiB (81.05%)    | 86 (~67.0 GiB each)   |
 | 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.94%)    | 149 (~32.0 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 45.4 TiB   | 24.6 TiB (54.27%)   | 2010 (~23.1 GiB each) |
+| 50   | Others           | 45.4 TiB   | 24.6 TiB (54.26%)   | 2011 (~23.1 GiB each) |
