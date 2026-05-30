@@ -25,7 +25,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | SubsPlease               | 75    |
 | 10   | YURI                     | 70    |
 | 11   | Drag / smol              | 58    |
-| 12   | KH                       | 56    |
+| 12   | KH                       | 55    |
 | 13   | LostYears                | 43    |
 | 14   | GetItTwisted             | 42    |
 | 15   | Arid / Erai-raws / NOGRP | 41    |
@@ -60,15 +60,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | ZeroBuild / koala                                | 15    |
 | 15   | PMR                                              | 14    |
 | 16   | Arid / LostYears                                 | 13    |
-| 17   | FraMeSToR / Vodes                                | 12    |
-| 18   | Mehul                                            | 11    |
-| 19   | DemiHuman                                        | 10    |
-| 20   | KH / LaCroiX / SCY / hydes                       | 9     |
-| 21   | Meakes                                           | 8     |
-| 22   | BlackRose / IK / Kametsu / fig                   | 7     |
-| 23   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
-| 24   | CTR / Doc / Holomux / Kuraze & Others            | 5     |
-| 25   | Arg0 / Ignore / Iznjie Biznjie / MK & Others     | 4     |
+| 17   | FraMeSToR / Mehul / Vodes                        | 12    |
+| 18   | DemiHuman                                        | 10    |
+| 19   | KH / LaCroiX / SCY / hydes                       | 9     |
+| 20   | Meakes                                           | 8     |
+| 21   | BlackRose / IK / Kametsu / fig                   | 7     |
+| 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
+| 23   | CTR / Doc / Holomux / Kuraze & Others            | 5     |
+| 24   | Arg0 / Ignore / Iznjie Biznjie / MK & Others     | 4     |
+| 25   | Aergia / EJF / FateSucks / Hinna & Others        | 3     |
 
 ## Top 25 - Best entries
 
@@ -92,7 +92,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | YURASUKA                   | 28    |
 | 17   | Orphan                     | 26    |
 | 18   | FLE                        | 25    |
-| 19   | Mehul                      | 23    |
+| 19   | Mehul                      | 24    |
 | 20   | LaCroiX / LazyRemux / Lulu | 20    |
 | 21   | Arid / koala               | 18    |
 | 22   | Flugel                     | 17    |
@@ -107,7 +107,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | Headpatter                                  | 65    |
 | 🥈   | SubsPlease                                  | 63    |
 | 🥉   | YURASUKA                                    | 60    |
-| 4    | KH                                          | 47    |
+| 4    | KH                                          | 46    |
 | 5    | Drag                                        | 43    |
 | 6    | -ZR- / YURI                                 | 38    |
 | 7    | Commie                                      | 36    |
