@@ -28,8 +28,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 21  | Sword Art Online the Movie: Ordinal Scale                                                  | 2017 | 07 Aug 2025 | [SeaDex](https://releases.moe/21403/), [AniList](https://anilist.co/anime/21403)   |
 | 22  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                 | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
 | 23  | Spice and Wolf                                                                             | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
-| 24  | K                                                                                          | 2012 | 10 May 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
-| 25  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
+| 24  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
+| 25  | K                                                                                          | 2012 | 10 May 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 26  | Ghost in the Shell                                                                         | 1995 | 21 Feb 2026 | [SeaDex](https://releases.moe/43/), [AniList](https://anilist.co/anime/43)         |
 | 27  | Akudama Drive                                                                              | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
 | 28  | Welcome to Demon School! Iruma-kun                                                         | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
@@ -93,8 +93,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 86  | Mobile Suit Gundam                                                                         | 1979 | 02 May 2026 | [SeaDex](https://releases.moe/80/), [AniList](https://anilist.co/anime/80)         |
 | 87  | Chihayafuru 3                                                                              | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |
 | 88  | Helck                                                                                      | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
-| 89  | Spice and Wolf II: Wolf and the Amber Melancholy                                           | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
-| 90  | Gurren Lagann The Movie: Childhood's End                                                   | 2008 | 20 Mar 2026 | [SeaDex](https://releases.moe/4107/), [AniList](https://anilist.co/anime/4107)     |
+| 89  | Gurren Lagann The Movie: Childhood's End                                                   | 2008 | 20 Mar 2026 | [SeaDex](https://releases.moe/4107/), [AniList](https://anilist.co/anime/4107)     |
+| 90  | Spice and Wolf II: Wolf and the Amber Melancholy                                           | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
 | 91  | Ikebukuro West Gate Park                                                                   | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
 | 92  | Tenchi Muyo! War on Geminar                                                                | 2009 | 12 Nov 2023 | [SeaDex](https://releases.moe/5781/), [AniList](https://anilist.co/anime/5781)     |
 | 93  | Mysteria Friends                                                                           | 2019 | 09 Sep 2025 | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
@@ -124,7 +124,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 117 | Future Boy Conan                                                                           | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
 | 118 | Nobunagun                                                                                  | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 119 | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                | 2021 | 16 May 2026 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
-| 120 | TAMAYOMI: The Baseball Girls                                                               | 2020 | 31 May 2026 | [SeaDex](https://releases.moe/110130/), [AniList](https://anilist.co/anime/110130) |
+| 120 | TAMAYOMI: The Baseball Girls                                                               | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/110130/), [AniList](https://anilist.co/anime/110130) |
 | 121 | URAHARA                                                                                    | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
 | 122 | Gargantia on the Verdurous Planet OVA (2014)                                               | 2014 | 18 Feb 2026 | [SeaDex](https://releases.moe/20449/), [AniList](https://anilist.co/anime/20449)   |
 | 123 | SWORDGAI The Animation Part II                                                             | 2018 | 10 May 2026 | [SeaDex](https://releases.moe/101471/), [AniList](https://anilist.co/anime/101471) |

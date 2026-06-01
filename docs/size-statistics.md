@@ -9,9 +9,9 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `139.4 TiB`
-- Best size: `105.9 TiB`
+- Best size: `106.0 TiB`
 - Alt size: `33.5 TiB`
-- Realistic size: `109.0 TiB`
+- Realistic size: `109.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -22,7 +22,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.16%)   | 188 (~75.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
-| 3    | NAN0             | 8.3 TiB    | 8.2 TiB (99.09%)    | 111 (~76.1 GiB each)  |
+| 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
 | 4    | hchcsen          | 5.6 TiB    | 4.6 TiB (81.05%)    | 86 (~67.0 GiB each)   |
 | 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.94%)    | 149 (~32.0 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | Sylvar           | 544.8 GiB  | 504.3 GiB (92.56%)  | 10 (~54.5 GiB each)   |
 | 49   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
-| 50   | Others           | 45.5 TiB   | 24.8 TiB (54.45%)   | 2014 (~23.2 GiB each) |
+| 50   | Others           | 45.5 TiB   | 24.8 TiB (54.49%)   | 2015 (~23.1 GiB each) |

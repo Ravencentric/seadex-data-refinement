@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                  | 177   |
 | 🥈   | CRUCiBLE / Headpatter | 136   |
 | 🥉   | sam                   | 132   |
-| 4    | NAN0                  | 111   |
+| 4    | NAN0                  | 112   |
 | 5    | MTBB                  | 106   |
 | 6    | Moxie                 | 97    |
 | 7    | YURASUKA              | 89    |
@@ -63,7 +63,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | FraMeSToR / Mehul / Vodes                        | 12    |
 | 18   | DemiHuman                                        | 10    |
 | 19   | KH / LaCroiX / SCY / hydes                       | 9     |
-| 20   | Meakes                                           | 8     |
+| 20   | Meakes / NTRX                                    | 8     |
 | 21   | BlackRose / IK / Kametsu / Sylvar / fig          | 7     |
 | 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
 | 23   | CTR / Doc / Holomux / Kuraze & Others            | 5     |
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                         | 150   |
 | 🥈   | CRUCiBLE                     | 136   |
 | 🥉   | sam                          | 123   |
-| 4    | NAN0                         | 110   |
+| 4    | NAN0                         | 111   |
 | 5    | Moxie                        | 97    |
 | 6    | Headpatter                   | 84    |
 | 7    | MTBB                         | 76    |
