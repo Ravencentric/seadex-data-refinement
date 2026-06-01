@@ -14,4 +14,3 @@
 | 11  | Ebiten: Ebisugawa's Public High School Temonbu | 2012 | 26 May 2026 | [SeaDex](https://releases.moe/14073/), [AniList](https://anilist.co/anime/14073)   |
 | 12  | Linebarrels of Iron                            | 2008 | 27 May 2026 | [SeaDex](https://releases.moe/3653/), [AniList](https://anilist.co/anime/3653)     |
 | 13  | Overlord: Ple Ple Pleiades 4                   | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 14  | Active Raid Second                             | 2016 | 28 May 2026 | [SeaDex](https://releases.moe/21534/), [AniList](https://anilist.co/anime/21534)   |
