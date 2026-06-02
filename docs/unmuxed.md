@@ -127,8 +127,8 @@
 | 124 | Dragon Ball DAIMA                                                                  | 2024 | 14 Dec 2025 | [SeaDex](https://releases.moe/170083/), [AniList](https://anilist.co/anime/170083) |
 | 125 | Chihayafuru 2                                                                      | 2013 | 21 Jun 2024 | [SeaDex](https://releases.moe/14397/), [AniList](https://anilist.co/anime/14397)   |
 | 126 | Free! -Dive to the Future-                                                         | 2018 | 05 Jan 2025 | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
-| 127 | Irina: The Vampire Cosmonaut                                                       | 2021 | 16 Feb 2026 | [SeaDex](https://releases.moe/131019/), [AniList](https://anilist.co/anime/131019) |
-| 128 | Jin-Roh: The Wolf Brigade                                                          | 2000 | 05 Apr 2026 | [SeaDex](https://releases.moe/570/), [AniList](https://anilist.co/anime/570)       |
+| 127 | Jin-Roh: The Wolf Brigade                                                          | 2000 | 05 Apr 2026 | [SeaDex](https://releases.moe/570/), [AniList](https://anilist.co/anime/570)       |
+| 128 | Irina: The Vampire Cosmonaut                                                       | 2021 | 16 Feb 2026 | [SeaDex](https://releases.moe/131019/), [AniList](https://anilist.co/anime/131019) |
 | 129 | Danganronpa 3: The End of Hope's Peak High School - Hope Arc                       | 2016 | 10 May 2026 | [SeaDex](https://releases.moe/97672/), [AniList](https://anilist.co/anime/97672)   |
 | 130 | Teasing Master Takagi-san Season 3                                                 | 2022 | 04 Mar 2026 | [SeaDex](https://releases.moe/138424/), [AniList](https://anilist.co/anime/138424) |
 | 131 | The Master of Ragnarök & Blesser of Einherjar                                      | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/101289/), [AniList](https://anilist.co/anime/101289) |
