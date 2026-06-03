@@ -68,8 +68,8 @@
 | 65  | Gintama.: Silver Soul Arc - Second Half War                                          | 2018 | 30 Aug 2025 | [SeaDex](https://releases.moe/101925/), [AniList](https://anilist.co/anime/101925) |
 | 66  | Kino's Journey -the Beautiful World- the Animated Series                             | 2017 | 16 Jul 2024 | [SeaDex](https://releases.moe/98448/), [AniList](https://anilist.co/anime/98448)   |
 | 67  | My Hero Academia: Make It! Do-or-Die Survival Training                               | 2020 | 04 Jan 2024 | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
-| 68  | Pokémon Origins                                                                      | 2013 | 26 Dec 2023 | [SeaDex](https://releases.moe/20159/), [AniList](https://anilist.co/anime/20159)   |
-| 69  | Gintama: THE VERY FINAL                                                              | 2021 | 16 Nov 2023 | [SeaDex](https://releases.moe/114129/), [AniList](https://anilist.co/anime/114129) |
+| 68  | Gintama: THE VERY FINAL                                                              | 2021 | 16 Nov 2023 | [SeaDex](https://releases.moe/114129/), [AniList](https://anilist.co/anime/114129) |
+| 69  | Pokémon Origins                                                                      | 2013 | 26 Dec 2023 | [SeaDex](https://releases.moe/20159/), [AniList](https://anilist.co/anime/20159)   |
 | 70  | Food Wars! The Second Plate OVA                                                      | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |
 | 71  | the Garden of sinners Chapter 7: ……not nothing heart. (Murder Speculation Part B)    | 2009 | 17 Jul 2025 | [SeaDex](https://releases.moe/5205/), [AniList](https://anilist.co/anime/5205)     |
 | 72  | Gintama.: Slip Arc                                                                   | 2017 | 30 Aug 2025 | [SeaDex](https://releases.moe/99714/), [AniList](https://anilist.co/anime/99714)   |
@@ -165,8 +165,8 @@
 | 162 | Suzuka                                                                               | 2005 | 09 Dec 2024 | [SeaDex](https://releases.moe/390/), [AniList](https://anilist.co/anime/390)       |
 | 163 | Komori-san Can't Decline!                                                            | 2015 | 17 Jul 2024 | [SeaDex](https://releases.moe/21243/), [AniList](https://anilist.co/anime/21243)   |
 | 164 | Himouto! Umaru-chan OVA                                                              | 2015 | 09 Jul 2024 | [SeaDex](https://releases.moe/21327/), [AniList](https://anilist.co/anime/21327)   |
-| 165 | Yokohama Shopping Log                                                                | 1998 | 13 Nov 2024 | [SeaDex](https://releases.moe/975/), [AniList](https://anilist.co/anime/975)       |
-| 166 | Heroic Age                                                                           | 2007 | 07 Jul 2024 | [SeaDex](https://releases.moe/2002/), [AniList](https://anilist.co/anime/2002)     |
+| 165 | Heroic Age                                                                           | 2007 | 07 Jul 2024 | [SeaDex](https://releases.moe/2002/), [AniList](https://anilist.co/anime/2002)     |
+| 166 | Yokohama Shopping Log                                                                | 1998 | 13 Nov 2024 | [SeaDex](https://releases.moe/975/), [AniList](https://anilist.co/anime/975)       |
 | 167 | Snow White with the Red Hair: Nandemonai Takaramono, Kono Page                       | 2016 | 17 Jan 2025 | [SeaDex](https://releases.moe/21313/), [AniList](https://anilist.co/anime/21313)   |
 | 168 | Kumamiko -Girl Meets Bear                                                            | 2016 | 18 Jul 2024 | [SeaDex](https://releases.moe/21423/), [AniList](https://anilist.co/anime/21423)   |
 | 169 | My Hero Academia Season 5 OVA                                                        | 2022 | 11 Aug 2025 | [SeaDex](https://releases.moe/149073/), [AniList](https://anilist.co/anime/149073) |
@@ -361,8 +361,8 @@
 | 358 | Momoiro Sisters                                                                      | 1998 | 24 Jul 2024 | [SeaDex](https://releases.moe/1188/), [AniList](https://anilist.co/anime/1188)     |
 | 359 | Super High Speed Galvion                                                             | 1984 | 13 Nov 2023 | [SeaDex](https://releases.moe/6636/), [AniList](https://anilist.co/anime/6636)     |
 | 360 | Superdimensional Romanesque Samy: Missing 99                                         | 1986 | 21 Jun 2024 | [SeaDex](https://releases.moe/7192/), [AniList](https://anilist.co/anime/7192)     |
-| 361 | YAMATO2520                                                                           | 1994 | 13 Nov 2023 | [SeaDex](https://releases.moe/6718/), [AniList](https://anilist.co/anime/6718)     |
-| 362 | Uchuu no Kishi Tekkaman Blade: TWIN BLOOD                                            | 1994 | 08 Jun 2025 | [SeaDex](https://releases.moe/2300/), [AniList](https://anilist.co/anime/2300)     |
+| 361 | Uchuu no Kishi Tekkaman Blade: TWIN BLOOD                                            | 1994 | 08 Jun 2025 | [SeaDex](https://releases.moe/2300/), [AniList](https://anilist.co/anime/2300)     |
+| 362 | YAMATO2520                                                                           | 1994 | 13 Nov 2023 | [SeaDex](https://releases.moe/6718/), [AniList](https://anilist.co/anime/6718)     |
 | 363 | The Green Cat                                                                        | 1989 | 14 Nov 2023 | [SeaDex](https://releases.moe/11799/), [AniList](https://anilist.co/anime/11799)   |
 | 364 | Hentatsu                                                                             | 2018 | 07 Jul 2024 | [SeaDex](https://releases.moe/111433/), [AniList](https://anilist.co/anime/111433) |
 | 365 | Coluboccoro                                                                          | 2007 | 22 Jun 2024 | [SeaDex](https://releases.moe/11735/), [AniList](https://anilist.co/anime/11735)   |

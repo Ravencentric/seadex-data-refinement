@@ -26,19 +26,19 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | YURI                  | 70    |
 | 11   | Drag / smol           | 58    |
 | 12   | KH                    | 55    |
-| 13   | LostYears             | 43    |
-| 14   | GetItTwisted / NOGRP  | 42    |
-| 15   | Arid / Erai-raws      | 41    |
-| 16   | Okay-Subs             | 40    |
-| 17   | TTGA                  | 39    |
-| 18   | PMR                   | 38    |
-| 19   | Commie                | 37    |
-| 20   | LYS1TH3A              | 35    |
-| 21   | Lulu                  | 33    |
-| 22   | Holomux               | 32    |
-| 23   | B00BA / VARYG         | 31    |
-| 24   | Bunny-Apocalypse      | 30    |
-| 25   | Kametsu               | 29    |
+| 13   | NOGRP                 | 44    |
+| 14   | LostYears             | 43    |
+| 15   | GetItTwisted          | 42    |
+| 16   | Arid / Erai-raws      | 41    |
+| 17   | Okay-Subs             | 40    |
+| 18   | TTGA                  | 39    |
+| 19   | PMR                   | 38    |
+| 20   | Commie                | 37    |
+| 21   | LYS1TH3A              | 35    |
+| 22   | Lulu                  | 33    |
+| 23   | Holomux               | 32    |
+| 24   | B00BA / VARYG         | 31    |
+| 25   | Bunny-Apocalypse      | 30    |
 
 ## Top 25 - Best dual audio entries
 
@@ -62,8 +62,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Arid / LostYears                                 | 13    |
 | 17   | FraMeSToR / Mehul / Vodes                        | 12    |
 | 18   | DemiHuman                                        | 10    |
-| 19   | KH / LaCroiX / SCY / hydes                       | 9     |
-| 20   | Meakes / NTRX                                    | 8     |
+| 19   | KH / LaCroiX / NTRX / SCY / hydes                | 9     |
+| 20   | Meakes / NOGRP                                   | 8     |
 | 21   | BlackRose / IK / Kametsu / Sylvar / fig          | 7     |
 | 22   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
 | 23   | CTR / Doc / Holomux / Kuraze & Others            | 5     |
@@ -96,9 +96,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | Arid / koala                 | 18    |
 | 21   | Flugel                       | 17    |
 | 22   | Drag                         | 16    |
-| 23   | Kawatare / ZeroBuild         | 15    |
+| 23   | Kawatare / NOGRP / ZeroBuild | 15    |
 | 24   | Vodes                        | 14    |
-| 25   | Beatrice / LostYears / NOGRP | 13    |
+| 25   | Beatrice / LostYears         | 13    |
 
 ## Top 25 - Alt entries
 

@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `139.4 TiB`
-- Best size: `106.0 TiB`
+- Total size: `139.6 TiB`
+- Best size: `106.1 TiB`
 - Alt size: `33.5 TiB`
-- Realistic size: `109.1 TiB`
+- Realistic size: `109.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -33,10 +33,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (74.01%)    | 58 (~28.6 GiB each)   |
 | 13   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
-| 14   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
-| 15   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
-| 16   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
-| 17   | NOGRP            | 1.3 TiB    | 1014.8 GiB (73.98%) | 42 (~32.7 GiB each)   |
+| 14   | NOGRP            | 1.5 TiB    | 1.1 TiB (76.47%)    | 44 (~34.5 GiB each)   |
+| 15   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
+| 16   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
+| 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.94%)  | 75 (~17.2 GiB each)   |
 | 20   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | Sylvar           | 544.8 GiB  | 504.3 GiB (92.56%)  | 10 (~54.5 GiB each)   |
 | 49   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
-| 50   | Others           | 45.5 TiB   | 24.8 TiB (54.49%)   | 2015 (~23.1 GiB each) |
+| 50   | Others           | 45.6 TiB   | 24.8 TiB (54.49%)   | 2016 (~23.1 GiB each) |
