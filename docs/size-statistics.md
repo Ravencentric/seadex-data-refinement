@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
 | 4    | hchcsen          | 5.6 TiB    | 4.6 TiB (81.05%)    | 86 (~67.0 GiB each)   |
-| 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.94%)    | 149 (~32.0 GiB each)  |
+| 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.98%)    | 151 (~31.6 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
@@ -59,7 +59,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 37   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 38   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 39   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 40   | Kawatare         | 622.7 GiB  | 522.4 GiB (83.88%)  | 21 (~29.7 GiB each)   |
+| 40   | Kawatare         | 631.0 GiB  | 530.6 GiB (84.10%)  | 22 (~28.7 GiB each)   |
 | 41   | Bunny-Apocalypse | 620.3 GiB  | 161.0 GiB (25.95%)  | 30 (~20.7 GiB each)   |
 | 42   | Arid             | 602.0 GiB  | 201.1 GiB (33.40%)  | 42 (~14.3 GiB each)   |
 | 43   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
@@ -67,6 +67,6 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 45   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
 | 46   | fig              | 552.9 GiB  | 552.9 GiB (100.00%) | 7 (~79.0 GiB each)    |
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
-| 48   | Sylvar           | 544.8 GiB  | 504.3 GiB (92.56%)  | 10 (~54.5 GiB each)   |
-| 49   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
-| 50   | Others           | 45.6 TiB   | 24.9 TiB (54.58%)   | 2018 (~23.2 GiB each) |
+| 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
+| 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
+| 50   | Others           | 45.7 TiB   | 24.8 TiB (54.37%)   | 2021 (~23.1 GiB each) |
