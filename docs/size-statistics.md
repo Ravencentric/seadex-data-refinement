@@ -31,7 +31,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | TTGA             | 2.8 TiB    | 2.7 TiB (93.76%)    | 39 (~74.3 GiB each)   |
 | 10   | B00BA            | 2.8 TiB    | 2.8 TiB (100.00%)   | 31 (~92.3 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
-| 12   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (74.01%)    | 58 (~28.6 GiB each)   |
+| 12   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (74.40%)    | 60 (~28.1 GiB each)   |
 | 13   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
 | 14   | NOGRP            | 1.5 TiB    | 1.1 TiB (76.47%)    | 44 (~34.5 GiB each)   |
 | 15   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
@@ -40,7 +40,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.94%)  | 75 (~17.2 GiB each)   |
 | 20   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
-| 21   | YURASUKA         | 1.0 TiB    | 372.5 GiB (35.98%)  | 89 (~11.6 GiB each)   |
+| 21   | YURASUKA         | 1.0 TiB    | 372.5 GiB (35.38%)  | 90 (~11.7 GiB each)   |
 | 22   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 23   | Mehul            | 957.4 GiB  | 920.1 GiB (96.11%)  | 28 (~34.2 GiB each)   |
 | 24   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 45.7 TiB   | 24.8 TiB (54.37%)   | 2021 (~23.1 GiB each) |
+| 50   | Others           | 45.6 TiB   | 24.8 TiB (54.41%)   | 2020 (~23.1 GiB each) |
