@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `139.7 TiB`
-- Best size: `106.2 TiB`
-- Alt size: `33.5 TiB`
-- Realistic size: `109.3 TiB`
+- Total size: `140.0 TiB`
+- Best size: `106.4 TiB`
+- Alt size: `33.6 TiB`
+- Realistic size: `109.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -23,7 +23,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.16%)   | 188 (~75.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
-| 4    | hchcsen          | 5.6 TiB    | 4.6 TiB (81.05%)    | 86 (~67.0 GiB each)   |
+| 4    | hchcsen          | 5.9 TiB    | 4.8 TiB (81.95%)    | 87 (~69.6 GiB each)   |
 | 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.98%)    | 151 (~31.6 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
@@ -39,10 +39,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.94%)  | 75 (~17.2 GiB each)   |
-| 20   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
-| 21   | YURASUKA         | 1.0 TiB    | 372.5 GiB (35.38%)  | 90 (~11.7 GiB each)   |
+| 20   | YURASUKA         | 1.0 TiB    | 388.6 GiB (36.35%)  | 91 (~11.7 GiB each)   |
+| 21   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
 | 22   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
-| 23   | Mehul            | 957.4 GiB  | 920.1 GiB (96.11%)  | 28 (~34.2 GiB each)   |
+| 23   | Mehul            | 995.3 GiB  | 958.0 GiB (96.25%)  | 29 (~34.3 GiB each)   |
 | 24   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 25   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
 | 26   | YURI             | 873.3 GiB  | 389.7 GiB (44.62%)  | 71 (~12.3 GiB each)   |
@@ -55,7 +55,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 33   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 34   | ZeroBuild        | 761.7 GiB  | 712.7 GiB (93.57%)  | 17 (~44.8 GiB each)   |
 | 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
-| 36   | Erai-raws        | 692.9 GiB  | 100.4 GiB (14.49%)  | 41 (~16.9 GiB each)   |
+| 36   | Erai-raws        | 698.6 GiB  | 100.4 GiB (14.37%)  | 42 (~16.6 GiB each)   |
 | 37   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 38   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 39   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
@@ -65,8 +65,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 43   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 44   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 45   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 46   | fig              | 552.9 GiB  | 552.9 GiB (100.00%) | 7 (~79.0 GiB each)    |
-| 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
-| 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
-| 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 45.6 TiB   | 24.8 TiB (54.41%)   | 2020 (~23.1 GiB each) |
+| 46   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
+| 47   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
+| 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
+| 49   | UDF              | 532.8 GiB  | 206.7 GiB (38.79%)  | 23 (~23.2 GiB each)   |
+| 50   | Others           | 45.6 TiB   | 25.1 TiB (54.99%)   | 2001 (~23.3 GiB each) |

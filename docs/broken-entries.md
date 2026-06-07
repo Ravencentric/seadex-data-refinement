@@ -40,8 +40,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 33  | K: RETURN OF KINGS                                                                           | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 34  | Ace of the Diamond                                                                           | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
 | 35  | Air Gear                                                                                     | 2006 | 05 Jan 2026 | [SeaDex](https://releases.moe/857/), [AniList](https://anilist.co/anime/857)       |
-| 36  | KanColle                                                                                     | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
-| 37  | Kämpfer                                                                                      | 2009 | 01 Jun 2026 | [SeaDex](https://releases.moe/6205/), [AniList](https://anilist.co/anime/6205)     |
+| 36  | Kämpfer                                                                                      | 2009 | 01 Jun 2026 | [SeaDex](https://releases.moe/6205/), [AniList](https://anilist.co/anime/6205)     |
+| 37  | KanColle                                                                                     | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 38  | Puella Magi Madoka Magica the Movie Part 1: Beginnings                                       | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11977/), [AniList](https://anilist.co/anime/11977)   |
 | 39  | Puella Magi Madoka Magica the Movie Part 2: Eternal                                          | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11979/), [AniList](https://anilist.co/anime/11979)   |
 | 40  | RE-MAIN                                                                                      | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
@@ -71,8 +71,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 64  | Gun x Sword                                                                                  | 2005 | 28 Jan 2026 | [SeaDex](https://releases.moe/411/), [AniList](https://anilist.co/anime/411)       |
 | 65  | Minami-ke: Okawari                                                                           | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3225/), [AniList](https://anilist.co/anime/3225)     |
 | 66  | Minami-ke: Okaeri                                                                            | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5162/), [AniList](https://anilist.co/anime/5162)     |
-| 67  | Inazuma Eleven Ares                                                                          | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
-| 68  | The Girl in Twilight                                                                         | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
+| 67  | The Girl in Twilight                                                                         | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
+| 68  | Inazuma Eleven Ares                                                                          | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
 | 69  | Le Chevalier D'Eon                                                                           | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 70  | Air Gear: Special Trick                                                                      | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
 | 71  | Linebarrels of Iron                                                                          | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3653/), [AniList](https://anilist.co/anime/3653)     |
