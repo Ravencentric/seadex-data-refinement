@@ -29,8 +29,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 22  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout   | 2022 | 13 Aug 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 23  | Clannad: Another World, Kyou Chapter                                       | 2009 | 07 Sep 2025 | [SeaDex](https://releases.moe/6351/), [AniList](https://anilist.co/anime/6351)     |
 | 24  | Den-noh Coil                                                               | 2007 | 03 Aug 2025 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
-| 25  | A Certain Magical Index: The Miracle of Endymion                           | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
-| 26  | NieR:Automata Ver1.1a Cour 2                                               | 2024 | 19 Nov 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
+| 25  | NieR:Automata Ver1.1a Cour 2                                               | 2024 | 19 Nov 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
+| 26  | A Certain Magical Index: The Miracle of Endymion                           | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
 | 27  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                      | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
 | 28  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
 | 29  | Sasaki and Miyano: Graduation                                              | 2023 | 19 Nov 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |

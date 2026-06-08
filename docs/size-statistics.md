@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | UDF              | 532.8 GiB  | 206.7 GiB (38.79%)  | 23 (~23.2 GiB each)   |
-| 50   | Others           | 45.6 TiB   | 25.1 TiB (54.99%)   | 2001 (~23.3 GiB each) |
+| 50   | Others           | 45.6 TiB   | 25.1 TiB (54.97%)   | 2002 (~23.3 GiB each) |
