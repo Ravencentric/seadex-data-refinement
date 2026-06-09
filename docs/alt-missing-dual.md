@@ -31,8 +31,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 24  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
 | 25  | K                                                                                          | 2012 | 10 May 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 26  | Ghost in the Shell                                                                         | 1995 | 21 Feb 2026 | [SeaDex](https://releases.moe/43/), [AniList](https://anilist.co/anime/43)         |
-| 27  | Akudama Drive                                                                              | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
-| 28  | Welcome to Demon School! Iruma-kun                                                         | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
+| 27  | Welcome to Demon School! Iruma-kun                                                         | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
+| 28  | Akudama Drive                                                                              | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
 | 29  | ODDTAXI                                                                                    | 2021 | 06 Feb 2026 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                  | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 31  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |

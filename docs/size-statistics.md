@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `140.0 TiB`
-- Best size: `106.4 TiB`
+- Best size: `106.5 TiB`
 - Alt size: `33.6 TiB`
 - Realistic size: `109.6 TiB`
 
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 13.9 TiB   | 13.1 TiB (94.16%)   | 188 (~75.6 GiB each)  |
+| 1    | -ZR-             | 13.8 TiB   | 13.0 TiB (94.13%)   | 187 (~75.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
 | 4    | hchcsen          | 5.9 TiB    | 4.8 TiB (81.95%)    | 87 (~69.6 GiB each)   |
@@ -28,7 +28,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
-| 9    | TTGA             | 2.8 TiB    | 2.7 TiB (93.76%)    | 39 (~74.3 GiB each)   |
+| 9    | TTGA             | 2.9 TiB    | 2.7 TiB (93.83%)    | 40 (~73.3 GiB each)   |
 | 10   | B00BA            | 2.8 TiB    | 2.8 TiB (100.00%)   | 31 (~92.3 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (74.40%)    | 60 (~28.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | UDF              | 532.8 GiB  | 206.7 GiB (38.79%)  | 23 (~23.2 GiB each)   |
-| 50   | Others           | 45.6 TiB   | 25.1 TiB (54.97%)   | 2002 (~23.3 GiB each) |
+| 50   | Others           | 45.7 TiB   | 25.1 TiB (55.06%)   | 2004 (~23.3 GiB each) |
