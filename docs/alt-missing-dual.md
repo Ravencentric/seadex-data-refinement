@@ -35,8 +35,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 28  | Akudama Drive                                                                              | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
 | 29  | ODDTAXI                                                                                    | 2021 | 06 Feb 2026 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                  | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
-| 31  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
-| 32  | Blue Box                                                                                   | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 31  | Blue Box                                                                                   | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 32  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 33  | Golden Kamuy                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 34  | BLUE LOCK Season 2                                                                         | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
 | 35  | Takopi's Original Sin                                                                      | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
@@ -124,8 +124,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 117 | 18if                                                                                       | 2017 | 25 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 118 | Wanna be the Strongest in the World!                                                       | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
 | 119 | Future Boy Conan                                                                           | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
-| 120 | Nobunagun                                                                                  | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
-| 121 | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                | 2021 | 16 May 2026 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
+| 120 | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                | 2021 | 16 May 2026 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
+| 121 | Nobunagun                                                                                  | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 122 | TAMAYOMI: The Baseball Girls                                                               | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/110130/), [AniList](https://anilist.co/anime/110130) |
 | 123 | URAHARA                                                                                    | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
 | 124 | Gargantia on the Verdurous Planet OVA (2014)                                               | 2014 | 18 Feb 2026 | [SeaDex](https://releases.moe/20449/), [AniList](https://anilist.co/anime/20449)   |

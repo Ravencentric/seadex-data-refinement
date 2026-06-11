@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `140.0 TiB`
+- Total size: `140.1 TiB`
 - Best size: `106.5 TiB`
 - Alt size: `33.6 TiB`
-- Realistic size: `109.6 TiB`
+- Realistic size: `109.7 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
 | 4    | hchcsen          | 5.9 TiB    | 4.8 TiB (81.95%)    | 87 (~69.6 GiB each)   |
-| 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.98%)    | 151 (~31.6 GiB each)  |
+| 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.91%)    | 152 (~31.4 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
@@ -39,7 +39,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.94%)  | 75 (~17.2 GiB each)   |
-| 20   | YURASUKA         | 1.0 TiB    | 388.6 GiB (36.35%)  | 91 (~11.7 GiB each)   |
+| 20   | YURASUKA         | 1.0 TiB    | 375.0 GiB (35.08%)  | 91 (~11.7 GiB each)   |
 | 21   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
 | 22   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 23   | Mehul            | 995.3 GiB  | 958.0 GiB (96.25%)  | 29 (~34.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | UDF              | 532.8 GiB  | 206.7 GiB (38.79%)  | 23 (~23.2 GiB each)   |
-| 50   | Others           | 45.7 TiB   | 25.1 TiB (55.06%)   | 2004 (~23.3 GiB each) |
+| 50   | Others           | 45.7 TiB   | 25.2 TiB (55.04%)   | 2007 (~23.3 GiB each) |
