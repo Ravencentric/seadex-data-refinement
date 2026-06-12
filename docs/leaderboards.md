@@ -22,23 +22,23 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | MTBB                 | 106   |
 | 7    | Moxie                | 97    |
 | 8    | YURASUKA             | 91    |
-| 9    | hchcsen              | 82    |
+| 9    | hchcsen              | 83    |
 | 10   | SubsPlease           | 75    |
 | 11   | YURI                 | 70    |
-| 12   | Drag / smol          | 58    |
-| 13   | KH                   | 55    |
-| 14   | GetItTwisted / NOGRP | 44    |
-| 15   | LostYears            | 43    |
-| 16   | Erai-raws            | 42    |
-| 17   | Arid                 | 41    |
-| 18   | Okay-Subs / TTGA     | 40    |
-| 19   | PMR                  | 38    |
-| 20   | Commie               | 37    |
-| 21   | LYS1TH3A             | 35    |
-| 22   | Lulu                 | 33    |
-| 23   | Holomux              | 32    |
-| 24   | B00BA                | 31    |
-| 25   | Bunny-Apocalypse     | 30    |
+| 12   | Drag                 | 58    |
+| 13   | smol                 | 57    |
+| 14   | KH                   | 55    |
+| 15   | GetItTwisted / NOGRP | 44    |
+| 16   | LostYears            | 43    |
+| 17   | Erai-raws            | 42    |
+| 18   | Arid                 | 41    |
+| 19   | Okay-Subs / TTGA     | 40    |
+| 20   | PMR                  | 38    |
+| 21   | Commie               | 37    |
+| 22   | LYS1TH3A             | 35    |
+| 23   | Lulu                 | 33    |
+| 24   | Holomux              | 32    |
+| 25   | B00BA                | 31    |
 
 ## Top 25 - Best dual audio entries
 
@@ -52,8 +52,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Headpatter                                       | 34    |
 | 7    | LYS1TH3A                                         | 32    |
 | 8    | TTGA                                             | 29    |
-| 9    | FLE / smol                                       | 23    |
-| 10   | GetItTwisted                                     | 22    |
+| 9    | FLE                                              | 23    |
+| 10   | GetItTwisted / smol                              | 22    |
 | 11   | Moxie                                            | 21    |
 | 12   | YURASUKA                                         | 19    |
 | 13   | Lulu                                             | 18    |
@@ -81,8 +81,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | Moxie                  | 97    |
 | 6    | Headpatter             | 86    |
 | 7    | MTBB                   | 76    |
-| 8    | smol                   | 56    |
-| 9    | hchcsen                | 52    |
+| 8    | smol                   | 55    |
+| 9    | hchcsen                | 53    |
 | 10   | Okay-Subs / PMR / TTGA | 38    |
 | 11   | LYS1TH3A / YURI        | 33    |
 | 12   | B00BA / GetItTwisted   | 31    |
