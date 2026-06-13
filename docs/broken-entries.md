@@ -38,8 +38,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 31  | Rent-a-Girlfriend Season 3                                                                   | 2023 | 05 Jun 2026 | [SeaDex](https://releases.moe/154745/), [AniList](https://anilist.co/anime/154745) |
 | 32  | King's Game                                                                                  | 2017 | 03 Jun 2026 | [SeaDex](https://releases.moe/99698/), [AniList](https://anilist.co/anime/99698)   |
 | 33  | Monster Girl Doctor                                                                          | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
-| 34  | K: RETURN OF KINGS                                                                           | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
-| 35  | Ace of the Diamond                                                                           | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
+| 34  | Ace of the Diamond                                                                           | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
+| 35  | K: RETURN OF KINGS                                                                           | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 36  | Air Gear                                                                                     | 2006 | 05 Jan 2026 | [SeaDex](https://releases.moe/857/), [AniList](https://anilist.co/anime/857)       |
 | 37  | Kämpfer                                                                                      | 2009 | 01 Jun 2026 | [SeaDex](https://releases.moe/6205/), [AniList](https://anilist.co/anime/6205)     |
 | 38  | KanColle                                                                                     | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |

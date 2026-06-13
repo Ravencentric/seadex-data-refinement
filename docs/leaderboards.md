@@ -18,12 +18,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | Headpatter           | 139   |
 | 🥉   | CRUCiBLE             | 136   |
 | 4    | sam                  | 132   |
-| 5    | NAN0                 | 112   |
+| 5    | NAN0                 | 113   |
 | 6    | MTBB                 | 106   |
 | 7    | Moxie                | 97    |
 | 8    | YURASUKA             | 91    |
-| 9    | hchcsen              | 83    |
-| 10   | SubsPlease           | 75    |
+| 9    | hchcsen              | 84    |
+| 10   | SubsPlease           | 76    |
 | 11   | YURI                 | 70    |
 | 12   | Drag                 | 58    |
 | 13   | smol                 | 57    |
@@ -47,8 +47,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | CRUCiBLE                                         | 108   |
 | 🥈   | -ZR-                                             | 107   |
 | 🥉   | sam                                              | 92    |
-| 4    | NAN0                                             | 84    |
-| 5    | hchcsen                                          | 43    |
+| 4    | NAN0                                             | 85    |
+| 5    | hchcsen                                          | 44    |
 | 6    | Headpatter                                       | 34    |
 | 7    | LYS1TH3A                                         | 32    |
 | 8    | TTGA                                             | 29    |
@@ -77,12 +77,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                   | 149   |
 | 🥈   | CRUCiBLE               | 136   |
 | 🥉   | sam                    | 123   |
-| 4    | NAN0                   | 111   |
+| 4    | NAN0                   | 112   |
 | 5    | Moxie                  | 97    |
 | 6    | Headpatter             | 86    |
 | 7    | MTBB                   | 76    |
 | 8    | smol                   | 55    |
-| 9    | hchcsen                | 53    |
+| 9    | hchcsen                | 54    |
 | 10   | Okay-Subs / PMR / TTGA | 38    |
 | 11   | LYS1TH3A / YURI        | 33    |
 | 12   | B00BA / GetItTwisted   | 31    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
 | 🥇   | Headpatter                                     | 66    |
-| 🥈   | SubsPlease                                     | 63    |
+| 🥈   | SubsPlease                                     | 64    |
 | 🥉   | YURASUKA                                       | 62    |
 | 4    | KH                                             | 46    |
 | 5    | Drag                                           | 43    |
@@ -114,7 +114,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Erai-raws / hchcsen                            | 35    |
 | 9    | LostYears / MTBB                               | 30    |
 | 10   | GetItTwisted / NOGRP                           | 29    |
-| 11   | VARYG                                          | 27    |
+| 11   | VARYG                                          | 28    |
 | 12   | Arid / Bunny-Apocalypse                        | 24    |
 | 13   | Holomux                                        | 23    |
 | 14   | Chihiro / Kametsu                              | 21    |
