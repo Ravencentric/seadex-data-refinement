@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `140.9 TiB`
-- Best size: `107.0 TiB`
+- Best size: `106.9 TiB`
 - Alt size: `33.9 TiB`
 - Realistic size: `110.3 TiB`
 
@@ -23,8 +23,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.8 TiB   | 13.0 TiB (94.13%)   | 187 (~75.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.0 TiB   | 10.0 TiB (100.00%)  | 136 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.4 TiB    | 8.3 TiB (99.10%)    | 113 (~76.0 GiB each)  |
-| 4    | hchcsen          | 6.4 TiB    | 5.3 TiB (83.20%)    | 89 (~73.1 GiB each)   |
-| 5    | Headpatter       | 4.7 TiB    | 3.6 TiB (76.91%)    | 152 (~31.4 GiB each)  |
+| 4    | hchcsen          | 6.4 TiB    | 5.3 TiB (82.64%)    | 90 (~72.7 GiB each)   |
+| 5    | Headpatter       | 4.6 TiB    | 3.5 TiB (76.63%)    | 153 (~30.9 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
@@ -39,7 +39,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.76%)  | 76 (~17.2 GiB each)   |
 | 19   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
-| 20   | YURASUKA         | 1.0 TiB    | 375.0 GiB (35.08%)  | 91 (~11.7 GiB each)   |
+| 20   | YURASUKA         | 1.1 TiB    | 388.3 GiB (35.88%)  | 92 (~11.8 GiB each)   |
 | 21   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
 | 22   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
 | 23   | Mehul            | 995.3 GiB  | 958.0 GiB (96.25%)  | 29 (~34.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 48   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 49   | UDF              | 532.8 GiB  | 206.7 GiB (38.79%)  | 23 (~23.2 GiB each)   |
-| 50   | Others           | 46.0 TiB   | 25.2 TiB (54.78%)   | 2017 (~23.4 GiB each) |
+| 50   | Others           | 46.0 TiB   | 25.2 TiB (54.80%)   | 2017 (~23.3 GiB each) |
