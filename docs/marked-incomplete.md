@@ -179,8 +179,8 @@
 | 176 | Kamichu!                                                                             | 2005 | 14 Jul 2024 | [SeaDex](https://releases.moe/489/), [AniList](https://anilist.co/anime/489)       |
 | 177 | the Garden of sinners: recalled out summer –extra chorus–                            | 2013 | 17 Jul 2025 | [SeaDex](https://releases.moe/20697/), [AniList](https://anilist.co/anime/20697)   |
 | 178 | Dropkick on My Devil!! Dash                                                          | 2020 | 26 Jun 2024 | [SeaDex](https://releases.moe/107294/), [AniList](https://anilist.co/anime/107294) |
-| 179 | Natsume's Book of Friends the Movie: Ephemeral Bond                                  | 2018 | 01 Oct 2024 | [SeaDex](https://releases.moe/100268/), [AniList](https://anilist.co/anime/100268) |
-| 180 | Baby Steps 2                                                                         | 2015 | 13 Jul 2025 | [SeaDex](https://releases.moe/20854/), [AniList](https://anilist.co/anime/20854)   |
+| 179 | Baby Steps 2                                                                         | 2015 | 13 Jul 2025 | [SeaDex](https://releases.moe/20854/), [AniList](https://anilist.co/anime/20854)   |
+| 180 | Natsume's Book of Friends the Movie: Ephemeral Bond                                  | 2018 | 01 Oct 2024 | [SeaDex](https://releases.moe/100268/), [AniList](https://anilist.co/anime/100268) |
 | 181 | Ao Haru Ride PAGE.13                                                                 | 2014 | 17 Nov 2025 | [SeaDex](https://releases.moe/20900/), [AniList](https://anilist.co/anime/20900)   |
 | 182 | The Case of Hana & Alice                                                             | 2015 | 01 Feb 2025 | [SeaDex](https://releases.moe/20908/), [AniList](https://anilist.co/anime/20908)   |
 | 183 | Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki                                 | 2016 | 29 Dec 2023 | [SeaDex](https://releases.moe/87489/), [AniList](https://anilist.co/anime/87489)   |
@@ -355,8 +355,8 @@
 | 352 | Momoiro Sisters                                                                      | 1998 | 24 Jul 2024 | [SeaDex](https://releases.moe/1188/), [AniList](https://anilist.co/anime/1188)     |
 | 353 | Super High Speed Galvion                                                             | 1984 | 13 Nov 2023 | [SeaDex](https://releases.moe/6636/), [AniList](https://anilist.co/anime/6636)     |
 | 354 | Superdimensional Romanesque Samy: Missing 99                                         | 1986 | 21 Jun 2024 | [SeaDex](https://releases.moe/7192/), [AniList](https://anilist.co/anime/7192)     |
-| 355 | YAMATO2520                                                                           | 1994 | 13 Nov 2023 | [SeaDex](https://releases.moe/6718/), [AniList](https://anilist.co/anime/6718)     |
-| 356 | Uchuu no Kishi Tekkaman Blade: TWIN BLOOD                                            | 1994 | 08 Jun 2025 | [SeaDex](https://releases.moe/2300/), [AniList](https://anilist.co/anime/2300)     |
+| 355 | Uchuu no Kishi Tekkaman Blade: TWIN BLOOD                                            | 1994 | 08 Jun 2025 | [SeaDex](https://releases.moe/2300/), [AniList](https://anilist.co/anime/2300)     |
+| 356 | YAMATO2520                                                                           | 1994 | 13 Nov 2023 | [SeaDex](https://releases.moe/6718/), [AniList](https://anilist.co/anime/6718)     |
 | 357 | The Green Cat                                                                        | 1989 | 14 Nov 2023 | [SeaDex](https://releases.moe/11799/), [AniList](https://anilist.co/anime/11799)   |
 | 358 | Hentatsu                                                                             | 2018 | 07 Jul 2024 | [SeaDex](https://releases.moe/111433/), [AniList](https://anilist.co/anime/111433) |
 | 359 | Coluboccoro                                                                          | 2007 | 22 Jun 2024 | [SeaDex](https://releases.moe/11735/), [AniList](https://anilist.co/anime/11735)   |

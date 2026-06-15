@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                | Count |
 | :----| :--------------------| :-----|
 | 🥇   | -ZR-                 | 176   |
-| 🥈   | Headpatter           | 140   |
+| 🥈   | Headpatter           | 141   |
 | 🥉   | CRUCiBLE             | 136   |
 | 4    | sam                  | 132   |
 | 5    | NAN0                 | 113   |
@@ -48,7 +48,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | -ZR-                                             | 107   |
 | 🥉   | sam                                              | 92    |
 | 4    | NAN0                                             | 85    |
-| 5    | hchcsen                                          | 44    |
+| 5    | hchcsen                                          | 45    |
 | 6    | Headpatter                                       | 33    |
 | 7    | LYS1TH3A                                         | 32    |
 | 8    | TTGA                                             | 29    |
@@ -72,39 +72,39 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best entries
 
-| Rank | Group                  | Count |
-| :----| :----------------------| :-----|
-| 🥇   | -ZR-                   | 149   |
-| 🥈   | CRUCiBLE               | 136   |
-| 🥉   | sam                    | 123   |
-| 4    | NAN0                   | 112   |
-| 5    | Moxie                  | 97    |
-| 6    | Headpatter             | 87    |
-| 7    | MTBB                   | 76    |
-| 8    | smol                   | 55    |
-| 9    | hchcsen                | 54    |
-| 10   | Okay-Subs / PMR / TTGA | 38    |
-| 11   | LYS1TH3A / YURI        | 33    |
-| 12   | B00BA / GetItTwisted   | 31    |
-| 13   | YURASUKA               | 30    |
-| 14   | Orphan                 | 26    |
-| 15   | FLE / Mehul            | 25    |
-| 16   | Lulu                   | 21    |
-| 17   | LaCroiX / LazyRemux    | 20    |
-| 18   | Arid / koala           | 18    |
-| 19   | Flugel                 | 17    |
-| 20   | Drag / Kawatare        | 16    |
-| 21   | NOGRP / ZeroBuild      | 15    |
-| 22   | Vodes                  | 14    |
-| 23   | Beatrice / LostYears   | 13    |
-| 24   | FraMeSToR / SubsPlease | 12    |
-| 25   | KH / UDF / cappybara   | 11    |
+| Rank | Group                                  | Count |
+| :----| :--------------------------------------| :-----|
+| 🥇   | -ZR-                                   | 149   |
+| 🥈   | CRUCiBLE                               | 136   |
+| 🥉   | sam                                    | 123   |
+| 4    | NAN0                                   | 112   |
+| 5    | Moxie                                  | 97    |
+| 6    | Headpatter                             | 87    |
+| 7    | MTBB                                   | 76    |
+| 8    | hchcsen / smol                         | 55    |
+| 9    | Okay-Subs / PMR / TTGA                 | 38    |
+| 10   | LYS1TH3A / YURI                        | 33    |
+| 11   | B00BA / GetItTwisted                   | 31    |
+| 12   | YURASUKA                               | 30    |
+| 13   | Orphan                                 | 26    |
+| 14   | FLE / Mehul                            | 25    |
+| 15   | Lulu                                   | 21    |
+| 16   | LaCroiX / LazyRemux                    | 20    |
+| 17   | Arid / koala                           | 18    |
+| 18   | Flugel                                 | 17    |
+| 19   | Drag / Kawatare                        | 16    |
+| 20   | NOGRP / ZeroBuild                      | 15    |
+| 21   | Vodes                                  | 14    |
+| 22   | Beatrice / LostYears                   | 13    |
+| 23   | FraMeSToR / SubsPlease                 | 12    |
+| 24   | KH / UDF / cappybara                   | 11    |
+| 25   | DemiHuman / Holomux / IK / P9 & Others | 10    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
-| 🥇   | Headpatter                                     | 66    |
+| 🥇   | Headpatter                                     | 67    |
 | 🥈   | SubsPlease                                     | 64    |
 | 🥉   | YURASUKA                                       | 62    |
 | 4    | KH                                             | 46    |

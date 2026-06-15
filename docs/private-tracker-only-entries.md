@@ -1,7 +1,7 @@
 # Private tracker only entries
 | Idx | Title                                | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Chained Soldier Season 2             | 2026 | 12 Jun 2026 | [SeaDex](https://releases.moe/176276/), [AniList](https://anilist.co/anime/176276) |
+| 1   | Chained Soldier Season 2             | 2026 | 14 Jun 2026 | [SeaDex](https://releases.moe/176276/), [AniList](https://anilist.co/anime/176276) |
 | 2   | Immoral Guild                        | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
 | 3   | Scarlet Nexus                        | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 4   | The Qwaser of Stigmata II            | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
