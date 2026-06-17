@@ -15,7 +15,7 @@
 | 12  | Gintama                                                                              | 2006 | 03 Jul 2024 | [SeaDex](https://releases.moe/918/), [AniList](https://anilist.co/anime/918)       |
 | 13  | JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt                       | 2015 | 25 Feb 2025 | [SeaDex](https://releases.moe/20799/), [AniList](https://anilist.co/anime/20799)   |
 | 14  | Neon Genesis Evangelion: The End of Evangelion                                       | 1997 | 30 Jan 2025 | [SeaDex](https://releases.moe/32/), [AniList](https://anilist.co/anime/32)         |
-| 15  | Kimi ni Todoke: From Me to You                                                       | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6045/), [AniList](https://anilist.co/anime/6045)     |
+| 15  | Kimi ni Todoke: From Me to You                                                       | 2009 | 16 Jun 2026 | [SeaDex](https://releases.moe/6045/), [AniList](https://anilist.co/anime/6045)     |
 | 16  | Overlord III                                                                         | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 17  | The Seven Deadly Sins: Imperial Wrath of the Gods                                    | 2019 | 28 Jan 2024 | [SeaDex](https://releases.moe/108928/), [AniList](https://anilist.co/anime/108928) |
 | 18  | Fate/stay night                                                                      | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/356/), [AniList](https://anilist.co/anime/356)       |
@@ -28,7 +28,7 @@
 | 25  | High School DxD HERO                                                                 | 2018 | 14 Feb 2026 | [SeaDex](https://releases.moe/97767/), [AniList](https://anilist.co/anime/97767)   |
 | 26  | School Days (TV)                                                                     | 2007 | 15 Nov 2023 | [SeaDex](https://releases.moe/2476/), [AniList](https://anilist.co/anime/2476)     |
 | 27  | Evangelion: 3.0 You Can (Not) Redo                                                   | 2012 | 27 Jan 2025 | [SeaDex](https://releases.moe/3785/), [AniList](https://anilist.co/anime/3785)     |
-| 28  | Kimi ni Todoke: From Me to You Season 2                                              | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/9656/), [AniList](https://anilist.co/anime/9656)     |
+| 28  | Kimi ni Todoke: From Me to You Season 2                                              | 2011 | 16 Jun 2026 | [SeaDex](https://releases.moe/9656/), [AniList](https://anilist.co/anime/9656)     |
 | 29  | D.Gray-man                                                                           | 2006 | 23 Jun 2024 | [SeaDex](https://releases.moe/1482/), [AniList](https://anilist.co/anime/1482)     |
 | 30  | Azumanga Daioh                                                                       | 2002 | 31 Dec 2025 | [SeaDex](https://releases.moe/66/), [AniList](https://anilist.co/anime/66)         |
 | 31  | Cardcaptor Sakura                                                                    | 1998 | 18 Jun 2024 | [SeaDex](https://releases.moe/232/), [AniList](https://anilist.co/anime/232)       |
@@ -338,8 +338,8 @@
 | 335 | Manyuu Hikenchou Picture Drama                                                       | 2011 | 21 Jul 2024 | [SeaDex](https://releases.moe/12239/), [AniList](https://anilist.co/anime/12239)   |
 | 336 | Panzer World Galient                                                                 | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
 | 337 | RahXephon Interlude: Her and Herself/Thatness and Thereness                          | 2003 | 11 Feb 2026 | [SeaDex](https://releases.moe/559/), [AniList](https://anilist.co/anime/559)       |
-| 338 | Nightsong of Splendor                                                                | 1989 | 16 Jul 2024 | [SeaDex](https://releases.moe/4485/), [AniList](https://anilist.co/anime/4485)     |
-| 339 | Megami Paradise                                                                      | 1995 | 08 Jun 2025 | [SeaDex](https://releases.moe/2528/), [AniList](https://anilist.co/anime/2528)     |
+| 338 | Megami Paradise                                                                      | 1995 | 08 Jun 2025 | [SeaDex](https://releases.moe/2528/), [AniList](https://anilist.co/anime/2528)     |
+| 339 | Nightsong of Splendor                                                                | 1989 | 16 Jul 2024 | [SeaDex](https://releases.moe/4485/), [AniList](https://anilist.co/anime/4485)     |
 | 340 | Megazone 23 Part II                                                                  | 1986 | 22 Jul 2024 | [SeaDex](https://releases.moe/129595/), [AniList](https://anilist.co/anime/129595) |
 | 341 | The Big First-Grader and the Small Second-Grader                                     | 2014 | 01 Jun 2025 | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |
 | 342 | Psychic Wars                                                                         | 1991 | 17 Dec 2023 | [SeaDex](https://releases.moe/1345/), [AniList](https://anilist.co/anime/1345)     |
