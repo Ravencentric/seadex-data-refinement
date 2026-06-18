@@ -87,8 +87,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 80  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
 | 81  | Tiger & Bunny                                                                              | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
 | 82  | RE-MAIN                                                                                    | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
-| 83  | Pretty Boy Detective Club                                                                  | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
-| 84  | SUPER HXEROS                                                                               | 2020 | 29 Sep 2025 | [SeaDex](https://releases.moe/112818/), [AniList](https://anilist.co/anime/112818) |
+| 83  | SUPER HXEROS                                                                               | 2020 | 29 Sep 2025 | [SeaDex](https://releases.moe/112818/), [AniList](https://anilist.co/anime/112818) |
+| 84  | Pretty Boy Detective Club                                                                  | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
 | 85  | Super Cub                                                                                  | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |
 | 86  | Sound of the Sky                                                                           | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 87  | Mobile Suit Gundam                                                                         | 1979 | 02 May 2026 | [SeaDex](https://releases.moe/80/), [AniList](https://anilist.co/anime/80)         |
@@ -133,9 +133,9 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 126 | Nanbaka: Idiots with Student Numbers!                                                      | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/100227/), [AniList](https://anilist.co/anime/100227) |
 | 127 | Guin Saga                                                                                  | 2009 | 19 Nov 2025 | [SeaDex](https://releases.moe/5041/), [AniList](https://anilist.co/anime/5041)     |
 | 128 | Valkyrie Drive: Mermaid Specials                                                           | 2015 | 28 Nov 2024 | [SeaDex](https://releases.moe/21413/), [AniList](https://anilist.co/anime/21413)   |
-| 129 | Gundam Build Divers Re:RISE                                                                | 2019 | 16 Jun 2026 | [SeaDex](https://releases.moe/110786/), [AniList](https://anilist.co/anime/110786) |
+| 129 | Gundam Build Divers Re:RISE                                                                | 2019 | 17 Jun 2026 | [SeaDex](https://releases.moe/110786/), [AniList](https://anilist.co/anime/110786) |
 | 130 | Brain Powerd                                                                               | 1998 | 17 Jun 2024 | [SeaDex](https://releases.moe/1542/), [AniList](https://anilist.co/anime/1542)     |
 | 131 | Toaru Kagaku no Accelerator: Tobidase Ippou-san Hachamecha Kaishingeki                     | 2019 | 10 May 2026 | [SeaDex](https://releases.moe/112031/), [AniList](https://anilist.co/anime/112031) |
-| 132 | Gundam Build Divers Re:RISE 2nd Season                                                     | 2020 | 16 Jun 2026 | [SeaDex](https://releases.moe/114233/), [AniList](https://anilist.co/anime/114233) |
+| 132 | Gundam Build Divers Re:RISE 2nd Season                                                     | 2020 | 17 Jun 2026 | [SeaDex](https://releases.moe/114233/), [AniList](https://anilist.co/anime/114233) |
 | 133 | Sekai de Ichiban Tsuyoku Naritai! Specials                                                 | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/20522/), [AniList](https://anilist.co/anime/20522)   |
 | 134 | Odd Taxi Original Picture Drama                                                            | 2022 | 19 Nov 2025 | [SeaDex](https://releases.moe/158676/), [AniList](https://anilist.co/anime/158676) |
