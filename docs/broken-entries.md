@@ -82,7 +82,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 75  | Air Gear: Special Trick                                                                      | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
 | 76  | Linebarrels of Iron                                                                          | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3653/), [AniList](https://anilist.co/anime/3653)     |
 | 77  | Garo: Crimson Moon                                                                           | 2015 | 07 Nov 2025 | [SeaDex](https://releases.moe/21277/), [AniList](https://anilist.co/anime/21277)   |
-| 78  | Marriage of God & Soul Godannar!!                                                            | 2003 | 20 Jun 2026 | [SeaDex](https://releases.moe/1103/), [AniList](https://anilist.co/anime/1103)     |
+| 78  | Marriage of God & Soul Godannar!!                                                            | 2003 | 22 Jun 2026 | [SeaDex](https://releases.moe/1103/), [AniList](https://anilist.co/anime/1103)     |
 | 79  | Minami-ke: Omatase                                                                           | 2012 | 19 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
 | 80  | Minami-ke: Betsubara                                                                         | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5713/), [AniList](https://anilist.co/anime/5713)     |
 | 81  | Granblue Fantasy: The Animation Special                                                      | 2017 | 26 Feb 2025 | [SeaDex](https://releases.moe/100469/), [AniList](https://anilist.co/anime/100469) |
