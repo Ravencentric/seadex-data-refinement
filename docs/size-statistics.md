@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `142.6 TiB`
-- Best size: `108.7 TiB`
+- Total size: `142.8 TiB`
+- Best size: `108.8 TiB`
 - Alt size: `34.0 TiB`
-- Realistic size: `112.0 TiB`
+- Realistic size: `112.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -23,13 +23,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 13.7 TiB   | 12.9 TiB (94.10%)   | 186 (~75.6 GiB each)  |
 | 2    | CRUCiBLE         | 9.7 TiB    | 9.7 TiB (100.00%)   | 133 (~74.7 GiB each)  |
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
-| 4    | hchcsen          | 7.7 TiB    | 6.5 TiB (84.18%)    | 100 (~79.3 GiB each)  |
-| 5    | Headpatter       | 4.8 TiB    | 3.7 TiB (76.25%)    | 161 (~30.5 GiB each)  |
+| 4    | hchcsen          | 7.8 TiB    | 6.5 TiB (83.91%)    | 101 (~78.8 GiB each)  |
+| 5    | Headpatter       | 4.9 TiB    | 3.7 TiB (76.01%)    | 163 (~30.8 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
-| 9    | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
-| 10   | B00BA            | 2.8 TiB    | 2.8 TiB (100.00%)   | 32 (~89.6 GiB each)   |
+| 9    | B00BA            | 2.9 TiB    | 2.9 TiB (100.00%)   | 33 (~89.3 GiB each)   |
+| 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~622.3 GiB each)   |
 | 12   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (74.40%)    | 60 (~28.1 GiB each)   |
 | 13   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 46.1 TiB   | 25.1 TiB (54.59%)   | 2042 (~23.1 GiB each) |
+| 50   | Others           | 46.0 TiB   | 25.1 TiB (54.62%)   | 2041 (~23.1 GiB each) |
