@@ -118,8 +118,8 @@
 | 115 | ROOM CAMP                                                                            | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/104461/), [AniList](https://anilist.co/anime/104461) |
 | 116 | Baby Steps                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20510/), [AniList](https://anilist.co/anime/20510)   |
 | 117 | Strawberry Panic                                                                     | 2006 | 17 Nov 2025 | [SeaDex](https://releases.moe/855/), [AniList](https://anilist.co/anime/855)       |
-| 118 | Ao Haru Ride: unwritten                                                              | 2014 | 17 Nov 2025 | [SeaDex](https://releases.moe/20837/), [AniList](https://anilist.co/anime/20837)   |
-| 119 | White Album                                                                          | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/4720/), [AniList](https://anilist.co/anime/4720)     |
+| 118 | White Album                                                                          | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/4720/), [AniList](https://anilist.co/anime/4720)     |
+| 119 | Ao Haru Ride: unwritten                                                              | 2014 | 17 Nov 2025 | [SeaDex](https://releases.moe/20837/), [AniList](https://anilist.co/anime/20837)   |
 | 120 | Gintama: THE SEMI-FINAL                                                              | 2021 | 18 Dec 2025 | [SeaDex](https://releases.moe/126819/), [AniList](https://anilist.co/anime/126819) |
 | 121 | Akagi                                                                                | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
 | 122 | Monster Musume: Everyday Life With Monster Girls OVA                                 | 2016 | 24 Jan 2024 | [SeaDex](https://releases.moe/21650/), [AniList](https://anilist.co/anime/21650)   |
@@ -162,8 +162,8 @@
 | 159 | Heroic Age                                                                           | 2007 | 07 Jul 2024 | [SeaDex](https://releases.moe/2002/), [AniList](https://anilist.co/anime/2002)     |
 | 160 | Yokohama Shopping Log                                                                | 1998 | 13 Nov 2024 | [SeaDex](https://releases.moe/975/), [AniList](https://anilist.co/anime/975)       |
 | 161 | Snow White with the Red Hair: Nandemonai Takaramono, Kono Page                       | 2016 | 17 Jan 2025 | [SeaDex](https://releases.moe/21313/), [AniList](https://anilist.co/anime/21313)   |
-| 162 | Kumamiko -Girl Meets Bear                                                            | 2016 | 18 Jul 2024 | [SeaDex](https://releases.moe/21423/), [AniList](https://anilist.co/anime/21423)   |
-| 163 | My Hero Academia Season 5 OVA                                                        | 2022 | 11 Aug 2025 | [SeaDex](https://releases.moe/149073/), [AniList](https://anilist.co/anime/149073) |
+| 162 | My Hero Academia Season 5 OVA                                                        | 2022 | 11 Aug 2025 | [SeaDex](https://releases.moe/149073/), [AniList](https://anilist.co/anime/149073) |
+| 163 | Kumamiko -Girl Meets Bear                                                            | 2016 | 18 Jul 2024 | [SeaDex](https://releases.moe/21423/), [AniList](https://anilist.co/anime/21423)   |
 | 164 | Honey and Clover II                                                                  | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/1142/), [AniList](https://anilist.co/anime/1142)     |
 | 165 | Overlord: Ple Ple Pleiades                                                           | 2015 | 29 Dec 2023 | [SeaDex](https://releases.moe/21305/), [AniList](https://anilist.co/anime/21305)   |
 | 166 | Ansatsu Kyoushitsu: Jump Festa 2013 Special                                          | 2013 | 08 May 2024 | [SeaDex](https://releases.moe/19759/), [AniList](https://anilist.co/anime/19759)   |
@@ -219,7 +219,7 @@
 | 216 | Girls und Panzer das Finale - Part 3                                                 | 2021 | 08 Jun 2025 | [SeaDex](https://releases.moe/124115/), [AniList](https://anilist.co/anime/124115) |
 | 217 | Jyu-Oh-Sei: Planet of the Beast King                                                 | 2006 | 07 Jun 2025 | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
 | 218 | Overlord: Ple Ple Pleiades 2                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/101083/), [AniList](https://anilist.co/anime/101083) |
-| 219 | Natsume's Book of Friends Season 6 Specials                                          | 2017 | 02 Oct 2024 | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
+| 219 | Natsume Yuujinchou Roku Tokubetsu-hen                                                | 2017 | 02 Oct 2024 | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
 | 220 | Seven Days War                                                                       | 2019 | 28 Nov 2024 | [SeaDex](https://releases.moe/101610/), [AniList](https://anilist.co/anime/101610) |
 | 221 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
 | 222 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
@@ -295,7 +295,7 @@
 | 292 | Ichigo Mashimaro Episode 0                                                           | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/4156/), [AniList](https://anilist.co/anime/4156)     |
 | 293 | Call Me Tonight                                                                      | 1986 | 18 Jun 2024 | [SeaDex](https://releases.moe/2147/), [AniList](https://anilist.co/anime/2147)     |
 | 294 | .hack//INTERMEZZO                                                                    | 2003 | 05 Jun 2025 | [SeaDex](https://releases.moe/1143/), [AniList](https://anilist.co/anime/1143)     |
-| 295 | Senyuu. Specials                                                                     | 2013 | 15 Nov 2023 | [SeaDex](https://releases.moe/17391/), [AniList](https://anilist.co/anime/17391)   |
+| 295 | Senyuu. OVAs                                                                         | 2013 | 15 Nov 2023 | [SeaDex](https://releases.moe/17391/), [AniList](https://anilist.co/anime/17391)   |
 | 296 | Oreimo Animated Commentary                                                           | 2010 | 28 Nov 2024 | [SeaDex](https://releases.moe/10108/), [AniList](https://anilist.co/anime/10108)   |
 | 297 | Anime de Training! XX                                                                | 2016 | 27 Nov 2024 | [SeaDex](https://releases.moe/21886/), [AniList](https://anilist.co/anime/21886)   |
 | 298 | Mini Yuri                                                                            | 2019 | 05 Jun 2025 | [SeaDex](https://releases.moe/110382/), [AniList](https://anilist.co/anime/110382) |

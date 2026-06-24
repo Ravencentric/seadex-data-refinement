@@ -25,7 +25,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
 | 4    | hchcsen          | 7.8 TiB    | 6.5 TiB (83.91%)    | 101 (~78.8 GiB each)  |
 | 5    | Headpatter       | 4.9 TiB    | 3.7 TiB (76.01%)    | 163 (~30.8 GiB each)  |
-| 6    | sam              | 3.9 TiB    | 3.6 TiB (93.25%)    | 132 (~30.3 GiB each)  |
+| 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 97 (~40.0 GiB each)   |
 | 8    | PMR              | 3.0 TiB    | 3.0 TiB (100.00%)   | 38 (~81.1 GiB each)   |
 | 9    | B00BA            | 2.9 TiB    | 2.9 TiB (100.00%)   | 33 (~89.3 GiB each)   |
