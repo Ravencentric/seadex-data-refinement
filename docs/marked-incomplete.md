@@ -52,8 +52,8 @@
 | 49  | K: RETURN OF KINGS                                                                   | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 50  | the Garden of sinners Chapter 2: …and nothing heart. (Murder Speculation Part A)     | 2007 | 17 Jul 2025 | [SeaDex](https://releases.moe/3782/), [AniList](https://anilist.co/anime/3782)     |
 | 51  | Golden Kamuy Season 2                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
-| 52  | In This Corner of the World                                                          | 2016 | 24 Nov 2023 | [SeaDex](https://releases.moe/15227/), [AniList](https://anilist.co/anime/15227)   |
-| 53  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time           | 2025 | 11 Feb 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 52  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time           | 2025 | 11 Feb 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 53  | In This Corner of the World                                                          | 2016 | 24 Nov 2023 | [SeaDex](https://releases.moe/15227/), [AniList](https://anilist.co/anime/15227)   |
 | 54  | the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)     | 2008 | 17 Jul 2025 | [SeaDex](https://releases.moe/3783/), [AniList](https://anilist.co/anime/3783)     |
 | 55  | the Garden of sinners Chapter 5: Paradox Paradigm                                    | 2008 | 17 Jul 2025 | [SeaDex](https://releases.moe/4282/), [AniList](https://anilist.co/anime/4282)     |
 | 56  | Gintama.: Silver Soul Arc                                                            | 2018 | 30 Aug 2025 | [SeaDex](https://releases.moe/100784/), [AniList](https://anilist.co/anime/100784) |
@@ -184,8 +184,8 @@
 | 181 | Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki                                 | 2016 | 29 Dec 2023 | [SeaDex](https://releases.moe/87489/), [AniList](https://anilist.co/anime/87489)   |
 | 182 | One Room SECOND SEASON                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/100133/), [AniList](https://anilist.co/anime/100133) |
 | 183 | Natsume's Book of Friends OVA                                                        | 2014 | 01 Feb 2025 | [SeaDex](https://releases.moe/20478/), [AniList](https://anilist.co/anime/20478)   |
-| 184 | You and Me 2                                                                         | 2012 | 13 Nov 2024 | [SeaDex](https://releases.moe/11739/), [AniList](https://anilist.co/anime/11739)   |
-| 185 | Aki Sora                                                                             | 2010 | 07 Apr 2024 | [SeaDex](https://releases.moe/8577/), [AniList](https://anilist.co/anime/8577)     |
+| 184 | Aki Sora                                                                             | 2010 | 07 Apr 2024 | [SeaDex](https://releases.moe/8577/), [AniList](https://anilist.co/anime/8577)     |
+| 185 | You and Me 2                                                                         | 2012 | 13 Nov 2024 | [SeaDex](https://releases.moe/11739/), [AniList](https://anilist.co/anime/11739)   |
 | 186 | Durarara!! X2: My Heart is in the Pattern of a Hot Pot                               | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21068/), [AniList](https://anilist.co/anime/21068)   |
 | 187 | Durarara!! X2 The Third Arc: DuFuFuFu!!                                              | 2016 | 27 Jun 2024 | [SeaDex](https://releases.moe/21695/), [AniList](https://anilist.co/anime/21695)   |
 | 188 | The Dragon Dentist                                                                   | 2017 | 11 Nov 2023 | [SeaDex](https://releases.moe/87539/), [AniList](https://anilist.co/anime/87539)   |
@@ -199,8 +199,8 @@
 | 196 | Maria†Holic Alive                                                                    | 2011 | 13 Jun 2026 | [SeaDex](https://releases.moe/9712/), [AniList](https://anilist.co/anime/9712)     |
 | 197 | Takunomi                                                                             | 2018 | 13 Nov 2023 | [SeaDex](https://releases.moe/99753/), [AniList](https://anilist.co/anime/99753)   |
 | 198 | Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings               | 2022 | 10 Apr 2025 | [SeaDex](https://releases.moe/143082/), [AniList](https://anilist.co/anime/143082) |
-| 199 | Durarara!! X2 The Second Arc: Onoroke Chakapoko                                      | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21331/), [AniList](https://anilist.co/anime/21331)   |
-| 200 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://releases.moe/4983/), [AniList](https://anilist.co/anime/4983)     |
+| 199 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://releases.moe/4983/), [AniList](https://anilist.co/anime/4983)     |
+| 200 | Durarara!! X2 The Second Arc: Onoroke Chakapoko                                      | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21331/), [AniList](https://anilist.co/anime/21331)   |
 | 201 | Big Fish & Begonia                                                                   | 2016 | 11 Aug 2025 | [SeaDex](https://releases.moe/10259/), [AniList](https://anilist.co/anime/10259)   |
 | 202 | Kabaneri of the Iron Fortress: Light That Gathers                                    | 2016 | 09 Dec 2023 | [SeaDex](https://releases.moe/98662/), [AniList](https://anilist.co/anime/98662)   |
 | 203 | Beyond the Boundary: Mini Theater                                                    | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20531/), [AniList](https://anilist.co/anime/20531)   |
@@ -225,8 +225,8 @@
 | 222 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
 | 223 | One Room 3rd                                                                         | 2020 | 30 Dec 2023 | [SeaDex](https://releases.moe/116147/), [AniList](https://anilist.co/anime/116147) |
 | 224 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
-| 225 | School Days: Valentine Days                                                          | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3759/), [AniList](https://anilist.co/anime/3759)     |
-| 226 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
+| 225 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
+| 226 | School Days: Valentine Days                                                          | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3759/), [AniList](https://anilist.co/anime/3759)     |
 | 227 | Pingu in the City                                                                    | 2017 | 27 Dec 2023 | [SeaDex](https://releases.moe/99994/), [AniList](https://anilist.co/anime/99994)   |
 | 228 | The Master of Killing Time OVA                                                       | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20600/), [AniList](https://anilist.co/anime/20600)   |
 | 229 | Golden Kamuy OVA                                                                     | 2018 | 31 Jan 2026 | [SeaDex](https://releases.moe/101830/), [AniList](https://anilist.co/anime/101830) |
@@ -258,8 +258,8 @@
 | 255 | Cat's Eye                                                                            | 1983 | 28 Nov 2024 | [SeaDex](https://releases.moe/2043/), [AniList](https://anilist.co/anime/2043)     |
 | 256 | TWOCAR                                                                               | 2017 | 14 Nov 2023 | [SeaDex](https://releases.moe/99672/), [AniList](https://anilist.co/anime/99672)   |
 | 257 | Strawberry Marshmallow OVA                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/1888/), [AniList](https://anilist.co/anime/1888)     |
-| 258 | Air Gear: Special Trick                                                              | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
-| 259 | Gokujo.                                                                              | 2012 | 03 Jul 2024 | [SeaDex](https://releases.moe/11769/), [AniList](https://anilist.co/anime/11769)   |
+| 258 | Gokujo.                                                                              | 2012 | 03 Jul 2024 | [SeaDex](https://releases.moe/11769/), [AniList](https://anilist.co/anime/11769)   |
+| 259 | Air Gear: Special Trick                                                              | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
 | 260 | Asura                                                                                | 2012 | 19 Aug 2024 | [SeaDex](https://releases.moe/8475/), [AniList](https://anilist.co/anime/8475)     |
 | 261 | One Room: another                                                                    | 2017 | 30 Dec 2023 | [SeaDex](https://releases.moe/99054/), [AniList](https://anilist.co/anime/99054)   |
 | 262 | Amatsuki                                                                             | 2008 | 06 May 2024 | [SeaDex](https://releases.moe/3359/), [AniList](https://anilist.co/anime/3359)     |
@@ -307,7 +307,7 @@
 | 304 | Honoo no Tenkousei                                                                   | 1991 | 10 Jul 2024 | [SeaDex](https://releases.moe/2050/), [AniList](https://anilist.co/anime/2050)     |
 | 305 | Photon: The Idiot Adventures                                                         | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
 | 306 | Pokémon: Twilight Wings - The Gathering of Stars                                     | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/125308/), [AniList](https://anilist.co/anime/125308) |
-| 307 | Shaman King Specials                                                                 | 2002 | 02 Aug 2025 | [SeaDex](https://releases.moe/3861/), [AniList](https://anilist.co/anime/3861)     |
+| 307 | Shaman King Tokubetsu Soushuuhen                                                     | 2002 | 02 Aug 2025 | [SeaDex](https://releases.moe/3861/), [AniList](https://anilist.co/anime/3861)     |
 | 308 | I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job. Specials            | 2014 | 11 Jul 2024 | [SeaDex](https://releases.moe/102033/), [AniList](https://anilist.co/anime/102033) |
 | 309 | Miyori no Mori                                                                       | 2007 | 08 Jun 2025 | [SeaDex](https://releases.moe/2751/), [AniList](https://anilist.co/anime/2751)     |
 | 310 | Kamichu! OVA                                                                         | 2005 | 14 Jul 2024 | [SeaDex](https://releases.moe/3449/), [AniList](https://anilist.co/anime/3449)     |

@@ -49,8 +49,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 42  | Romantic Killer                                                                            | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
 | 43  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                            | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 44  | The Case Study of Vanitas Part 2                                                           | 2022 | 02 Aug 2025 | [SeaDex](https://releases.moe/135136/), [AniList](https://anilist.co/anime/135136) |
-| 45  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                          | 2021 | 30 Jan 2024 | [SeaDex](https://releases.moe/124140/), [AniList](https://anilist.co/anime/124140) |
-| 46  | Isekai Cheat Magician                                                                      | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
+| 45  | Isekai Cheat Magician                                                                      | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
+| 46  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                          | 2021 | 30 Jan 2024 | [SeaDex](https://releases.moe/124140/), [AniList](https://anilist.co/anime/124140) |
 | 47  | IRODUKU: The World in Colors                                                               | 2018 | 19 Aug 2025 | [SeaDex](https://releases.moe/101316/), [AniList](https://anilist.co/anime/101316) |
 | 48  | Spice and Wolf II                                                                          | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
 | 49  | Somali and the Forest Spirit                                                               | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |

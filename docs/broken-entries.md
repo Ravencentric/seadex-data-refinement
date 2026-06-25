@@ -21,8 +21,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 14  | SHIROBAKO                                                                                    | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
 | 15  | Gintama Season 2                                                                             | 2011 | 30 Aug 2025 | [SeaDex](https://releases.moe/9969/), [AniList](https://anilist.co/anime/9969)     |
 | 16  | Keijo!!!!!!!!                                                                                | 2016 | 01 Aug 2025 | [SeaDex](https://releases.moe/21639/), [AniList](https://anilist.co/anime/21639)   |
-| 17  | The Asterisk War 2                                                                           | 2016 | 03 Jun 2026 | [SeaDex](https://releases.moe/21390/), [AniList](https://anilist.co/anime/21390)   |
-| 18  | Welcome to Demon School! Iruma-kun Season 2                                                  | 2021 | 02 May 2026 | [SeaDex](https://releases.moe/116338/), [AniList](https://anilist.co/anime/116338) |
+| 17  | Welcome to Demon School! Iruma-kun Season 2                                                  | 2021 | 02 May 2026 | [SeaDex](https://releases.moe/116338/), [AniList](https://anilist.co/anime/116338) |
+| 18  | The Asterisk War 2                                                                           | 2016 | 03 Jun 2026 | [SeaDex](https://releases.moe/21390/), [AniList](https://anilist.co/anime/21390)   |
 | 19  | Mayo Chiki!                                                                                  | 2011 | 11 Apr 2026 | [SeaDex](https://releases.moe/10110/), [AniList](https://anilist.co/anime/10110)   |
 | 20  | Spice and Wolf II                                                                            | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
 | 21  | Armed Girl's Machiavellism                                                                   | 2017 | 19 Apr 2026 | [SeaDex](https://releases.moe/21851/), [AniList](https://anilist.co/anime/21851)   |
