@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `143.5 TiB`
-- Best size: `109.4 TiB`
+- Total size: `143.7 TiB`
+- Best size: `109.5 TiB`
 - Alt size: `34.1 TiB`
-- Realistic size: `112.6 TiB`
+- Realistic size: `112.7 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,37 +20,37 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 13.7 TiB   | 12.9 TiB (94.10%)   | 186 (~75.6 GiB each)  |
-| 2    | CRUCiBLE         | 9.7 TiB    | 9.7 TiB (100.00%)   | 133 (~74.7 GiB each)  |
-| 3    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
-| 4    | hchcsen          | 8.3 TiB    | 7.0 TiB (84.88%)    | 106 (~79.9 GiB each)  |
-| 5    | Headpatter       | 4.9 TiB    | 3.7 TiB (76.01%)    | 163 (~30.8 GiB each)  |
+| 1    | -ZR-             | 13.7 TiB   | 12.9 TiB (94.12%)   | 184 (~76.0 GiB each)  |
+| 2    | CRUCiBLE         | 9.7 TiB    | 9.7 TiB (100.00%)   | 132 (~74.9 GiB each)  |
+| 3    | hchcsen          | 8.4 TiB    | 7.2 TiB (85.26%)    | 109 (~78.8 GiB each)  |
+| 4    | NAN0             | 8.3 TiB    | 8.3 TiB (99.09%)    | 112 (~76.1 GiB each)  |
+| 5    | Headpatter       | 5.0 TiB    | 3.8 TiB (75.59%)    | 166 (~31.0 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
-| 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 39 (~81.3 GiB each)   |
+| 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 38 (~82.8 GiB each)   |
 | 9    | B00BA            | 2.9 TiB    | 2.9 TiB (100.00%)   | 33 (~89.3 GiB each)   |
 | 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
-| 12   | GetItTwisted     | 1.6 TiB    | 1.2 TiB (74.42%)    | 60 (~28.1 GiB each)   |
+| 12   | GetItTwisted     | 1.7 TiB    | 1.2 TiB (74.48%)    | 61 (~27.7 GiB each)   |
 | 13   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
-| 14   | NOGRP            | 1.5 TiB    | 1.1 TiB (75.52%)    | 46 (~33.4 GiB each)   |
+| 14   | NOGRP            | 1.5 TiB    | 1.1 TiB (75.56%)    | 46 (~33.4 GiB each)   |
 | 15   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
 | 16   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
-| 18   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.76%)  | 76 (~17.2 GiB each)   |
-| 19   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
-| 20   | YURASUKA         | 1.1 TiB    | 416.2 GiB (37.49%)  | 94 (~11.8 GiB each)   |
-| 21   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
-| 22   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
-| 23   | Sylvar           | 1012.9 GiB | 972.3 GiB (96.00%)  | 11 (~92.1 GiB each)   |
+| 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
+| 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.83%)  | 75 (~17.3 GiB each)   |
+| 20   | YURASUKA         | 1.1 TiB    | 409.6 GiB (36.57%)  | 95 (~11.8 GiB each)   |
+| 21   | Sylvar           | 1.1 TiB    | 1.0 TiB (96.28%)    | 12 (~90.9 GiB each)   |
+| 22   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
+| 23   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
 | 24   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
 | 25   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 26   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
-| 27   | YURI             | 873.3 GiB  | 389.7 GiB (44.62%)  | 71 (~12.3 GiB each)   |
-| 28   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
-| 29   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
-| 30   | Holomux          | 854.9 GiB  | 193.5 GiB (22.63%)  | 33 (~25.9 GiB each)   |
-| 31   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
+| 27   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
+| 28   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
+| 29   | Holomux          | 854.9 GiB  | 193.5 GiB (22.63%)  | 33 (~25.9 GiB each)   |
+| 30   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
+| 31   | YURI             | 834.0 GiB  | 389.7 GiB (46.72%)  | 70 (~11.9 GiB each)   |
 | 32   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 33   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
 | 34   | Erai-raws        | 787.3 GiB  | 116.5 GiB (14.80%)  | 46 (~17.1 GiB each)   |
@@ -66,7 +66,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 44   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 45   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 46   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
-| 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
-| 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 46.1 TiB   | 25.2 TiB (54.59%)   | 2048 (~23.1 GiB each) |
+| 47   | VARYG            | 554.9 GiB  | 34.6 GiB (6.24%)    | 34 (~16.3 GiB each)   |
+| 48   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
+| 49   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
+| 50   | Others           | 46.1 TiB   | 25.7 TiB (55.66%)   | 2022 (~23.4 GiB each) |
