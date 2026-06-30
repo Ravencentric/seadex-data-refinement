@@ -10,7 +10,7 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 3   | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | 2025 | 28 Jun 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 4   | 100 METERS                                                                 | 2025 | 31 May 2026 | [SeaDex](https://releases.moe/177687/), [AniList](https://anilist.co/anime/177687) |
 | 5   | Grisaia: Phantom Trigger THE ANIMATION                                     | 2019 | 27 Jun 2026 | [SeaDex](https://releases.moe/99470/), [AniList](https://anilist.co/anime/99470)   |
-| 6   | PSYCHO-PASS: Providence                                                    | 2023 | 28 Jun 2026 | [SeaDex](https://releases.moe/153687/), [AniList](https://anilist.co/anime/153687) |
+| 6   | PSYCHO-PASS: Providence                                                    | 2023 | 29 Jun 2026 | [SeaDex](https://releases.moe/153687/), [AniList](https://anilist.co/anime/153687) |
 | 7   | I Want to Deliver Your Voice                                               | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
 | 8   | Ghost in the Shell: SAC_2045                                               | 2020 | 28 Jun 2026 | [SeaDex](https://releases.moe/106154/), [AniList](https://anilist.co/anime/106154) |
 | 9   | Shagahai ReLIFE Kenkyuujo Support-ka                                       | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
