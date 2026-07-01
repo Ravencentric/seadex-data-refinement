@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group             | Count |
 | :----| :-----------------| :-----|
 | 🥇   | -ZR-              | 173   |
-| 🥈   | Headpatter        | 152   |
+| 🥈   | Headpatter        | 153   |
 | 🥉   | sam               | 132   |
 | 4    | CRUCiBLE          | 131   |
 | 5    | NAN0              | 113   |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
-| 🥇   | Headpatter                                     | 73    |
+| 🥇   | Headpatter                                     | 74    |
 | 🥈   | SubsPlease / YURASUKA                          | 63    |
 | 🥉   | KH                                             | 46    |
 | 4    | Drag                                           | 43    |

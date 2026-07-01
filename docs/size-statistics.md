@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 9.6 TiB    | 9.6 TiB (100.00%)   | 131 (~74.8 GiB each)  |
 | 3    | hchcsen          | 8.5 TiB    | 7.2 TiB (84.48%)    | 110 (~78.8 GiB each)  |
 | 4    | NAN0             | 8.4 TiB    | 8.3 TiB (99.10%)    | 113 (~75.8 GiB each)  |
-| 5    | Headpatter       | 5.0 TiB    | 3.8 TiB (75.59%)    | 166 (~31.0 GiB each)  |
+| 5    | Headpatter       | 5.1 TiB    | 3.8 TiB (75.20%)    | 167 (~31.0 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
 | 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 38 (~82.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | VARYG            | 554.9 GiB  | 34.6 GiB (6.24%)    | 34 (~16.3 GiB each)   |
 | 48   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 49   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
-| 50   | Others           | 46.2 TiB   | 25.7 TiB (55.68%)   | 2024 (~23.3 GiB each) |
+| 50   | Others           | 46.1 TiB   | 25.7 TiB (55.71%)   | 2023 (~23.3 GiB each) |
