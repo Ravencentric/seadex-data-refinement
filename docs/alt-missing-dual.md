@@ -89,8 +89,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 82  | SUPER HXEROS                                                                               | 2020 | 29 Sep 2025 | [SeaDex](https://releases.moe/112818/), [AniList](https://anilist.co/anime/112818) |
 | 83  | Pretty Boy Detective Club                                                                  | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
 | 84  | Super Cub                                                                                  | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |
-| 85  | Sound of the Sky                                                                           | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
-| 86  | Mobile Suit Gundam                                                                         | 1979 | 02 May 2026 | [SeaDex](https://releases.moe/80/), [AniList](https://anilist.co/anime/80)         |
+| 85  | Mobile Suit Gundam                                                                         | 1979 | 02 May 2026 | [SeaDex](https://releases.moe/80/), [AniList](https://anilist.co/anime/80)         |
+| 86  | Sound of the Sky                                                                           | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 87  | Helck                                                                                      | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
 | 88  | Chihayafuru 3                                                                              | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |
 | 89  | Gurren Lagann The Movie: Childhood's End                                                   | 2008 | 20 Mar 2026 | [SeaDex](https://releases.moe/4107/), [AniList](https://anilist.co/anime/4107)     |
@@ -101,7 +101,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 94  | Hi Score Girl II                                                                           | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
 | 95  | Angels of Death (ONA)                                                                      | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
 | 96  | NANBAKA - Part Two                                                                         | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
-| 97  | Revenger                                                                                   | 2023 | 02 Jun 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
+| 97  | Revenger                                                                                   | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
 | 98  | A.I.C.O. -Incarnation-                                                                     | 2018 | 18 Feb 2026 | [SeaDex](https://releases.moe/99725/), [AniList](https://anilist.co/anime/99725)   |
 | 99  | Your lie in April: Moments                                                                 | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
 | 100 | Photo Kano                                                                                 | 2013 | 04 Apr 2024 | [SeaDex](https://releases.moe/16397/), [AniList](https://anilist.co/anime/16397)   |
