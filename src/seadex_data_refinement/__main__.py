@@ -134,10 +134,17 @@ def get_entries(
                             and t.is_dual_audio >= torrent.is_dual_audio
                             for t in entry.torrents
                         )
+
+                        # For a given show (defined by AniList), the same torrent can exist on its own
+                        # on AB (because they enforce strict grouping) but in a megapack on Nyaa.
+                        # In these cases, SeaDex marks the AB torrent as Best, but the Nyaa
+                        # torrent as an Alt because the megapack also contains non-Best shows.
+                        # Example: https://releases.moe/17729/
                         has_counterpart = any(
                             t.release_group == torrent.release_group and t.is_best != torrent.is_best
                             for t in entry.torrents
                         )
+
                         if mirrored_publicly or has_counterpart:
                             continue
 
