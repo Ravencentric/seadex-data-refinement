@@ -136,8 +136,8 @@
 | 133 | House of Five Leaves                                                                 | 2010 | 10 Jul 2024 | [SeaDex](https://releases.moe/7588/), [AniList](https://anilist.co/anime/7588)     |
 | 134 | Hand Shakers                                                                         | 2017 | 07 Jul 2024 | [SeaDex](https://releases.moe/21731/), [AniList](https://anilist.co/anime/21731)   |
 | 135 | Free! -Take Your Marks-                                                              | 2017 | 08 Jun 2025 | [SeaDex](https://releases.moe/98497/), [AniList](https://anilist.co/anime/98497)   |
-| 136 | NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...                              | 2017 | 01 Jan 2024 | [SeaDex](https://releases.moe/97637/), [AniList](https://anilist.co/anime/97637)   |
-| 137 | Bartender                                                                            | 2006 | 11 Jun 2024 | [SeaDex](https://releases.moe/1589/), [AniList](https://anilist.co/anime/1589)     |
+| 136 | Bartender                                                                            | 2006 | 11 Jun 2024 | [SeaDex](https://releases.moe/1589/), [AniList](https://anilist.co/anime/1589)     |
+| 137 | NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...                              | 2017 | 01 Jan 2024 | [SeaDex](https://releases.moe/97637/), [AniList](https://anilist.co/anime/97637)   |
 | 138 | Rumbling Hearts                                                                      | 2003 | 07 Jun 2025 | [SeaDex](https://releases.moe/147/), [AniList](https://anilist.co/anime/147)       |
 | 139 | The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life | 2016 | 26 Feb 2025 | [SeaDex](https://releases.moe/21489/), [AniList](https://anilist.co/anime/21489)   |
 | 140 | Cardcaptor Sakura the Movie 2: The Sealed Card                                       | 2000 | 24 Dec 2025 | [SeaDex](https://releases.moe/372/), [AniList](https://anilist.co/anime/372)       |
@@ -208,9 +208,9 @@
 | 205 | Arifureta Shokugyou de Sekai Saikyou Prologue                                        | 2020 | 07 May 2024 | [SeaDex](https://releases.moe/145560/), [AniList](https://anilist.co/anime/145560) |
 | 206 | Sound! Euphonium Shorts                                                              | 2015 | 07 Jun 2025 | [SeaDex](https://releases.moe/21255/), [AniList](https://anilist.co/anime/21255)   |
 | 207 | Asa Made Jugyou Chu!                                                                 | 2012 | 15 Nov 2023 | [SeaDex](https://releases.moe/12581/), [AniList](https://anilist.co/anime/12581)   |
-| 208 | Tenkuu Danzai Skelter Heaven                                                         | 2004 | 13 Jul 2025 | [SeaDex](https://releases.moe/3287/), [AniList](https://anilist.co/anime/3287)     |
-| 209 | Angel of Legend                                                                      | 1996 | 27 Nov 2024 | [SeaDex](https://releases.moe/5251/), [AniList](https://anilist.co/anime/5251)     |
-| 210 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 208 | Angel of Legend                                                                      | 1996 | 27 Nov 2024 | [SeaDex](https://releases.moe/5251/), [AniList](https://anilist.co/anime/5251)     |
+| 209 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 210 | Tenkuu Danzai Skelter Heaven                                                         | 2004 | 13 Jul 2025 | [SeaDex](https://releases.moe/3287/), [AniList](https://anilist.co/anime/3287)     |
 | 211 | Senyuu. 2                                                                            | 2013 | 15 Nov 2023 | [SeaDex](https://releases.moe/18523/), [AniList](https://anilist.co/anime/18523)   |
 | 212 | Otaku no Video                                                                       | 1991 | 30 Dec 2023 | [SeaDex](https://releases.moe/785/), [AniList](https://anilist.co/anime/785)       |
 | 213 | Girls und Panzer das Finale - Part 3                                                 | 2021 | 08 Jun 2025 | [SeaDex](https://releases.moe/124115/), [AniList](https://anilist.co/anime/124115) |
@@ -218,8 +218,8 @@
 | 215 | Jyu-Oh-Sei: Planet of the Beast King                                                 | 2006 | 07 Jun 2025 | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
 | 216 | Natsume Yuujinchou Roku Tokubetsu-hen                                                | 2017 | 02 Oct 2024 | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
 | 217 | Seven Days War                                                                       | 2019 | 28 Nov 2024 | [SeaDex](https://releases.moe/101610/), [AniList](https://anilist.co/anime/101610) |
-| 218 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
-| 219 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
+| 218 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
+| 219 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
 | 220 | One Room 3rd                                                                         | 2020 | 30 Dec 2023 | [SeaDex](https://releases.moe/116147/), [AniList](https://anilist.co/anime/116147) |
 | 221 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
 | 222 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
@@ -271,8 +271,8 @@
 | 268 | Overlord: Ple Ple Pleiades - Clementine Toubou-hen                                   | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/107264/), [AniList](https://anilist.co/anime/107264) |
 | 269 | Zipang                                                                               | 2004 | 02 Aug 2025 | [SeaDex](https://releases.moe/29/), [AniList](https://anilist.co/anime/29)         |
 | 270 | Ghost Stories: The Headless Horsemen!! Curse of Death                                | 2001 | 20 Apr 2025 | [SeaDex](https://releases.moe/102000/), [AniList](https://anilist.co/anime/102000) |
-| 271 | Zettai Shounen                                                                       | 2005 | 07 Jun 2025 | [SeaDex](https://releases.moe/308/), [AniList](https://anilist.co/anime/308)       |
-| 272 | GARO: Divine Flame                                                                   | 2016 | 15 Feb 2025 | [SeaDex](https://releases.moe/21426/), [AniList](https://anilist.co/anime/21426)   |
+| 271 | GARO: Divine Flame                                                                   | 2016 | 15 Feb 2025 | [SeaDex](https://releases.moe/21426/), [AniList](https://anilist.co/anime/21426)   |
+| 272 | Zettai Shounen                                                                       | 2005 | 07 Jun 2025 | [SeaDex](https://releases.moe/308/), [AniList](https://anilist.co/anime/308)       |
 | 273 | Shamanic Princess                                                                    | 1996 | 02 Aug 2025 | [SeaDex](https://releases.moe/1182/), [AniList](https://anilist.co/anime/1182)     |
 | 274 | Honey and Clover Specials                                                            | 2005 | 09 Jul 2024 | [SeaDex](https://releases.moe/644/), [AniList](https://anilist.co/anime/644)       |
 | 275 | Mai-Mai Miracle                                                                      | 2009 | 13 Jul 2025 | [SeaDex](https://releases.moe/5084/), [AniList](https://anilist.co/anime/5084)     |
@@ -331,8 +331,8 @@
 | 328 | Renkin San-kyuu Magical? Pokaan Specials                                             | 2006 | 17 Nov 2023 | [SeaDex](https://releases.moe/1489/), [AniList](https://anilist.co/anime/1489)     |
 | 329 | Manyuu Hikenchou Picture Drama                                                       | 2011 | 21 Jul 2024 | [SeaDex](https://releases.moe/12239/), [AniList](https://anilist.co/anime/12239)   |
 | 330 | Panzer World Galient                                                                 | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
-| 331 | RahXephon Interlude: Her and Herself/Thatness and Thereness                          | 2003 | 11 Feb 2026 | [SeaDex](https://releases.moe/559/), [AniList](https://anilist.co/anime/559)       |
-| 332 | Megami Paradise                                                                      | 1995 | 08 Jun 2025 | [SeaDex](https://releases.moe/2528/), [AniList](https://anilist.co/anime/2528)     |
+| 331 | Megami Paradise                                                                      | 1995 | 08 Jun 2025 | [SeaDex](https://releases.moe/2528/), [AniList](https://anilist.co/anime/2528)     |
+| 332 | RahXephon Interlude: Her and Herself/Thatness and Thereness                          | 2003 | 11 Feb 2026 | [SeaDex](https://releases.moe/559/), [AniList](https://anilist.co/anime/559)       |
 | 333 | Nightsong of Splendor                                                                | 1989 | 16 Jul 2024 | [SeaDex](https://releases.moe/4485/), [AniList](https://anilist.co/anime/4485)     |
 | 334 | Megazone 23 Part II                                                                  | 1986 | 22 Jul 2024 | [SeaDex](https://releases.moe/129595/), [AniList](https://anilist.co/anime/129595) |
 | 335 | The Big First-Grader and the Small Second-Grader                                     | 2014 | 01 Jun 2025 | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |

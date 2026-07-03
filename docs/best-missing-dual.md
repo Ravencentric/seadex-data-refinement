@@ -29,23 +29,24 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 22  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout   | 2022 | 13 Aug 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 23  | Clannad: Another World, Kyou Chapter                                       | 2009 | 07 Sep 2025 | [SeaDex](https://releases.moe/6351/), [AniList](https://anilist.co/anime/6351)     |
 | 24  | Den-noh Coil                                                               | 2007 | 03 Aug 2025 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
-| 25  | NieR:Automata Ver1.1a Cour 2                                               | 2024 | 19 Nov 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
-| 26  | A Certain Magical Index: The Miracle of Endymion                           | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
-| 27  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                      | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
-| 28  | Sasaki and Miyano: Graduation                                              | 2023 | 19 Nov 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
-| 29  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
-| 30  | Hakumei and Mikochi                                                        | 2018 | 27 Jun 2026 | [SeaDex](https://releases.moe/99748/), [AniList](https://anilist.co/anime/99748)   |
-| 31  | Lucifer and the Biscuit Hammer                                             | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
-| 32  | Sasami-san@Ganbaranai                                                      | 2013 | 02 Nov 2025 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
-| 33  | Synduality Noir                                                            | 2023 | 26 Jul 2025 | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
-| 34  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                  | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
-| 35  | Aesthetica of a Rogue Hero Specials                                        | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
-| 36  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 37  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
-| 38  | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                  | 2016 | 20 Feb 2026 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
-| 39  | Gatchaman Crowds: Embrace                                                  | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
-| 40  | Flying Witch Petit                                                         | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
-| 41  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 42  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
-| 43  | Hakumei and Mikochi: A Screw and a Bed / The Fireside and Gambling         | 2018 | 27 Jun 2026 | [SeaDex](https://releases.moe/101696/), [AniList](https://anilist.co/anime/101696) |
-| 44  | Flying Witch Petit Special                                                 | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
+| 25  | Bungo Stray Dogs WAN!                                                      | 2021 | 03 Jul 2026 | [SeaDex](https://releases.moe/120150/), [AniList](https://anilist.co/anime/120150) |
+| 26  | NieR:Automata Ver1.1a Cour 2                                               | 2024 | 19 Nov 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
+| 27  | A Certain Magical Index: The Miracle of Endymion                           | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
+| 28  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                      | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
+| 29  | Sasaki and Miyano: Graduation                                              | 2023 | 19 Nov 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 30  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
+| 31  | Hakumei and Mikochi                                                        | 2018 | 27 Jun 2026 | [SeaDex](https://releases.moe/99748/), [AniList](https://anilist.co/anime/99748)   |
+| 32  | Lucifer and the Biscuit Hammer                                             | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
+| 33  | Sasami-san@Ganbaranai                                                      | 2013 | 02 Nov 2025 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
+| 34  | Synduality Noir                                                            | 2023 | 26 Jul 2025 | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
+| 35  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                  | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
+| 36  | Aesthetica of a Rogue Hero Specials                                        | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
+| 37  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 38  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
+| 39  | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                  | 2016 | 20 Feb 2026 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
+| 40  | Gatchaman Crowds: Embrace                                                  | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
+| 41  | Flying Witch Petit                                                         | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
+| 42  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 43  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 44  | Hakumei and Mikochi: A Screw and a Bed / The Fireside and Gambling         | 2018 | 27 Jun 2026 | [SeaDex](https://releases.moe/101696/), [AniList](https://anilist.co/anime/101696) |
+| 45  | Flying Witch Petit Special                                                 | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
