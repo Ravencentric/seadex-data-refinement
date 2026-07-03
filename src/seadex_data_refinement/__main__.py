@@ -117,26 +117,31 @@ def get_entries(
                             break
 
         case "private-tracker-only-torrents":
-            header = "# Private tracker only torrents\n\n"
-
-            header += "This list excludes groups that do not want their releases mirrored to public trackers.\n\n"
+            header = (
+                "# Private tracker only torrents\n\n"
+                "This list excludes groups that do not want their releases mirrored to public trackers.\n\n"
+            )
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
-                    groups = []
                     for torrent in entry.torrents:
-                        if torrent.tracker.is_private() and torrent.release_group not in EXCLUSIVE_GROUPS:
-                            release_group = torrent.release_group.casefold().strip()
-                            if (release_group + str(torrent.is_best)) in groups:
-                                continue
-                            if not any(
-                                (t.tracker.is_public() and t.is_best == torrent.is_best)
-                                or (t.release_group == torrent.release_group and t.is_best != torrent.is_best)
-                                for t in entry.torrents
-                            ):
-                                entries[entry.anilist_id] = entry
-                                groups.append(release_group + str(torrent.is_best))
-                                continue
+                        if not torrent.tracker.is_private() or torrent.release_group in EXCLUSIVE_GROUPS:
+                            continue
+
+                        mirrored_publicly = any(
+                            t.tracker.is_public()
+                            and t.is_best == torrent.is_best
+                            and t.is_dual_audio >= torrent.is_dual_audio
+                            for t in entry.torrents
+                        )
+                        has_counterpart = any(
+                            t.release_group == torrent.release_group and t.is_best != torrent.is_best
+                            for t in entry.torrents
+                        )
+                        if mirrored_publicly or has_counterpart:
+                            continue
+
+                        entries[entry.anilist_id] = entry
 
         case "private-tracker-only-entries":
             header = "# Private tracker only entries"

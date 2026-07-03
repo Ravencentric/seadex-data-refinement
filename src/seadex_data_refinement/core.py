@@ -3,7 +3,7 @@ from __future__ import annotations
 import itertools
 import time
 from datetime import datetime
-from typing import Literal, Self
+from typing import Final, Literal, Self
 
 import httpx
 import pyanilist
@@ -13,7 +13,7 @@ from pydantic import BaseModel, ConfigDict
 
 SEADEX_ANILIST_IDS_URL = "https://releases.moe/api/listIDs"
 
-EXCLUSIVE_GROUPS = ("-ZR-", "FraMeSToR", "NAN0", "KEKKU", "Doc")
+EXCLUSIVE_GROUPS: Final = {"-ZR-", "FraMeSToR", "NAN0", "KEKKU", "Doc", "Kitsune"}
 
 
 class MediaEntry(BaseModel):
