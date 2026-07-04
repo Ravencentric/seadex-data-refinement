@@ -102,30 +102,30 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Alt entries
 
-| Rank | Group                                         | Count |
-| :----| :---------------------------------------------| :-----|
-| 🥇   | Headpatter                                    | 74    |
-| 🥈   | SubsPlease / YURASUKA                         | 63    |
-| 🥉   | KH                                            | 46    |
-| 4    | Drag                                          | 43    |
-| 5    | YURI / hchcsen                                | 39    |
-| 6    | Erai-raws                                     | 38    |
-| 7    | -ZR-                                          | 37    |
-| 8    | Commie                                        | 36    |
-| 9    | NOGRP                                         | 32    |
-| 10   | VARYG                                         | 31    |
-| 11   | LostYears / MTBB                              | 30    |
-| 12   | GetItTwisted                                  | 29    |
-| 13   | Arid / Bunny-Apocalypse / Holomux             | 24    |
-| 14   | Chihiro / Kametsu / Kitsune                   | 21    |
-| 15   | CTR                                           | 19    |
-| 16   | Pog42                                         | 17    |
-| 17   | SCY                                           | 16    |
-| 18   | HorribleSubs                                  | 14    |
-| 19   | CBT / Lulu / WBDP                             | 13    |
-| 20   | Datte13 / FFF / NH / UDF / o7                 | 12    |
-| 21   | Mysteria / Netaro / SEV                       | 11    |
-| 22   | Asakura / CyC                                 | 10    |
-| 23   | GSK_kun / Pookie / Tsundere / Yoghurt / sam   | 9     |
-| 24   | RASETSU / Reza / Starbez / crane0922          | 8     |
-| 25   | Baws / BlurayDesuYo / Kawatare / LCE & Others | 7     |
+| Rank | Group                                       | Count |
+| :----| :-------------------------------------------| :-----|
+| 🥇   | Headpatter                                  | 74    |
+| 🥈   | SubsPlease / YURASUKA                       | 63    |
+| 🥉   | KH                                          | 46    |
+| 4    | Drag                                        | 43    |
+| 5    | YURI / hchcsen                              | 39    |
+| 6    | Erai-raws                                   | 38    |
+| 7    | -ZR-                                        | 37    |
+| 8    | Commie                                      | 36    |
+| 9    | NOGRP                                       | 32    |
+| 10   | VARYG                                       | 31    |
+| 11   | LostYears / MTBB                            | 30    |
+| 12   | GetItTwisted                                | 29    |
+| 13   | Arid / Bunny-Apocalypse / Holomux           | 24    |
+| 14   | Chihiro / Kametsu                           | 21    |
+| 15   | Kitsune                                     | 20    |
+| 16   | CTR                                         | 19    |
+| 17   | Pog42                                       | 17    |
+| 18   | SCY                                         | 16    |
+| 19   | HorribleSubs                                | 14    |
+| 20   | CBT / Lulu / WBDP                           | 13    |
+| 21   | Datte13 / FFF / NH / UDF / o7               | 12    |
+| 22   | Mysteria / Netaro / SEV                     | 11    |
+| 23   | Asakura / CyC                               | 10    |
+| 24   | GSK_kun / Pookie / Tsundere / Yoghurt / sam | 9     |
+| 25   | RASETSU / Reza / Starbez / crane0922        | 8     |

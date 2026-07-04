@@ -10,5 +10,6 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 3   | Kemono Michi: Rise Up                | 2019 | 03 May 2025 | [SeaDex](https://releases.moe/107339/), [AniList](https://anilist.co/anime/107339) |
 | 4   | 100 METERS                           | 2025 | 31 May 2026 | [SeaDex](https://releases.moe/177687/), [AniList](https://anilist.co/anime/177687) |
 | 5   | Mobile Suit Gundam UC                | 2010 | 03 Jul 2026 | [SeaDex](https://releases.moe/6336/), [AniList](https://anilist.co/anime/6336)     |
-| 6   | I Want to Deliver Your Voice         | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
-| 7   | Shagahai ReLIFE Kenkyuujo Support-ka | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 6   | Cerberus                             | 2016 | 03 Jul 2026 | [SeaDex](https://releases.moe/21608/), [AniList](https://anilist.co/anime/21608)   |
+| 7   | I Want to Deliver Your Voice         | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 8   | Shagahai ReLIFE Kenkyuujo Support-ka | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |

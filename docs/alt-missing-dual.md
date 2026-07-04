@@ -106,8 +106,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 99  | Your lie in April: Moments                                                                 | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
 | 100 | Photo Kano                                                                                 | 2013 | 04 Apr 2024 | [SeaDex](https://releases.moe/16397/), [AniList](https://anilist.co/anime/16397)   |
 | 101 | Wave, Listen to Me!                                                                        | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
-| 102 | Blue Exorcist: Runaway Kuro                                                                | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
-| 103 | B: The Beginning: Succession                                                               | 2021 | 06 Jun 2026 | [SeaDex](https://releases.moe/102498/), [AniList](https://anilist.co/anime/102498) |
+| 102 | B: The Beginning: Succession                                                               | 2021 | 06 Jun 2026 | [SeaDex](https://releases.moe/102498/), [AniList](https://anilist.co/anime/102498) |
+| 103 | Blue Exorcist: Runaway Kuro                                                                | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
 | 104 | Bye Bye, Earth                                                                             | 2024 | 27 Mar 2026 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
 | 105 | Once Upon a Witch's Death                                                                  | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
 | 106 | Diary of Our Days at the Breakwater                                                        | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |

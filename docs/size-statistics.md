@@ -8,9 +8,9 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `145.7 TiB`
-- Best size: `111.1 TiB`
-- Alt size: `34.6 TiB`
+- Total size: `145.9 TiB`
+- Best size: `111.2 TiB`
+- Alt size: `34.7 TiB`
 - Realistic size: `114.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
 | 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
 | 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 46.3 TiB   | 25.3 TiB (54.75%)   | 2057 (~23.0 GiB each) |
+| 50   | Others           | 46.4 TiB   | 25.3 TiB (54.62%)   | 2059 (~23.1 GiB each) |

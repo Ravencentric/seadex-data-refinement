@@ -32,8 +32,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 25  | Bungo Stray Dogs WAN!                                                      | 2021 | 03 Jul 2026 | [SeaDex](https://releases.moe/120150/), [AniList](https://anilist.co/anime/120150) |
 | 26  | NieR:Automata Ver1.1a Cour 2                                               | 2024 | 19 Nov 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
 | 27  | A Certain Magical Index: The Miracle of Endymion                           | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
-| 28  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                      | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
-| 29  | Sasaki and Miyano: Graduation                                              | 2023 | 19 Nov 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 28  | Sasaki and Miyano: Graduation                                              | 2023 | 19 Nov 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 29  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                      | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
 | 30  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
 | 31  | Hakumei and Mikochi                                                        | 2018 | 27 Jun 2026 | [SeaDex](https://releases.moe/99748/), [AniList](https://anilist.co/anime/99748)   |
 | 32  | Lucifer and the Biscuit Hammer                                             | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
