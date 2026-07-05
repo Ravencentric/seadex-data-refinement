@@ -12,33 +12,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Total entries
 
-| Rank | Group                          | Count |
-| :----| :------------------------------| :-----|
-| 🥇   | -ZR-                           | 174   |
-| 🥈   | Headpatter                     | 153   |
-| 🥉   | sam                            | 132   |
-| 4    | CRUCiBLE                       | 131   |
-| 5    | NAN0                           | 115   |
-| 6    | MTBB                           | 106   |
-| 7    | hchcsen                        | 103   |
-| 8    | Moxie                          | 99    |
-| 9    | YURASUKA                       | 95    |
-| 10   | SubsPlease                     | 75    |
-| 11   | YURI                           | 69    |
-| 12   | Drag                           | 58    |
-| 13   | smol                           | 57    |
-| 14   | KH                             | 55    |
-| 15   | NOGRP                          | 47    |
-| 16   | Erai-raws / GetItTwisted       | 46    |
-| 17   | LostYears                      | 43    |
-| 18   | Arid                           | 41    |
-| 19   | Okay-Subs                      | 40    |
-| 20   | TTGA                           | 39    |
-| 21   | PMR                            | 38    |
-| 22   | Commie                         | 36    |
-| 23   | LYS1TH3A                       | 35    |
-| 24   | B00BA / Holomux / Lulu / VARYG | 33    |
-| 25   | Bunny-Apocalypse               | 30    |
+| Rank | Group                    | Count |
+| :----| :------------------------| :-----|
+| 🥇   | -ZR-                     | 174   |
+| 🥈   | Headpatter               | 153   |
+| 🥉   | sam                      | 132   |
+| 4    | CRUCiBLE                 | 131   |
+| 5    | NAN0                     | 115   |
+| 6    | MTBB                     | 106   |
+| 7    | hchcsen                  | 103   |
+| 8    | Moxie                    | 99    |
+| 9    | YURASUKA                 | 97    |
+| 10   | SubsPlease               | 75    |
+| 11   | YURI                     | 69    |
+| 12   | Drag                     | 58    |
+| 13   | smol                     | 57    |
+| 14   | KH                       | 55    |
+| 15   | NOGRP                    | 47    |
+| 16   | Erai-raws / GetItTwisted | 46    |
+| 17   | LostYears                | 43    |
+| 18   | Arid                     | 41    |
+| 19   | Okay-Subs                | 40    |
+| 20   | TTGA                     | 39    |
+| 21   | PMR                      | 38    |
+| 22   | Commie                   | 36    |
+| 23   | LYS1TH3A                 | 35    |
+| 24   | VARYG                    | 34    |
+| 25   | B00BA / Holomux / Lulu   | 33    |
 
 ## Top 25 - Best dual audio entries
 
@@ -52,9 +52,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Headpatter                                       | 38    |
 | 7    | LYS1TH3A                                         | 32    |
 | 8    | TTGA                                             | 29    |
-| 9    | FLE                                              | 23    |
+| 9    | FLE / YURASUKA                                   | 23    |
 | 10   | GetItTwisted / smol                              | 22    |
-| 11   | Moxie / YURASUKA                                 | 21    |
+| 11   | Moxie                                            | 21    |
 | 12   | Lulu                                             | 18    |
 | 13   | Flugel / LazyRemux                               | 17    |
 | 14   | ZeroBuild / koala                                | 15    |
@@ -84,8 +84,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | hchcsen                         | 72    |
 | 9    | smol                            | 55    |
 | 10   | Okay-Subs / PMR / TTGA          | 38    |
-| 11   | B00BA / GetItTwisted / LYS1TH3A | 33    |
-| 12   | YURASUKA                        | 32    |
+| 11   | YURASUKA                        | 34    |
+| 12   | B00BA / GetItTwisted / LYS1TH3A | 33    |
 | 13   | YURI                            | 31    |
 | 14   | Orphan                          | 26    |
 | 15   | FLE                             | 25    |

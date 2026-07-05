@@ -11,7 +11,7 @@ All of this and more means that we need to settle on a method to calculate these
 - Total size: `145.9 TiB`
 - Best size: `111.2 TiB`
 - Alt size: `34.7 TiB`
-- Realistic size: `114.3 TiB`
+- Realistic size: `114.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -39,8 +39,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.83%)  | 75 (~17.3 GiB each)   |
-| 20   | Sylvar           | 1.1 TiB    | 1.0 TiB (93.65%)    | 13 (~86.3 GiB each)   |
-| 21   | YURASUKA         | 1.1 TiB    | 409.6 GiB (36.57%)  | 95 (~11.8 GiB each)   |
+| 20   | YURASUKA         | 1.1 TiB    | 428.2 GiB (37.60%)  | 97 (~11.7 GiB each)   |
+| 21   | Sylvar           | 1.1 TiB    | 1.0 TiB (93.65%)    | 13 (~86.3 GiB each)   |
 | 22   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
 | 23   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
 | 24   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
@@ -63,10 +63,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 41   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 42   | Bunny-Apocalypse | 620.3 GiB  | 161.0 GiB (25.95%)  | 30 (~20.7 GiB each)   |
 | 43   | Arid             | 602.0 GiB  | 201.1 GiB (33.40%)  | 42 (~14.3 GiB each)   |
-| 44   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 45   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 46   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 47   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
-| 48   | SEV              | 542.9 GiB  | 0 B (0.00%)         | 11 (~49.4 GiB each)   |
-| 49   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 50   | Others           | 46.4 TiB   | 25.3 TiB (54.62%)   | 2059 (~23.1 GiB each) |
+| 44   | nekotan          | 601.0 GiB  | 562.2 GiB (93.54%)  | 11 (~54.6 GiB each)   |
+| 45   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
+| 46   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
+| 47   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
+| 48   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
+| 49   | VARYG            | 551.8 GiB  | 51.6 GiB (9.35%)    | 34 (~16.2 GiB each)   |
+| 50   | Others           | 46.4 TiB   | 25.4 TiB (54.64%)   | 2030 (~23.4 GiB each) |

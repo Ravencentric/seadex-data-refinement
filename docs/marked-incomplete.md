@@ -214,8 +214,8 @@
 | 211 | Senyuu. 2                                                                            | 2013 | 15 Nov 2023 | [SeaDex](https://releases.moe/18523/), [AniList](https://anilist.co/anime/18523)   |
 | 212 | Otaku no Video                                                                       | 1991 | 30 Dec 2023 | [SeaDex](https://releases.moe/785/), [AniList](https://anilist.co/anime/785)       |
 | 213 | Girls und Panzer das Finale - Part 3                                                 | 2021 | 08 Jun 2025 | [SeaDex](https://releases.moe/124115/), [AniList](https://anilist.co/anime/124115) |
-| 214 | Jyu-Oh-Sei: Planet of the Beast King                                                 | 2006 | 07 Jun 2025 | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
-| 215 | Overlord: Ple Ple Pleiades 2                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/101083/), [AniList](https://anilist.co/anime/101083) |
+| 214 | Overlord: Ple Ple Pleiades 2                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/101083/), [AniList](https://anilist.co/anime/101083) |
+| 215 | Jyu-Oh-Sei: Planet of the Beast King                                                 | 2006 | 07 Jun 2025 | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
 | 216 | Natsume Yuujinchou Roku Tokubetsu-hen                                                | 2017 | 02 Oct 2024 | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
 | 217 | Seven Days War                                                                       | 2019 | 28 Nov 2024 | [SeaDex](https://releases.moe/101610/), [AniList](https://anilist.co/anime/101610) |
 | 218 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
