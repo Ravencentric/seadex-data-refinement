@@ -11,8 +11,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 4   | Classroom of the Elite                                                                     | 2017 | 10 Jul 2025 | [SeaDex](https://releases.moe/98659/), [AniList](https://anilist.co/anime/98659)   |
 | 5   | Weathering With You                                                                        | 2019 | 16 Apr 2026 | [SeaDex](https://releases.moe/106286/), [AniList](https://anilist.co/anime/106286) |
 | 6   | The Apothecary Diaries                                                                     | 2023 | 22 Apr 2025 | [SeaDex](https://releases.moe/161645/), [AniList](https://anilist.co/anime/161645) |
-| 7   | Overlord II                                                                                | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/98437/), [AniList](https://anilist.co/anime/98437)   |
-| 8   | That Time I Got Reincarnated as a Slime Season 2 Part 2                                    | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/116742/), [AniList](https://anilist.co/anime/116742) |
+| 7   | That Time I Got Reincarnated as a Slime Season 2 Part 2                                    | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/116742/), [AniList](https://anilist.co/anime/116742) |
+| 8   | Overlord II                                                                                | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/98437/), [AniList](https://anilist.co/anime/98437)   |
 | 9   | Prison School                                                                              | 2015 | 29 Dec 2025 | [SeaDex](https://releases.moe/20807/), [AniList](https://anilist.co/anime/20807)   |
 | 10  | Overlord III                                                                               | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 11  | Perfect Blue                                                                               | 1998 | 10 Feb 2026 | [SeaDex](https://releases.moe/437/), [AniList](https://anilist.co/anime/437)       |
@@ -73,8 +73,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 66  | No Guns Life                                                                               | 2019 | 02 Feb 2026 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 67  | Tokyo Ghoul: [JACK]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
 | 68  | MEGALOBOX 2: NOMAD                                                                         | 2021 | 08 Oct 2025 | [SeaDex](https://releases.moe/113359/), [AniList](https://anilist.co/anime/113359) |
-| 69  | My Roommate is a Cat                                                                       | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
-| 70  | Infinite Dendrogram                                                                        | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
+| 69  | Infinite Dendrogram                                                                        | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
+| 70  | My Roommate is a Cat                                                                       | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 71  | Thus Spoke Rohan Kishibe                                                                   | 2017 | 20 Mar 2026 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 72  | Tokyo Ghoul: [PINTO]                                                                       | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 73  | Children who Chase Lost Voices                                                             | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |

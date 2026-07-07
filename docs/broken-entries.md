@@ -28,8 +28,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 21  | Inu X Boku Secret Service                                                  | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/11013/), [AniList](https://anilist.co/anime/11013)   |
 | 22  | Heaven's Lost Property                                                     | 2009 | 01 Feb 2026 | [SeaDex](https://releases.moe/5958/), [AniList](https://anilist.co/anime/5958)     |
 | 23  | How a Realist Hero Rebuilt the Kingdom Part 2                              | 2022 | 06 Aug 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
-| 24  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
-| 25  | I Parry Everything                                                         | 2024 | 23 Jun 2026 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
+| 24  | I Parry Everything                                                         | 2024 | 23 Jun 2026 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
+| 25  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 26  | The Elusive Samurai                                                        | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 27  | Gintama Season 4                                                           | 2017 | 30 Jun 2026 | [SeaDex](https://releases.moe/97889/), [AniList](https://anilist.co/anime/97889)   |
 | 28  | Ghost in the Shell: Stand Alone Complex                                    | 2002 | 27 Jun 2026 | [SeaDex](https://releases.moe/467/), [AniList](https://anilist.co/anime/467)       |
@@ -56,7 +56,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 49  | Clockwork Planet                                                           | 2017 | 29 Jan 2026 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 50  | Scott Pilgrim Takes Off                                                    | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
 | 51  | Minami-ke                                                                  | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
-| 52  | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!            | 2024 | 02 Jul 2026 | [SeaDex](https://releases.moe/167087/), [AniList](https://anilist.co/anime/167087) |
+| 52  | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!            | 2024 | 05 Jul 2026 | [SeaDex](https://releases.moe/167087/), [AniList](https://anilist.co/anime/167087) |
 | 53  | Revenger                                                                   | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
 | 54  | DRAMAtical Murder                                                          | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 55  | Ace of the Diamond Second Season                                           | 2015 | 29 Apr 2026 | [SeaDex](https://releases.moe/21085/), [AniList](https://anilist.co/anime/21085)   |
