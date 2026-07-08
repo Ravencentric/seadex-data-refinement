@@ -29,8 +29,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 22  | Heaven's Lost Property                                                     | 2009 | 01 Feb 2026 | [SeaDex](https://releases.moe/5958/), [AniList](https://anilist.co/anime/5958)     |
 | 23  | How a Realist Hero Rebuilt the Kingdom Part 2                              | 2022 | 06 Aug 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
 | 24  | I Parry Everything                                                         | 2024 | 23 Jun 2026 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
-| 25  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
-| 26  | The Elusive Samurai                                                        | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
+| 25  | The Elusive Samurai                                                        | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
+| 26  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 27  | Gintama Season 4                                                           | 2017 | 30 Jun 2026 | [SeaDex](https://releases.moe/97889/), [AniList](https://anilist.co/anime/97889)   |
 | 28  | Ghost in the Shell: Stand Alone Complex                                    | 2002 | 27 Jun 2026 | [SeaDex](https://releases.moe/467/), [AniList](https://anilist.co/anime/467)       |
 | 29  | LAID-BACK CAMP SEASON2                                                     | 2021 | 13 Aug 2025 | [SeaDex](https://releases.moe/104459/), [AniList](https://anilist.co/anime/104459) |
