@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                    | Count |
 | :----| :------------------------| :-----|
 | 🥇   | -ZR-                     | 174   |
-| 🥈   | Headpatter               | 153   |
+| 🥈   | Headpatter               | 154   |
 | 🥉   | sam                      | 132   |
 | 4    | CRUCiBLE                 | 131   |
 | 5    | NAN0                     | 115   |
@@ -63,8 +63,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Arid / LostYears                                 | 13    |
 | 18   | FraMeSToR / Vodes                                | 12    |
 | 19   | Mehul                                            | 11    |
-| 20   | DemiHuman                                        | 10    |
-| 21   | BlackRose / KH / LaCroiX / NTRX & Others         | 9     |
+| 20   | BlackRose / DemiHuman                            | 10    |
+| 21   | KH / LaCroiX / NTRX / SCY / hydes                | 9     |
 | 22   | Meakes / NOGRP                                   | 8     |
 | 23   | IK / Kametsu / Sylvar                            | 7     |
 | 24   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
@@ -102,30 +102,30 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Alt entries
 
-| Rank | Group                                         | Count |
-| :----| :---------------------------------------------| :-----|
-| 🥇   | Headpatter                                    | 74    |
-| 🥈   | SubsPlease / YURASUKA                         | 63    |
-| 🥉   | KH                                            | 46    |
-| 4    | Drag                                          | 43    |
-| 5    | YURI / hchcsen                                | 39    |
-| 6    | Erai-raws                                     | 38    |
-| 7    | -ZR-                                          | 37    |
-| 8    | Commie                                        | 36    |
-| 9    | NOGRP / VARYG                                 | 32    |
-| 10   | GetItTwisted / LostYears / MTBB               | 30    |
-| 11   | Arid / Bunny-Apocalypse / Holomux             | 24    |
-| 12   | Chihiro / Kametsu                             | 21    |
-| 13   | Kitsune                                       | 20    |
-| 14   | CTR                                           | 19    |
-| 15   | Pog42                                         | 17    |
-| 16   | SCY                                           | 16    |
-| 17   | HorribleSubs                                  | 14    |
-| 18   | CBT / Lulu / WBDP                             | 13    |
-| 19   | Datte13 / FFF / NH / UDF / o7                 | 12    |
-| 20   | Mysteria / Netaro / SEV                       | 11    |
-| 21   | Asakura / CyC                                 | 10    |
-| 22   | GSK_kun / Pookie / Tsundere / Yoghurt / sam   | 9     |
-| 23   | RASETSU / Reza / Starbez / crane0922          | 8     |
-| 24   | Baws / BlurayDesuYo / Kawatare / LCE & Others | 7     |
-| 25   | AC / ANE / AOmundson / ARC & Others           | 6     |
+| Rank | Group                                          | Count |
+| :----| :----------------------------------------------| :-----|
+| 🥇   | Headpatter                                     | 75    |
+| 🥈   | SubsPlease / YURASUKA                          | 63    |
+| 🥉   | KH                                             | 46    |
+| 4    | Drag                                           | 43    |
+| 5    | YURI / hchcsen                                 | 39    |
+| 6    | Erai-raws                                      | 38    |
+| 7    | -ZR-                                           | 37    |
+| 8    | Commie                                         | 36    |
+| 9    | NOGRP / VARYG                                  | 32    |
+| 10   | GetItTwisted / LostYears / MTBB                | 30    |
+| 11   | Arid / Bunny-Apocalypse / Holomux              | 24    |
+| 12   | Chihiro / Kametsu                              | 21    |
+| 13   | Kitsune                                        | 20    |
+| 14   | CTR                                            | 19    |
+| 15   | Pog42                                          | 17    |
+| 16   | SCY                                            | 16    |
+| 17   | HorribleSubs                                   | 14    |
+| 18   | CBT / Lulu / WBDP                              | 13    |
+| 19   | Datte13 / NH / UDF / o7                        | 12    |
+| 20   | FFF / Mysteria / Netaro / SEV                  | 11    |
+| 21   | CyC                                            | 10    |
+| 22   | Asakura / GSK_kun / Pookie / Tsundere & Others | 9     |
+| 23   | RASETSU / Reza / Starbez / crane0922           | 8     |
+| 24   | Baws / BlurayDesuYo / Kawatare / LCE & Others  | 7     |
+| 25   | AC / ANE / AOmundson / ARC & Others            | 6     |

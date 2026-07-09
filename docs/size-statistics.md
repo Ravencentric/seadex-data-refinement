@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `146.1 TiB`
-- Best size: `111.3 TiB`
+- Total size: `146.3 TiB`
+- Best size: `111.6 TiB`
 - Alt size: `34.7 TiB`
-- Realistic size: `114.5 TiB`
+- Realistic size: `114.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 9.6 TiB    | 9.6 TiB (100.00%)   | 131 (~74.8 GiB each)  |
 | 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (84.70%)    | 111 (~79.2 GiB each)  |
 | 4    | NAN0             | 8.4 TiB    | 8.3 TiB (98.66%)    | 115 (~75.2 GiB each)  |
-| 5    | Headpatter       | 5.1 TiB    | 3.8 TiB (75.20%)    | 167 (~31.0 GiB each)  |
+| 5    | Headpatter       | 5.1 TiB    | 3.8 TiB (75.03%)    | 168 (~30.9 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
 | 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 38 (~82.8 GiB each)   |
@@ -47,26 +47,26 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 25   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 26   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
 | 27   | Holomux          | 881.0 GiB  | 193.5 GiB (21.96%)  | 34 (~25.9 GiB each)   |
-| 28   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
-| 29   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
-| 30   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 31   | YURI             | 834.0 GiB  | 360.7 GiB (43.25%)  | 70 (~11.9 GiB each)   |
-| 32   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 33   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
-| 34   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
-| 35   | Erai-raws        | 787.3 GiB  | 116.5 GiB (14.80%)  | 46 (~17.1 GiB each)   |
-| 36   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
-| 37   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
-| 38   | Kawatare         | 699.3 GiB  | 580.7 GiB (83.04%)  | 24 (~29.1 GiB each)   |
-| 39   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
-| 40   | nekotan          | 671.7 GiB  | 632.9 GiB (94.22%)  | 12 (~56.0 GiB each)   |
+| 28   | nekotan          | 877.0 GiB  | 678.5 GiB (77.37%)  | 16 (~54.8 GiB each)   |
+| 29   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
+| 30   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
+| 31   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
+| 32   | YURI             | 834.0 GiB  | 360.7 GiB (43.25%)  | 70 (~11.9 GiB each)   |
+| 33   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 34   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
+| 35   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
+| 36   | Erai-raws        | 787.3 GiB  | 116.5 GiB (14.80%)  | 46 (~17.1 GiB each)   |
+| 37   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
+| 38   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
+| 39   | Kawatare         | 699.3 GiB  | 580.7 GiB (83.04%)  | 24 (~29.1 GiB each)   |
+| 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 41   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 42   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 43   | Bunny-Apocalypse | 620.3 GiB  | 161.0 GiB (25.95%)  | 30 (~20.7 GiB each)   |
 | 44   | Arid             | 602.0 GiB  | 201.1 GiB (33.40%)  | 42 (~14.3 GiB each)   |
-| 45   | VARYG            | 569.9 GiB  | 51.6 GiB (9.05%)    | 35 (~16.3 GiB each)   |
-| 46   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 47   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 48   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 49   | Crash            | 552.3 GiB  | 552.3 GiB (100.00%) | 2 (~276.2 GiB each)   |
-| 50   | Others           | 46.4 TiB   | 25.3 TiB (54.62%)   | 2029 (~23.4 GiB each) |
+| 45   | uba              | 587.8 GiB  | 587.8 GiB (100.00%) | 10 (~58.8 GiB each)   |
+| 46   | VARYG            | 569.9 GiB  | 51.6 GiB (9.05%)    | 35 (~16.3 GiB each)   |
+| 47   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
+| 48   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
+| 49   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
+| 50   | Others           | 46.4 TiB   | 25.5 TiB (54.99%)   | 2019 (~23.5 GiB each) |
