@@ -27,8 +27,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 20  | Sword Art Online: Alicization - War of Underworld Part 2                                   | 2020 | 13 Nov 2023 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
 | 21  | Sword Art Online the Movie: Ordinal Scale                                                  | 2017 | 07 Aug 2025 | [SeaDex](https://releases.moe/21403/), [AniList](https://anilist.co/anime/21403)   |
 | 22  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                 | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
-| 23  | Spice and Wolf                                                                             | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
-| 24  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
+| 23  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
+| 24  | Spice and Wolf                                                                             | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
 | 25  | K                                                                                          | 2012 | 10 May 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 26  | Ghost in the Shell                                                                         | 1995 | 21 Feb 2026 | [SeaDex](https://releases.moe/43/), [AniList](https://anilist.co/anime/43)         |
 | 27  | Welcome to Demon School! Iruma-kun                                                         | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
@@ -37,8 +37,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                  | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 31  | Blue Box                                                                                   | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
 | 32  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
-| 33  | Golden Kamuy                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
-| 34  | BLUE LOCK Season 2                                                                         | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
+| 33  | BLUE LOCK Season 2                                                                         | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
+| 34  | Golden Kamuy                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 35  | Takopi's Original Sin                                                                      | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
 | 36  | The Hidden Dungeon Only I Can Enter                                                        | 2021 | 28 Jan 2026 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
 | 37  | Chihayafuru                                                                                | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
@@ -61,8 +61,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 54  | NANBAKA                                                                                    | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
 | 55  | Love After World Domination                                                                | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
 | 56  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!           | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
-| 57  | Revolutionary Girl Utena                                                                   | 1997 | 12 May 2026 | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
-| 58  | Clevatess                                                                                  | 2025 | 05 Feb 2026 | [SeaDex](https://releases.moe/178869/), [AniList](https://anilist.co/anime/178869) |
+| 57  | Clevatess                                                                                  | 2025 | 05 Feb 2026 | [SeaDex](https://releases.moe/178869/), [AniList](https://anilist.co/anime/178869) |
+| 58  | Revolutionary Girl Utena                                                                   | 1997 | 12 May 2026 | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
 | 59  | Brynhildr in the Darkness                                                                  | 2014 | 02 May 2026 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
 | 60  | My Instant Death Ability is Overpowered                                                    | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
 | 61  | Hi Score Girl                                                                              | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/20574/), [AniList](https://anilist.co/anime/20574)   |

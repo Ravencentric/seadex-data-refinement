@@ -8,3 +8,4 @@
 | 5   | Shagahai ReLIFE Kenkyuujo Support-ka | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 6   | Murder Princess                      | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
 | 7   | Overlord: Ple Ple Pleiades 4         | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 8   | Suna no Bara: Yuki no Mokushiroku    | 1993 | 09 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |

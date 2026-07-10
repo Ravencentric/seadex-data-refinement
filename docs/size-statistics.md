@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `146.3 TiB`
-- Best size: `111.6 TiB`
-- Alt size: `34.7 TiB`
-- Realistic size: `114.6 TiB`
+- Total size: `146.5 TiB`
+- Best size: `111.7 TiB`
+- Alt size: `34.8 TiB`
+- Realistic size: `114.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -27,11 +27,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | Headpatter       | 5.1 TiB    | 3.8 TiB (75.03%)    | 168 (~30.9 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
-| 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 38 (~82.8 GiB each)   |
+| 8    | PMR              | 3.2 TiB    | 3.2 TiB (100.00%)   | 40 (~81.1 GiB each)   |
 | 9    | B00BA            | 2.9 TiB    | 2.9 TiB (100.00%)   | 33 (~89.3 GiB each)   |
 | 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
-| 12   | NOGRP            | 1.8 TiB    | 1.1 TiB (64.35%)    | 47 (~38.4 GiB each)   |
+| 12   | NOGRP            | 1.8 TiB    | 1.1 TiB (64.59%)    | 48 (~37.8 GiB each)   |
 | 13   | GetItTwisted     | 1.8 TiB    | 1.3 TiB (74.93%)    | 63 (~28.5 GiB each)   |
 | 14   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
 | 15   | LaCroiX          | 1.5 TiB    | 1.5 TiB (100.00%)   | 20 (~75.0 GiB each)   |
@@ -57,7 +57,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 35   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
 | 36   | Erai-raws        | 787.3 GiB  | 116.5 GiB (14.80%)  | 46 (~17.1 GiB each)   |
 | 37   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
-| 38   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
+| 38   | LostYears        | 730.1 GiB  | 207.6 GiB (28.43%)  | 44 (~16.6 GiB each)   |
 | 39   | Kawatare         | 699.3 GiB  | 580.7 GiB (83.04%)  | 24 (~29.1 GiB each)   |
 | 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 41   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 48   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 49   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 50   | Others           | 46.4 TiB   | 25.5 TiB (54.99%)   | 2019 (~23.5 GiB each) |
+| 50   | Others           | 46.4 TiB   | 25.5 TiB (54.92%)   | 2022 (~23.5 GiB each) |
