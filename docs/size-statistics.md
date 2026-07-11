@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `146.5 TiB`
-- Best size: `111.7 TiB`
-- Alt size: `34.8 TiB`
-- Realistic size: `114.8 TiB`
+- Total size: `147.2 TiB`
+- Best size: `112.2 TiB`
+- Alt size: `35.0 TiB`
+- Realistic size: `115.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,9 +20,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.9 TiB   | 14.1 TiB (94.61%)   | 184 (~82.9 GiB each)  |
+| 1    | -ZR-             | 15.3 TiB   | 14.5 TiB (94.75%)   | 186 (~84.2 GiB each)  |
 | 2    | CRUCiBLE         | 9.6 TiB    | 9.6 TiB (100.00%)   | 131 (~74.8 GiB each)  |
-| 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (84.70%)    | 111 (~79.2 GiB each)  |
+| 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (84.36%)    | 112 (~78.8 GiB each)  |
 | 4    | NAN0             | 8.4 TiB    | 8.3 TiB (98.66%)    | 115 (~75.2 GiB each)  |
 | 5    | Headpatter       | 5.1 TiB    | 3.8 TiB (75.03%)    | 168 (~30.9 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
@@ -42,12 +42,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | YURASUKA         | 1.1 TiB    | 428.2 GiB (37.60%)  | 97 (~11.7 GiB each)   |
 | 21   | Sylvar           | 1.1 TiB    | 1.0 TiB (93.65%)    | 13 (~86.3 GiB each)   |
 | 22   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
-| 23   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
-| 24   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
-| 25   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 26   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
-| 27   | Holomux          | 881.0 GiB  | 193.5 GiB (21.96%)  | 34 (~25.9 GiB each)   |
-| 28   | nekotan          | 877.0 GiB  | 678.5 GiB (77.37%)  | 16 (~54.8 GiB each)   |
+| 23   | nekotan          | 1.0 TiB    | 834.8 GiB (79.18%)  | 25 (~42.2 GiB each)   |
+| 24   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
+| 25   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
+| 26   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
+| 27   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
+| 28   | Holomux          | 881.0 GiB  | 193.5 GiB (21.96%)  | 34 (~25.9 GiB each)   |
 | 29   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
 | 30   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
 | 31   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 48   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 49   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 50   | Others           | 46.4 TiB   | 25.5 TiB (54.92%)   | 2022 (~23.5 GiB each) |
+| 50   | Others           | 46.6 TiB   | 25.5 TiB (54.64%)   | 2022 (~23.6 GiB each) |
