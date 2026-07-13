@@ -9,9 +9,9 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `147.6 TiB`
-- Best size: `112.5 TiB`
-- Alt size: `35.1 TiB`
-- Realistic size: `115.5 TiB`
+- Best size: `112.6 TiB`
+- Alt size: `35.0 TiB`
+- Realistic size: `115.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -22,12 +22,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.3 TiB   | 14.5 TiB (94.75%)   | 186 (~84.2 GiB each)  |
 | 2    | CRUCiBLE         | 9.6 TiB    | 9.6 TiB (100.00%)   | 131 (~74.8 GiB each)  |
-| 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (84.36%)    | 112 (~78.8 GiB each)  |
+| 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (85.31%)    | 112 (~78.8 GiB each)  |
 | 4    | NAN0             | 8.6 TiB    | 8.5 TiB (98.68%)    | 116 (~75.8 GiB each)  |
-| 5    | Headpatter       | 5.1 TiB    | 3.8 TiB (75.08%)    | 169 (~30.8 GiB each)  |
+| 5    | Headpatter       | 5.2 TiB    | 3.9 TiB (75.47%)    | 170 (~31.1 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
-| 8    | PMR              | 3.2 TiB    | 3.2 TiB (100.00%)   | 40 (~81.1 GiB each)   |
+| 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 40 (~80.5 GiB each)   |
 | 9    | B00BA            | 2.9 TiB    | 2.9 TiB (100.00%)   | 33 (~89.3 GiB each)   |
 | 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
@@ -41,9 +41,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.83%)  | 75 (~17.3 GiB each)   |
 | 20   | Sylvar           | 1.2 TiB    | 1.1 TiB (94.08%)    | 14 (~86.1 GiB each)   |
 | 21   | YURASUKA         | 1.1 TiB    | 428.2 GiB (37.60%)  | 97 (~11.7 GiB each)   |
-| 22   | nekotan          | 1.0 TiB    | 846.2 GiB (79.30%)  | 30 (~35.6 GiB each)   |
-| 23   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
-| 24   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
+| 22   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
+| 23   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
+| 24   | nekotan          | 1003.1 GiB | 783.5 GiB (78.11%)  | 30 (~33.4 GiB each)   |
 | 25   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
 | 26   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 27   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
@@ -57,8 +57,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 35   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
 | 36   | Erai-raws        | 803.5 GiB  | 116.5 GiB (14.50%)  | 47 (~17.1 GiB each)   |
 | 37   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
-| 38   | LostYears        | 730.1 GiB  | 207.6 GiB (28.43%)  | 44 (~16.6 GiB each)   |
-| 39   | Kawatare         | 699.3 GiB  | 580.7 GiB (83.04%)  | 24 (~29.1 GiB each)   |
+| 38   | Kawatare         | 764.6 GiB  | 646.0 GiB (84.49%)  | 25 (~30.6 GiB each)   |
+| 39   | LostYears        | 730.1 GiB  | 207.6 GiB (28.43%)  | 44 (~16.6 GiB each)   |
 | 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 41   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 42   | Bunny-Apocalypse | 639.4 GiB  | 161.0 GiB (25.17%)  | 31 (~20.6 GiB each)   |

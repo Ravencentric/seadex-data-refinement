@@ -44,8 +44,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 37  | Chihayafuru                                                                                | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
 | 38  | Science Fell in Love, So I Tried to Prove It                                               | 2020 | 29 Dec 2024 | [SeaDex](https://releases.moe/107067/), [AniList](https://anilist.co/anime/107067) |
 | 39  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                     | 2021 | 30 Jan 2026 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
-| 40  | The Secret World of Arrietty                                                               | 2010 | 07 Jan 2026 | [SeaDex](https://releases.moe/7711/), [AniList](https://anilist.co/anime/7711)     |
-| 41  | I'm Quitting Heroing                                                                       | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/140457/), [AniList](https://anilist.co/anime/140457) |
+| 40  | I'm Quitting Heroing                                                                       | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/140457/), [AniList](https://anilist.co/anime/140457) |
+| 41  | The Secret World of Arrietty                                                               | 2010 | 07 Jan 2026 | [SeaDex](https://releases.moe/7711/), [AniList](https://anilist.co/anime/7711)     |
 | 42  | Romantic Killer                                                                            | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
 | 43  | 【OSHI NO KO】Season 3                                                                     | 2026 | 12 Jul 2026 | [SeaDex](https://releases.moe/182587/), [AniList](https://anilist.co/anime/182587) |
 | 44  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                            | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
