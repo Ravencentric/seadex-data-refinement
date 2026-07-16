@@ -5,16 +5,16 @@ This list excludes groups that do not want their releases mirrored to public tra
 
 | Idx | Title                                | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | 【OSHI NO KO】Season 3               | 2026 | 12 Jul 2026 | [SeaDex](https://releases.moe/182587/), [AniList](https://anilist.co/anime/182587) |
-| 2   | I'm Standing on a Million Lives      | 2020 | 19 Feb 2026 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
-| 3   | D-Frag!                              | 2014 | 08 Jul 2026 | [SeaDex](https://releases.moe/20031/), [AniList](https://anilist.co/anime/20031)   |
-| 4   | Kemono Michi: Rise Up                | 2019 | 03 May 2025 | [SeaDex](https://releases.moe/107339/), [AniList](https://anilist.co/anime/107339) |
-| 5   | 100 METERS                           | 2025 | 31 May 2026 | [SeaDex](https://releases.moe/177687/), [AniList](https://anilist.co/anime/177687) |
-| 6   | Higurashi: When They Cry - SOTSU     | 2021 | 12 Jul 2026 | [SeaDex](https://releases.moe/131149/), [AniList](https://anilist.co/anime/131149) |
-| 7   | Welcome to the Outcast's Restaurant! | 2025 | 11 Jul 2026 | [SeaDex](https://releases.moe/185544/), [AniList](https://anilist.co/anime/185544) |
-| 8   | Mobile Suit Gundam: The 08th MS Team | 1996 | 12 Jul 2026 | [SeaDex](https://releases.moe/81/), [AniList](https://anilist.co/anime/81)         |
-| 9   | Wash It All Away                     | 2026 | 05 Jul 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
-| 10  | Day Break Illusion                   | 2013 | 13 Jul 2026 | [SeaDex](https://releases.moe/17651/), [AniList](https://anilist.co/anime/17651)   |
+| 1   | Boarding School Juliet               | 2018 | 16 Jul 2026 | [SeaDex](https://releases.moe/101310/), [AniList](https://anilist.co/anime/101310) |
+| 2   | OSHI NO KO Season 3                  | 2026 | 16 Jul 2026 | [SeaDex](https://releases.moe/182587/), [AniList](https://anilist.co/anime/182587) |
+| 3   | I'm Standing on a Million Lives      | 2020 | 19 Feb 2026 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
+| 4   | D-Frag!                              | 2014 | 13 Jul 2026 | [SeaDex](https://releases.moe/20031/), [AniList](https://anilist.co/anime/20031)   |
+| 5   | Kemono Michi: Rise Up                | 2019 | 03 May 2025 | [SeaDex](https://releases.moe/107339/), [AniList](https://anilist.co/anime/107339) |
+| 6   | 100 METERS                           | 2025 | 31 May 2026 | [SeaDex](https://releases.moe/177687/), [AniList](https://anilist.co/anime/177687) |
+| 7   | Higurashi: When They Cry - SOTSU     | 2021 | 12 Jul 2026 | [SeaDex](https://releases.moe/131149/), [AniList](https://anilist.co/anime/131149) |
+| 8   | Welcome to the Outcast's Restaurant! | 2025 | 13 Jul 2026 | [SeaDex](https://releases.moe/185544/), [AniList](https://anilist.co/anime/185544) |
+| 9   | Mobile Suit Gundam: The 08th MS Team | 1996 | 12 Jul 2026 | [SeaDex](https://releases.moe/81/), [AniList](https://anilist.co/anime/81)         |
+| 10  | Wash It All Away                     | 2026 | 05 Jul 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
 | 11  | I Want to Deliver Your Voice         | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
 | 12  | Majestic Prince                      | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
 | 13  | Shagahai ReLIFE Kenkyuujo Support-ka | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |

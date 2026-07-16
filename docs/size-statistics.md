@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `147.6 TiB`
-- Best size: `112.6 TiB`
-- Alt size: `35.0 TiB`
-- Realistic size: `115.6 TiB`
+- Total size: `147.9 TiB`
+- Best size: `112.7 TiB`
+- Alt size: `35.1 TiB`
+- Realistic size: `115.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 9.6 TiB    | 9.6 TiB (100.00%)   | 131 (~74.8 GiB each)  |
 | 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (85.31%)    | 112 (~78.8 GiB each)  |
 | 4    | NAN0             | 8.6 TiB    | 8.5 TiB (98.68%)    | 116 (~75.8 GiB each)  |
-| 5    | Headpatter       | 5.2 TiB    | 3.9 TiB (75.47%)    | 170 (~31.1 GiB each)  |
+| 5    | Headpatter       | 5.2 TiB    | 3.9 TiB (75.30%)    | 175 (~30.5 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
 | 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 40 (~80.5 GiB each)   |
@@ -39,26 +39,26 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.83%)  | 75 (~17.3 GiB each)   |
-| 20   | Sylvar           | 1.2 TiB    | 1.1 TiB (94.08%)    | 14 (~86.1 GiB each)   |
+| 20   | nekotan          | 1.1 TiB    | 940.2 GiB (80.07%)  | 32 (~36.7 GiB each)   |
 | 21   | YURASUKA         | 1.1 TiB    | 428.2 GiB (37.60%)  | 97 (~11.7 GiB each)   |
-| 22   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
-| 23   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
-| 24   | nekotan          | 1003.1 GiB | 783.5 GiB (78.11%)  | 30 (~33.4 GiB each)   |
-| 25   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
-| 26   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 27   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
-| 28   | Holomux          | 881.0 GiB  | 193.5 GiB (21.96%)  | 34 (~25.9 GiB each)   |
-| 29   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
-| 30   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
-| 31   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 32   | YURI             | 834.0 GiB  | 360.7 GiB (43.25%)  | 70 (~11.9 GiB each)   |
+| 22   | Sylvar           | 1.1 TiB    | 1.0 TiB (93.65%)    | 13 (~86.3 GiB each)   |
+| 23   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
+| 24   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
+| 25   | FraMeSToR        | 959.9 GiB  | 822.9 GiB (85.73%)  | 13 (~73.8 GiB each)   |
+| 26   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
+| 27   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
+| 28   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
+| 29   | Holomux          | 881.0 GiB  | 193.5 GiB (21.96%)  | 34 (~25.9 GiB each)   |
+| 30   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
+| 31   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
+| 32   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 33   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 34   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
+| 34   | YURI             | 820.1 GiB  | 360.7 GiB (43.98%)  | 69 (~11.9 GiB each)   |
 | 35   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
-| 36   | Erai-raws        | 803.5 GiB  | 116.5 GiB (14.50%)  | 47 (~17.1 GiB each)   |
+| 36   | Erai-raws        | 787.3 GiB  | 116.5 GiB (14.80%)  | 46 (~17.1 GiB each)   |
 | 37   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 38   | Kawatare         | 764.6 GiB  | 646.0 GiB (84.49%)  | 25 (~30.6 GiB each)   |
-| 39   | LostYears        | 730.1 GiB  | 207.6 GiB (28.43%)  | 44 (~16.6 GiB each)   |
+| 39   | LostYears        | 712.4 GiB  | 189.9 GiB (26.66%)  | 42 (~17.0 GiB each)   |
 | 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 41   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 42   | Bunny-Apocalypse | 639.4 GiB  | 161.0 GiB (25.17%)  | 31 (~20.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 48   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 49   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 50   | Others           | 46.7 TiB   | 25.5 TiB (54.69%)   | 2023 (~23.6 GiB each) |
+| 50   | Others           | 46.7 TiB   | 25.6 TiB (54.74%)   | 2025 (~23.6 GiB each) |
