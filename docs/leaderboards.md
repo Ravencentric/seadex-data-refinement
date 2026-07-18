@@ -12,41 +12,41 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Total entries
 
-| Rank | Group                  | Count |
-| :----| :----------------------| :-----|
-| 🥇   | -ZR-                   | 176   |
-| 🥈   | Headpatter             | 159   |
-| 🥉   | sam                    | 132   |
-| 4    | CRUCiBLE               | 131   |
-| 5    | NAN0                   | 116   |
-| 6    | MTBB                   | 106   |
-| 7    | hchcsen                | 104   |
-| 8    | Moxie                  | 99    |
-| 9    | YURASUKA               | 97    |
-| 10   | SubsPlease             | 75    |
-| 11   | YURI                   | 68    |
-| 12   | Drag                   | 58    |
-| 13   | smol                   | 57    |
-| 14   | KH                     | 55    |
-| 15   | Erai-raws              | 48    |
-| 16   | NOGRP                  | 47    |
-| 17   | GetItTwisted           | 46    |
-| 18   | LostYears              | 42    |
-| 19   | Arid                   | 41    |
-| 20   | Okay-Subs / PMR        | 40    |
-| 21   | TTGA                   | 39    |
-| 22   | Commie                 | 36    |
-| 23   | LYS1TH3A / VARYG       | 35    |
-| 24   | B00BA / Holomux / Lulu | 33    |
-| 25   | Bunny-Apocalypse       | 31    |
+| Rank | Group            | Count |
+| :----| :----------------| :-----|
+| 🥇   | -ZR-             | 176   |
+| 🥈   | Headpatter       | 159   |
+| 🥉   | sam              | 134   |
+| 4    | CRUCiBLE         | 130   |
+| 5    | NAN0             | 116   |
+| 6    | MTBB             | 106   |
+| 7    | hchcsen          | 104   |
+| 8    | Moxie            | 99    |
+| 9    | YURASUKA         | 97    |
+| 10   | SubsPlease       | 75    |
+| 11   | YURI             | 68    |
+| 12   | Drag             | 58    |
+| 13   | smol             | 57    |
+| 14   | KH               | 55    |
+| 15   | Erai-raws        | 48    |
+| 16   | NOGRP            | 47    |
+| 17   | GetItTwisted     | 46    |
+| 18   | LostYears        | 42    |
+| 19   | Arid             | 41    |
+| 20   | Okay-Subs / PMR  | 40    |
+| 21   | TTGA             | 39    |
+| 22   | Commie           | 36    |
+| 23   | LYS1TH3A / VARYG | 35    |
+| 24   | Holomux          | 34    |
+| 25   | B00BA / Lulu     | 33    |
 
 ## Top 25 - Best dual audio entries
 
 | Rank | Group                                            | Count |
 | :----| :------------------------------------------------| :-----|
 | 🥇   | -ZR-                                             | 107   |
-| 🥈   | CRUCiBLE                                         | 104   |
-| 🥉   | sam                                              | 92    |
+| 🥈   | CRUCiBLE                                         | 103   |
+| 🥉   | sam                                              | 94    |
 | 4    | NAN0                                             | 85    |
 | 5    | hchcsen                                          | 56    |
 | 6    | Headpatter                                       | 39    |
@@ -75,8 +75,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                           | Count |
 | :----| :-------------------------------| :-----|
 | 🥇   | -ZR-                            | 149   |
-| 🥈   | CRUCiBLE                        | 131   |
-| 🥉   | sam                             | 123   |
+| 🥈   | CRUCiBLE                        | 130   |
+| 🥉   | sam                             | 125   |
 | 4    | NAN0                            | 114   |
 | 5    | Moxie                           | 99    |
 | 6    | Headpatter                      | 97    |
@@ -116,8 +116,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | NOGRP / VARYG                                  | 32    |
 | 11   | LostYears                                      | 31    |
 | 12   | GetItTwisted / MTBB                            | 30    |
-| 13   | Bunny-Apocalypse                               | 25    |
-| 14   | Arid / Holomux                                 | 24    |
+| 13   | Bunny-Apocalypse / Holomux                     | 25    |
+| 14   | Arid                                           | 24    |
 | 15   | Chihiro / Kametsu                              | 21    |
 | 16   | Kitsune                                        | 20    |
 | 17   | CTR                                            | 19    |

@@ -9,9 +9,9 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `148.0 TiB`
-- Best size: `112.7 TiB`
+- Best size: `112.9 TiB`
 - Alt size: `35.2 TiB`
-- Realistic size: `115.8 TiB`
+- Realistic size: `115.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,11 +21,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.3 TiB   | 14.5 TiB (94.75%)   | 186 (~84.2 GiB each)  |
-| 2    | CRUCiBLE         | 9.6 TiB    | 9.6 TiB (100.00%)   | 131 (~74.8 GiB each)  |
+| 2    | CRUCiBLE         | 9.5 TiB    | 9.5 TiB (100.00%)   | 130 (~74.8 GiB each)  |
 | 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (85.31%)    | 112 (~78.8 GiB each)  |
 | 4    | NAN0             | 8.6 TiB    | 8.5 TiB (98.68%)    | 116 (~75.8 GiB each)  |
 | 5    | Headpatter       | 5.2 TiB    | 3.9 TiB (75.30%)    | 175 (~30.5 GiB each)  |
-| 6    | sam              | 3.9 TiB    | 3.6 TiB (93.26%)    | 132 (~30.3 GiB each)  |
+| 6    | sam              | 3.9 TiB    | 3.7 TiB (93.33%)    | 134 (~30.2 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
 | 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 40 (~80.5 GiB each)   |
 | 9    | B00BA            | 2.9 TiB    | 2.9 TiB (100.00%)   | 33 (~89.3 GiB each)   |
@@ -48,7 +48,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 26   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
 | 27   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 28   | KH               | 914.0 GiB  | 139.7 GiB (15.28%)  | 57 (~16.0 GiB each)   |
-| 29   | Holomux          | 881.0 GiB  | 193.5 GiB (21.96%)  | 34 (~25.9 GiB each)   |
+| 29   | Holomux          | 882.5 GiB  | 193.5 GiB (21.92%)  | 35 (~25.2 GiB each)   |
 | 30   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
 | 31   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
 | 32   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
@@ -60,13 +60,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 38   | Kawatare         | 764.6 GiB  | 646.0 GiB (84.49%)  | 25 (~30.6 GiB each)   |
 | 39   | LostYears        | 712.4 GiB  | 189.9 GiB (26.66%)  | 42 (~17.0 GiB each)   |
 | 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
-| 41   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
-| 42   | Bunny-Apocalypse | 639.4 GiB  | 161.0 GiB (25.17%)  | 31 (~20.6 GiB each)   |
-| 43   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 44   | Arid             | 602.0 GiB  | 201.1 GiB (33.40%)  | 42 (~14.3 GiB each)   |
-| 45   | uba              | 587.8 GiB  | 587.8 GiB (100.00%) | 10 (~58.8 GiB each)   |
-| 46   | VARYG            | 569.9 GiB  | 51.6 GiB (9.05%)    | 35 (~16.3 GiB each)   |
-| 47   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 48   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 49   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 50   | Others           | 46.7 TiB   | 25.6 TiB (54.70%)   | 2026 (~23.6 GiB each) |
+| 41   | Crash            | 653.9 GiB  | 653.9 GiB (100.00%) | 3 (~218.0 GiB each)   |
+| 42   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
+| 43   | Bunny-Apocalypse | 639.4 GiB  | 161.0 GiB (25.17%)  | 31 (~20.6 GiB each)   |
+| 44   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
+| 45   | Arid             | 602.0 GiB  | 201.1 GiB (33.40%)  | 42 (~14.3 GiB each)   |
+| 46   | uba              | 587.8 GiB  | 587.8 GiB (100.00%) | 10 (~58.8 GiB each)   |
+| 47   | VARYG            | 569.9 GiB  | 51.6 GiB (9.05%)    | 35 (~16.3 GiB each)   |
+| 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
+| 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
+| 50   | Others           | 46.7 TiB   | 25.4 TiB (54.40%)   | 2038 (~23.5 GiB each) |
