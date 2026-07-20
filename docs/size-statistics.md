@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `148.0 TiB`
+- Total size: `148.1 TiB`
 - Best size: `112.9 TiB`
 - Alt size: `35.2 TiB`
 - Realistic size: `115.9 TiB`
@@ -22,8 +22,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.3 TiB   | 14.5 TiB (94.75%)   | 186 (~84.2 GiB each)  |
 | 2    | CRUCiBLE         | 9.5 TiB    | 9.5 TiB (100.00%)   | 130 (~74.8 GiB each)  |
-| 3    | hchcsen          | 8.6 TiB    | 7.3 TiB (85.31%)    | 112 (~78.8 GiB each)  |
-| 4    | NAN0             | 8.6 TiB    | 8.5 TiB (98.68%)    | 116 (~75.8 GiB each)  |
+| 3    | NAN0             | 8.6 TiB    | 8.5 TiB (98.68%)    | 116 (~75.8 GiB each)  |
+| 4    | hchcsen          | 8.5 TiB    | 7.2 TiB (85.09%)    | 111 (~78.4 GiB each)  |
 | 5    | Headpatter       | 5.2 TiB    | 3.9 TiB (75.30%)    | 175 (~30.5 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.7 TiB (93.33%)    | 134 (~30.2 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
@@ -40,7 +40,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.83%)  | 75 (~17.3 GiB each)   |
 | 20   | nekotan          | 1.1 TiB    | 940.2 GiB (80.07%)  | 32 (~36.7 GiB each)   |
-| 21   | YURASUKA         | 1.1 TiB    | 428.2 GiB (37.60%)  | 97 (~11.7 GiB each)   |
+| 21   | YURASUKA         | 1.1 TiB    | 445.7 GiB (38.55%)  | 98 (~11.8 GiB each)   |
 | 22   | Sylvar           | 1.1 TiB    | 1.0 TiB (93.65%)    | 13 (~86.3 GiB each)   |
 | 23   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
 | 24   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
@@ -51,13 +51,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 29   | Holomux          | 882.5 GiB  | 193.5 GiB (21.92%)  | 35 (~25.2 GiB each)   |
 | 30   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
 | 31   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
-| 32   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 33   | Erai-raws        | 839.3 GiB  | 116.5 GiB (13.89%)  | 48 (~17.5 GiB each)   |
-| 34   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 32   | Vodes            | 851.4 GiB  | 557.9 GiB (65.53%)  | 19 (~44.8 GiB each)   |
+| 33   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
+| 34   | Erai-raws        | 839.3 GiB  | 116.5 GiB (13.89%)  | 48 (~17.5 GiB each)   |
 | 35   | YURI             | 820.1 GiB  | 360.7 GiB (43.98%)  | 69 (~11.9 GiB each)   |
-| 36   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
-| 37   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
-| 38   | Kawatare         | 764.6 GiB  | 646.0 GiB (84.49%)  | 25 (~30.6 GiB each)   |
+| 36   | Kawatare         | 818.6 GiB  | 700.0 GiB (85.51%)  | 26 (~31.5 GiB each)   |
+| 37   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
+| 38   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 39   | LostYears        | 712.4 GiB  | 189.9 GiB (26.66%)  | 42 (~17.0 GiB each)   |
 | 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 41   | Crash            | 653.9 GiB  | 653.9 GiB (100.00%) | 3 (~218.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | VARYG            | 569.9 GiB  | 51.6 GiB (9.05%)    | 35 (~16.3 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 46.7 TiB   | 25.4 TiB (54.40%)   | 2038 (~23.5 GiB each) |
+| 50   | Others           | 46.8 TiB   | 25.5 TiB (54.51%)   | 2038 (~23.5 GiB each) |

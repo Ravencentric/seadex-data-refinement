@@ -20,9 +20,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | CRUCiBLE         | 130   |
 | 5    | NAN0             | 116   |
 | 6    | MTBB             | 106   |
-| 7    | hchcsen          | 104   |
+| 7    | hchcsen          | 103   |
 | 8    | Moxie            | 99    |
-| 9    | YURASUKA         | 97    |
+| 9    | YURASUKA         | 98    |
 | 10   | SubsPlease       | 75    |
 | 11   | YURI             | 68    |
 | 12   | Drag             | 58    |
@@ -48,27 +48,27 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                                         | 103   |
 | 🥉   | sam                                              | 94    |
 | 4    | NAN0                                             | 85    |
-| 5    | hchcsen                                          | 56    |
+| 5    | hchcsen                                          | 55    |
 | 6    | Headpatter                                       | 39    |
 | 7    | LYS1TH3A                                         | 32    |
 | 8    | TTGA                                             | 29    |
-| 9    | FLE / YURASUKA                                   | 23    |
-| 10   | GetItTwisted / smol                              | 22    |
-| 11   | Moxie                                            | 21    |
-| 12   | Lulu                                             | 18    |
-| 13   | Flugel / LazyRemux                               | 17    |
-| 14   | PMR / ZeroBuild                                  | 16    |
-| 15   | koala                                            | 15    |
-| 16   | YURI                                             | 14    |
-| 17   | Arid                                             | 13    |
-| 18   | BlackRose / FraMeSToR / Vodes                    | 12    |
-| 19   | LostYears / Mehul                                | 11    |
-| 20   | DemiHuman                                        | 10    |
-| 21   | KH / LaCroiX / NTRX / SCY / hydes                | 9     |
-| 22   | Meakes / NOGRP / nekotan                         | 8     |
-| 23   | IK / Kametsu / SubsMix / Sylvar                  | 7     |
-| 24   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
-| 25   | CTR / Doc / Holomux / Kuraze & Others            | 5     |
+| 9    | YURASUKA                                         | 24    |
+| 10   | FLE                                              | 23    |
+| 11   | GetItTwisted / smol                              | 22    |
+| 12   | Moxie                                            | 21    |
+| 13   | Lulu                                             | 18    |
+| 14   | Flugel / LazyRemux                               | 17    |
+| 15   | PMR / ZeroBuild                                  | 16    |
+| 16   | koala                                            | 15    |
+| 17   | YURI                                             | 14    |
+| 18   | Arid                                             | 13    |
+| 19   | BlackRose / FraMeSToR / Vodes                    | 12    |
+| 20   | LostYears / Mehul                                | 11    |
+| 21   | DemiHuman                                        | 10    |
+| 22   | KH / LaCroiX / NTRX / SCY / hydes                | 9     |
+| 23   | Meakes / NOGRP / nekotan                         | 8     |
+| 24   | IK / Kametsu / SubsMix / Sylvar                  | 7     |
+| 25   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
 
 ## Top 25 - Best entries
 
@@ -81,11 +81,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | Moxie                           | 99    |
 | 6    | Headpatter                      | 97    |
 | 7    | MTBB                            | 76    |
-| 8    | hchcsen                         | 73    |
+| 8    | hchcsen                         | 72    |
 | 9    | smol                            | 55    |
 | 10   | PMR                             | 40    |
 | 11   | Okay-Subs / TTGA                | 38    |
-| 12   | YURASUKA                        | 34    |
+| 12   | YURASUKA                        | 35    |
 | 13   | B00BA / GetItTwisted / LYS1TH3A | 33    |
 | 14   | YURI                            | 31    |
 | 15   | Orphan                          | 26    |
@@ -93,12 +93,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Mehul                           | 23    |
 | 18   | Lulu                            | 21    |
 | 19   | LaCroiX / LazyRemux             | 20    |
-| 20   | nekotan                         | 19    |
-| 21   | Arid / Kawatare / koala         | 18    |
+| 20   | Kawatare / nekotan              | 19    |
+| 21   | Arid / koala                    | 18    |
 | 22   | Flugel                          | 17    |
 | 23   | Drag / ZeroBuild                | 16    |
-| 24   | NOGRP                           | 15    |
-| 25   | Vodes                           | 14    |
+| 24   | NOGRP / Vodes                   | 15    |
+| 25   | Beatrice                        | 13    |
 
 ## Top 25 - Alt entries
 

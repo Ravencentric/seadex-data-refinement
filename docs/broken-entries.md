@@ -27,8 +27,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 20  | Inu X Boku Secret Service                                                  | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/11013/), [AniList](https://anilist.co/anime/11013)   |
 | 21  | Heaven's Lost Property                                                     | 2009 | 01 Feb 2026 | [SeaDex](https://releases.moe/5958/), [AniList](https://anilist.co/anime/5958)     |
 | 22  | How a Realist Hero Rebuilt the Kingdom Part 2                              | 2022 | 06 Aug 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
-| 23  | I Parry Everything                                                         | 2024 | 23 Jun 2026 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
-| 24  | The Elusive Samurai                                                        | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
+| 23  | The Elusive Samurai                                                        | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
+| 24  | I Parry Everything                                                         | 2024 | 23 Jun 2026 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
 | 25  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 26  | Gintama Season 4                                                           | 2017 | 30 Jun 2026 | [SeaDex](https://releases.moe/97889/), [AniList](https://anilist.co/anime/97889)   |
 | 27  | Ghost in the Shell: Stand Alone Complex                                    | 2002 | 27 Jun 2026 | [SeaDex](https://releases.moe/467/), [AniList](https://anilist.co/anime/467)       |
@@ -49,7 +49,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 42  | RE-MAIN                                                                    | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
 | 43  | Kanokon: The Girl Who Cried Fox                                            | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/3503/), [AniList](https://anilist.co/anime/3503)     |
 | 44  | Headhunted to Another World: From Salaryman to Big Four!                   | 2025 | 16 Apr 2026 | [SeaDex](https://releases.moe/179689/), [AniList](https://anilist.co/anime/179689) |
-| 45  | Ghost in the Shell: Stand Alone Complex 2nd GIG                            | 2004 | 01 Aug 2025 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
+| 45  | Ghost in the Shell: Stand Alone Complex 2nd GIG                            | 2004 | 19 Jul 2026 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
 | 46  | BEATLESS                                                                   | 2018 | 01 Aug 2025 | [SeaDex](https://releases.moe/100245/), [AniList](https://anilist.co/anime/100245) |
 | 47  | Casshern Sins                                                              | 2008 | 16 Sep 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
 | 48  | Clockwork Planet                                                           | 2017 | 29 Jan 2026 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
