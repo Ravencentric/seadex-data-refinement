@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `148.1 TiB`
-- Best size: `112.9 TiB`
+- Total size: `148.3 TiB`
+- Best size: `113.1 TiB`
 - Alt size: `35.2 TiB`
-- Realistic size: `115.9 TiB`
+- Realistic size: `116.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -22,7 +22,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.3 TiB   | 14.5 TiB (94.75%)   | 186 (~84.2 GiB each)  |
 | 2    | CRUCiBLE         | 9.5 TiB    | 9.5 TiB (100.00%)   | 130 (~74.8 GiB each)  |
-| 3    | NAN0             | 8.6 TiB    | 8.5 TiB (98.68%)    | 116 (~75.8 GiB each)  |
+| 3    | NAN0             | 8.8 TiB    | 8.7 TiB (98.71%)    | 117 (~76.8 GiB each)  |
 | 4    | hchcsen          | 8.5 TiB    | 7.2 TiB (85.09%)    | 111 (~78.4 GiB each)  |
 | 5    | Headpatter       | 5.2 TiB    | 3.9 TiB (75.30%)    | 175 (~30.5 GiB each)  |
 | 6    | sam              | 3.9 TiB    | 3.7 TiB (93.33%)    | 134 (~30.2 GiB each)  |
@@ -42,7 +42,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | nekotan          | 1.1 TiB    | 940.2 GiB (80.07%)  | 32 (~36.7 GiB each)   |
 | 21   | YURASUKA         | 1.1 TiB    | 445.7 GiB (38.55%)  | 98 (~11.8 GiB each)   |
 | 22   | Sylvar           | 1.1 TiB    | 1.0 TiB (93.65%)    | 13 (~86.3 GiB each)   |
-| 23   | FLE              | 1.0 TiB    | 1022.7 GiB (96.41%) | 27 (~39.3 GiB each)   |
+| 23   | FLE              | 1.1 TiB    | 1022.7 GiB (93.72%) | 28 (~39.0 GiB each)   |
 | 24   | smol             | 1022.8 GiB | 973.4 GiB (95.17%)  | 57 (~17.9 GiB each)   |
 | 25   | FraMeSToR        | 959.9 GiB  | 822.9 GiB (85.73%)  | 13 (~73.8 GiB each)   |
 | 26   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | VARYG            | 569.9 GiB  | 51.6 GiB (9.05%)    | 35 (~16.3 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 46.8 TiB   | 25.5 TiB (54.51%)   | 2038 (~23.5 GiB each) |
+| 50   | Others           | 46.8 TiB   | 25.5 TiB (54.50%)   | 2039 (~23.5 GiB each) |
