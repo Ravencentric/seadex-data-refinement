@@ -1,36 +1,28 @@
 [project]
 name = "seadex-data-refinement"
 version = "0.1.0"
-description = "CLI for SeaDex Data Refinement"
+description = "Generate static statistics pages from SeaDex data."
 readme = "README.md"
 license = "MIT"
 authors = [{ name = "Ravencentric", email = "me@ravencentric.cc" }]
 requires-python = ">=3.13"
 dependencies = [
-    "cyclopts>=3.9.0",
     "httpx>=0.28.1",
-    "prettytable>=3.14.0",
-    "pyanilist>=0.8.1",
-    "pydantic>=2.10.6",
-    "seadex>=0.6.1",
+    "jinja2>=3.1.4",
+    "pyanilist>=0.9.0",
+    "seadex>=0.7.2",
+    "tqdm>=4.69.0",
+    "zensical>=0.0.51",
 ]
 
 [project.scripts]
-sdr = "seadex_data_refinement.__main__:app"
+sdr = "seadex_data_refinement.__main__:main"
 
 [dependency-groups]
-docs = [
-    "furo>=2024.8.6",
-    "myst-parser>=4.0.1",
-    "sphinx>=8.1.3",
-    "sphinx-inline-tabs>=2023.4.21",
-    "sphinx-new-tab-link>=0.6.1",
-]
 dev = [
     "mypy>=1.15.0",
-    "nox>=2025.2.9",
     "ruff>=0.9.9",
-    { include-group = "docs" },
+    "types-tqdm>=4.69.0.20260720",
 ]
 
 [tool.ruff]

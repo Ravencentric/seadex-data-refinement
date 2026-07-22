@@ -1,0 +1,70 @@
+# SeaDex Data Refinement
+
+SeaDex Data Refinement[^1], brought to you by Lumon Industries[^2], 
+provides information and identifies specific [SeaDex](https://releases.moe) entries that are currently lacking in one way or another.
+You can use this page as a resource to stay informed and help contribute to SeaDex.
+
+If you notice any entries that seem to be in the wrong category, please report them [here](https://github.com/Ravencentric/seadex-data-refinement/issues).
+For any other issues with SeaDex, please report them to the [SeaDex Discord server](https://discord.com/invite/jPeeZewWRn).
+
+[^1]: <https://severance.wiki/macrodata_refinement>
+[^2]: <https://severance.wiki/lumon_industries>
+
+## Overview
+
+* [Leaderboards](leaderboards.md): Leaderboards for SeaDex entries.
+
+* [Size Statistics](size-statistics.md): Statistics about SeaDex's size.
+
+* [Unmuxed](unmuxed.md): SeaDex entries that outline the recommended combinations for muxing to create the ideal release. Check out the [tutorial](https://thewiki.moe/advanced/muxing/) if you want to mux these releases.
+
+* [No comparisons](no-comparisons.md): SeaDex entries without any comparisons. Check out the [tutorial](https://thewiki.moe/tutorials/comparison/) if you're interested in making comparisons, and share them in the `#comparisons` channel on [Discord](https://discord.com/invite/jPeeZewWRn).
+
+* [Marked incomplete](marked-incomplete.md): SeaDex entries explicitly marked as incomplete by the editors. They often lack comparisons or contain *useless* comparisons that need to be replaced with proper ones, though other issues may also contribute to their incomplete status.
+
+* [Public - non-Nyaa](public-non-nyaa.md): SeaDex entries that are publicly available but not yet on Nyaa. Reposting them to Nyaa is a simple way to contribute, just be mindful of Nyaa's rules.
+
+* [Private tracker only entries](private-tracker-only-entries.md): SeaDex entries found only on private trackers. You can contribute by reposting them to Nyaa, but only if the private tracker allows it.
+
+* [Private tracker only torrents](private-tracker-only-torrents.md): SeaDex entries with atleast one torrent found only on private trackers. You can contribute by reposting them to Nyaa, but only if the private tracker allows it.
+
+* [Public tracker only](public-tracker-only.md): SeaDex entries found only on public trackers. You can contribute by reposting them to private trackers, following their rules and requirements.
+
+* [Top 500](top-500.md): Top 500 AniList entries that aren't yet on SeaDex. If you'd like to see any of these added, your comparison submissions are needed. The [tutorial](https://thewiki.moe/tutorials/comparison/) provides a step-by-step guide. Once you've made your comparisons, please share them in the `#comparisons` channel on [Discord](https://discord.com/invite/jPeeZewWRn).
+
+* [Best missing dual-audio](best-missing-dual.md): Best entries that currently do not have a dual audio version available. If you're interested in creating dual audio muxes for these entries, it's recommended to first join the [Discord](https://discord.com/invite/jPeeZewWRn) to consult with others before starting. You can also find a helpful guide in the [muxing tutorial](https://thewiki.moe/advanced/muxing/).
+
+* [Alt missing dual-audio](alt-missing-dual.md): Same as best-missing-dual, but for alt releases instead.
+
+* [No dub](no-dub.md): For entries where none have dual audio but there is a dub according to AniList.
+
+* [Encode best entries](encode-best-entries.md): Entries where an encode beats the store.
+
+* [Patch required](patch-required.md): An entry appears here if at least one of its releases requires a patch to be applied.
+
+* [Broken entries](broken-entries.md): An entry appears here if at least one of its releases is marked as broken.
+
+* [Missing season pack](missing-season-pack.md): Entries that do not have a complete season pack available.
+
+## Running locally
+
+If you just want to build the docs:
+
+```console
+$ git clone https://github.com/Ravencentric/seadex-data-refinement.git
+$ cd seadex-data-refinement
+$ uv run sdr docs
+$ zensical build
+```
+
+Or with plain Python:
+
+```console
+$ git clone https://github.com/Ravencentric/seadex-data-refinement.git
+$ cd seadex-data-refinement
+$ python -m venv .venv
+$ source .venv/bin/activate
+$ python -m pip install .
+$ sdr docs
+$ zensical build
+```

@@ -6,8 +6,8 @@ on:
       - main
     paths:
       - 'src/**'
-      - 'docs/**'
-      - 'noxfile.py'
+      - 'templates/**'
+      - 'zensical.toml'
       - '.github/workflows/deploy.yml'
   schedule:
     - cron: "0 0 * * *"
@@ -25,7 +25,7 @@ concurrency:
 jobs:
   deploy:
     permissions:
-      contents: write
+      contents: read
       pages: write
       id-token: write
     environment:
@@ -35,25 +35,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - uses: astral-sh/setup-uv@v5
-      - run: uv run nox -s build-docs
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Generate Markdown reports
+        run: uv run sdr docs
+
+      - name: Install Zensical
+        run: pipx install zensical
+
+      - name: Build site
+        run: zensical build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: './site/html'
-
-      - name: Commit updated docs back to the repo
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'bot: automatic update'
-          # https://github.com/actions/checkout/discussions/479
-          commit_user_name: 'github-actions[bot]'
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+          path: './site'
 
       - name: Deploy to GitHub Pages
         id: deployment

@@ -1,0 +1,13 @@
+# Best missing dual-audio
+
+An entry appears here if its designated 'best' version lacks dual audio, but at least one alt release for the same entry includes a dual audio option.
+
+{% if rows %}
+| Idx | Title | Year | Updated At | Links |
+| :---| :-----| :----| :---------| :----|
+{% for r in rows %}
+| {{ loop.index }} | {{ r.title }} | {{ r.year }} | {{ r.updated_at }} | [SeaDex]({{ r.seadex_url }}), [AniList]({{ r.anilist_url }}) |
+{% endfor %}
+{% else %}
+*No entries match this criterion.*
+{% endif %}

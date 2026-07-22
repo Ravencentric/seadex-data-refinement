@@ -1,0 +1,13 @@
+# Marked incomplete
+
+SeaDex entries explicitly marked as incomplete by the editors. They often lack comparisons or contain *useless* comparisons that need to be replaced with proper ones, though other issues may also contribute to their incomplete status.
+
+{% if rows %}
+| Idx | Title | Year | Updated At | Links |
+| :---| :-----| :----| :---------| :----|
+{% for r in rows %}
+| {{ loop.index }} | {{ r.title }} | {{ r.year }} | {{ r.updated_at }} | [SeaDex]({{ r.seadex_url }}), [AniList]({{ r.anilist_url }}) |
+{% endfor %}
+{% else %}
+*No entries match this criterion.*
+{% endif %}

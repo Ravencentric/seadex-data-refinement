@@ -1,0 +1,13 @@
+# Public - non-Nyaa
+
+SeaDex entries that are publicly available but not yet on Nyaa. Reposting them to Nyaa is a simple way to contribute, just be mindful of Nyaa's rules.
+
+{% if rows %}
+| Idx | Title | Year | Updated At | Links |
+| :---| :-----| :----| :---------| :----|
+{% for r in rows %}
+| {{ loop.index }} | {{ r.title }} | {{ r.year }} | {{ r.updated_at }} | [SeaDex]({{ r.seadex_url }}), [AniList]({{ r.anilist_url }}) |
+{% endfor %}
+{% else %}
+*No entries match this criterion.*
+{% endif %}

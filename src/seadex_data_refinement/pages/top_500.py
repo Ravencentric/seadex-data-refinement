@@ -1,0 +1,35 @@
+from __future__ import annotations
+
+from dataclasses import dataclass
+from pathlib import Path
+
+from pyanilist import Media
+from seadex import EntryRecord
+
+from .. import anilist, fetch
+from ..render import render_page
+
+_TOP_MISSING_COUNT = 500
+
+
+@dataclass(frozen=True, slots=True)
+class MissingRow:
+    seadex_url: str
+    anilist_url: str
+    title: str
+    year: str
+
+
+def build(out: Path, snapshot: tuple[EntryRecord, ...], anilist_map: dict[int, Media]) -> None:
+    seadex_ids = fetch.seadex_anilist_ids()
+    top_media = anilist.top_missing(seadex_ids, _TOP_MISSING_COUNT)
+    rows = tuple(
+        MissingRow(
+            seadex_url=f"https://releases.moe/{media.id}/",
+            anilist_url=f"https://anilist.co/anime/{media.id}",
+            title=media.title.to_str(),
+            year=str(media.start_date.year) if media.start_date and media.start_date.year else "-",
+        )
+        for media in sorted(top_media, key=lambda m: m.popularity or 0, reverse=True)
+    )
+    render_page(Path(__file__), out / "top-500.md", rows=rows)

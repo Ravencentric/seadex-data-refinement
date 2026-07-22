@@ -1,0 +1,20 @@
+# Leaderboards
+
+These rankings are NOT 100% accurate, but they likely are as realistic as (reasonably) possible.
+
+The definition of an entry (or a "complete" torrent) is quite murky. SeaDex defines it as an AniList entry, but every private tracker has their own definition (typically, they follow AniDB or TVDB), while Nyaa does not enforce a specific definition. Every release can quite possibly have slightly different torrents across trackers, or a single torrent on Nyaa can include several SeaDex entries. A Nyaa torrent might contain an entire franchise, but only a single file out of it might be relevant.
+
+All of this and more means that we need to settle on a method for calculating these rankings. For our purposes, an entry is defined by SeaDex, which in turn follows AniList's definition. We iterate through every entry in SeaDex and consider a group only once per entry. As a result, these leaderboards reflect how many AniList entries a group covers rather than the number of torrents they have.
+
+> This leaderboard is just for fun! Please don't take these rankings too seriously. We appreciate all the hard work that every release group puts into making releases.
+
+{% for bucket in buckets %}
+## Top 25 - {{ bucket.label }}
+
+| Rank | Group | Count |
+| :----| :-----| :-----|
+{% for row in bucket.rows[:25] %}
+| {{ row.rank }} | {{ row.groups[:5] | join(" / ") }}{% if row.groups | length > 5 %} & Others{% endif %} | {{ row.count }} |
+{% endfor %}
+
+{% endfor %}

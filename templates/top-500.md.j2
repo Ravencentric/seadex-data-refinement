@@ -1,0 +1,13 @@
+# Top 500
+
+Top 500 AniList entries that aren't yet on SeaDex. If you'd like to see any of these added, your comparison submissions are needed. The [tutorial](https://thewiki.moe/tutorials/comparison/) provides a step-by-step guide. Once you've made your comparisons, please share them in the `#comparisons` channel on [Discord](https://discord.com/invite/jPeeZewWRn).
+
+{% if rows %}
+| Idx | Title | Year | Links |
+| :---| :-----| :----| :----|
+{% for r in rows %}
+| {{ loop.index }} | {{ r.title }} | {{ r.year }} | [SeaDex]({{ r.seadex_url }}), [AniList]({{ r.anilist_url }}) |
+{% endfor %}
+{% else %}
+*No entries match this criterion.*
+{% endif %}
