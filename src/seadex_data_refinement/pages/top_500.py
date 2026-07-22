@@ -9,7 +9,7 @@ from seadex import EntryRecord
 from .. import anilist, fetch
 from ..render import render_page
 
-_TOP_MISSING_COUNT = 500
+_TOP_MISSING_COUNT = 100
 
 
 @dataclass(frozen=True, slots=True)

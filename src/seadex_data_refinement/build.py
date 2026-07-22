@@ -5,7 +5,7 @@ from pathlib import Path
 from tqdm import tqdm
 
 from . import anilist, fetch
-from .pages import PAGES
+from .pages import pages
 from .render import render_template
 
 
@@ -13,6 +13,6 @@ def build(out: Path) -> None:
     out.mkdir(parents=True, exist_ok=True)
     snapshot = fetch.snapshot()
     anilist_map = anilist.enrich({e.anilist_id for e in snapshot})
-    for module in tqdm(PAGES, desc="Rendering", unit="page"):
+    for module in tqdm(pages(), desc="Rendering", unit="page"):
         module.build(out, snapshot, anilist_map)
     render_template("index.md.j2", out / "index.md")

@@ -1,43 +1,47 @@
 from __future__ import annotations
 
-from . import (
-    alt_missing_dual,
-    best_missing_dual,
-    broken_entries,
-    encode_best_entries,
-    leaderboards,
-    marked_incomplete,
-    missing_season_pack,
-    no_comparisons,
-    no_dub,
-    patch_required,
-    private_tracker_only_entries,
-    private_tracker_only_torrents,
-    public_non_nyaa,
-    public_tracker_only,
-    size_stats,
-    top_500,
-    unmuxed,
-)
+import importlib
+import importlib.resources
+import inspect
+from typing import TYPE_CHECKING, Final, Protocol, cast
 
-PAGES = (
-    unmuxed,
-    no_comparisons,
-    marked_incomplete,
-    public_non_nyaa,
-    private_tracker_only_entries,
-    private_tracker_only_torrents,
-    public_tracker_only,
-    best_missing_dual,
-    alt_missing_dual,
-    no_dub,
-    encode_best_entries,
-    patch_required,
-    broken_entries,
-    missing_season_pack,
-    top_500,
-    leaderboards,
-    size_stats,
-)
+if TYPE_CHECKING:
+    from pathlib import Path
 
-__all__ = ["PAGES"]
+    from pyanilist import Media
+    from seadex import EntryRecord
+
+
+class Page(Protocol):
+    @staticmethod
+    def build(out: Path, snapshot: tuple[EntryRecord, ...], anilist_map: dict[int, Media]) -> None: ...
+
+
+BUILDSIG: Final = inspect.signature(Page.build)
+
+
+def pages() -> tuple[Page, ...]:
+    loaded: list[Page] = []
+
+    for file in importlib.resources.files(__package__).iterdir():
+        if not file.is_file() or not file.name.endswith(".py") or file.name.startswith("_"):
+            continue
+
+        name = file.name.removesuffix(".py")
+        module = importlib.import_module(f".{name}", __package__)
+        buildfn = getattr(module, "build", None)
+
+        if not callable(buildfn):
+            msg = f"page module {name!r} must define a callable build()"
+            raise TypeError(msg)
+
+        if (sig := inspect.signature(buildfn)) != BUILDSIG:
+            msg = f"page module {name!r} has an invalid build() signature: expected {BUILDSIG}, got {sig}"
+            raise TypeError(msg)
+
+        loaded.append(cast(Page, module))
+
+    return tuple(loaded)
+
+
+__all__ = ["Page", "pages"]

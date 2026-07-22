@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import itertools
+import time
 from typing import Any
 
 import pyanilist
@@ -60,8 +61,9 @@ def enrich(ids: set[int]) -> dict[int, Media]:
     batches = list(itertools.batched(sorted(ids), 200))
     with AniList() as anilist:
         for batch in tqdm(batches, desc="AniList", unit="batch"):
-            for media in anilist.get_media_many(id_in=list(batch)):
+            for media in anilist.get_media_many(id_in=batch):
                 enriched[media.id] = media
+        time.sleep(1)
     return enriched
 
 
@@ -93,6 +95,7 @@ def dubbed_ids(ids: set[int]) -> frozenset[int]:
                 bar.update(1)
                 if page_info["hasNextPage"] or page <= 10:
                     page += 1
+                    time.sleep(1)
                 else:
                     return frozenset(dubbed)
 
