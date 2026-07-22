@@ -6,7 +6,10 @@ from typing import Any
 
 import pyanilist
 from pyanilist import AniList, Media, MediaSort, MediaStatus, MediaType
+from seadex import EntryRecord
 from tqdm import tqdm
+
+from .models import EnrichedEntry
 
 _DUB_INFO_QUERY = """
 query Media($page: Int, $ids: [Int]) {
@@ -56,15 +59,20 @@ query Media($page: Int, $ids: [Int]) {
 """
 
 
-def enrich(ids: set[int]) -> dict[int, Media]:
-    enriched: dict[int, Media] = {}
-    batches = list(itertools.batched(sorted(ids), 200))
+def enrich(records: tuple[EntryRecord, ...]) -> tuple[EnrichedEntry, ...]:
+    by_id = {record.anilist_id: record for record in records}
+    found: list[EnrichedEntry] = []
+    batches = list(itertools.batched(sorted(by_id), 200))
     with AniList() as anilist:
         for batch in tqdm(batches, desc="AniList", unit="batch"):
             for media in anilist.get_media_many(id_in=batch):
-                enriched[media.id] = media
+                found.append(EnrichedEntry(seadex=by_id[media.id], anilist=media))
         time.sleep(1)
-    return enriched
+    if len(found) != len(by_id):
+        missing = by_id.keys() - {entry.anilist.id for entry in found}
+        msg = f"AniList returned no media for IDs: {sorted(missing)}"
+        raise ValueError(msg)
+    return tuple(sorted(found, key=lambda entry: entry.anilist.id))
 
 
 def top_missing(seadex_ids: frozenset[int], count: int) -> tuple[Media, ...]:

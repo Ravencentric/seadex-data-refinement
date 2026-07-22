@@ -8,13 +8,12 @@ from typing import TYPE_CHECKING, Final, Protocol, cast
 if TYPE_CHECKING:
     from pathlib import Path
 
-    from pyanilist import Media
-    from seadex import EntryRecord
+    from ..models import EnrichedEntry
 
 
 class Page(Protocol):
     @staticmethod
-    def build(out: Path, snapshot: tuple[EntryRecord, ...], anilist_map: dict[int, Media]) -> None: ...
+    def build(out: Path, entries: tuple[EnrichedEntry, ...]) -> None: ...
 
 
 BUILDSIG: Final = inspect.signature(Page.build)

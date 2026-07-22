@@ -4,7 +4,9 @@ from collections import defaultdict
 from collections.abc import Callable, Iterable
 from dataclasses import dataclass
 
-from seadex import EntryRecord, TorrentRecord
+from seadex import TorrentRecord
+
+from .models import EnrichedEntry
 
 
 @dataclass(frozen=True, slots=True)
@@ -38,22 +40,22 @@ class GroupSizeRow:
     total_entries: int
 
 
-def leaderboards(snapshot: tuple[EntryRecord, ...]) -> tuple[LeaderBucket, ...]:
+def leaderboards(entries: tuple[EnrichedEntry, ...]) -> tuple[LeaderBucket, ...]:
     return (
-        _leaderboard_bucket("Total entries", snapshot, _count_total),
-        _leaderboard_bucket("Best dual audio entries", snapshot, _count_best_dual),
-        _leaderboard_bucket("Best entries", snapshot, _count_best),
-        _leaderboard_bucket("Alt entries", snapshot, _count_alt),
+        _leaderboard_bucket("Total entries", entries, _count_total),
+        _leaderboard_bucket("Best dual audio entries", entries, _count_best_dual),
+        _leaderboard_bucket("Best entries", entries, _count_best),
+        _leaderboard_bucket("Alt entries", entries, _count_alt),
     )
 
 
 def _leaderboard_bucket(
     label: str,
-    snapshot: tuple[EntryRecord, ...],
-    counter: Callable[[EntryRecord], set[str]],
+    entries: tuple[EnrichedEntry, ...],
+    counter: Callable[[EnrichedEntry], set[str]],
 ) -> LeaderBucket:
     counts: dict[str, int] = defaultdict(int)
-    for entry in snapshot:
+    for entry in entries:
         for group in counter(entry):
             counts[group] += 1
 
@@ -69,58 +71,58 @@ def _leaderboard_bucket(
     return LeaderBucket(label=label, rows=rows)
 
 
-def _count_total(entry: EntryRecord) -> set[str]:
-    return {t.release_group for t in entry.torrents}
+def _count_total(entry: EnrichedEntry) -> set[str]:
+    return {t.release_group for t in entry.seadex.torrents}
 
 
-def _count_best_dual(entry: EntryRecord) -> set[str]:
-    return {t.release_group for t in entry.torrents if t.is_best and t.is_dual_audio}
+def _count_best_dual(entry: EnrichedEntry) -> set[str]:
+    return {t.release_group for t in entry.seadex.torrents if t.is_best and t.is_dual_audio}
 
 
-def _count_best(entry: EntryRecord) -> set[str]:
-    return {t.release_group for t in entry.torrents if t.is_best}
+def _count_best(entry: EnrichedEntry) -> set[str]:
+    return {t.release_group for t in entry.seadex.torrents if t.is_best}
 
 
-def _count_alt(entry: EntryRecord) -> set[str]:
-    return {t.release_group for t in entry.torrents if not t.is_best}
+def _count_alt(entry: EnrichedEntry) -> set[str]:
+    return {t.release_group for t in entry.seadex.torrents if not t.is_best}
 
 
-def size_stats(snapshot: tuple[EntryRecord, ...]) -> SizeStats:
-    filtered = _filter_torrents(snapshot)
+def size_stats(entries: tuple[EnrichedEntry, ...]) -> SizeStats:
+    filtered = _filter_torrents(entries)
     total = sum(t.size for t in filtered)
     best = sum(t.size for t in filtered if t.is_best)
     alt = total - best
-    realistic = _realistic_size(snapshot)
+    realistic = _realistic_size(entries)
     return SizeStats(
         total=total,
         best=best,
         alt=alt,
         realistic=realistic,
-        groups=_by_group(snapshot, filtered),
+        groups=_by_group(entries, filtered),
     )
 
 
-def _filter_torrents(snapshot: tuple[EntryRecord, ...]) -> tuple[TorrentRecord, ...]:
+def _filter_torrents(entries: tuple[EnrichedEntry, ...]) -> tuple[TorrentRecord, ...]:
     trs: set[TorrentRecord] = set()
-    for entry in snapshot:
-        groups = {t.release_group for t in entry.torrents}
+    for entry in entries:
+        groups = {t.release_group for t in entry.seadex.torrents}
         for group in groups:
-            filtered = [t for t in entry.torrents if t.release_group == group and t.tracker.is_private()] or [
-                t for t in entry.torrents if t.release_group == group
+            filtered = [t for t in entry.seadex.torrents if t.release_group == group and t.tracker.is_private()] or [
+                t for t in entry.seadex.torrents if t.release_group == group
             ]
             trs.update(filtered)
     return tuple(trs)
 
 
-def _realistic_size(snapshot: tuple[EntryRecord, ...]) -> int:
+def _realistic_size(entries: tuple[EnrichedEntry, ...]) -> int:
     torrents: set[TorrentRecord] = set()
-    for entry in snapshot:
+    for entry in entries:
         filtered = (
-            [t for t in entry.torrents if t.is_best and t.is_dual_audio and t.tracker.is_private()]
-            or [t for t in entry.torrents if t.is_best and t.is_dual_audio]
-            or [t for t in entry.torrents if t.is_best and t.tracker.is_private()]
-            or [t for t in entry.torrents if t.is_best]
-            or list(entry.torrents)
+            [t for t in entry.seadex.torrents if t.is_best and t.is_dual_audio and t.tracker.is_private()]
+            or [t for t in entry.seadex.torrents if t.is_best and t.is_dual_audio]
+            or [t for t in entry.seadex.torrents if t.is_best and t.tracker.is_private()]
+            or [t for t in entry.seadex.torrents if t.is_best]
+            or list(entry.seadex.torrents)
         )
         for torrent in filtered:
             torrents.add(torrent)
@@ -128,12 +130,12 @@ def _realistic_size(snapshot: tuple[EntryRecord, ...]) -> int:
     return sum(t.size for t in torrents)
 
 
-def _by_group(snapshot: tuple[EntryRecord, ...], filtered: Iterable[TorrentRecord]) -> tuple[GroupSizeRow, ...]:
+def _by_group(entries: tuple[EnrichedEntry, ...], filtered: Iterable[TorrentRecord]) -> tuple[GroupSizeRow, ...]:
     data: dict[str, dict[str, int]] = defaultdict(lambda: {"total_size": 0, "best_size": 0, "total_entries": 0})
 
-    for entry in snapshot:
-        best_groups = list({t.release_group for t in entry.torrents if t.is_best})
-        alt_groups = list({t.release_group for t in entry.torrents if not t.is_best})
+    for entry in entries:
+        best_groups = list({t.release_group for t in entry.seadex.torrents if t.is_best})
+        alt_groups = list({t.release_group for t in entry.seadex.torrents if not t.is_best})
         for group in best_groups + alt_groups:
             data[group]["total_entries"] += 1
 

@@ -3,10 +3,8 @@ from __future__ import annotations
 from dataclasses import dataclass
 from pathlib import Path
 
-from pyanilist import Media
-from seadex import EntryRecord
-
 from .. import anilist, fetch
+from ..models import EnrichedEntry
 from ..render import render_page
 
 _TOP_MISSING_COUNT = 100
@@ -20,7 +18,7 @@ class MissingRow:
     year: str
 
 
-def build(out: Path, snapshot: tuple[EntryRecord, ...], anilist_map: dict[int, Media]) -> None:
+def build(out: Path, entries: tuple[EnrichedEntry, ...]) -> None:
     seadex_ids = fetch.seadex_anilist_ids()
     top_media = anilist.top_missing(seadex_ids, _TOP_MISSING_COUNT)
     rows = tuple(
