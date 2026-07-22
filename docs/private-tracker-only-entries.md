@@ -14,6 +14,6 @@
 | 11  | Murder Princess                             | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
 | 12  | Overlord: Ple Ple Pleiades 4                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
 | 13  | Mazinger Edition Z: The Impact!             | 2009 | 12 Jul 2026 | [SeaDex](https://releases.moe/5485/), [AniList](https://anilist.co/anime/5485)     |
-| 14  | Suna no Bara: Yuki no Mokushiroku           | 1993 | 11 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 14  | Suna no Bara: Yuki no Mokushiroku           | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
 | 15  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
 | 16  | Ninja Robots Tobikage                       | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |

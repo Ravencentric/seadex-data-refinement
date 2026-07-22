@@ -14,9 +14,10 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 7   | Higurashi: When They Cry - SOTSU     | 2021 | 12 Jul 2026 | [SeaDex](https://releases.moe/131149/), [AniList](https://anilist.co/anime/131149) |
 | 8   | Anonymous Noise                      | 2017 | 17 Jul 2026 | [SeaDex](https://releases.moe/21773/), [AniList](https://anilist.co/anime/21773)   |
 | 9   | Welcome to the Outcast's Restaurant! | 2025 | 13 Jul 2026 | [SeaDex](https://releases.moe/185544/), [AniList](https://anilist.co/anime/185544) |
-| 10  | Mobile Suit Gundam: The 08th MS Team | 1996 | 12 Jul 2026 | [SeaDex](https://releases.moe/81/), [AniList](https://anilist.co/anime/81)         |
-| 11  | Wash It All Away                     | 2026 | 05 Jul 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
-| 12  | I Want to Deliver Your Voice         | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
-| 13  | Majestic Prince                      | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 14  | Shagahai ReLIFE Kenkyuujo Support-ka | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 15  | Suna no Bara: Yuki no Mokushiroku    | 1993 | 11 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 10  | Maison Ikkoku                        | 1986 | 21 Jul 2026 | [SeaDex](https://releases.moe/1453/), [AniList](https://anilist.co/anime/1453)     |
+| 11  | Mobile Suit Gundam: The 08th MS Team | 1996 | 12 Jul 2026 | [SeaDex](https://releases.moe/81/), [AniList](https://anilist.co/anime/81)         |
+| 12  | Wash It All Away                     | 2026 | 05 Jul 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
+| 13  | I Want to Deliver Your Voice         | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 14  | Majestic Prince                      | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
+| 15  | Shagahai ReLIFE Kenkyuujo Support-ka | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 16  | Suna no Bara: Yuki no Mokushiroku    | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
