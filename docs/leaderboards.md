@@ -95,7 +95,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LaCroiX / LazyRemux             | 20    |
 | 20   | Kawatare / nekotan              | 19    |
 | 21   | Arid / koala                    | 18    |
-| 22   | Flugel                          | 17    |
+| 22   | Flugel / Reza                   | 17    |
 | 23   | Drag / ZeroBuild                | 16    |
 | 24   | NOGRP / Vodes                   | 15    |
 | 25   | Beatrice                        | 13    |
