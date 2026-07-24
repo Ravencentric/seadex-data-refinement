@@ -39,7 +39,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
 | 19   | SubsPlease       | 1.3 TiB    | 192.6 GiB (14.83%)  | 75 (~17.3 GiB each)   |
-| 20   | nekotan          | 1.1 TiB    | 940.2 GiB (80.07%)  | 32 (~36.7 GiB each)   |
+| 20   | nekotan          | 1.2 TiB    | 943.6 GiB (80.13%)  | 33 (~35.7 GiB each)   |
 | 21   | YURASUKA         | 1.1 TiB    | 439.1 GiB (38.20%)  | 97 (~11.9 GiB each)   |
 | 22   | Sylvar           | 1.1 TiB    | 1.0 TiB (93.65%)    | 13 (~86.3 GiB each)   |
 | 23   | FLE              | 1.1 TiB    | 1022.7 GiB (93.72%) | 28 (~39.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | VARYG            | 569.9 GiB  | 51.6 GiB (9.05%)    | 35 (~16.3 GiB each)   |
 | 49   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 50   | Others           | 47.0 TiB   | 25.1 TiB (53.42%)   | 2038 (~23.6 GiB each) |
+| 50   | Others           | 47.0 TiB   | 25.1 TiB (53.42%)   | 2037 (~23.6 GiB each) |

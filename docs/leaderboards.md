@@ -92,11 +92,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | FLE                             | 25    |
 | 17   | Mehul                           | 23    |
 | 18   | Lulu                            | 21    |
-| 19   | LaCroiX / LazyRemux             | 20    |
-| 20   | Kawatare / nekotan              | 19    |
+| 19   | LaCroiX / LazyRemux / nekotan   | 20    |
+| 20   | Kawatare                        | 19    |
 | 21   | Arid / koala                    | 18    |
-| 22   | Flugel / Reza                   | 17    |
-| 23   | Drag / ZeroBuild                | 16    |
+| 22   | Flugel                          | 17    |
+| 23   | Drag / Reza / ZeroBuild         | 16    |
 | 24   | NOGRP / Vodes                   | 15    |
 | 25   | Beatrice                        | 13    |
 

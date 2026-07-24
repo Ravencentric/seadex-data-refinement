@@ -77,8 +77,8 @@
 | 74  | Soul Eater Not!                                                                      | 2014 | 15 Nov 2023 | [SeaDex](https://releases.moe/20547/), [AniList](https://anilist.co/anime/20547)   |
 | 75  | Now and Then, Here and There                                                         | 1999 | 02 Aug 2025 | [SeaDex](https://releases.moe/160/), [AniList](https://anilist.co/anime/160)       |
 | 76  | Umineko: When They Cry                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/4896/), [AniList](https://anilist.co/anime/4896)     |
-| 77  | Spice and Wolf II: Wolf and the Amber Melancholy                                     | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
-| 78  | Gunslinger Girl                                                                      | 2003 | 06 Jul 2024 | [SeaDex](https://releases.moe/134/), [AniList](https://anilist.co/anime/134)       |
+| 77  | Gunslinger Girl                                                                      | 2003 | 06 Jul 2024 | [SeaDex](https://releases.moe/134/), [AniList](https://anilist.co/anime/134)       |
+| 78  | Spice and Wolf II: Wolf and the Amber Melancholy                                     | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
 | 79  | High School DxD NEW OVA Oppai, Tsutsumimasu!                                         | 2015 | 14 Feb 2026 | [SeaDex](https://releases.moe/21103/), [AniList](https://anilist.co/anime/21103)   |
 | 80  | True Tears                                                                           | 2008 | 14 Nov 2024 | [SeaDex](https://releases.moe/2129/), [AniList](https://anilist.co/anime/2129)     |
 | 81  | GJ Club                                                                              | 2013 | 03 Jul 2024 | [SeaDex](https://releases.moe/14811/), [AniList](https://anilist.co/anime/14811)   |
