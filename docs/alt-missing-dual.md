@@ -59,8 +59,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 52  | Cells at Work!!                                                                            | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 53  | NANBAKA                                                                                    | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
 | 54  | Love After World Domination                                                                | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
-| 55  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!           | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
-| 56  | Clevatess                                                                                  | 2025 | 05 Feb 2026 | [SeaDex](https://releases.moe/178869/), [AniList](https://anilist.co/anime/178869) |
+| 55  | Clevatess                                                                                  | 2025 | 05 Feb 2026 | [SeaDex](https://releases.moe/178869/), [AniList](https://anilist.co/anime/178869) |
+| 56  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!           | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
 | 57  | Revolutionary Girl Utena                                                                   | 1997 | 12 May 2026 | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
 | 58  | Brynhildr in the Darkness                                                                  | 2014 | 02 May 2026 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
 | 59  | My Instant Death Ability is Overpowered                                                    | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
