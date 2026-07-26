@@ -55,8 +55,8 @@
 | 52  | Gankutsuou: The Count of Monte Cristo                                                | 2004 | 02 Jul 2024 | [SeaDex](https://releases.moe/239/), [AniList](https://anilist.co/anime/239)       |
 | 53  | Honey and Clover                                                                     | 2005 | 02 Aug 2025 | [SeaDex](https://releases.moe/16/), [AniList](https://anilist.co/anime/16)         |
 | 54  | Gintama.: Silver Soul Arc - Second Half War                                          | 2018 | 30 Aug 2025 | [SeaDex](https://releases.moe/101925/), [AniList](https://anilist.co/anime/101925) |
-| 55  | My Hero Academia: Make It! Do-or-Die Survival Training                               | 2020 | 04 Jan 2024 | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
-| 56  | Kino's Journey -the Beautiful World- the Animated Series                             | 2017 | 16 Jul 2024 | [SeaDex](https://releases.moe/98448/), [AniList](https://anilist.co/anime/98448)   |
+| 55  | Kino's Journey -the Beautiful World- the Animated Series                             | 2017 | 16 Jul 2024 | [SeaDex](https://releases.moe/98448/), [AniList](https://anilist.co/anime/98448)   |
+| 56  | My Hero Academia: Make It! Do-or-Die Survival Training                               | 2020 | 04 Jan 2024 | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
 | 57  | Food Wars! The Second Plate OVA                                                      | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |
 | 58  | Pokémon Origins                                                                      | 2013 | 26 Dec 2023 | [SeaDex](https://releases.moe/20159/), [AniList](https://anilist.co/anime/20159)   |
 | 59  | Gintama.: Slip Arc                                                                   | 2017 | 30 Aug 2025 | [SeaDex](https://releases.moe/99714/), [AniList](https://anilist.co/anime/99714)   |
