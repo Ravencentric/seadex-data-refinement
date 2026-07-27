@@ -55,8 +55,8 @@
 | 52  | Gankutsuou: The Count of Monte Cristo                                                | 2004 | 02 Jul 2024 | [SeaDex](https://releases.moe/239/), [AniList](https://anilist.co/anime/239)       |
 | 53  | Honey and Clover                                                                     | 2005 | 02 Aug 2025 | [SeaDex](https://releases.moe/16/), [AniList](https://anilist.co/anime/16)         |
 | 54  | Gintama.: Silver Soul Arc - Second Half War                                          | 2018 | 30 Aug 2025 | [SeaDex](https://releases.moe/101925/), [AniList](https://anilist.co/anime/101925) |
-| 55  | Kino's Journey -the Beautiful World- the Animated Series                             | 2017 | 16 Jul 2024 | [SeaDex](https://releases.moe/98448/), [AniList](https://anilist.co/anime/98448)   |
-| 56  | My Hero Academia: Make It! Do-or-Die Survival Training                               | 2020 | 04 Jan 2024 | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
+| 55  | My Hero Academia: Make It! Do-or-Die Survival Training                               | 2020 | 04 Jan 2024 | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
+| 56  | Kino's Journey -the Beautiful World- the Animated Series                             | 2017 | 16 Jul 2024 | [SeaDex](https://releases.moe/98448/), [AniList](https://anilist.co/anime/98448)   |
 | 57  | Food Wars! The Second Plate OVA                                                      | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |
 | 58  | Pokémon Origins                                                                      | 2013 | 26 Dec 2023 | [SeaDex](https://releases.moe/20159/), [AniList](https://anilist.co/anime/20159)   |
 | 59  | Gintama.: Slip Arc                                                                   | 2017 | 30 Aug 2025 | [SeaDex](https://releases.moe/99714/), [AniList](https://anilist.co/anime/99714)   |
@@ -201,8 +201,8 @@
 | 198 | Angel of Legend                                                                      | 1996 | 27 Nov 2024 | [SeaDex](https://releases.moe/5251/), [AniList](https://anilist.co/anime/5251)     |
 | 199 | Tenkuu Danzai Skelter Heaven                                                         | 2004 | 13 Jul 2025 | [SeaDex](https://releases.moe/3287/), [AniList](https://anilist.co/anime/3287)     |
 | 200 | Senyuu. 2                                                                            | 2013 | 15 Nov 2023 | [SeaDex](https://releases.moe/18523/), [AniList](https://anilist.co/anime/18523)   |
-| 201 | Otaku no Video                                                                       | 1991 | 30 Dec 2023 | [SeaDex](https://releases.moe/785/), [AniList](https://anilist.co/anime/785)       |
-| 202 | Girls und Panzer das Finale - Part 3                                                 | 2021 | 08 Jun 2025 | [SeaDex](https://releases.moe/124115/), [AniList](https://anilist.co/anime/124115) |
+| 201 | Girls und Panzer das Finale - Part 3                                                 | 2021 | 08 Jun 2025 | [SeaDex](https://releases.moe/124115/), [AniList](https://anilist.co/anime/124115) |
+| 202 | Otaku no Video                                                                       | 1991 | 30 Dec 2023 | [SeaDex](https://releases.moe/785/), [AniList](https://anilist.co/anime/785)       |
 | 203 | Overlord: Ple Ple Pleiades 2                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/101083/), [AniList](https://anilist.co/anime/101083) |
 | 204 | Jyu-Oh-Sei: Planet of the Beast King                                                 | 2006 | 07 Jun 2025 | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
 | 205 | Natsume Yuujinchou Roku Tokubetsu-hen                                                | 2017 | 02 Oct 2024 | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
@@ -299,8 +299,8 @@
 | 296 | Kamichu! OVA                                                                         | 2005 | 14 Jul 2024 | [SeaDex](https://releases.moe/3449/), [AniList](https://anilist.co/anime/3449)     |
 | 297 | Tetsujin 28                                                                          | 2004 | 14 Nov 2024 | [SeaDex](https://releases.moe/2337/), [AniList](https://anilist.co/anime/2337)     |
 | 298 | Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!! Special                       | 2011 | 30 Dec 2023 | [SeaDex](https://releases.moe/10219/), [AniList](https://anilist.co/anime/10219)   |
-| 299 | Hidamari no Ki                                                                       | 2000 | 09 Jul 2024 | [SeaDex](https://releases.moe/2694/), [AniList](https://anilist.co/anime/2694)     |
-| 300 | Princess Principal Picture Drama                                                     | 2017 | 16 Dec 2023 | [SeaDex](https://releases.moe/100519/), [AniList](https://anilist.co/anime/100519) |
+| 299 | Princess Principal Picture Drama                                                     | 2017 | 16 Dec 2023 | [SeaDex](https://releases.moe/100519/), [AniList](https://anilist.co/anime/100519) |
+| 300 | Hidamari no Ki                                                                       | 2000 | 09 Jul 2024 | [SeaDex](https://releases.moe/2694/), [AniList](https://anilist.co/anime/2694)     |
 | 301 | Genesis Climber Mospeada                                                             | 1983 | 08 Jun 2025 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
 | 302 | Twin Spica                                                                           | 2003 | 27 Nov 2024 | [SeaDex](https://releases.moe/344/), [AniList](https://anilist.co/anime/344)       |
 | 303 | Bakuon!! OVA                                                                         | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21441/), [AniList](https://anilist.co/anime/21441)   |
