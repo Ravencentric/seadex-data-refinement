@@ -5,15 +5,15 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                            | Year | Updated At  | Links                                                                              |
 | :---| :--------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                    | 2007 | 24 Jul 2026 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
-| 2   | Princess Mononoke                                                                | 1997 | 21 Jul 2026 | [SeaDex](https://releases.moe/164/), [AniList](https://anilist.co/anime/164)       |
-| 3   | Hell’s Paradise Season 2                                                         | 2026 | 20 Jul 2026 | [SeaDex](https://releases.moe/166613/), [AniList](https://anilist.co/anime/166613) |
-| 4   | Private Tutor to the Duke's Daughter                                             | 2025 | 18 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
-| 5   | Lupin the 3rd                                                                    | 1971 | 17 Jul 2026 | [SeaDex](https://releases.moe/1412/), [AniList](https://anilist.co/anime/1412)     |
-| 6   | Blue Box                                                                         | 2024 | 16 Jul 2026 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
-| 7   | Mankatsu                                                                         | 2004 | 16 Jul 2026 | [SeaDex](https://releases.moe/5343/), [AniList](https://anilist.co/anime/5343)     |
-| 8   | The Dangers in My Heart Special                                                  | 2023 | 15 Jul 2026 | [SeaDex](https://releases.moe/170221/), [AniList](https://anilist.co/anime/170221) |
-| 9   | Dragon Ball                                                                      | 1986 | 13 Jul 2026 | [SeaDex](https://releases.moe/223/), [AniList](https://anilist.co/anime/223)       |
+| 1   | Dragon Ball                                                                      | 1986 | 27 Jul 2026 | [SeaDex](https://releases.moe/223/), [AniList](https://anilist.co/anime/223)       |
+| 2   | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                    | 2007 | 24 Jul 2026 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
+| 3   | Princess Mononoke                                                                | 1997 | 21 Jul 2026 | [SeaDex](https://releases.moe/164/), [AniList](https://anilist.co/anime/164)       |
+| 4   | Hell’s Paradise Season 2                                                         | 2026 | 20 Jul 2026 | [SeaDex](https://releases.moe/166613/), [AniList](https://anilist.co/anime/166613) |
+| 5   | Private Tutor to the Duke's Daughter                                             | 2025 | 18 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
+| 6   | Lupin the 3rd                                                                    | 1971 | 17 Jul 2026 | [SeaDex](https://releases.moe/1412/), [AniList](https://anilist.co/anime/1412)     |
+| 7   | Blue Box                                                                         | 2024 | 16 Jul 2026 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 8   | Mankatsu                                                                         | 2004 | 16 Jul 2026 | [SeaDex](https://releases.moe/5343/), [AniList](https://anilist.co/anime/5343)     |
+| 9   | The Dangers in My Heart Special                                                  | 2023 | 15 Jul 2026 | [SeaDex](https://releases.moe/170221/), [AniList](https://anilist.co/anime/170221) |
 | 10  | The Fruit of Grisaia                                                             | 2014 | 10 Jul 2026 | [SeaDex](https://releases.moe/17729/), [AniList](https://anilist.co/anime/17729)   |
 | 11  | Waiting in the Summer OVA                                                        | 2014 | 10 Jul 2026 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
 | 12  | Waiting in the Summer                                                            | 2012 | 10 Jul 2026 | [SeaDex](https://releases.moe/11433/), [AniList](https://anilist.co/anime/11433)   |
