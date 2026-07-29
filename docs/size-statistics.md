@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 9.5 TiB    | 9.5 TiB (100.00%)   | 130 (~74.8 GiB each)  |
 | 3    | NAN0             | 8.7 TiB    | 8.6 TiB (98.70%)    | 116 (~76.8 GiB each)  |
 | 4    | hchcsen          | 8.5 TiB    | 7.2 TiB (85.09%)    | 111 (~78.4 GiB each)  |
-| 5    | Headpatter       | 5.2 TiB    | 3.9 TiB (75.03%)    | 175 (~30.4 GiB each)  |
+| 5    | Headpatter       | 5.3 TiB    | 3.9 TiB (73.75%)    | 179 (~30.4 GiB each)  |
 | 6    | sam              | 4.0 TiB    | 3.8 TiB (93.45%)    | 136 (~30.2 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
 | 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 40 (~80.5 GiB each)   |
@@ -53,12 +53,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 31   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
 | 32   | Vodes            | 851.4 GiB  | 557.9 GiB (65.53%)  | 19 (~44.8 GiB each)   |
 | 33   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 34   | Erai-raws        | 839.3 GiB  | 116.5 GiB (13.89%)  | 48 (~17.5 GiB each)   |
+| 34   | Erai-raws        | 823.0 GiB  | 116.5 GiB (14.16%)  | 47 (~17.5 GiB each)   |
 | 35   | YURI             | 820.1 GiB  | 360.7 GiB (43.98%)  | 69 (~11.9 GiB each)   |
 | 36   | Kawatare         | 818.6 GiB  | 700.0 GiB (85.51%)  | 26 (~31.5 GiB each)   |
 | 37   | ZeroBuild        | 805.2 GiB  | 756.2 GiB (93.92%)  | 18 (~44.7 GiB each)   |
 | 38   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
-| 39   | LostYears        | 712.4 GiB  | 189.9 GiB (26.66%)  | 42 (~17.0 GiB each)   |
+| 39   | LostYears        | 709.4 GiB  | 189.9 GiB (26.77%)  | 41 (~17.3 GiB each)   |
 | 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
 | 41   | Bunny-Apocalypse | 664.1 GiB  | 161.0 GiB (24.24%)  | 32 (~20.8 GiB each)   |
 | 42   | Crash            | 653.9 GiB  | 653.9 GiB (100.00%) | 3 (~218.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | VARYG            | 569.5 GiB  | 51.6 GiB (9.06%)    | 35 (~16.3 GiB each)   |
 | 49   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 50   | Others           | 47.0 TiB   | 25.1 TiB (53.43%)   | 2039 (~23.6 GiB each) |
+| 50   | Others           | 46.9 TiB   | 25.1 TiB (53.48%)   | 2037 (~23.6 GiB each) |

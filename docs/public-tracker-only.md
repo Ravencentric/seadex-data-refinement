@@ -5,11 +5,11 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                            | Year | Updated At  | Links                                                                              |
 | :---| :--------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Dragon Ball                                                                      | 1986 | 27 Jul 2026 | [SeaDex](https://releases.moe/223/), [AniList](https://anilist.co/anime/223)       |
-| 2   | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                    | 2007 | 24 Jul 2026 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
-| 3   | Princess Mononoke                                                                | 1997 | 21 Jul 2026 | [SeaDex](https://releases.moe/164/), [AniList](https://anilist.co/anime/164)       |
-| 4   | Hell’s Paradise Season 2                                                         | 2026 | 20 Jul 2026 | [SeaDex](https://releases.moe/166613/), [AniList](https://anilist.co/anime/166613) |
-| 5   | Private Tutor to the Duke's Daughter                                             | 2025 | 18 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
+| 1   | Demon Slayer: Kimetsu no Yaiba Infinity Castle                                   | 2025 | 28 Jul 2026 | [SeaDex](https://releases.moe/178788/), [AniList](https://anilist.co/anime/178788) |
+| 2   | Dragon Ball                                                                      | 1986 | 27 Jul 2026 | [SeaDex](https://releases.moe/223/), [AniList](https://anilist.co/anime/223)       |
+| 3   | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                    | 2007 | 24 Jul 2026 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
+| 4   | Princess Mononoke                                                                | 1997 | 21 Jul 2026 | [SeaDex](https://releases.moe/164/), [AniList](https://anilist.co/anime/164)       |
+| 5   | Hell’s Paradise Season 2                                                         | 2026 | 20 Jul 2026 | [SeaDex](https://releases.moe/166613/), [AniList](https://anilist.co/anime/166613) |
 | 6   | Lupin the 3rd                                                                    | 1971 | 17 Jul 2026 | [SeaDex](https://releases.moe/1412/), [AniList](https://anilist.co/anime/1412)     |
 | 7   | Blue Box                                                                         | 2024 | 16 Jul 2026 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
 | 8   | Mankatsu                                                                         | 2004 | 16 Jul 2026 | [SeaDex](https://releases.moe/5343/), [AniList](https://anilist.co/anime/5343)     |

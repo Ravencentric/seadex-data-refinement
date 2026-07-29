@@ -9,13 +9,15 @@
 | 6   | Scarlet Nexus                                         | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 7   | Anonymous Noise                                       | 2017 | 17 Jul 2026 | [SeaDex](https://releases.moe/21773/), [AniList](https://anilist.co/anime/21773)   |
 | 8   | The Qwaser of Stigmata II                             | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
-| 9   | Mobile Suit Gundam: The 08th MS Team                  | 1996 | 12 Jul 2026 | [SeaDex](https://releases.moe/81/), [AniList](https://anilist.co/anime/81)         |
-| 10  | Day Break Illusion                                    | 2013 | 13 Jul 2026 | [SeaDex](https://releases.moe/17651/), [AniList](https://anilist.co/anime/17651)   |
-| 11  | Majestic Prince                                       | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 12  | Shagahai ReLIFE Kenkyuujo Support-ka                  | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 13  | Murder Princess                                       | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
-| 14  | Overlord: Ple Ple Pleiades 4                          | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 15  | Mazinger Edition Z: The Impact!                       | 2009 | 12 Jul 2026 | [SeaDex](https://releases.moe/5485/), [AniList](https://anilist.co/anime/5485)     |
-| 16  | Suna no Bara: Yuki no Mokushiroku                     | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 17  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro           | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
-| 18  | Ninja Robots Tobikage                                 | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 9   | Private Tutor to the Duke's Daughter                  | 2025 | 29 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
+| 10  | Mobile Suit Gundam: The 08th MS Team                  | 1996 | 12 Jul 2026 | [SeaDex](https://releases.moe/81/), [AniList](https://anilist.co/anime/81)         |
+| 11  | Dear Brother                                          | 1991 | 29 Jul 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
+| 12  | Day Break Illusion                                    | 2013 | 13 Jul 2026 | [SeaDex](https://releases.moe/17651/), [AniList](https://anilist.co/anime/17651)   |
+| 13  | Majestic Prince                                       | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
+| 14  | Shagahai ReLIFE Kenkyuujo Support-ka                  | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 15  | Murder Princess                                       | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
+| 16  | Overlord: Ple Ple Pleiades 4                          | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 17  | Mazinger Edition Z: The Impact!                       | 2009 | 12 Jul 2026 | [SeaDex](https://releases.moe/5485/), [AniList](https://anilist.co/anime/5485)     |
+| 18  | Suna no Bara: Yuki no Mokushiroku                     | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 19  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro           | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
+| 20  | Ninja Robots Tobikage                                 | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
