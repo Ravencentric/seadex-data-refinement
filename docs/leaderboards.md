@@ -57,8 +57,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | smol                                             | 22    |
 | 12   | Moxie                                            | 21    |
 | 13   | Lulu                                             | 18    |
-| 14   | Flugel / LazyRemux                               | 17    |
-| 15   | PMR / ZeroBuild                                  | 16    |
+| 14   | Flugel / LazyRemux / ZeroBuild                   | 17    |
+| 15   | PMR                                              | 16    |
 | 16   | koala                                            | 15    |
 | 17   | YURI                                             | 14    |
 | 18   | Arid                                             | 13    |
@@ -66,39 +66,39 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | LostYears / Mehul                                | 11    |
 | 21   | DemiHuman                                        | 10    |
 | 22   | KH / LaCroiX / NTRX / SCY / hydes                | 9     |
-| 23   | Meakes / NOGRP / Sylvar / nekotan                | 8     |
-| 24   | IK / Kametsu / SubsMix                           | 7     |
+| 23   | Meakes / NOGRP / nekotan                         | 8     |
+| 24   | IK / Kametsu / SubsMix / Sylvar                  | 7     |
 | 25   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
 
 ## Top 25 - Best entries
 
-| Rank | Group                           | Count |
-| :----| :-------------------------------| :-----|
-| 🥇   | -ZR-                            | 149   |
-| 🥈   | CRUCiBLE                        | 130   |
-| 🥉   | sam                             | 127   |
-| 4    | NAN0                            | 114   |
-| 5    | Moxie                           | 99    |
-| 6    | Headpatter                      | 97    |
-| 7    | MTBB                            | 76    |
-| 8    | hchcsen                         | 72    |
-| 9    | smol                            | 55    |
-| 10   | PMR                             | 40    |
-| 11   | Okay-Subs / TTGA                | 38    |
-| 12   | YURASUKA                        | 35    |
-| 13   | GetItTwisted                    | 34    |
-| 14   | B00BA / LYS1TH3A                | 33    |
-| 15   | YURI                            | 31    |
-| 16   | Orphan                          | 26    |
-| 17   | FLE                             | 25    |
-| 18   | Mehul                           | 23    |
-| 19   | Lulu                            | 21    |
-| 20   | LaCroiX / LazyRemux / nekotan   | 20    |
-| 21   | Kawatare                        | 19    |
-| 22   | Arid / koala                    | 18    |
-| 23   | Flugel                          | 17    |
-| 24   | Drag / NOGRP / Reza / ZeroBuild | 16    |
-| 25   | Vodes                           | 15    |
+| Rank | Group                         | Count |
+| :----| :-----------------------------| :-----|
+| 🥇   | -ZR-                          | 149   |
+| 🥈   | CRUCiBLE                      | 130   |
+| 🥉   | sam                           | 127   |
+| 4    | NAN0                          | 114   |
+| 5    | Moxie                         | 99    |
+| 6    | Headpatter                    | 97    |
+| 7    | MTBB                          | 76    |
+| 8    | hchcsen                       | 72    |
+| 9    | smol                          | 55    |
+| 10   | PMR                           | 40    |
+| 11   | Okay-Subs / TTGA              | 38    |
+| 12   | YURASUKA                      | 35    |
+| 13   | GetItTwisted                  | 34    |
+| 14   | B00BA / LYS1TH3A              | 33    |
+| 15   | YURI                          | 31    |
+| 16   | Orphan                        | 26    |
+| 17   | FLE                           | 25    |
+| 18   | Mehul                         | 23    |
+| 19   | Lulu                          | 21    |
+| 20   | LaCroiX / LazyRemux / nekotan | 20    |
+| 21   | Kawatare                      | 19    |
+| 22   | Arid / koala                  | 18    |
+| 23   | Flugel / ZeroBuild            | 17    |
+| 24   | Drag / NOGRP / Reza           | 16    |
+| 25   | Vodes                         | 15    |
 
 ## Top 25 - Alt entries
 

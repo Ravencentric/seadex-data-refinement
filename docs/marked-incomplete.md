@@ -53,8 +53,8 @@
 | 50  | Shaman King                                                                          | 2001 | 25 Mar 2025 | [SeaDex](https://releases.moe/154/), [AniList](https://anilist.co/anime/154)       |
 | 51  | Gankutsuou: The Count of Monte Cristo                                                | 2004 | 02 Jul 2024 | [SeaDex](https://releases.moe/239/), [AniList](https://anilist.co/anime/239)       |
 | 52  | Honey and Clover                                                                     | 2005 | 02 Aug 2025 | [SeaDex](https://releases.moe/16/), [AniList](https://anilist.co/anime/16)         |
-| 53  | Kino's Journey -the Beautiful World- the Animated Series                             | 2017 | 16 Jul 2024 | [SeaDex](https://releases.moe/98448/), [AniList](https://anilist.co/anime/98448)   |
-| 54  | My Hero Academia: Make It! Do-or-Die Survival Training                               | 2020 | 04 Jan 2024 | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
+| 53  | My Hero Academia: Make It! Do-or-Die Survival Training                               | 2020 | 04 Jan 2024 | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
+| 54  | Kino's Journey -the Beautiful World- the Animated Series                             | 2017 | 16 Jul 2024 | [SeaDex](https://releases.moe/98448/), [AniList](https://anilist.co/anime/98448)   |
 | 55  | Food Wars! The Second Plate OVA                                                      | 2017 | 12 Apr 2026 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |
 | 56  | Pokémon Origins                                                                      | 2013 | 26 Dec 2023 | [SeaDex](https://releases.moe/20159/), [AniList](https://anilist.co/anime/20159)   |
 | 57  | Air                                                                                  | 2005 | 20 Apr 2026 | [SeaDex](https://releases.moe/101/), [AniList](https://anilist.co/anime/101)       |
@@ -225,8 +225,8 @@
 | 222 | The Master of Killing Time Specials                                                  | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20738/), [AniList](https://anilist.co/anime/20738)   |
 | 223 | Overlord: Ple Ple Pleiades 3                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/103209/), [AniList](https://anilist.co/anime/103209) |
 | 224 | IS: Infinite Stratos 2 - Infinite Wedding                                            | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 225 | Renkin San-kyuu Magical? Pokaan                                                      | 2006 | 17 Nov 2023 | [SeaDex](https://releases.moe/941/), [AniList](https://anilist.co/anime/941)       |
-| 226 | Megazone 23                                                                          | 1985 | 22 Jul 2024 | [SeaDex](https://releases.moe/1935/), [AniList](https://anilist.co/anime/1935)     |
+| 225 | Megazone 23                                                                          | 1985 | 22 Jul 2024 | [SeaDex](https://releases.moe/1935/), [AniList](https://anilist.co/anime/1935)     |
+| 226 | Renkin San-kyuu Magical? Pokaan                                                      | 2006 | 17 Nov 2023 | [SeaDex](https://releases.moe/941/), [AniList](https://anilist.co/anime/941)       |
 | 227 | Ronja, the Robber's Daughter                                                         | 2014 | 16 Nov 2023 | [SeaDex](https://releases.moe/20617/), [AniList](https://anilist.co/anime/20617)   |
 | 228 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://releases.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
 | 229 | ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes                                   | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/114981/), [AniList](https://anilist.co/anime/114981) |
