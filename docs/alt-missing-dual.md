@@ -115,7 +115,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 108 | Dungeon People                                                                             | 2024 | 02 Nov 2025 | [SeaDex](https://releases.moe/168345/), [AniList](https://anilist.co/anime/168345) |
 | 109 | Revue Starlight: The Movie                                                                 | 2021 | 09 Jul 2025 | [SeaDex](https://releases.moe/113024/), [AniList](https://anilist.co/anime/113024) |
 | 110 | Medalist Season 2                                                                          | 2026 | 31 May 2026 | [SeaDex](https://releases.moe/189275/), [AniList](https://anilist.co/anime/189275) |
-| 111 | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
+| 111 | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity | 2022 | 30 Jul 2026 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
 | 112 | FrFr! ~Free! short movie~                                                                  | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
 | 113 | Wanna be the Strongest in the World!                                                       | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
 | 114 | Future Boy Conan                                                                           | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |

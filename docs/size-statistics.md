@@ -10,7 +10,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 - Total size: `149.2 TiB`
 - Best size: `113.6 TiB`
-- Alt size: `35.5 TiB`
+- Alt size: `35.6 TiB`
 - Realistic size: `116.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -54,7 +54,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 32   | Vodes            | 851.4 GiB  | 557.9 GiB (65.53%)  | 19 (~44.8 GiB each)   |
 | 33   | ZeroBuild        | 850.1 GiB  | 801.2 GiB (94.24%)  | 19 (~44.7 GiB each)   |
 | 34   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 35   | Erai-raws        | 823.0 GiB  | 116.5 GiB (14.16%)  | 47 (~17.5 GiB each)   |
+| 35   | Erai-raws        | 840.4 GiB  | 116.5 GiB (13.87%)  | 48 (~17.5 GiB each)   |
 | 36   | YURI             | 820.1 GiB  | 360.7 GiB (43.98%)  | 69 (~11.9 GiB each)   |
 | 37   | Kawatare         | 818.6 GiB  | 700.0 GiB (85.51%)  | 26 (~31.5 GiB each)   |
 | 38   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | VARYG            | 569.5 GiB  | 51.6 GiB (9.06%)    | 35 (~16.3 GiB each)   |
 | 49   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 50   | Others           | 47.0 TiB   | 25.2 TiB (53.57%)   | 2038 (~23.6 GiB each) |
+| 50   | Others           | 47.0 TiB   | 25.2 TiB (53.51%)   | 2039 (~23.6 GiB each) |

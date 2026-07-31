@@ -72,39 +72,40 @@ An entry appears here if at least one of its releases is marked as broken.
 | 65  | Sweet Blue Flowers                                                         | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6164/), [AniList](https://anilist.co/anime/6164)     |
 | 66  | Sengoku Basara: Samurai Kings                                              | 2009 | 14 Jul 2026 | [SeaDex](https://releases.moe/5355/), [AniList](https://anilist.co/anime/5355)     |
 | 67  | The Qwaser of Stigmata II                                                  | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
-| 68  | My First Girlfriend is a Gal OVA                                           | 2017 | 14 Aug 2025 | [SeaDex](https://releases.moe/98878/), [AniList](https://anilist.co/anime/98878)   |
-| 69  | Chaos Dragon                                                               | 2015 | 07 Jun 2026 | [SeaDex](https://releases.moe/21055/), [AniList](https://anilist.co/anime/21055)   |
-| 70  | Letter Bee                                                                 | 2009 | 22 Jun 2026 | [SeaDex](https://releases.moe/6444/), [AniList](https://anilist.co/anime/6444)     |
-| 71  | Cerberus                                                                   | 2016 | 04 Jul 2026 | [SeaDex](https://releases.moe/21608/), [AniList](https://anilist.co/anime/21608)   |
-| 72  | Phi Brain: Puzzle of God                                                   | 2011 | 20 Mar 2026 | [SeaDex](https://releases.moe/9981/), [AniList](https://anilist.co/anime/9981)     |
-| 73  | Symphogear GX                                                              | 2015 | 08 Aug 2025 | [SeaDex](https://releases.moe/20560/), [AniList](https://anilist.co/anime/20560)   |
-| 74  | Natsuyuki Rendezvous                                                       | 2012 | 15 Mar 2026 | [SeaDex](https://releases.moe/13585/), [AniList](https://anilist.co/anime/13585)   |
-| 75  | Muv-Luv Alternative: Total Eclipse                                         | 2012 | 20 Mar 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
-| 76  | Bakuon!!                                                                   | 2016 | 05 Feb 2026 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
-| 77  | Inu X Boku Secret Service Special                                          | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
-| 78  | Gun x Sword                                                                | 2005 | 28 Jan 2026 | [SeaDex](https://releases.moe/411/), [AniList](https://anilist.co/anime/411)       |
-| 79  | Minami-ke: Okawari                                                         | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3225/), [AniList](https://anilist.co/anime/3225)     |
-| 80  | Minami-ke: Okaeri                                                          | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5162/), [AniList](https://anilist.co/anime/5162)     |
-| 81  | Inazuma Eleven Ares                                                        | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
-| 82  | The Girl in Twilight                                                       | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
-| 83  | Majestic Prince                                                            | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 84  | Le Chevalier D'Eon                                                         | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
-| 85  | MOBILE SUIT GUNDAM UNICORN RE:0096                                         | 2016 | 11 Jun 2026 | [SeaDex](https://releases.moe/21658/), [AniList](https://anilist.co/anime/21658)   |
-| 86  | Murder Princess                                                            | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
-| 87  | Air Gear: Special Trick                                                    | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
-| 88  | Linebarrels of Iron                                                        | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3653/), [AniList](https://anilist.co/anime/3653)     |
-| 89  | Garo: Crimson Moon                                                         | 2015 | 07 Nov 2025 | [SeaDex](https://releases.moe/21277/), [AniList](https://anilist.co/anime/21277)   |
-| 90  | Marriage of God & Soul Godannar!!                                          | 2003 | 28 Jun 2026 | [SeaDex](https://releases.moe/1103/), [AniList](https://anilist.co/anime/1103)     |
-| 91  | Minami-ke: Omatase                                                         | 2012 | 19 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
-| 92  | Mazinger Z                                                                 | 1972 | 27 Jul 2026 | [SeaDex](https://releases.moe/2253/), [AniList](https://anilist.co/anime/2253)     |
-| 93  | Minami-ke: Betsubara                                                       | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5713/), [AniList](https://anilist.co/anime/5713)     |
-| 94  | Granblue Fantasy: The Animation Special                                    | 2017 | 26 Feb 2025 | [SeaDex](https://releases.moe/100469/), [AniList](https://anilist.co/anime/100469) |
-| 95  | Minami-ke Natsuyasumi                                                      | 2013 | 12 May 2026 | [SeaDex](https://releases.moe/20221/), [AniList](https://anilist.co/anime/20221)   |
-| 96  | Active Raid Second                                                         | 2016 | 01 Jun 2026 | [SeaDex](https://releases.moe/21534/), [AniList](https://anilist.co/anime/21534)   |
-| 97  | Celestial Method: Aru Shoujo no Kyuujitsu★                                 | 2015 | 15 Jul 2024 | [SeaDex](https://releases.moe/21276/), [AniList](https://anilist.co/anime/21276)   |
-| 98  | Bakuon!! OVA                                                               | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21441/), [AniList](https://anilist.co/anime/21441)   |
-| 99  | Marriage of God & Soul Godannar!! (2004)                                   | 2004 | 28 Jun 2026 | [SeaDex](https://releases.moe/1104/), [AniList](https://anilist.co/anime/1104)     |
-| 100 | Idol Densetsu Eriko                                                        | 1989 | 29 Apr 2026 | [SeaDex](https://releases.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
-| 101 | Bakuon!! no Kobeya                                                         | 2016 | 08 Jun 2025 | [SeaDex](https://releases.moe/99841/), [AniList](https://anilist.co/anime/99841)   |
-| 102 | Garo: Crimson Moon - The Butterfly of Time                                 | 2016 | 03 Jul 2026 | [SeaDex](https://releases.moe/102429/), [AniList](https://anilist.co/anime/102429) |
-| 103 | Mankatsu                                                                   | 2004 | 16 Jul 2026 | [SeaDex](https://releases.moe/5343/), [AniList](https://anilist.co/anime/5343)     |
+| 68  | HYPNOSISMIC -Division Rap Battle- Rhyme Anima                              | 2020 | 30 Jul 2026 | [SeaDex](https://releases.moe/113652/), [AniList](https://anilist.co/anime/113652) |
+| 69  | My First Girlfriend is a Gal OVA                                           | 2017 | 14 Aug 2025 | [SeaDex](https://releases.moe/98878/), [AniList](https://anilist.co/anime/98878)   |
+| 70  | Chaos Dragon                                                               | 2015 | 07 Jun 2026 | [SeaDex](https://releases.moe/21055/), [AniList](https://anilist.co/anime/21055)   |
+| 71  | Letter Bee                                                                 | 2009 | 22 Jun 2026 | [SeaDex](https://releases.moe/6444/), [AniList](https://anilist.co/anime/6444)     |
+| 72  | Cerberus                                                                   | 2016 | 04 Jul 2026 | [SeaDex](https://releases.moe/21608/), [AniList](https://anilist.co/anime/21608)   |
+| 73  | Phi Brain: Puzzle of God                                                   | 2011 | 20 Mar 2026 | [SeaDex](https://releases.moe/9981/), [AniList](https://anilist.co/anime/9981)     |
+| 74  | Symphogear GX                                                              | 2015 | 08 Aug 2025 | [SeaDex](https://releases.moe/20560/), [AniList](https://anilist.co/anime/20560)   |
+| 75  | Natsuyuki Rendezvous                                                       | 2012 | 15 Mar 2026 | [SeaDex](https://releases.moe/13585/), [AniList](https://anilist.co/anime/13585)   |
+| 76  | Muv-Luv Alternative: Total Eclipse                                         | 2012 | 20 Mar 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
+| 77  | Bakuon!!                                                                   | 2016 | 05 Feb 2026 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
+| 78  | Inu X Boku Secret Service Special                                          | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
+| 79  | Gun x Sword                                                                | 2005 | 28 Jan 2026 | [SeaDex](https://releases.moe/411/), [AniList](https://anilist.co/anime/411)       |
+| 80  | Minami-ke: Okawari                                                         | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3225/), [AniList](https://anilist.co/anime/3225)     |
+| 81  | Minami-ke: Okaeri                                                          | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5162/), [AniList](https://anilist.co/anime/5162)     |
+| 82  | Inazuma Eleven Ares                                                        | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
+| 83  | The Girl in Twilight                                                       | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
+| 84  | Majestic Prince                                                            | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
+| 85  | Le Chevalier D'Eon                                                         | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
+| 86  | MOBILE SUIT GUNDAM UNICORN RE:0096                                         | 2016 | 11 Jun 2026 | [SeaDex](https://releases.moe/21658/), [AniList](https://anilist.co/anime/21658)   |
+| 87  | Murder Princess                                                            | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
+| 88  | Air Gear: Special Trick                                                    | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
+| 89  | Linebarrels of Iron                                                        | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3653/), [AniList](https://anilist.co/anime/3653)     |
+| 90  | Garo: Crimson Moon                                                         | 2015 | 07 Nov 2025 | [SeaDex](https://releases.moe/21277/), [AniList](https://anilist.co/anime/21277)   |
+| 91  | Marriage of God & Soul Godannar!!                                          | 2003 | 28 Jun 2026 | [SeaDex](https://releases.moe/1103/), [AniList](https://anilist.co/anime/1103)     |
+| 92  | Minami-ke: Omatase                                                         | 2012 | 19 May 2026 | [SeaDex](https://releases.moe/14575/), [AniList](https://anilist.co/anime/14575)   |
+| 93  | Mazinger Z                                                                 | 1972 | 27 Jul 2026 | [SeaDex](https://releases.moe/2253/), [AniList](https://anilist.co/anime/2253)     |
+| 94  | Minami-ke: Betsubara                                                       | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5713/), [AniList](https://anilist.co/anime/5713)     |
+| 95  | Granblue Fantasy: The Animation Special                                    | 2017 | 26 Feb 2025 | [SeaDex](https://releases.moe/100469/), [AniList](https://anilist.co/anime/100469) |
+| 96  | Minami-ke Natsuyasumi                                                      | 2013 | 12 May 2026 | [SeaDex](https://releases.moe/20221/), [AniList](https://anilist.co/anime/20221)   |
+| 97  | Active Raid Second                                                         | 2016 | 01 Jun 2026 | [SeaDex](https://releases.moe/21534/), [AniList](https://anilist.co/anime/21534)   |
+| 98  | Celestial Method: Aru Shoujo no Kyuujitsu★                                 | 2015 | 15 Jul 2024 | [SeaDex](https://releases.moe/21276/), [AniList](https://anilist.co/anime/21276)   |
+| 99  | Bakuon!! OVA                                                               | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21441/), [AniList](https://anilist.co/anime/21441)   |
+| 100 | Marriage of God & Soul Godannar!! (2004)                                   | 2004 | 28 Jun 2026 | [SeaDex](https://releases.moe/1104/), [AniList](https://anilist.co/anime/1104)     |
+| 101 | Idol Densetsu Eriko                                                        | 1989 | 29 Apr 2026 | [SeaDex](https://releases.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
+| 102 | Bakuon!! no Kobeya                                                         | 2016 | 08 Jun 2025 | [SeaDex](https://releases.moe/99841/), [AniList](https://anilist.co/anime/99841)   |
+| 103 | Garo: Crimson Moon - The Butterfly of Time                                 | 2016 | 03 Jul 2026 | [SeaDex](https://releases.moe/102429/), [AniList](https://anilist.co/anime/102429) |
+| 104 | Mankatsu                                                                   | 2004 | 16 Jul 2026 | [SeaDex](https://releases.moe/5343/), [AniList](https://anilist.co/anime/5343)     |
