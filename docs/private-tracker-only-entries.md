@@ -18,5 +18,6 @@
 | 15  | Overlord: Ple Ple Pleiades 4                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
 | 16  | Mazinger Edition Z: The Impact!             | 2009 | 12 Jul 2026 | [SeaDex](https://releases.moe/5485/), [AniList](https://anilist.co/anime/5485)     |
 | 17  | Suna no Bara: Yuki no Mokushiroku           | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 18  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
-| 19  | Ninja Robots Tobikage                       | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 18  | Genesis Climber Mospeada                    | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
+| 19  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
+| 20  | Ninja Robots Tobikage                       | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |

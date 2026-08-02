@@ -24,9 +24,10 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 17  | Maison Ikkoku                                    | 1986 | 21 Jul 2026 | [SeaDex](https://releases.moe/1453/), [AniList](https://anilist.co/anime/1453)     |
 | 18  | Private Tutor to the Duke's Daughter             | 2025 | 29 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
 | 19  | Mobile Suit Gundam: The 08th MS Team             | 1996 | 12 Jul 2026 | [SeaDex](https://releases.moe/81/), [AniList](https://anilist.co/anime/81)         |
-| 20  | Wash It All Away                                 | 2026 | 05 Jul 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
+| 20  | Wash It All Away                                 | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
 | 21  | Dear Brother                                     | 1991 | 29 Jul 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
 | 22  | I Want to Deliver Your Voice                     | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
 | 23  | Majestic Prince                                  | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
 | 24  | Shagahai ReLIFE Kenkyuujo Support-ka             | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 25  | Suna no Bara: Yuki no Mokushiroku                | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 26  | Genesis Climber Mospeada                         | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
