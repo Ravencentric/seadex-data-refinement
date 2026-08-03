@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 46.9 TiB   | 25.2 TiB (53.73%)   | 2063 (~23.3 GiB each) |
+| 50   | Others           | 46.9 TiB   | 25.2 TiB (53.73%)   | 2065 (~23.3 GiB each) |

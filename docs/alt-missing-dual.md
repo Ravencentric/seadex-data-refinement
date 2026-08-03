@@ -70,8 +70,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 63  | From Up on Poppy Hill                                                                      | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
 | 64  | No Guns Life                                                                               | 2019 | 02 Feb 2026 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 65  | Tokyo Ghoul: [JACK]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
-| 66  | MEGALOBOX 2: NOMAD                                                                         | 2021 | 08 Oct 2025 | [SeaDex](https://releases.moe/113359/), [AniList](https://anilist.co/anime/113359) |
-| 67  | Infinite Dendrogram                                                                        | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
+| 66  | Infinite Dendrogram                                                                        | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
+| 67  | MEGALOBOX 2: NOMAD                                                                         | 2021 | 08 Oct 2025 | [SeaDex](https://releases.moe/113359/), [AniList](https://anilist.co/anime/113359) |
 | 68  | My Roommate is a Cat                                                                       | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 69  | Thus Spoke Rohan Kishibe                                                                   | 2017 | 20 Mar 2026 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 70  | Tokyo Ghoul: [PINTO]                                                                       | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
