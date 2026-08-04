@@ -47,8 +47,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 40  | Air Gear                                                                   | 2006 | 05 Jan 2026 | [SeaDex](https://releases.moe/857/), [AniList](https://anilist.co/anime/857)       |
 | 41  | Gintama.: Silver Soul Arc - Second Half War                                | 2018 | 27 Jul 2026 | [SeaDex](https://releases.moe/101925/), [AniList](https://anilist.co/anime/101925) |
 | 42  | Kämpfer                                                                    | 2009 | 01 Jun 2026 | [SeaDex](https://releases.moe/6205/), [AniList](https://anilist.co/anime/6205)     |
-| 43  | KanColle                                                                   | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
-| 44  | Puella Magi Madoka Magica the Movie Part 1: Beginnings                     | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11977/), [AniList](https://anilist.co/anime/11977)   |
+| 43  | Puella Magi Madoka Magica the Movie Part 1: Beginnings                     | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11977/), [AniList](https://anilist.co/anime/11977)   |
+| 44  | KanColle                                                                   | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 45  | Gintama.: Slip Arc                                                         | 2017 | 27 Jul 2026 | [SeaDex](https://releases.moe/99714/), [AniList](https://anilist.co/anime/99714)   |
 | 46  | Puella Magi Madoka Magica the Movie Part 2: Eternal                        | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11979/), [AniList](https://anilist.co/anime/11979)   |
 | 47  | Fate/strange Fake -Whispers of Dawn-                                       | 2023 | 29 Jul 2026 | [SeaDex](https://releases.moe/154966/), [AniList](https://anilist.co/anime/154966) |
@@ -60,8 +60,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 53  | Casshern Sins                                                              | 2008 | 16 Sep 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
 | 54  | Clockwork Planet                                                           | 2017 | 29 Jan 2026 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 55  | Scott Pilgrim Takes Off                                                    | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
-| 56  | Minami-ke                                                                  | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
-| 57  | New Saga                                                                   | 2025 | 27 Jul 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
+| 56  | New Saga                                                                   | 2025 | 27 Jul 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
+| 57  | Minami-ke                                                                  | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
 | 58  | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!            | 2024 | 01 Aug 2026 | [SeaDex](https://releases.moe/167087/), [AniList](https://anilist.co/anime/167087) |
 | 59  | Revenger                                                                   | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
 | 60  | DRAMAtical Murder                                                          | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
@@ -76,8 +76,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 69  | HYPNOSISMIC -Division Rap Battle- Rhyme Anima                              | 2020 | 30 Jul 2026 | [SeaDex](https://releases.moe/113652/), [AniList](https://anilist.co/anime/113652) |
 | 70  | My First Girlfriend is a Gal OVA                                           | 2017 | 14 Aug 2025 | [SeaDex](https://releases.moe/98878/), [AniList](https://anilist.co/anime/98878)   |
 | 71  | Chaos Dragon                                                               | 2015 | 07 Jun 2026 | [SeaDex](https://releases.moe/21055/), [AniList](https://anilist.co/anime/21055)   |
-| 72  | Letter Bee                                                                 | 2009 | 22 Jun 2026 | [SeaDex](https://releases.moe/6444/), [AniList](https://anilist.co/anime/6444)     |
-| 73  | Wash It All Away                                                           | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
+| 72  | Wash It All Away                                                           | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
+| 73  | Letter Bee                                                                 | 2009 | 22 Jun 2026 | [SeaDex](https://releases.moe/6444/), [AniList](https://anilist.co/anime/6444)     |
 | 74  | Cerberus                                                                   | 2016 | 04 Jul 2026 | [SeaDex](https://releases.moe/21608/), [AniList](https://anilist.co/anime/21608)   |
 | 75  | Phi Brain: Puzzle of God                                                   | 2011 | 20 Mar 2026 | [SeaDex](https://releases.moe/9981/), [AniList](https://anilist.co/anime/9981)     |
 | 76  | Symphogear GX                                                              | 2015 | 08 Aug 2025 | [SeaDex](https://releases.moe/20560/), [AniList](https://anilist.co/anime/20560)   |
