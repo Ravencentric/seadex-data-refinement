@@ -16,9 +16,12 @@
 | 13  | Majestic Prince                             | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
 | 14  | Shagahai ReLIFE Kenkyuujo Support-ka        | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 15  | Murder Princess                             | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
-| 16  | Overlord: Ple Ple Pleiades 4                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 17  | Mazinger Edition Z: The Impact!             | 2009 | 12 Jul 2026 | [SeaDex](https://releases.moe/5485/), [AniList](https://anilist.co/anime/5485)     |
-| 18  | Suna no Bara: Yuki no Mokushiroku           | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 19  | Genesis Climber Mospeada                    | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
-| 20  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
-| 21  | Ninja Robots Tobikage                       | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 16  | MEGANEBU!                                   | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
+| 17  | Overlord: Ple Ple Pleiades 4                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 18  | Mazinger Edition Z: The Impact!             | 2009 | 12 Jul 2026 | [SeaDex](https://releases.moe/5485/), [AniList](https://anilist.co/anime/5485)     |
+| 19  | Suna no Bara: Yuki no Mokushiroku           | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 20  | Gurazeni: Money Pitch                       | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/98479/), [AniList](https://anilist.co/anime/98479)   |
+| 21  | Genesis Climber Mospeada                    | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
+| 22  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
+| 23  | Ninja Robots Tobikage                       | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 24  | Gurazeni: Money Pitch 2                     | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/102974/), [AniList](https://anilist.co/anime/102974) |
