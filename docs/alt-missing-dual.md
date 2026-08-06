@@ -79,8 +79,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 72  | Tales of Wedding Rings                                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
 | 73  | Japan Sinks: 2020                                                                          | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 74  | Gurren Lagann The Movie: The Lights in the Sky are Stars                                   | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
-| 75  | Date A Live II: Kurumi Star Festival                                                       | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
-| 76  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 75  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 76  | Date A Live II: Kurumi Star Festival                                                       | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
 | 77  | Sarazanmai                                                                                 | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 78  | RE-MAIN                                                                                    | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
 | 79  | Tiger & Bunny                                                                              | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
