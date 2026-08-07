@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group              | Count |
 | :----| :------------------| :-----|
 | 🥇   | -ZR-               | 176   |
-| 🥈   | Headpatter         | 168   |
+| 🥈   | Headpatter         | 169   |
 | 🥉   | sam                | 137   |
 | 4    | CRUCiBLE           | 129   |
 | 5    | NAN0               | 117   |
@@ -23,12 +23,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | hchcsen            | 103   |
 | 8    | Moxie              | 99    |
 | 9    | YURASUKA           | 98    |
-| 10   | SubsPlease         | 74    |
+| 10   | SubsPlease         | 75    |
 | 11   | YURI               | 68    |
 | 12   | Drag               | 58    |
 | 13   | smol               | 57    |
 | 14   | KH                 | 55    |
-| 15   | Erai-raws          | 54    |
+| 15   | Erai-raws          | 53    |
 | 16   | NOGRP              | 48    |
 | 17   | GetItTwisted       | 46    |
 | 18   | Arid / LostYears   | 41    |
@@ -104,10 +104,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                             | Count |
 | :----| :-------------------------------------------------| :-----|
-| 🥇   | Headpatter                                        | 84    |
-| 🥈   | YURASUKA                                          | 63    |
-| 🥉   | SubsPlease                                        | 62    |
-| 4    | Erai-raws / KH                                    | 46    |
+| 🥇   | Headpatter                                        | 85    |
+| 🥈   | SubsPlease / YURASUKA                             | 63    |
+| 🥉   | KH                                                | 46    |
+| 4    | Erai-raws                                         | 45    |
 | 5    | Drag                                              | 43    |
 | 6    | hchcsen                                           | 39    |
 | 7    | -ZR- / Commie / YURI                              | 38    |

@@ -266,8 +266,8 @@
 | 263 | Overlord: Ple Ple Pleiades 4                                                         | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
 | 264 | El Hazard: The Magnificent World                                                     | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/117/), [AniList](https://anilist.co/anime/117)       |
 | 265 | Manyuu Hikenchou Specials                                                            | 2011 | 21 Jul 2024 | [SeaDex](https://releases.moe/10845/), [AniList](https://anilist.co/anime/10845)   |
-| 266 | IDOLiSH7 Vibrato                                                                     | 2018 | 17 Nov 2025 | [SeaDex](https://releases.moe/101169/), [AniList](https://anilist.co/anime/101169) |
-| 267 | The Cockpit                                                                          | 1993 | 14 Nov 2024 | [SeaDex](https://releases.moe/2500/), [AniList](https://anilist.co/anime/2500)     |
+| 266 | The Cockpit                                                                          | 1993 | 14 Nov 2024 | [SeaDex](https://releases.moe/2500/), [AniList](https://anilist.co/anime/2500)     |
+| 267 | IDOLiSH7 Vibrato                                                                     | 2018 | 17 Nov 2025 | [SeaDex](https://releases.moe/101169/), [AniList](https://anilist.co/anime/101169) |
 | 268 | One Room: Second Season -extra-                                                      | 2018 | 30 Dec 2023 | [SeaDex](https://releases.moe/107298/), [AniList](https://anilist.co/anime/107298) |
 | 269 | .hack//Unison                                                                        | 2003 | 05 Jun 2025 | [SeaDex](https://releases.moe/1487/), [AniList](https://anilist.co/anime/1487)     |
 | 270 | Gunslinger Girl: Il Teatrino OVA                                                     | 2008 | 06 Jul 2024 | [SeaDex](https://releases.moe/4765/), [AniList](https://anilist.co/anime/4765)     |
