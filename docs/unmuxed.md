@@ -36,8 +36,8 @@
 | 33  | The Last: Naruto the Movie                                                         | 2014 | 13 Nov 2025 | [SeaDex](https://releases.moe/16870/), [AniList](https://anilist.co/anime/16870)   |
 | 34  | Bottom-Tier Character Tomozaki                                                     | 2021 | 15 Oct 2024 | [SeaDex](https://releases.moe/112443/), [AniList](https://anilist.co/anime/112443) |
 | 35  | Fairy Tail Final Season                                                            | 2018 | 17 Feb 2026 | [SeaDex](https://releases.moe/99749/), [AniList](https://anilist.co/anime/99749)   |
-| 36  | Seirei Gensouki: Spirit Chronicles                                                 | 2021 | 29 Jun 2025 | [SeaDex](https://releases.moe/126546/), [AniList](https://anilist.co/anime/126546) |
-| 37  | How a Realist Hero Rebuilt the Kingdom                                             | 2021 | 21 Jan 2026 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
+| 36  | How a Realist Hero Rebuilt the Kingdom                                             | 2021 | 21 Jan 2026 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
+| 37  | Seirei Gensouki: Spirit Chronicles                                                 | 2021 | 29 Jun 2025 | [SeaDex](https://releases.moe/126546/), [AniList](https://anilist.co/anime/126546) |
 | 38  | Re:CREATORS                                                                        | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
 | 39  | The World God Only Knows                                                           | 2010 | 14 Oct 2025 | [SeaDex](https://releases.moe/8525/), [AniList](https://anilist.co/anime/8525)     |
 | 40  | Shiki                                                                              | 2010 | 15 Nov 2023 | [SeaDex](https://releases.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
@@ -199,8 +199,8 @@
 | 196 | Love Live! Nijigasaki High School Idol Club                                        | 2020 | 01 Mar 2026 | [SeaDex](https://releases.moe/113970/), [AniList](https://anilist.co/anime/113970) |
 | 197 | Chaos;Child                                                                        | 2017 | 07 Apr 2025 | [SeaDex](https://releases.moe/21126/), [AniList](https://anilist.co/anime/21126)   |
 | 198 | Ace of the Diamond Second Season                                                   | 2015 | 29 Apr 2026 | [SeaDex](https://releases.moe/21085/), [AniList](https://anilist.co/anime/21085)   |
-| 199 | Level 1 Demon Lord and One Room Hero                                               | 2023 | 22 Dec 2025 | [SeaDex](https://releases.moe/146836/), [AniList](https://anilist.co/anime/146836) |
-| 200 | TRIGUN STARGAZE                                                                    | 2026 | 21 Jun 2026 | [SeaDex](https://releases.moe/163144/), [AniList](https://anilist.co/anime/163144) |
+| 199 | TRIGUN STARGAZE                                                                    | 2026 | 21 Jun 2026 | [SeaDex](https://releases.moe/163144/), [AniList](https://anilist.co/anime/163144) |
+| 200 | Level 1 Demon Lord and One Room Hero                                               | 2023 | 22 Dec 2025 | [SeaDex](https://releases.moe/146836/), [AniList](https://anilist.co/anime/146836) |
 | 201 | Strawberry Panic                                                                   | 2006 | 17 Nov 2025 | [SeaDex](https://releases.moe/855/), [AniList](https://anilist.co/anime/855)       |
 | 202 | Macross                                                                            | 1982 | 03 Aug 2025 | [SeaDex](https://releases.moe/1088/), [AniList](https://anilist.co/anime/1088)     |
 | 203 | Go For It, Nakamura-kun!!                                                          | 2026 | 06 Jul 2026 | [SeaDex](https://releases.moe/180228/), [AniList](https://anilist.co/anime/180228) |

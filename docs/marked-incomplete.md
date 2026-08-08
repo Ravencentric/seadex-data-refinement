@@ -89,8 +89,8 @@
 | 86  | Urara Meirocho                                                                       | 2017 | 13 Nov 2024 | [SeaDex](https://releases.moe/21696/), [AniList](https://anilist.co/anime/21696)   |
 | 87  | Aura                                                                                 | 2013 | 27 Nov 2024 | [SeaDex](https://releases.moe/14669/), [AniList](https://anilist.co/anime/14669)   |
 | 88  | Hi Score Girl II                                                                     | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
-| 89  | Is the Order a Rabbit?? Season 2                                                     | 2015 | 08 Jun 2025 | [SeaDex](https://releases.moe/21034/), [AniList](https://anilist.co/anime/21034)   |
-| 90  | Kamisama Kiss◎ OVA                                                                   | 2015 | 08 Jun 2025 | [SeaDex](https://releases.moe/21186/), [AniList](https://anilist.co/anime/21186)   |
+| 89  | Kamisama Kiss◎ OVA                                                                   | 2015 | 08 Jun 2025 | [SeaDex](https://releases.moe/21186/), [AniList](https://anilist.co/anime/21186)   |
+| 90  | Is the Order a Rabbit?? Season 2                                                     | 2015 | 08 Jun 2025 | [SeaDex](https://releases.moe/21034/), [AniList](https://anilist.co/anime/21034)   |
 | 91  | D.Gray-man HALLOW                                                                    | 2016 | 23 Jun 2024 | [SeaDex](https://releases.moe/21558/), [AniList](https://anilist.co/anime/21558)   |
 | 92  | Strawberry Marshmallow                                                               | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/488/), [AniList](https://anilist.co/anime/488)       |
 | 93  | Strike the Blood III                                                                 | 2018 | 08 Jun 2025 | [SeaDex](https://releases.moe/102436/), [AniList](https://anilist.co/anime/102436) |
@@ -311,8 +311,8 @@
 | 308 | El Hazard: The Alternative World                                                     | 1998 | 27 Jun 2024 | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
 | 309 | Kumamiko -Girl Meets Bear Specials                                                   | 2016 | 18 Jul 2024 | [SeaDex](https://releases.moe/21784/), [AniList](https://anilist.co/anime/21784)   |
 | 310 | Library Wars: Romance Impairment                                                     | 2008 | 19 Jul 2024 | [SeaDex](https://releases.moe/5332/), [AniList](https://anilist.co/anime/5332)     |
-| 311 | El Hazard 2: The Magnificent World                                                   | 1997 | 27 Jun 2024 | [SeaDex](https://releases.moe/118/), [AniList](https://anilist.co/anime/118)       |
-| 312 | Hentatsu (TV Short)                                                                  | 2020 | 07 Jul 2024 | [SeaDex](https://releases.moe/114417/), [AniList](https://anilist.co/anime/114417) |
+| 311 | Hentatsu (TV Short)                                                                  | 2020 | 07 Jul 2024 | [SeaDex](https://releases.moe/114417/), [AniList](https://anilist.co/anime/114417) |
+| 312 | El Hazard 2: The Magnificent World                                                   | 1997 | 27 Jun 2024 | [SeaDex](https://releases.moe/118/), [AniList](https://anilist.co/anime/118)       |
 | 313 | Renkin San-kyuu Magical? Pokaan Specials                                             | 2006 | 17 Nov 2023 | [SeaDex](https://releases.moe/1489/), [AniList](https://anilist.co/anime/1489)     |
 | 314 | Manyuu Hikenchou Picture Drama                                                       | 2011 | 21 Jul 2024 | [SeaDex](https://releases.moe/12239/), [AniList](https://anilist.co/anime/12239)   |
 | 315 | Panzer World Galient                                                                 | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
