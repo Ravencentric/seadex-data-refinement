@@ -15,30 +15,30 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group              | Count |
 | :----| :------------------| :-----|
 | 🥇   | -ZR-               | 176   |
-| 🥈   | Headpatter         | 169   |
+| 🥈   | Headpatter         | 170   |
 | 🥉   | sam                | 137   |
 | 4    | CRUCiBLE           | 129   |
 | 5    | NAN0               | 117   |
 | 6    | MTBB               | 106   |
 | 7    | hchcsen            | 103   |
-| 8    | Moxie              | 99    |
-| 9    | YURASUKA           | 98    |
-| 10   | SubsPlease         | 75    |
-| 11   | YURI               | 68    |
-| 12   | Drag               | 58    |
-| 13   | smol               | 57    |
-| 14   | KH                 | 55    |
-| 15   | Erai-raws          | 53    |
-| 16   | NOGRP              | 48    |
-| 17   | GetItTwisted       | 46    |
-| 18   | Arid / LostYears   | 41    |
-| 19   | Okay-Subs / PMR    | 40    |
-| 20   | TTGA               | 39    |
-| 21   | Commie             | 38    |
-| 22   | Holomux / LYS1TH3A | 35    |
-| 23   | B00BA / Lulu       | 33    |
-| 24   | Bunny-Apocalypse   | 32    |
-| 25   | VARYG              | 30    |
+| 8    | Moxie / YURASUKA   | 99    |
+| 9    | SubsPlease         | 75    |
+| 10   | YURI               | 68    |
+| 11   | Drag               | 58    |
+| 12   | smol               | 57    |
+| 13   | KH                 | 55    |
+| 14   | Erai-raws          | 53    |
+| 15   | NOGRP              | 48    |
+| 16   | GetItTwisted       | 46    |
+| 17   | Arid / LostYears   | 41    |
+| 18   | Okay-Subs / PMR    | 40    |
+| 19   | TTGA               | 39    |
+| 20   | Commie             | 38    |
+| 21   | Holomux / LYS1TH3A | 35    |
+| 22   | B00BA / Lulu       | 33    |
+| 23   | Bunny-Apocalypse   | 32    |
+| 24   | VARYG              | 30    |
+| 25   | Kametsu / Orphan   | 29    |
 
 ## Top 25 - Best dual audio entries
 
@@ -49,10 +49,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                              | 97    |
 | 4    | NAN0                                             | 85    |
 | 5    | hchcsen                                          | 55    |
-| 6    | Headpatter                                       | 40    |
+| 6    | Headpatter                                       | 41    |
 | 7    | LYS1TH3A                                         | 32    |
 | 8    | TTGA                                             | 29    |
-| 9    | YURASUKA                                         | 26    |
+| 9    | YURASUKA                                         | 27    |
 | 10   | FLE / GetItTwisted                               | 23    |
 | 11   | Moxie / smol                                     | 21    |
 | 12   | Lulu                                             | 18    |
@@ -78,14 +78,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE             | 129   |
 | 🥉   | sam                  | 128   |
 | 4    | NAN0                 | 115   |
-| 5    | Headpatter           | 101   |
+| 5    | Headpatter           | 103   |
 | 6    | Moxie                | 99    |
 | 7    | MTBB                 | 76    |
 | 8    | hchcsen              | 72    |
 | 9    | smol                 | 54    |
 | 10   | PMR                  | 40    |
 | 11   | Okay-Subs / TTGA     | 38    |
-| 12   | YURASUKA             | 35    |
+| 12   | YURASUKA             | 36    |
 | 13   | GetItTwisted         | 34    |
 | 14   | B00BA / LYS1TH3A     | 33    |
 | 15   | YURI                 | 31    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                             | Count |
 | :----| :-------------------------------------------------| :-----|
-| 🥇   | Headpatter                                        | 85    |
+| 🥇   | Headpatter                                        | 86    |
 | 🥈   | SubsPlease / YURASUKA                             | 63    |
 | 🥉   | KH                                                | 46    |
 | 4    | Erai-raws                                         | 45    |
