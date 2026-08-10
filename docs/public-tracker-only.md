@@ -5,16 +5,16 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                            | Year | Updated At  | Links                                                                              |
 | :---| :--------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | False Memory                                                                     | 2020 | 06 Aug 2026 | [SeaDex](https://releases.moe/141950/), [AniList](https://anilist.co/anime/141950) |
-| 2   | An Adventurer’s Daily Grind at Age 29                                            | 2026 | 05 Aug 2026 | [SeaDex](https://releases.moe/192261/), [AniList](https://anilist.co/anime/192261) |
-| 3   | The Warrior Princess and the Barbaric King                                       | 2026 | 05 Aug 2026 | [SeaDex](https://releases.moe/182483/), [AniList](https://anilist.co/anime/182483) |
-| 4   | Dr. STONE SCIENCE FUTURE Cour 3                                                  | 2026 | 04 Aug 2026 | [SeaDex](https://releases.moe/199221/), [AniList](https://anilist.co/anime/199221) |
-| 5   | Butareba -The Story of a Man Turned into a Pig-                                  | 2023 | 03 Aug 2026 | [SeaDex](https://releases.moe/142599/), [AniList](https://anilist.co/anime/142599) |
-| 6   | Little Witch Academia                                                            | 2013 | 03 Aug 2026 | [SeaDex](https://releases.moe/14349/), [AniList](https://anilist.co/anime/14349)   |
-| 7   | Weathering With You                                                              | 2019 | 03 Aug 2026 | [SeaDex](https://releases.moe/106286/), [AniList](https://anilist.co/anime/106286) |
-| 8   | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!                  | 2024 | 01 Aug 2026 | [SeaDex](https://releases.moe/167087/), [AniList](https://anilist.co/anime/167087) |
-| 9   | My Hero Academia: Vigilantes                                                     | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
-| 10  | Fire Force Season 3                                                              | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/149118/), [AniList](https://anilist.co/anime/149118) |
+| 1   | Fire Force Season 3                                                              | 2025 | 10 Aug 2026 | [SeaDex](https://releases.moe/149118/), [AniList](https://anilist.co/anime/149118) |
+| 2   | LUPIN THE 3rd vs. CAT’S EYE                                                      | 2023 | 09 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
+| 3   | False Memory                                                                     | 2020 | 06 Aug 2026 | [SeaDex](https://releases.moe/141950/), [AniList](https://anilist.co/anime/141950) |
+| 4   | The Warrior Princess and the Barbaric King                                       | 2026 | 05 Aug 2026 | [SeaDex](https://releases.moe/182483/), [AniList](https://anilist.co/anime/182483) |
+| 5   | Dr. STONE SCIENCE FUTURE Cour 3                                                  | 2026 | 04 Aug 2026 | [SeaDex](https://releases.moe/199221/), [AniList](https://anilist.co/anime/199221) |
+| 6   | Butareba -The Story of a Man Turned into a Pig-                                  | 2023 | 03 Aug 2026 | [SeaDex](https://releases.moe/142599/), [AniList](https://anilist.co/anime/142599) |
+| 7   | Little Witch Academia                                                            | 2013 | 03 Aug 2026 | [SeaDex](https://releases.moe/14349/), [AniList](https://anilist.co/anime/14349)   |
+| 8   | Weathering With You                                                              | 2019 | 03 Aug 2026 | [SeaDex](https://releases.moe/106286/), [AniList](https://anilist.co/anime/106286) |
+| 9   | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!                  | 2024 | 01 Aug 2026 | [SeaDex](https://releases.moe/167087/), [AniList](https://anilist.co/anime/167087) |
+| 10  | My Hero Academia: Vigilantes                                                     | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
 | 11  | Wash It All Away                                                                 | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
 | 12  | HYPNOSISMIC -Division Rap Battle- Rhyme Anima                                    | 2020 | 30 Jul 2026 | [SeaDex](https://releases.moe/113652/), [AniList](https://anilist.co/anime/113652) |
 | 13  | Dragon Ball                                                                      | 1986 | 27 Jul 2026 | [SeaDex](https://releases.moe/223/), [AniList](https://anilist.co/anime/223)       |
