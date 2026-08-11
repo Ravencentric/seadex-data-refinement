@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                    | Count |
 | :----| :------------------------| :-----|
 | 🥇   | -ZR-                     | 176   |
-| 🥈   | Headpatter               | 172   |
+| 🥈   | Headpatter               | 173   |
 | 🥉   | sam                      | 137   |
 | 4    | CRUCiBLE                 | 129   |
 | 5    | NAN0                     | 117   |
@@ -35,10 +35,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | TTGA                     | 39    |
 | 20   | Commie                   | 38    |
 | 21   | Holomux / LYS1TH3A       | 35    |
-| 22   | B00BA / Lulu             | 33    |
-| 23   | Bunny-Apocalypse         | 32    |
-| 24   | Kametsu / Orphan / VARYG | 29    |
-| 25   | FLE                      | 28    |
+| 22   | B00BA                    | 34    |
+| 23   | Lulu                     | 33    |
+| 24   | Bunny-Apocalypse         | 32    |
+| 25   | Kametsu / Orphan / VARYG | 29    |
 
 ## Top 25 - Best dual audio entries
 
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                              | 97    |
 | 4    | NAN0                                             | 85    |
 | 5    | hchcsen                                          | 55    |
-| 6    | Headpatter                                       | 42    |
+| 6    | Headpatter                                       | 43    |
 | 7    | LYS1TH3A                                         | 32    |
 | 8    | TTGA                                             | 29    |
 | 9    | YURASUKA                                         | 27    |
@@ -78,7 +78,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE             | 129   |
 | 🥉   | sam                  | 128   |
 | 4    | NAN0                 | 115   |
-| 5    | Headpatter           | 104   |
+| 5    | Headpatter           | 105   |
 | 6    | Moxie                | 99    |
 | 7    | MTBB                 | 76    |
 | 8    | hchcsen              | 72    |
@@ -87,18 +87,18 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | Okay-Subs / TTGA     | 38    |
 | 12   | YURASUKA             | 36    |
 | 13   | GetItTwisted         | 35    |
-| 14   | B00BA / LYS1TH3A     | 33    |
-| 15   | YURI                 | 31    |
-| 16   | Orphan               | 26    |
-| 17   | FLE                  | 25    |
-| 18   | Mehul                | 23    |
-| 19   | nekotan              | 22    |
-| 20   | Lulu                 | 21    |
-| 21   | LaCroiX              | 20    |
-| 22   | Kawatare / LazyRemux | 19    |
-| 23   | Arid / koala         | 18    |
-| 24   | Flugel / ZeroBuild   | 17    |
-| 25   | Drag / Reza          | 16    |
+| 14   | B00BA                | 34    |
+| 15   | LYS1TH3A             | 33    |
+| 16   | YURI                 | 31    |
+| 17   | Orphan               | 26    |
+| 18   | FLE                  | 25    |
+| 19   | Mehul                | 23    |
+| 20   | nekotan              | 22    |
+| 21   | Lulu                 | 21    |
+| 22   | LaCroiX              | 20    |
+| 23   | Kawatare / LazyRemux | 19    |
+| 24   | Arid / koala         | 18    |
+| 25   | Flugel / ZeroBuild   | 17    |
 
 ## Top 25 - Alt entries
 

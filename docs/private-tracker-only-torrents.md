@@ -7,9 +7,9 @@ This list excludes groups that do not want their releases mirrored to public tra
 | :---| :------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | 2026 | 27 Jul 2026 | [SeaDex](https://releases.moe/172463/), [AniList](https://anilist.co/anime/172463) |
 | 2   | Ghost in the Shell                               | 1995 | 27 Jul 2026 | [SeaDex](https://releases.moe/43/), [AniList](https://anilist.co/anime/43)         |
-| 3   | Fire Force Season 3                              | 2025 | 10 Aug 2026 | [SeaDex](https://releases.moe/149118/), [AniList](https://anilist.co/anime/149118) |
-| 4   | SCHOOL-LIVE!                                     | 2015 | 10 Aug 2026 | [SeaDex](https://releases.moe/20754/), [AniList](https://anilist.co/anime/20754)   |
-| 5   | Boarding School Juliet                           | 2018 | 16 Jul 2026 | [SeaDex](https://releases.moe/101310/), [AniList](https://anilist.co/anime/101310) |
+| 3   | SCHOOL-LIVE!                                     | 2015 | 10 Aug 2026 | [SeaDex](https://releases.moe/20754/), [AniList](https://anilist.co/anime/20754)   |
+| 4   | Boarding School Juliet                           | 2018 | 16 Jul 2026 | [SeaDex](https://releases.moe/101310/), [AniList](https://anilist.co/anime/101310) |
+| 5   | Little Witch Academia                            | 2013 | 10 Aug 2026 | [SeaDex](https://releases.moe/14349/), [AniList](https://anilist.co/anime/14349)   |
 | 6   | I'm Standing on a Million Lives                  | 2020 | 19 Feb 2026 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
 | 7   | D-Frag!                                          | 2014 | 13 Jul 2026 | [SeaDex](https://releases.moe/20031/), [AniList](https://anilist.co/anime/20031)   |
 | 8   | The Unwanted Undead Adventurer                   | 2024 | 05 Aug 2026 | [SeaDex](https://releases.moe/147642/), [AniList](https://anilist.co/anime/147642) |
@@ -32,10 +32,11 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 25  | Dear Brother                                     | 1991 | 29 Jul 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
 | 26  | I Want to Deliver Your Voice                     | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
 | 27  | Majestic Prince                                  | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 28  | Macross 7                                        | 1994 | 10 Aug 2026 | [SeaDex](https://releases.moe/1397/), [AniList](https://anilist.co/anime/1397)     |
-| 29  | Shagahai ReLIFE Kenkyuujo Support-ka             | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 30  | Suna no Bara: Yuki no Mokushiroku                | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 31  | Gurazeni: Money Pitch                            | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/98479/), [AniList](https://anilist.co/anime/98479)   |
-| 32  | Genesis Climber Mospeada                         | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
-| 33  | LUPIN THE 3rd vs. CAT’S EYE                      | 2023 | 09 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
-| 34  | Gurazeni: Money Pitch 2                          | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/102974/), [AniList](https://anilist.co/anime/102974) |
+| 28  | Kyou kara Ore wa!!                               | 1993 | 10 Aug 2026 | [SeaDex](https://releases.moe/851/), [AniList](https://anilist.co/anime/851)       |
+| 29  | Macross 7                                        | 1994 | 10 Aug 2026 | [SeaDex](https://releases.moe/1397/), [AniList](https://anilist.co/anime/1397)     |
+| 30  | Shagahai ReLIFE Kenkyuujo Support-ka             | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 31  | Suna no Bara: Yuki no Mokushiroku                | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 32  | Gurazeni: Money Pitch                            | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/98479/), [AniList](https://anilist.co/anime/98479)   |
+| 33  | Genesis Climber Mospeada                         | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
+| 34  | LUPIN THE 3rd vs. CAT’S EYE                      | 2023 | 09 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
+| 35  | Gurazeni: Money Pitch 2                          | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/102974/), [AniList](https://anilist.co/anime/102974) |
