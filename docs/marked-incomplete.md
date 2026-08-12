@@ -311,8 +311,8 @@
 | 308 | El Hazard: The Alternative World                                                     | 1998 | 27 Jun 2024 | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
 | 309 | Kumamiko -Girl Meets Bear Specials                                                   | 2016 | 18 Jul 2024 | [SeaDex](https://releases.moe/21784/), [AniList](https://anilist.co/anime/21784)   |
 | 310 | Library Wars: Romance Impairment                                                     | 2008 | 19 Jul 2024 | [SeaDex](https://releases.moe/5332/), [AniList](https://anilist.co/anime/5332)     |
-| 311 | Hentatsu (TV Short)                                                                  | 2020 | 07 Jul 2024 | [SeaDex](https://releases.moe/114417/), [AniList](https://anilist.co/anime/114417) |
-| 312 | El Hazard 2: The Magnificent World                                                   | 1997 | 27 Jun 2024 | [SeaDex](https://releases.moe/118/), [AniList](https://anilist.co/anime/118)       |
+| 311 | El Hazard 2: The Magnificent World                                                   | 1997 | 27 Jun 2024 | [SeaDex](https://releases.moe/118/), [AniList](https://anilist.co/anime/118)       |
+| 312 | Hentatsu (TV Short)                                                                  | 2020 | 07 Jul 2024 | [SeaDex](https://releases.moe/114417/), [AniList](https://anilist.co/anime/114417) |
 | 313 | Renkin San-kyuu Magical? Pokaan Specials                                             | 2006 | 17 Nov 2023 | [SeaDex](https://releases.moe/1489/), [AniList](https://anilist.co/anime/1489)     |
 | 314 | Manyuu Hikenchou Picture Drama                                                       | 2011 | 21 Jul 2024 | [SeaDex](https://releases.moe/12239/), [AniList](https://anilist.co/anime/12239)   |
 | 315 | Panzer World Galient                                                                 | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
