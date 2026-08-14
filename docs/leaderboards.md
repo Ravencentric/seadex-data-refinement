@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                    | Count |
 | :----| :------------------------| :-----|
 | 🥇   | -ZR-                     | 175   |
-| 🥈   | Headpatter               | 172   |
+| 🥈   | Headpatter               | 173   |
 | 🥉   | sam                      | 137   |
 | 4    | CRUCiBLE                 | 129   |
 | 5    | NAN0                     | 117   |
@@ -30,14 +30,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Erai-raws                | 54    |
 | 15   | NOGRP                    | 48    |
 | 16   | GetItTwisted             | 47    |
-| 17   | Arid / LostYears         | 41    |
-| 18   | Okay-Subs / PMR          | 40    |
+| 17   | LostYears                | 41    |
+| 18   | Arid / Okay-Subs / PMR   | 40    |
 | 19   | TTGA                     | 39    |
 | 20   | Commie                   | 38    |
 | 21   | Holomux / LYS1TH3A       | 35    |
 | 22   | B00BA                    | 34    |
 | 23   | Lulu                     | 33    |
-| 24   | Bunny-Apocalypse         | 32    |
+| 24   | Bunny-Apocalypse         | 31    |
 | 25   | Kametsu / Orphan / VARYG | 29    |
 
 ## Top 25 - Best dual audio entries
@@ -78,7 +78,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                                   | 129   |
 | 🥉   | sam                                        | 128   |
 | 4    | NAN0                                       | 115   |
-| 5    | Headpatter                                 | 104   |
+| 5    | Headpatter                                 | 105   |
 | 6    | Moxie                                      | 99    |
 | 7    | MTBB                                       | 76    |
 | 8    | hchcsen                                    | 72    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                             | Count |
 | :----| :-------------------------------------------------| :-----|
-| 🥇   | Headpatter                                        | 87    |
+| 🥇   | Headpatter                                        | 88    |
 | 🥈   | SubsPlease / YURASUKA                             | 63    |
 | 🥉   | KH                                                | 47    |
 | 4    | Erai-raws                                         | 46    |
@@ -115,9 +115,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | NOGRP                                             | 33    |
 | 10   | GetItTwisted / LostYears / MTBB                   | 30    |
 | 11   | VARYG                                             | 27    |
-| 12   | Bunny-Apocalypse / Holomux                        | 26    |
-| 13   | Arid                                              | 24    |
-| 14   | Chihiro                                           | 23    |
+| 12   | Holomux                                           | 26    |
+| 13   | Bunny-Apocalypse                                  | 25    |
+| 14   | Arid / Chihiro                                    | 23    |
 | 15   | Kametsu                                           | 21    |
 | 16   | Kitsune                                           | 20    |
 | 17   | CTR                                               | 19    |

@@ -307,8 +307,8 @@
 | 304 | Rail Romanesque                                                                    | 2020 | 08 Feb 2026 | [SeaDex](https://releases.moe/114263/), [AniList](https://anilist.co/anime/114263) |
 | 305 | Armored Trooper Votoms                                                             | 1983 | 22 Jan 2026 | [SeaDex](https://releases.moe/2582/), [AniList](https://anilist.co/anime/2582)     |
 | 306 | Macross 7                                                                          | 1994 | 10 Aug 2026 | [SeaDex](https://releases.moe/1397/), [AniList](https://anilist.co/anime/1397)     |
-| 307 | Mobile Suit Gundam Wing: Endless Waltz                                             | 1998 | 16 Jun 2026 | [SeaDex](https://releases.moe/2273/), [AniList](https://anilist.co/anime/2273)     |
-| 308 | Shagahai ReLIFE Kenkyuujo Support-ka                                               | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 307 | Shagahai ReLIFE Kenkyuujo Support-ka                                               | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 308 | Mobile Suit Gundam Wing: Endless Waltz                                             | 1998 | 16 Jun 2026 | [SeaDex](https://releases.moe/2273/), [AniList](https://anilist.co/anime/2273)     |
 | 309 | MOBILE SUIT GUNDAM UNICORN RE:0096                                                 | 2016 | 11 Jun 2026 | [SeaDex](https://releases.moe/21658/), [AniList](https://anilist.co/anime/21658)   |
 | 310 | Brynhildr in the Darkness OVA                                                      | 2014 | 02 May 2026 | [SeaDex](https://releases.moe/20866/), [AniList](https://anilist.co/anime/20866)   |
 | 311 | Space Runaway Ideon                                                                | 1980 | 25 Jun 2025 | [SeaDex](https://releases.moe/930/), [AniList](https://anilist.co/anime/930)       |

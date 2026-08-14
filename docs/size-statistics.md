@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `149.9 TiB`
+- Total size: `150.0 TiB`
 - Best size: `113.9 TiB`
 - Alt size: `36.0 TiB`
-- Realistic size: `117.1 TiB`
+- Realistic size: `117.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 9.4 TiB    | 9.4 TiB (100.00%)   | 129 (~75.0 GiB each)  |
 | 3    | NAN0             | 8.8 TiB    | 8.7 TiB (98.71%)    | 117 (~76.8 GiB each)  |
 | 4    | hchcsen          | 8.5 TiB    | 7.2 TiB (85.09%)    | 111 (~78.4 GiB each)  |
-| 5    | Headpatter       | 5.6 TiB    | 4.1 TiB (73.74%)    | 191 (~30.1 GiB each)  |
+| 5    | Headpatter       | 5.6 TiB    | 4.1 TiB (73.74%)    | 193 (~29.9 GiB each)  |
 | 6    | sam              | 4.1 TiB    | 3.8 TiB (93.50%)    | 137 (~30.3 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
 | 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 40 (~80.5 GiB each)   |
@@ -60,13 +60,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 38   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 39   | LostYears        | 709.4 GiB  | 189.9 GiB (26.77%)  | 41 (~17.3 GiB each)   |
 | 40   | Lulu             | 681.0 GiB  | 355.5 GiB (52.21%)  | 34 (~20.0 GiB each)   |
-| 41   | Bunny-Apocalypse | 664.1 GiB  | 161.0 GiB (24.24%)  | 32 (~20.8 GiB each)   |
-| 42   | Crash            | 653.9 GiB  | 653.9 GiB (100.00%) | 3 (~218.0 GiB each)   |
-| 43   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
+| 41   | Crash            | 653.9 GiB  | 653.9 GiB (100.00%) | 3 (~218.0 GiB each)   |
+| 42   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
+| 43   | Bunny-Apocalypse | 639.4 GiB  | 161.0 GiB (25.17%)  | 31 (~20.6 GiB each)   |
 | 44   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 45   | Arid             | 602.0 GiB  | 201.1 GiB (33.40%)  | 42 (~14.3 GiB each)   |
+| 45   | Arid             | 599.1 GiB  | 201.1 GiB (33.56%)  | 41 (~14.6 GiB each)   |
 | 46   | uba              | 587.8 GiB  | 587.8 GiB (100.00%) | 10 (~58.8 GiB each)   |
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 47.3 TiB   | 25.3 TiB (53.44%)   | 2073 (~23.4 GiB each) |
+| 50   | Others           | 47.4 TiB   | 25.3 TiB (53.47%)   | 2075 (~23.4 GiB each) |

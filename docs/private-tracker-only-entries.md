@@ -25,10 +25,9 @@
 | 22  | MEGANEBU!                                                | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
 | 23  | Overlord: Ple Ple Pleiades 4                             | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
 | 24  | Mazinger Edition Z: The Impact!                          | 2009 | 12 Jul 2026 | [SeaDex](https://releases.moe/5485/), [AniList](https://anilist.co/anime/5485)     |
-| 25  | Suna no Bara: Yuki no Mokushiroku                        | 1993 | 21 Jul 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 26  | Gurazeni: Money Pitch                                    | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/98479/), [AniList](https://anilist.co/anime/98479)   |
-| 27  | Genesis Climber Mospeada                                 | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
-| 28  | Inukami! The Movie: Spiritual Investigator Shiro Karina! | 2007 | 08 Aug 2026 | [SeaDex](https://releases.moe/2132/), [AniList](https://anilist.co/anime/2132)     |
-| 29  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro              | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
-| 30  | Ninja Robots Tobikage                                    | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
-| 31  | Gurazeni: Money Pitch 2                                  | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/102974/), [AniList](https://anilist.co/anime/102974) |
+| 25  | Gurazeni: Money Pitch                                    | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/98479/), [AniList](https://anilist.co/anime/98479)   |
+| 26  | Genesis Climber Mospeada                                 | 1983 | 01 Aug 2026 | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
+| 27  | Inukami! The Movie: Spiritual Investigator Shiro Karina! | 2007 | 08 Aug 2026 | [SeaDex](https://releases.moe/2132/), [AniList](https://anilist.co/anime/2132)     |
+| 28  | Genei wo Kakeru Taiyou: Fumikome nai Kokoro              | 2013 | 16 Jul 2026 | [SeaDex](https://releases.moe/20187/), [AniList](https://anilist.co/anime/20187)   |
+| 29  | Ninja Robots Tobikage                                    | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 30  | Gurazeni: Money Pitch 2                                  | 2018 | 04 Aug 2026 | [SeaDex](https://releases.moe/102974/), [AniList](https://anilist.co/anime/102974) |
