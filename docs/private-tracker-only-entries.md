@@ -7,8 +7,8 @@
 | 4   | 2.43: Seiin High School Boys Volleyball Team             | 2021 | 09 Aug 2026 | [SeaDex](https://releases.moe/113231/), [AniList](https://anilist.co/anime/113231) |
 | 5   | Immoral Guild                                            | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
 | 6   | Higurashi: When They Cry - SOTSU                         | 2021 | 12 Jul 2026 | [SeaDex](https://releases.moe/131149/), [AniList](https://anilist.co/anime/131149) |
-| 7   | Scott Pilgrim Takes Off                                  | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
-| 8   | New Saga                                                 | 2025 | 06 Aug 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
+| 7   | New Saga                                                 | 2025 | 06 Aug 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
+| 8   | Scott Pilgrim Takes Off                                  | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
 | 9   | Scarlet Nexus                                            | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 10  | Anonymous Noise                                          | 2017 | 17 Jul 2026 | [SeaDex](https://releases.moe/21773/), [AniList](https://anilist.co/anime/21773)   |
 | 11  | The Qwaser of Stigmata II                                | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |

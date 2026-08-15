@@ -56,7 +56,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | GetItTwisted                    | 24    |
 | 11   | FLE                             | 23    |
 | 12   | Moxie / smol                    | 21    |
-| 13   | ZeroBuild                       | 19    |
+| 13   | ZeroBuild                       | 20    |
 | 14   | Lulu                            | 18    |
 | 15   | Flugel                          | 17    |
 | 16   | LazyRemux / PMR                 | 16    |
@@ -72,33 +72,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best entries
 
-| Rank | Group                                      | Count |
-| :----| :------------------------------------------| :-----|
-| 🥇   | -ZR-                                       | 148   |
-| 🥈   | CRUCiBLE                                   | 129   |
-| 🥉   | sam                                        | 128   |
-| 4    | NAN0                                       | 115   |
-| 5    | Headpatter                                 | 105   |
-| 6    | Moxie                                      | 99    |
-| 7    | MTBB                                       | 76    |
-| 8    | hchcsen                                    | 72    |
-| 9    | smol                                       | 54    |
-| 10   | PMR                                        | 40    |
-| 11   | Okay-Subs / TTGA                           | 38    |
-| 12   | YURASUKA                                   | 36    |
-| 13   | GetItTwisted                               | 35    |
-| 14   | B00BA                                      | 34    |
-| 15   | LYS1TH3A                                   | 33    |
-| 16   | YURI                                       | 31    |
-| 17   | Orphan                                     | 26    |
-| 18   | FLE                                        | 25    |
-| 19   | Mehul                                      | 23    |
-| 20   | nekotan                                    | 22    |
-| 21   | Lulu                                       | 21    |
-| 22   | Kawatare / LaCroiX / LazyRemux / ZeroBuild | 19    |
-| 23   | Arid / koala                               | 18    |
-| 24   | Flugel                                     | 17    |
-| 25   | Drag / Reza                                | 16    |
+| Rank | Group                          | Count |
+| :----| :------------------------------| :-----|
+| 🥇   | -ZR-                           | 148   |
+| 🥈   | CRUCiBLE                       | 129   |
+| 🥉   | sam                            | 128   |
+| 4    | NAN0                           | 115   |
+| 5    | Headpatter                     | 105   |
+| 6    | Moxie                          | 99    |
+| 7    | MTBB                           | 76    |
+| 8    | hchcsen                        | 72    |
+| 9    | smol                           | 54    |
+| 10   | PMR                            | 40    |
+| 11   | Okay-Subs / TTGA               | 38    |
+| 12   | YURASUKA                       | 36    |
+| 13   | GetItTwisted                   | 35    |
+| 14   | B00BA                          | 34    |
+| 15   | LYS1TH3A                       | 33    |
+| 16   | YURI                           | 31    |
+| 17   | Orphan                         | 26    |
+| 18   | FLE                            | 25    |
+| 19   | Mehul                          | 23    |
+| 20   | nekotan                        | 22    |
+| 21   | Lulu                           | 21    |
+| 22   | ZeroBuild                      | 20    |
+| 23   | Kawatare / LaCroiX / LazyRemux | 19    |
+| 24   | Arid / koala                   | 18    |
+| 25   | Flugel                         | 17    |
 
 ## Top 25 - Alt entries
 

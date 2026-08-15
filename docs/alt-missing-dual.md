@@ -65,8 +65,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 58  | Revolutionary Girl Utena                                                                   | 1997 | 12 May 2026 | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
 | 59  | My Instant Death Ability is Overpowered                                                    | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
 | 60  | Brynhildr in the Darkness                                                                  | 2014 | 02 May 2026 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
-| 61  | Hi Score Girl                                                                              | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/20574/), [AniList](https://anilist.co/anime/20574)   |
-| 62  | My Hero Academia: Vigilantes                                                               | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
+| 61  | My Hero Academia: Vigilantes                                                               | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
+| 62  | Hi Score Girl                                                                              | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/20574/), [AniList](https://anilist.co/anime/20574)   |
 | 63  | King's Game                                                                                | 2017 | 03 Jun 2026 | [SeaDex](https://releases.moe/99698/), [AniList](https://anilist.co/anime/99698)   |
 | 64  | Taboo Tattoo                                                                               | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
 | 65  | Golden Kamuy Season 2                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
