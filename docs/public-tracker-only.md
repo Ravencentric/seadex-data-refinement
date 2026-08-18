@@ -5,7 +5,7 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                            | Year | Updated At  | Links                                                                              |
 | :---| :--------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | I'm Standing on a Million Lives                                                  | 2020 | 16 Aug 2026 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
+| 1   | I'm Standing on a Million Lives                                                  | 2020 | 17 Aug 2026 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
 | 2   | Farewell to Space Battleship Yamato: In the Name of Love                         | 1978 | 13 Aug 2026 | [SeaDex](https://releases.moe/3067/), [AniList](https://anilist.co/anime/3067)     |
 | 3   | Love Through A Prism                                                             | 2026 | 11 Aug 2026 | [SeaDex](https://releases.moe/202955/), [AniList](https://anilist.co/anime/202955) |
 | 4   | Little Witch Academia                                                            | 2013 | 10 Aug 2026 | [SeaDex](https://releases.moe/14349/), [AniList](https://anilist.co/anime/14349)   |

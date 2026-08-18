@@ -24,7 +24,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 17  | Welcome to Demon School! Iruma-kun Season 2                                | 2021 | 02 May 2026 | [SeaDex](https://releases.moe/116338/), [AniList](https://anilist.co/anime/116338) |
 | 18  | The Asterisk War 2                                                         | 2016 | 03 Jun 2026 | [SeaDex](https://releases.moe/21390/), [AniList](https://anilist.co/anime/21390)   |
 | 19  | Mayo Chiki!                                                                | 2011 | 11 Apr 2026 | [SeaDex](https://releases.moe/10110/), [AniList](https://anilist.co/anime/10110)   |
-| 20  | I'm Standing on a Million Lives                                            | 2020 | 16 Aug 2026 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
+| 20  | I'm Standing on a Million Lives                                            | 2020 | 17 Aug 2026 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
 | 21  | Armed Girl's Machiavellism                                                 | 2017 | 19 Apr 2026 | [SeaDex](https://releases.moe/21851/), [AniList](https://anilist.co/anime/21851)   |
 | 22  | Spice and Wolf II                                                          | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
 | 23  | Inu X Boku Secret Service                                                  | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/11013/), [AniList](https://anilist.co/anime/11013)   |

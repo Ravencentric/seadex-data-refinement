@@ -19,8 +19,8 @@
 | 16  | Day Break Illusion                                       | 2013 | 13 Jul 2026 | [SeaDex](https://releases.moe/17651/), [AniList](https://anilist.co/anime/17651)   |
 | 17  | Majestic Prince                                          | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
 | 18  | Kyou kara Ore wa!!                                       | 1993 | 10 Aug 2026 | [SeaDex](https://releases.moe/851/), [AniList](https://anilist.co/anime/851)       |
-| 19  | Macross 7                                                | 1994 | 10 Aug 2026 | [SeaDex](https://releases.moe/1397/), [AniList](https://anilist.co/anime/1397)     |
-| 20  | Shagahai ReLIFE Kenkyuujo Support-ka                     | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 19  | Shagahai ReLIFE Kenkyuujo Support-ka                     | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 20  | Concrete Revolutio: THE LAST SONG                        | 2016 | 17 Aug 2026 | [SeaDex](https://releases.moe/21540/), [AniList](https://anilist.co/anime/21540)   |
 | 21  | Murder Princess                                          | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
 | 22  | MEGANEBU!                                                | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
 | 23  | Overlord: Ple Ple Pleiades 4                             | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
