@@ -33,7 +33,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 11   | GetItTwisted     | 2.0 TiB    | 1.5 TiB (77.14%)    | 65 (~31.5 GiB each)   |
 | 12   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
 | 13   | NOGRP            | 1.8 TiB    | 1.1 TiB (62.83%)    | 48 (~38.5 GiB each)   |
-| 14   | MTBB             | 1.6 TiB    | 1.4 TiB (84.55%)    | 106 (~15.6 GiB each)  |
+| 14   | MTBB             | 1.6 TiB    | 1.4 TiB (84.66%)    | 107 (~15.6 GiB each)  |
 | 15   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~74.3 GiB each)   |
 | 16   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 17   | Sylvar           | 1.3 TiB    | 1.3 TiB (94.83%)    | 16 (~86.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 47.4 TiB   | 25.3 TiB (53.43%)   | 2076 (~23.4 GiB each) |
+| 50   | Others           | 47.4 TiB   | 25.3 TiB (53.42%)   | 2075 (~23.4 GiB each) |

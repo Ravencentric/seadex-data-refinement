@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam                            | 137   |
 | 🥉   | CRUCiBLE                       | 129   |
 | 4    | NAN0                           | 117   |
-| 5    | MTBB                           | 106   |
+| 5    | MTBB                           | 107   |
 | 6    | hchcsen                        | 104   |
 | 7    | Moxie / YURASUKA               | 99    |
 | 8    | SubsPlease                     | 74    |
@@ -80,7 +80,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0                           | 115   |
 | 5    | Headpatter                     | 106   |
 | 6    | Moxie                          | 99    |
-| 7    | MTBB                           | 76    |
+| 7    | MTBB                           | 77    |
 | 8    | hchcsen                        | 73    |
 | 9    | smol                           | 54    |
 | 10   | PMR                            | 40    |

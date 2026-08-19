@@ -100,8 +100,8 @@
 | 97  | Metropolis                                                                           | 2001 | 02 Aug 2025 | [SeaDex](https://releases.moe/522/), [AniList](https://anilist.co/anime/522)       |
 | 98  | ROOM CAMP                                                                            | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/104461/), [AniList](https://anilist.co/anime/104461) |
 | 99  | Strawberry Panic                                                                     | 2006 | 17 Nov 2025 | [SeaDex](https://releases.moe/855/), [AniList](https://anilist.co/anime/855)       |
-| 100 | Baby Steps                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20510/), [AniList](https://anilist.co/anime/20510)   |
-| 101 | White Album                                                                          | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/4720/), [AniList](https://anilist.co/anime/4720)     |
+| 100 | White Album                                                                          | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/4720/), [AniList](https://anilist.co/anime/4720)     |
+| 101 | Baby Steps                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20510/), [AniList](https://anilist.co/anime/20510)   |
 | 102 | Ao Haru Ride: unwritten                                                              | 2014 | 17 Nov 2025 | [SeaDex](https://releases.moe/20837/), [AniList](https://anilist.co/anime/20837)   |
 | 103 | Gintama: THE SEMI-FINAL                                                              | 2021 | 18 Dec 2025 | [SeaDex](https://releases.moe/126819/), [AniList](https://anilist.co/anime/126819) |
 | 104 | Akagi                                                                                | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
@@ -187,8 +187,8 @@
 | 184 | Big Fish & Begonia                                                                   | 2016 | 11 Aug 2025 | [SeaDex](https://releases.moe/10259/), [AniList](https://anilist.co/anime/10259)   |
 | 185 | Beyond the Boundary: Mini Theater                                                    | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20531/), [AniList](https://anilist.co/anime/20531)   |
 | 186 | GIRLS Bravo: second season                                                           | 2005 | 03 Jul 2024 | [SeaDex](https://releases.moe/487/), [AniList](https://anilist.co/anime/487)       |
-| 187 | Waiting in the Summer OVA                                                            | 2014 | 10 Jul 2026 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
-| 188 | Arifureta Shokugyou de Sekai Saikyou Prologue                                        | 2020 | 07 May 2024 | [SeaDex](https://releases.moe/145560/), [AniList](https://anilist.co/anime/145560) |
+| 187 | Arifureta Shokugyou de Sekai Saikyou Prologue                                        | 2020 | 07 May 2024 | [SeaDex](https://releases.moe/145560/), [AniList](https://anilist.co/anime/145560) |
+| 188 | Waiting in the Summer OVA                                                            | 2014 | 10 Jul 2026 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
 | 189 | Stella Women's Academy, High School Division Class C3                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/17821/), [AniList](https://anilist.co/anime/17821)   |
 | 190 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
 | 191 | Gunslinger Girl -Il Teatrino-                                                        | 2008 | 02 Aug 2025 | [SeaDex](https://releases.moe/3231/), [AniList](https://anilist.co/anime/3231)     |

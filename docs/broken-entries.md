@@ -50,8 +50,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 43  | Gintama.: Silver Soul Arc - Second Half War                                | 2018 | 27 Jul 2026 | [SeaDex](https://releases.moe/101925/), [AniList](https://anilist.co/anime/101925) |
 | 44  | Kämpfer                                                                    | 2009 | 01 Jun 2026 | [SeaDex](https://releases.moe/6205/), [AniList](https://anilist.co/anime/6205)     |
 | 45  | Puella Magi Madoka Magica the Movie Part 1: Beginnings                     | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11977/), [AniList](https://anilist.co/anime/11977)   |
-| 46  | KanColle                                                                   | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
-| 47  | I'm Standing on a Million Lives Season 2                                   | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
+| 46  | I'm Standing on a Million Lives Season 2                                   | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
+| 47  | KanColle                                                                   | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 48  | Gintama.: Slip Arc                                                         | 2017 | 27 Jul 2026 | [SeaDex](https://releases.moe/99714/), [AniList](https://anilist.co/anime/99714)   |
 | 49  | Puella Magi Madoka Magica the Movie Part 2: Eternal                        | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11979/), [AniList](https://anilist.co/anime/11979)   |
 | 50  | Fate/strange Fake -Whispers of Dawn-                                       | 2023 | 29 Jul 2026 | [SeaDex](https://releases.moe/154966/), [AniList](https://anilist.co/anime/154966) |
