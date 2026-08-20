@@ -40,8 +40,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 33  | ONIMAI: I'm Now Your Sister!                                               | 2023 | 07 Aug 2025 | [SeaDex](https://releases.moe/147864/), [AniList](https://anilist.co/anime/147864) |
 | 34  | Rent-a-Girlfriend Season 3                                                 | 2023 | 05 Jun 2026 | [SeaDex](https://releases.moe/154745/), [AniList](https://anilist.co/anime/154745) |
 | 35  | My Hero Academia: Vigilantes                                               | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
-| 36  | King's Game                                                                | 2017 | 03 Jun 2026 | [SeaDex](https://releases.moe/99698/), [AniList](https://anilist.co/anime/99698)   |
-| 37  | Monster Girl Doctor                                                        | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
+| 36  | Monster Girl Doctor                                                        | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
+| 37  | King's Game                                                                | 2017 | 03 Jun 2026 | [SeaDex](https://releases.moe/99698/), [AniList](https://anilist.co/anime/99698)   |
 | 38  | Ace of the Diamond                                                         | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
 | 39  | K: RETURN OF KINGS                                                         | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 40  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | 2025 | 30 Jun 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |

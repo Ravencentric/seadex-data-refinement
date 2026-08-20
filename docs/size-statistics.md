@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `150.7 TiB`
+- Total size: `150.8 TiB`
 - Best size: `114.6 TiB`
-- Alt size: `36.1 TiB`
-- Realistic size: `117.7 TiB`
+- Alt size: `36.2 TiB`
+- Realistic size: `117.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 47.4 TiB   | 25.3 TiB (53.42%)   | 2075 (~23.4 GiB each) |
+| 50   | Others           | 47.5 TiB   | 25.3 TiB (53.32%)   | 2077 (~23.4 GiB each) |
