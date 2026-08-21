@@ -12,33 +12,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Total entries
 
-| Rank | Group                          | Count |
-| :----| :------------------------------| :-----|
-| 🥇   | -ZR- / Headpatter              | 174   |
-| 🥈   | sam                            | 137   |
-| 🥉   | CRUCiBLE                       | 129   |
-| 4    | NAN0                           | 117   |
-| 5    | MTBB                           | 107   |
-| 6    | hchcsen                        | 104   |
-| 7    | Moxie / YURASUKA               | 99    |
-| 8    | SubsPlease                     | 74    |
-| 9    | YURI                           | 68    |
-| 10   | Drag                           | 58    |
-| 11   | smol                           | 56    |
-| 12   | Erai-raws / KH                 | 55    |
-| 13   | NOGRP                          | 48    |
-| 14   | GetItTwisted                   | 47    |
-| 15   | LostYears                      | 41    |
-| 16   | Arid / Okay-Subs / PMR         | 40    |
-| 17   | TTGA                           | 39    |
-| 18   | Commie                         | 38    |
-| 19   | Holomux / LYS1TH3A             | 35    |
-| 20   | B00BA                          | 34    |
-| 21   | Lulu                           | 33    |
-| 22   | Bunny-Apocalypse               | 31    |
-| 23   | FLE / Kametsu / Orphan / VARYG | 29    |
-| 24   | nekotan                        | 27    |
-| 25   | Kawatare / Pog42 / SCY         | 26    |
+| Rank | Group                  | Count |
+| :----| :----------------------| :-----|
+| 🥇   | -ZR- / Headpatter      | 174   |
+| 🥈   | sam                    | 137   |
+| 🥉   | CRUCiBLE               | 129   |
+| 4    | NAN0                   | 117   |
+| 5    | MTBB                   | 107   |
+| 6    | hchcsen                | 104   |
+| 7    | Moxie / YURASUKA       | 99    |
+| 8    | SubsPlease             | 74    |
+| 9    | YURI                   | 68    |
+| 10   | Drag                   | 58    |
+| 11   | Erai-raws / smol       | 56    |
+| 12   | KH                     | 55    |
+| 13   | NOGRP                  | 48    |
+| 14   | GetItTwisted           | 47    |
+| 15   | LostYears              | 41    |
+| 16   | Arid / Okay-Subs / PMR | 40    |
+| 17   | TTGA                   | 39    |
+| 18   | Commie                 | 38    |
+| 19   | Holomux / LYS1TH3A     | 35    |
+| 20   | B00BA                  | 34    |
+| 21   | Lulu                   | 33    |
+| 22   | Bunny-Apocalypse       | 31    |
+| 23   | FLE / Kametsu / Orphan | 29    |
+| 24   | VARYG                  | 28    |
+| 25   | nekotan                | 27    |
 
 ## Top 25 - Best dual audio entries
 
@@ -107,15 +107,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | Headpatter                                     | 88    |
 | 🥈   | YURASUKA                                       | 64    |
 | 🥉   | SubsPlease                                     | 62    |
-| 4    | Erai-raws / KH                                 | 47    |
-| 5    | Drag                                           | 43    |
-| 6    | hchcsen                                        | 39    |
-| 7    | Commie / YURI                                  | 38    |
-| 8    | -ZR-                                           | 37    |
-| 9    | NOGRP                                          | 33    |
-| 10   | GetItTwisted / LostYears / MTBB                | 30    |
-| 11   | VARYG                                          | 27    |
-| 12   | Holomux                                        | 26    |
+| 4    | Erai-raws                                      | 48    |
+| 5    | KH                                             | 47    |
+| 6    | Drag                                           | 43    |
+| 7    | hchcsen                                        | 39    |
+| 8    | Commie / YURI                                  | 38    |
+| 9    | -ZR-                                           | 37    |
+| 10   | NOGRP                                          | 33    |
+| 11   | GetItTwisted / LostYears / MTBB                | 30    |
+| 12   | Holomux / VARYG                                | 26    |
 | 13   | Bunny-Apocalypse                               | 25    |
 | 14   | Arid / Chihiro                                 | 23    |
 | 15   | Kametsu                                        | 21    |
