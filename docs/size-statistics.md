@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `150.8 TiB`
-- Best size: `114.6 TiB`
+- Total size: `150.9 TiB`
+- Best size: `114.7 TiB`
 - Alt size: `36.2 TiB`
 - Realistic size: `117.8 TiB`
 
@@ -25,7 +25,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | hchcsen          | 9.1 TiB    | 7.8 TiB (86.09%)    | 112 (~83.2 GiB each)  |
 | 4    | NAN0             | 8.8 TiB    | 8.7 TiB (98.71%)    | 117 (~76.8 GiB each)  |
 | 5    | Headpatter       | 5.7 TiB    | 4.2 TiB (74.07%)    | 194 (~30.1 GiB each)  |
-| 6    | sam              | 4.1 TiB    | 3.8 TiB (93.50%)    | 137 (~30.3 GiB each)  |
+| 6    | sam              | 4.1 TiB    | 3.8 TiB (93.58%)    | 137 (~30.7 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 99 (~39.5 GiB each)   |
 | 8    | PMR              | 3.1 TiB    | 3.1 TiB (100.00%)   | 40 (~80.5 GiB each)   |
 | 9    | B00BA            | 3.0 TiB    | 3.0 TiB (100.00%)   | 34 (~90.2 GiB each)   |
