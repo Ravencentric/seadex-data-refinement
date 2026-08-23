@@ -206,8 +206,8 @@
 | 203 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
 | 204 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
 | 205 | One Room 3rd                                                                         | 2020 | 30 Dec 2023 | [SeaDex](https://releases.moe/116147/), [AniList](https://anilist.co/anime/116147) |
-| 206 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
-| 207 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
+| 206 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
+| 207 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 208 | School Days: Valentine Days                                                          | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3759/), [AniList](https://anilist.co/anime/3759)     |
 | 209 | The Master of Killing Time OVA                                                       | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20600/), [AniList](https://anilist.co/anime/20600)   |
 | 210 | Pingu in the City                                                                    | 2017 | 27 Dec 2023 | [SeaDex](https://releases.moe/99994/), [AniList](https://anilist.co/anime/99994)   |
@@ -324,8 +324,8 @@
 | 321 | Majo Demo Steady                                                                     | 1986 | 21 Jul 2024 | [SeaDex](https://releases.moe/8889/), [AniList](https://anilist.co/anime/8889)     |
 | 322 | Bagi, the Monster of Mighty Nature                                                   | 1984 | 27 Nov 2024 | [SeaDex](https://releases.moe/2312/), [AniList](https://anilist.co/anime/2312)     |
 | 323 | Megazone 23 Part III                                                                 | 1989 | 22 Jul 2024 | [SeaDex](https://releases.moe/129591/), [AniList](https://anilist.co/anime/129591) |
-| 324 | Blue Sonnet                                                                          | 1989 | 17 Jun 2024 | [SeaDex](https://releases.moe/2051/), [AniList](https://anilist.co/anime/2051)     |
-| 325 | Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou                                  | 2015 | 14 Nov 2023 | [SeaDex](https://releases.moe/102077/), [AniList](https://anilist.co/anime/102077) |
+| 324 | Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou                                  | 2015 | 14 Nov 2023 | [SeaDex](https://releases.moe/102077/), [AniList](https://anilist.co/anime/102077) |
+| 325 | Blue Sonnet                                                                          | 1989 | 17 Jun 2024 | [SeaDex](https://releases.moe/2051/), [AniList](https://anilist.co/anime/2051)     |
 | 326 | B.B. Fish                                                                            | 1994 | 10 Jun 2024 | [SeaDex](https://releases.moe/5904/), [AniList](https://anilist.co/anime/5904)     |
 | 327 | Yume kara, Samenai                                                                   | 1987 | 13 Nov 2023 | [SeaDex](https://releases.moe/7482/), [AniList](https://anilist.co/anime/7482)     |
 | 328 | Momoiro Sisters                                                                      | 1998 | 24 Jul 2024 | [SeaDex](https://releases.moe/1188/), [AniList](https://anilist.co/anime/1188)     |

@@ -59,8 +59,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 52  | Kanokon: The Girl Who Cried Fox                                            | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/3503/), [AniList](https://anilist.co/anime/3503)     |
 | 53  | Headhunted to Another World: From Salaryman to Big Four!                   | 2025 | 16 Apr 2026 | [SeaDex](https://releases.moe/179689/), [AniList](https://anilist.co/anime/179689) |
 | 54  | Ghost in the Shell: Stand Alone Complex 2nd GIG                            | 2004 | 19 Jul 2026 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
-| 55  | Casshern Sins                                                              | 2008 | 16 Sep 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
-| 56  | BEATLESS                                                                   | 2018 | 01 Aug 2025 | [SeaDex](https://releases.moe/100245/), [AniList](https://anilist.co/anime/100245) |
+| 55  | BEATLESS                                                                   | 2018 | 01 Aug 2025 | [SeaDex](https://releases.moe/100245/), [AniList](https://anilist.co/anime/100245) |
+| 56  | Casshern Sins                                                              | 2008 | 16 Sep 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
 | 57  | Clockwork Planet                                                           | 2017 | 29 Jan 2026 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 58  | Scott Pilgrim Takes Off                                                    | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
 | 59  | Minami-ke                                                                  | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |

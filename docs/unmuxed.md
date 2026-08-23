@@ -119,8 +119,8 @@
 | 116 | Hamatora                                                                           | 2014 | 21 Apr 2026 | [SeaDex](https://releases.moe/20521/), [AniList](https://anilist.co/anime/20521)   |
 | 117 | Riddle Story of Devil                                                              | 2014 | 07 Apr 2025 | [SeaDex](https://releases.moe/19429/), [AniList](https://anilist.co/anime/19429)   |
 | 118 | Joshiraku                                                                          | 2012 | 20 Nov 2025 | [SeaDex](https://releases.moe/12679/), [AniList](https://anilist.co/anime/12679)   |
-| 119 | Gankutsuou: The Count of Monte Cristo                                              | 2004 | 02 Aug 2026 | [SeaDex](https://releases.moe/239/), [AniList](https://anilist.co/anime/239)       |
-| 120 | Dragon Ball DAIMA                                                                  | 2024 | 14 Dec 2025 | [SeaDex](https://releases.moe/170083/), [AniList](https://anilist.co/anime/170083) |
+| 119 | Dragon Ball DAIMA                                                                  | 2024 | 14 Dec 2025 | [SeaDex](https://releases.moe/170083/), [AniList](https://anilist.co/anime/170083) |
+| 120 | Gankutsuou: The Count of Monte Cristo                                              | 2004 | 02 Aug 2026 | [SeaDex](https://releases.moe/239/), [AniList](https://anilist.co/anime/239)       |
 | 121 | Irina: The Vampire Cosmonaut                                                       | 2021 | 16 Feb 2026 | [SeaDex](https://releases.moe/131019/), [AniList](https://anilist.co/anime/131019) |
 | 122 | Chihayafuru 2                                                                      | 2013 | 21 Jun 2024 | [SeaDex](https://releases.moe/14397/), [AniList](https://anilist.co/anime/14397)   |
 | 123 | Jin-Roh: The Wolf Brigade                                                          | 2000 | 05 Apr 2026 | [SeaDex](https://releases.moe/570/), [AniList](https://anilist.co/anime/570)       |

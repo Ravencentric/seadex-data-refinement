@@ -27,8 +27,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 20  | Sword Art Online: Alicization - War of Underworld Part 2                                   | 2020 | 13 Nov 2023 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
 | 21  | Sword Art Online the Movie: Ordinal Scale                                                  | 2017 | 07 Aug 2025 | [SeaDex](https://releases.moe/21403/), [AniList](https://anilist.co/anime/21403)   |
 | 22  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
-| 23  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                 | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
-| 24  | Classroom of the Elite Season 3                                                            | 2024 | 13 Aug 2026 | [SeaDex](https://releases.moe/146066/), [AniList](https://anilist.co/anime/146066) |
+| 23  | Classroom of the Elite Season 3                                                            | 2024 | 13 Aug 2026 | [SeaDex](https://releases.moe/146066/), [AniList](https://anilist.co/anime/146066) |
+| 24  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                 | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
 | 25  | Spice and Wolf                                                                             | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
 | 26  | K                                                                                          | 2012 | 10 May 2026 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 27  | Welcome to Demon School! Iruma-kun                                                         | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
