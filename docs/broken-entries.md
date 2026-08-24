@@ -59,8 +59,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 52  | Kanokon: The Girl Who Cried Fox                                            | 2008 | 01 Aug 2025 | [SeaDex](https://releases.moe/3503/), [AniList](https://anilist.co/anime/3503)     |
 | 53  | Headhunted to Another World: From Salaryman to Big Four!                   | 2025 | 16 Apr 2026 | [SeaDex](https://releases.moe/179689/), [AniList](https://anilist.co/anime/179689) |
 | 54  | Ghost in the Shell: Stand Alone Complex 2nd GIG                            | 2004 | 19 Jul 2026 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
-| 55  | BEATLESS                                                                   | 2018 | 01 Aug 2025 | [SeaDex](https://releases.moe/100245/), [AniList](https://anilist.co/anime/100245) |
-| 56  | Casshern Sins                                                              | 2008 | 16 Sep 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
+| 55  | Casshern Sins                                                              | 2008 | 16 Sep 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
+| 56  | BEATLESS                                                                   | 2018 | 01 Aug 2025 | [SeaDex](https://releases.moe/100245/), [AniList](https://anilist.co/anime/100245) |
 | 57  | Clockwork Planet                                                           | 2017 | 29 Jan 2026 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 58  | Scott Pilgrim Takes Off                                                    | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
 | 59  | Minami-ke                                                                  | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
@@ -77,7 +77,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 70  | Sengoku Basara: Samurai Kings                                              | 2009 | 14 Jul 2026 | [SeaDex](https://releases.moe/5355/), [AniList](https://anilist.co/anime/5355)     |
 | 71  | The Qwaser of Stigmata II                                                  | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
 | 72  | My First Girlfriend is a Gal OVA                                           | 2017 | 14 Aug 2025 | [SeaDex](https://releases.moe/98878/), [AniList](https://anilist.co/anime/98878)   |
-| 73  | HYPNOSISMIC -Division Rap Battle- Rhyme Anima                              | 2020 | 30 Jul 2026 | [SeaDex](https://releases.moe/113652/), [AniList](https://anilist.co/anime/113652) |
+| 73  | HYPNOSISMIC -Division Rap Battle- Rhyme Anima                              | 2020 | 24 Aug 2026 | [SeaDex](https://releases.moe/113652/), [AniList](https://anilist.co/anime/113652) |
 | 74  | Chaos Dragon                                                               | 2015 | 07 Jun 2026 | [SeaDex](https://releases.moe/21055/), [AniList](https://anilist.co/anime/21055)   |
 | 75  | Wash It All Away                                                           | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
 | 76  | Letter Bee                                                                 | 2009 | 22 Jun 2026 | [SeaDex](https://releases.moe/6444/), [AniList](https://anilist.co/anime/6444)     |
@@ -98,7 +98,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 91  | Le Chevalier D'Eon                                                         | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 92  | Kyou kara Ore wa!!                                                         | 1993 | 10 Aug 2026 | [SeaDex](https://releases.moe/851/), [AniList](https://anilist.co/anime/851)       |
 | 93  | MOBILE SUIT GUNDAM UNICORN RE:0096                                         | 2016 | 11 Jun 2026 | [SeaDex](https://releases.moe/21658/), [AniList](https://anilist.co/anime/21658)   |
-| 94  | Murder Princess                                                            | 2007 | 15 Jun 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
+| 94  | Murder Princess                                                            | 2007 | 23 Aug 2026 | [SeaDex](https://releases.moe/1696/), [AniList](https://anilist.co/anime/1696)     |
 | 95  | Air Gear: Special Trick                                                    | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
 | 96  | Linebarrels of Iron                                                        | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3653/), [AniList](https://anilist.co/anime/3653)     |
 | 97  | Marriage of God & Soul Godannar!!                                          | 2003 | 28 Jun 2026 | [SeaDex](https://releases.moe/1103/), [AniList](https://anilist.co/anime/1103)     |

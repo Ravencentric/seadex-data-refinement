@@ -11,7 +11,7 @@ All of this and more means that we need to settle on a method to calculate these
 - Total size: `150.9 TiB`
 - Best size: `114.7 TiB`
 - Alt size: `36.2 TiB`
-- Realistic size: `117.8 TiB`
+- Realistic size: `117.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -44,8 +44,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 22   | YURASUKA         | 1.2 TiB    | 464.7 GiB (38.96%)  | 99 (~12.0 GiB each)   |
 | 23   | FLE              | 1.1 TiB    | 1.0 TiB (93.83%)    | 29 (~38.3 GiB each)   |
 | 24   | smol             | 991.2 GiB  | 941.7 GiB (95.01%)  | 56 (~17.7 GiB each)   |
-| 25   | FraMeSToR        | 959.9 GiB  | 822.9 GiB (85.73%)  | 13 (~73.8 GiB each)   |
-| 26   | Erai-raws        | 959.0 GiB  | 116.5 GiB (12.15%)  | 56 (~17.1 GiB each)   |
+| 25   | Erai-raws        | 976.7 GiB  | 116.5 GiB (11.93%)  | 57 (~17.1 GiB each)   |
+| 26   | FraMeSToR        | 959.9 GiB  | 822.9 GiB (85.73%)  | 13 (~73.8 GiB each)   |
 | 27   | ZeroBuild        | 938.7 GiB  | 889.7 GiB (94.79%)  | 22 (~42.7 GiB each)   |
 | 28   | Holomux          | 931.8 GiB  | 193.5 GiB (20.76%)  | 36 (~25.9 GiB each)   |
 | 29   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 47.5 TiB   | 25.3 TiB (53.34%)   | 2076 (~23.4 GiB each) |
+| 50   | Others           | 47.5 TiB   | 25.3 TiB (53.36%)   | 2075 (~23.4 GiB each) |
