@@ -214,8 +214,8 @@
 | 211 | Golden Kamuy OVA                                                                     | 2018 | 31 Jan 2026 | [SeaDex](https://releases.moe/101830/), [AniList](https://anilist.co/anime/101830) |
 | 212 | Myriad Colors Phantom World: Limitless Phantom World                                 | 2016 | 08 Jun 2025 | [SeaDex](https://releases.moe/97951/), [AniList](https://anilist.co/anime/97951)   |
 | 213 | The Relative Worlds                                                                  | 2019 | 25 Jun 2025 | [SeaDex](https://releases.moe/104562/), [AniList](https://anilist.co/anime/104562) |
-| 214 | Miss Hokusai                                                                         | 2015 | 23 Feb 2026 | [SeaDex](https://releases.moe/20709/), [AniList](https://anilist.co/anime/20709)   |
-| 215 | Shinmai Maou no Testament: BURST Specials                                            | 2015 | 26 Feb 2025 | [SeaDex](https://releases.moe/102508/), [AniList](https://anilist.co/anime/102508) |
+| 214 | Shinmai Maou no Testament: BURST Specials                                            | 2015 | 26 Feb 2025 | [SeaDex](https://releases.moe/102508/), [AniList](https://anilist.co/anime/102508) |
+| 215 | Miss Hokusai                                                                         | 2015 | 23 Feb 2026 | [SeaDex](https://releases.moe/20709/), [AniList](https://anilist.co/anime/20709)   |
 | 216 | Macross Zero                                                                         | 2002 | 01 Jun 2025 | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
 | 217 | GJ-bu@                                                                               | 2014 | 03 Jul 2024 | [SeaDex](https://releases.moe/20567/), [AniList](https://anilist.co/anime/20567)   |
 | 218 | Is the Order a Rabbit?? ～Sing For You～                                             | 2019 | 12 Jul 2024 | [SeaDex](https://releases.moe/104199/), [AniList](https://anilist.co/anime/104199) |
@@ -238,8 +238,8 @@
 | 235 | Cat's Eye                                                                            | 1983 | 28 Nov 2024 | [SeaDex](https://releases.moe/2043/), [AniList](https://anilist.co/anime/2043)     |
 | 236 | TWOCAR                                                                               | 2017 | 14 Nov 2023 | [SeaDex](https://releases.moe/99672/), [AniList](https://anilist.co/anime/99672)   |
 | 237 | Strawberry Marshmallow OVA                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/1888/), [AniList](https://anilist.co/anime/1888)     |
-| 238 | Air Gear: Special Trick                                                              | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
-| 239 | Gokujo.                                                                              | 2012 | 03 Jul 2024 | [SeaDex](https://releases.moe/11769/), [AniList](https://anilist.co/anime/11769)   |
+| 238 | Gokujo.                                                                              | 2012 | 03 Jul 2024 | [SeaDex](https://releases.moe/11769/), [AniList](https://anilist.co/anime/11769)   |
+| 239 | Air Gear: Special Trick                                                              | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
 | 240 | Kurau Phantom Memory                                                                 | 2004 | 18 Jul 2024 | [SeaDex](https://releases.moe/483/), [AniList](https://anilist.co/anime/483)       |
 | 241 | Asura                                                                                | 2012 | 19 Aug 2024 | [SeaDex](https://releases.moe/8475/), [AniList](https://anilist.co/anime/8475)     |
 | 242 | Amatsuki                                                                             | 2008 | 06 May 2024 | [SeaDex](https://releases.moe/3359/), [AniList](https://anilist.co/anime/3359)     |
