@@ -86,8 +86,8 @@
 | 83  | You and Me.                                                                          | 2011 | 13 Nov 2024 | [SeaDex](https://releases.moe/10460/), [AniList](https://anilist.co/anime/10460)   |
 | 84  | Seraph of the End: Kyuuketsuki Shahal                                                | 2016 | 15 Nov 2023 | [SeaDex](https://releases.moe/21586/), [AniList](https://anilist.co/anime/21586)   |
 | 85  | Sagrada Reset                                                                        | 2017 | 16 Nov 2023 | [SeaDex](https://releases.moe/97660/), [AniList](https://anilist.co/anime/97660)   |
-| 86  | Urara Meirocho                                                                       | 2017 | 13 Nov 2024 | [SeaDex](https://releases.moe/21696/), [AniList](https://anilist.co/anime/21696)   |
-| 87  | Aura                                                                                 | 2013 | 27 Nov 2024 | [SeaDex](https://releases.moe/14669/), [AniList](https://anilist.co/anime/14669)   |
+| 86  | Aura                                                                                 | 2013 | 27 Nov 2024 | [SeaDex](https://releases.moe/14669/), [AniList](https://anilist.co/anime/14669)   |
+| 87  | Urara Meirocho                                                                       | 2017 | 13 Nov 2024 | [SeaDex](https://releases.moe/21696/), [AniList](https://anilist.co/anime/21696)   |
 | 88  | Hi Score Girl II                                                                     | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
 | 89  | Kamisama Kiss◎ OVA                                                                   | 2015 | 08 Jun 2025 | [SeaDex](https://releases.moe/21186/), [AniList](https://anilist.co/anime/21186)   |
 | 90  | Is the Order a Rabbit?? Season 2                                                     | 2015 | 08 Jun 2025 | [SeaDex](https://releases.moe/21034/), [AniList](https://anilist.co/anime/21034)   |
@@ -189,8 +189,8 @@
 | 186 | GIRLS Bravo: second season                                                           | 2005 | 03 Jul 2024 | [SeaDex](https://releases.moe/487/), [AniList](https://anilist.co/anime/487)       |
 | 187 | Arifureta Shokugyou de Sekai Saikyou Prologue                                        | 2020 | 07 May 2024 | [SeaDex](https://releases.moe/145560/), [AniList](https://anilist.co/anime/145560) |
 | 188 | Waiting in the Summer OVA                                                            | 2014 | 10 Jul 2026 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
-| 189 | Stella Women's Academy, High School Division Class C3                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/17821/), [AniList](https://anilist.co/anime/17821)   |
-| 190 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 189 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 190 | Stella Women's Academy, High School Division Class C3                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/17821/), [AniList](https://anilist.co/anime/17821)   |
 | 191 | Gunslinger Girl -Il Teatrino-                                                        | 2008 | 02 Aug 2025 | [SeaDex](https://releases.moe/3231/), [AniList](https://anilist.co/anime/3231)     |
 | 192 | Sound! Euphonium Shorts                                                              | 2015 | 07 Jun 2025 | [SeaDex](https://releases.moe/21255/), [AniList](https://anilist.co/anime/21255)   |
 | 193 | Asa Made Jugyou Chu!                                                                 | 2012 | 15 Nov 2023 | [SeaDex](https://releases.moe/12581/), [AniList](https://anilist.co/anime/12581)   |
@@ -228,8 +228,8 @@
 | 225 | Ronja, the Robber's Daughter                                                         | 2014 | 16 Nov 2023 | [SeaDex](https://releases.moe/20617/), [AniList](https://anilist.co/anime/20617)   |
 | 226 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://releases.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
 | 227 | ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes                                   | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/114981/), [AniList](https://anilist.co/anime/114981) |
-| 228 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
-| 229 | Demon City Shinjuku                                                                  | 1988 | 25 Jun 2024 | [SeaDex](https://releases.moe/499/), [AniList](https://anilist.co/anime/499)       |
+| 228 | Demon City Shinjuku                                                                  | 1988 | 25 Jun 2024 | [SeaDex](https://releases.moe/499/), [AniList](https://anilist.co/anime/499)       |
+| 229 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
 | 230 | Natsume's Book of Friends: Nyanko-sensei & The First Errand                          | 2013 | 01 Jan 2024 | [SeaDex](https://releases.moe/18849/), [AniList](https://anilist.co/anime/18849)   |
 | 231 | Beyond the Boundary: Idol Trial!                                                     | 2013 | 17 Jun 2024 | [SeaDex](https://releases.moe/20524/), [AniList](https://anilist.co/anime/20524)   |
 | 232 | Gintama: Shinyaku Benizakura-hen Special                                             | 2010 | 16 Nov 2023 | [SeaDex](https://releases.moe/9735/), [AniList](https://anilist.co/anime/9735)     |
@@ -238,8 +238,8 @@
 | 235 | Cat's Eye                                                                            | 1983 | 28 Nov 2024 | [SeaDex](https://releases.moe/2043/), [AniList](https://anilist.co/anime/2043)     |
 | 236 | TWOCAR                                                                               | 2017 | 14 Nov 2023 | [SeaDex](https://releases.moe/99672/), [AniList](https://anilist.co/anime/99672)   |
 | 237 | Strawberry Marshmallow OVA                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/1888/), [AniList](https://anilist.co/anime/1888)     |
-| 238 | Gokujo.                                                                              | 2012 | 03 Jul 2024 | [SeaDex](https://releases.moe/11769/), [AniList](https://anilist.co/anime/11769)   |
-| 239 | Air Gear: Special Trick                                                              | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
+| 238 | Air Gear: Special Trick                                                              | 2007 | 01 Aug 2025 | [SeaDex](https://releases.moe/3791/), [AniList](https://anilist.co/anime/3791)     |
+| 239 | Gokujo.                                                                              | 2012 | 03 Jul 2024 | [SeaDex](https://releases.moe/11769/), [AniList](https://anilist.co/anime/11769)   |
 | 240 | Kurau Phantom Memory                                                                 | 2004 | 18 Jul 2024 | [SeaDex](https://releases.moe/483/), [AniList](https://anilist.co/anime/483)       |
 | 241 | Asura                                                                                | 2012 | 19 Aug 2024 | [SeaDex](https://releases.moe/8475/), [AniList](https://anilist.co/anime/8475)     |
 | 242 | Amatsuki                                                                             | 2008 | 06 May 2024 | [SeaDex](https://releases.moe/3359/), [AniList](https://anilist.co/anime/3359)     |

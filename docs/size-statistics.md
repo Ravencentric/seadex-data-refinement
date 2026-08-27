@@ -9,8 +9,8 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `151.0 TiB`
-- Best size: `114.7 TiB`
-- Alt size: `36.2 TiB`
+- Best size: `114.8 TiB`
+- Alt size: `36.3 TiB`
 - Realistic size: `118.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 15.2 TiB   | 14.3 TiB (94.55%)   | 183 (~84.8 GiB each)  |
+| 1    | -ZR-             | 15.1 TiB   | 14.3 TiB (94.65%)   | 182 (~85.2 GiB each)  |
 | 2    | CRUCiBLE         | 9.4 TiB    | 9.4 TiB (100.00%)   | 129 (~75.0 GiB each)  |
 | 3    | hchcsen          | 9.1 TiB    | 7.8 TiB (86.09%)    | 112 (~83.2 GiB each)  |
 | 4    | NAN0             | 8.8 TiB    | 8.7 TiB (98.71%)    | 117 (~76.8 GiB each)  |
@@ -39,11 +39,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 18   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~68.9 GiB each)   |
 | 19   | A&C              | 1.3 TiB    | 1.2 TiB (97.97%)    | 5 (~260.6 GiB each)   |
-| 20   | SubsPlease       | 1.3 TiB    | 176.4 GiB (13.77%)  | 73 (~17.5 GiB each)   |
+| 20   | SubsPlease       | 1.2 TiB    | 176.4 GiB (13.95%)  | 72 (~17.6 GiB each)   |
 | 21   | nekotan          | 1.2 TiB    | 986.2 GiB (79.58%)  | 36 (~34.4 GiB each)   |
 | 22   | YURASUKA         | 1.2 TiB    | 464.7 GiB (38.96%)  | 99 (~12.0 GiB each)   |
 | 23   | FLE              | 1.1 TiB    | 1.0 TiB (93.83%)    | 29 (~38.3 GiB each)   |
-| 24   | Erai-raws        | 1002.4 GiB | 134.4 GiB (13.41%)  | 60 (~16.7 GiB each)   |
+| 24   | Erai-raws        | 1.0 TiB    | 134.4 GiB (12.97%)  | 62 (~16.7 GiB each)   |
 | 25   | smol             | 991.2 GiB  | 941.7 GiB (95.01%)  | 56 (~17.7 GiB each)   |
 | 26   | FraMeSToR        | 959.9 GiB  | 822.9 GiB (85.73%)  | 13 (~73.8 GiB each)   |
 | 27   | ZeroBuild        | 938.7 GiB  | 889.7 GiB (94.79%)  | 22 (~42.7 GiB each)   |
@@ -51,7 +51,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 29   | Mehul            | 926.2 GiB  | 866.9 GiB (93.60%)  | 27 (~34.3 GiB each)   |
 | 30   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 31   | KH               | 914.0 GiB  | 116.7 GiB (12.77%)  | 57 (~16.0 GiB each)   |
-| 32   | Okay-Subs        | 862.6 GiB  | 845.6 GiB (98.02%)  | 40 (~21.6 GiB each)   |
+| 32   | Okay-Subs        | 901.1 GiB  | 845.6 GiB (93.83%)  | 41 (~22.0 GiB each)   |
 | 33   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
 | 34   | Vodes            | 851.4 GiB  | 557.9 GiB (65.53%)  | 19 (~44.8 GiB each)   |
 | 35   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 47.5 TiB   | 25.3 TiB (53.35%)   | 2075 (~23.5 GiB each) |
+| 50   | Others           | 47.6 TiB   | 25.4 TiB (53.32%)   | 2077 (~23.4 GiB each) |
