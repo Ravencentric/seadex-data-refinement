@@ -14,15 +14,16 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 7   | Fate/strange Fake                                  | 2026 | 29 Jul 2026 | [SeaDex](https://releases.moe/166617/), [AniList](https://anilist.co/anime/166617) |
 | 8   | Kemono Michi: Rise Up                              | 2019 | 03 May 2025 | [SeaDex](https://releases.moe/107339/), [AniList](https://anilist.co/anime/107339) |
 | 9   | Fate/strange Fake -Whispers of Dawn-               | 2023 | 29 Jul 2026 | [SeaDex](https://releases.moe/154966/), [AniList](https://anilist.co/anime/154966) |
-| 10  | Easygoing Territory Defense by the Optimistic Lord | 2026 | 26 Aug 2026 | [SeaDex](https://releases.moe/191205/), [AniList](https://anilist.co/anime/191205) |
-| 11  | New Saga                                           | 2025 | 06 Aug 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
-| 12  | Private Tutor to the Duke's Daughter               | 2025 | 29 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
-| 13  | Wash It All Away                                   | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
-| 14  | An Adventurer’s Daily Grind at Age 29              | 2026 | 09 Aug 2026 | [SeaDex](https://releases.moe/192261/), [AniList](https://anilist.co/anime/192261) |
-| 15  | Dear Brother                                       | 1991 | 21 Aug 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
-| 16  | I Want to Deliver Your Voice                       | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
-| 17  | Majestic Prince                                    | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 18  | Shagahai ReLIFE Kenkyuujo Support-ka               | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 19  | Suna no Bara: Yuki no Mokushiroku                  | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 20  | LUPIN THE 3rd vs. CAT’S EYE                        | 2023 | 26 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
-| 21  | Combattler V                                       | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
+| 10  | Tune In to the Midnight Heart                      | 2026 | 30 Aug 2026 | [SeaDex](https://releases.moe/187942/), [AniList](https://anilist.co/anime/187942) |
+| 11  | Easygoing Territory Defense by the Optimistic Lord | 2026 | 26 Aug 2026 | [SeaDex](https://releases.moe/191205/), [AniList](https://anilist.co/anime/191205) |
+| 12  | New Saga                                           | 2025 | 06 Aug 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
+| 13  | Private Tutor to the Duke's Daughter               | 2025 | 29 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
+| 14  | Wash It All Away                                   | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
+| 15  | An Adventurer’s Daily Grind at Age 29              | 2026 | 09 Aug 2026 | [SeaDex](https://releases.moe/192261/), [AniList](https://anilist.co/anime/192261) |
+| 16  | Dear Brother                                       | 1991 | 21 Aug 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
+| 17  | I Want to Deliver Your Voice                       | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 18  | Majestic Prince                                    | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
+| 19  | Shagahai ReLIFE Kenkyuujo Support-ka               | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 20  | Suna no Bara: Yuki no Mokushiroku                  | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 21  | LUPIN THE 3rd vs. CAT’S EYE                        | 2023 | 26 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
+| 22  | Combattler V                                       | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |

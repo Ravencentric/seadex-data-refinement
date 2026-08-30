@@ -33,7 +33,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 26  | How a Realist Hero Rebuilt the Kingdom Part 2                              | 2022 | 06 Aug 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
 | 27  | I Parry Everything                                                         | 2024 | 23 Jun 2026 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
 | 28  | Life Lessons with Uramichi Oniisan                                         | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
-| 29  | The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far       | 2023 | 27 Aug 2026 | [SeaDex](https://releases.moe/153332/), [AniList](https://anilist.co/anime/153332) |
+| 29  | The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far       | 2023 | 29 Aug 2026 | [SeaDex](https://releases.moe/153332/), [AniList](https://anilist.co/anime/153332) |
 | 30  | Gintama Season 4                                                           | 2017 | 30 Jun 2026 | [SeaDex](https://releases.moe/97889/), [AniList](https://anilist.co/anime/97889)   |
 | 31  | Ghost in the Shell: Stand Alone Complex                                    | 2002 | 27 Jun 2026 | [SeaDex](https://releases.moe/467/), [AniList](https://anilist.co/anime/467)       |
 | 32  | LAID-BACK CAMP SEASON2                                                     | 2021 | 13 Aug 2025 | [SeaDex](https://releases.moe/104459/), [AniList](https://anilist.co/anime/104459) |
@@ -100,8 +100,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 93  | Minami-ke: Okawari                                                         | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3225/), [AniList](https://anilist.co/anime/3225)     |
 | 94  | Inazuma Eleven Ares                                                        | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
 | 95  | Minami-ke: Okaeri                                                          | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5162/), [AniList](https://anilist.co/anime/5162)     |
-| 96  | The Girl in Twilight                                                       | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
-| 97  | given The Movie: To the Sea                                                | 2024 | 24 Aug 2026 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 96  | given The Movie: To the Sea                                                | 2024 | 24 Aug 2026 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 97  | The Girl in Twilight                                                       | 2018 | 14 Apr 2026 | [SeaDex](https://releases.moe/101360/), [AniList](https://anilist.co/anime/101360) |
 | 98  | Majestic Prince                                                            | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
 | 99  | Le Chevalier D'Eon                                                         | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 100 | Kyou kara Ore wa!!                                                         | 1993 | 26 Aug 2026 | [SeaDex](https://releases.moe/851/), [AniList](https://anilist.co/anime/851)       |

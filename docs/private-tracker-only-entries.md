@@ -2,7 +2,7 @@
 | Idx | Title                                                                | Year | Updated At  | Links                                                                              |
 | :---| :--------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | SCHOOL-LIVE!                                                         | 2015 | 10 Aug 2026 | [SeaDex](https://releases.moe/20754/), [AniList](https://anilist.co/anime/20754)   |
-| 2   | The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far | 2023 | 27 Aug 2026 | [SeaDex](https://releases.moe/153332/), [AniList](https://anilist.co/anime/153332) |
+| 2   | The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far | 2023 | 29 Aug 2026 | [SeaDex](https://releases.moe/153332/), [AniList](https://anilist.co/anime/153332) |
 | 3   | The Unwanted Undead Adventurer                                       | 2024 | 05 Aug 2026 | [SeaDex](https://releases.moe/147642/), [AniList](https://anilist.co/anime/147642) |
 | 4   | Beast Tamer                                                          | 2022 | 04 Aug 2026 | [SeaDex](https://releases.moe/150695/), [AniList](https://anilist.co/anime/150695) |
 | 5   | 2.43: Seiin High School Boys Volleyball Team                         | 2021 | 09 Aug 2026 | [SeaDex](https://releases.moe/113231/), [AniList](https://anilist.co/anime/113231) |
