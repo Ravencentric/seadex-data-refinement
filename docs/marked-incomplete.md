@@ -104,10 +104,10 @@
 | 101 | Baby Steps                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20510/), [AniList](https://anilist.co/anime/20510)   |
 | 102 | Ao Haru Ride: unwritten                                                              | 2014 | 17 Nov 2025 | [SeaDex](https://releases.moe/20837/), [AniList](https://anilist.co/anime/20837)   |
 | 103 | Gintama: THE SEMI-FINAL                                                              | 2021 | 18 Dec 2025 | [SeaDex](https://releases.moe/126819/), [AniList](https://anilist.co/anime/126819) |
-| 104 | Akagi                                                                                | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
-| 105 | TONIKAWA: Over The Moon For You ~High School Days~                                   | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
-| 106 | Monster Musume: Everyday Life With Monster Girls OVA                                 | 2016 | 24 Jan 2024 | [SeaDex](https://releases.moe/21650/), [AniList](https://anilist.co/anime/21650)   |
-| 107 | Tsugumomo2                                                                           | 2020 | 20 Apr 2025 | [SeaDex](https://releases.moe/108266/), [AniList](https://anilist.co/anime/108266) |
+| 104 | TONIKAWA: Over The Moon For You ~High School Days~                                   | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 105 | Akagi                                                                                | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
+| 106 | Tsugumomo2                                                                           | 2020 | 20 Apr 2025 | [SeaDex](https://releases.moe/108266/), [AniList](https://anilist.co/anime/108266) |
+| 107 | Monster Musume: Everyday Life With Monster Girls OVA                                 | 2016 | 24 Jan 2024 | [SeaDex](https://releases.moe/21650/), [AniList](https://anilist.co/anime/21650)   |
 | 108 | Laughing Under the Clouds                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20817/), [AniList](https://anilist.co/anime/20817)   |
 | 109 | RahXephon                                                                            | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
 | 110 | The Testament of Sister New Devil DEPARTURES                                         | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/100451/), [AniList](https://anilist.co/anime/100451) |
@@ -171,8 +171,8 @@
 | 168 | Durarara!! X2: My Heart is in the Pattern of a Hot Pot                               | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21068/), [AniList](https://anilist.co/anime/21068)   |
 | 169 | Durarara!! X2 The Third Arc: DuFuFuFu!!                                              | 2016 | 27 Jun 2024 | [SeaDex](https://releases.moe/21695/), [AniList](https://anilist.co/anime/21695)   |
 | 170 | Kabaneri of the Iron Fortress: Life That Burns                                       | 2017 | 09 Dec 2023 | [SeaDex](https://releases.moe/98663/), [AniList](https://anilist.co/anime/98663)   |
-| 171 | The Dragon Dentist                                                                   | 2017 | 11 Nov 2023 | [SeaDex](https://releases.moe/87539/), [AniList](https://anilist.co/anime/87539)   |
-| 172 | Girls und Panzer das Finale - Part 2                                                 | 2019 | 22 Nov 2023 | [SeaDex](https://releases.moe/107208/), [AniList](https://anilist.co/anime/107208) |
+| 171 | Girls und Panzer das Finale - Part 2                                                 | 2019 | 22 Nov 2023 | [SeaDex](https://releases.moe/107208/), [AniList](https://anilist.co/anime/107208) |
+| 172 | The Dragon Dentist                                                                   | 2017 | 11 Nov 2023 | [SeaDex](https://releases.moe/87539/), [AniList](https://anilist.co/anime/87539)   |
 | 173 | Library War                                                                          | 2008 | 02 Aug 2025 | [SeaDex](https://releases.moe/3613/), [AniList](https://anilist.co/anime/3613)     |
 | 174 | Bungaku Shoujo                                                                       | 2010 | 18 Jun 2024 | [SeaDex](https://releases.moe/6408/), [AniList](https://anilist.co/anime/6408)     |
 | 175 | Spice and Wolf II Specials                                                           | 2009 | 03 Aug 2025 | [SeaDex](https://releases.moe/6884/), [AniList](https://anilist.co/anime/6884)     |
@@ -180,8 +180,8 @@
 | 177 | Bayonetta: Bloody Fate                                                               | 2013 | 19 Aug 2024 | [SeaDex](https://releases.moe/20442/), [AniList](https://anilist.co/anime/20442)   |
 | 178 | Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings               | 2022 | 10 Apr 2025 | [SeaDex](https://releases.moe/143082/), [AniList](https://anilist.co/anime/143082) |
 | 179 | Kabaneri of the Iron Fortress: Light That Gathers                                    | 2016 | 09 Dec 2023 | [SeaDex](https://releases.moe/98662/), [AniList](https://anilist.co/anime/98662)   |
-| 180 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://releases.moe/4983/), [AniList](https://anilist.co/anime/4983)     |
-| 181 | Arifureta Shokugyou de Sekai Saikyou Prologue                                        | 2020 | 07 May 2024 | [SeaDex](https://releases.moe/145560/), [AniList](https://anilist.co/anime/145560) |
+| 180 | Arifureta Shokugyou de Sekai Saikyou Prologue                                        | 2020 | 07 May 2024 | [SeaDex](https://releases.moe/145560/), [AniList](https://anilist.co/anime/145560) |
+| 181 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://releases.moe/4983/), [AniList](https://anilist.co/anime/4983)     |
 | 182 | Maria†Holic Alive                                                                    | 2011 | 28 Jun 2026 | [SeaDex](https://releases.moe/9712/), [AniList](https://anilist.co/anime/9712)     |
 | 183 | Takunomi                                                                             | 2018 | 13 Nov 2023 | [SeaDex](https://releases.moe/99753/), [AniList](https://anilist.co/anime/99753)   |
 | 184 | Durarara!! X2 The Second Arc: Onoroke Chakapoko                                      | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21331/), [AniList](https://anilist.co/anime/21331)   |
@@ -203,8 +203,8 @@
 | 200 | Jyu-Oh-Sei: Planet of the Beast King                                                 | 2006 | 07 Jun 2025 | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
 | 201 | Natsume Yuujinchou Roku Tokubetsu-hen                                                | 2017 | 02 Oct 2024 | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
 | 202 | Seven Days War                                                                       | 2019 | 28 Nov 2024 | [SeaDex](https://releases.moe/101610/), [AniList](https://anilist.co/anime/101610) |
-| 203 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
-| 204 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
+| 203 | Simoun                                                                               | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/879/), [AniList](https://anilist.co/anime/879)       |
+| 204 | WHITE ALBUM 2nd Season                                                               | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6165/), [AniList](https://anilist.co/anime/6165)     |
 | 205 | One Room 3rd                                                                         | 2020 | 30 Dec 2023 | [SeaDex](https://releases.moe/116147/), [AniList](https://anilist.co/anime/116147) |
 | 206 | Le Chevalier D'Eon                                                                   | 2006 | 12 Mar 2026 | [SeaDex](https://releases.moe/20461/), [AniList](https://anilist.co/anime/20461)   |
 | 207 | Pokémon: Twilight Wings                                                              | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/113932/), [AniList](https://anilist.co/anime/113932) |
