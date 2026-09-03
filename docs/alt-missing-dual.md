@@ -10,7 +10,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 3   | JUJUTSU KAISEN Season 2                                                                    | 2023 | 23 May 2025 | [SeaDex](https://releases.moe/145064/), [AniList](https://anilist.co/anime/145064) |
 | 4   | Classroom of the Elite                                                                     | 2017 | 10 Jul 2025 | [SeaDex](https://releases.moe/98659/), [AniList](https://anilist.co/anime/98659)   |
 | 5   | The Apothecary Diaries                                                                     | 2023 | 22 Apr 2025 | [SeaDex](https://releases.moe/161645/), [AniList](https://anilist.co/anime/161645) |
-| 6   | That Time I Got Reincarnated as a Slime Season 2 Part 2                                    | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/116742/), [AniList](https://anilist.co/anime/116742) |
+| 6   | That Time I Got Reincarnated as a Slime Season 2 Part 2                                    | 2021 | 03 Sep 2026 | [SeaDex](https://releases.moe/116742/), [AniList](https://anilist.co/anime/116742) |
 | 7   | Overlord II                                                                                | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/98437/), [AniList](https://anilist.co/anime/98437)   |
 | 8   | JUJUTSU KAISEN Season 3: The Culling Game Part 1                                           | 2026 | 13 Aug 2026 | [SeaDex](https://releases.moe/172463/), [AniList](https://anilist.co/anime/172463) |
 | 9   | Prison School                                                                              | 2015 | 29 Dec 2025 | [SeaDex](https://releases.moe/20807/), [AniList](https://anilist.co/anime/20807)   |
@@ -18,13 +18,13 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 11  | Perfect Blue                                                                               | 1998 | 10 Feb 2026 | [SeaDex](https://releases.moe/437/), [AniList](https://anilist.co/anime/437)       |
 | 12  | SPY x FAMILY Season 2                                                                      | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
 | 13  | Summer Time Rendering                                                                      | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
-| 14  | Sword Art Online: Alicization - War of Underworld                                          | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
+| 14  | Sword Art Online: Alicization - War of Underworld                                          | 2019 | 03 Sep 2026 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 15  | Angels of Death                                                                            | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
 | 16  | The Case Study of Vanitas                                                                  | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
 | 17  | How NOT to Summon a Demon Lord                                                             | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
 | 18  | Grave of the Fireflies                                                                     | 1988 | 25 Feb 2026 | [SeaDex](https://releases.moe/578/), [AniList](https://anilist.co/anime/578)       |
 | 19  | Cautious Hero: The Hero Is Overpowered but Overly Cautious                                 | 2019 | 09 Nov 2025 | [SeaDex](https://releases.moe/105156/), [AniList](https://anilist.co/anime/105156) |
-| 20  | Sword Art Online: Alicization - War of Underworld Part 2                                   | 2020 | 13 Nov 2023 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
+| 20  | Sword Art Online: Alicization - War of Underworld Part 2                                   | 2020 | 03 Sep 2026 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
 | 21  | Sword Art Online the Movie: Ordinal Scale                                                  | 2017 | 07 Aug 2025 | [SeaDex](https://releases.moe/21403/), [AniList](https://anilist.co/anime/21403)   |
 | 22  | My Dress-Up Darling Season 2                                                               | 2025 | 02 Mar 2026 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
 | 23  | Classroom of the Elite Season 3                                                            | 2024 | 13 Aug 2026 | [SeaDex](https://releases.moe/146066/), [AniList](https://anilist.co/anime/146066) |
@@ -36,8 +36,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 29  | ODDTAXI                                                                                    | 2021 | 06 Feb 2026 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 30  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                  | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 31  | BLUE LOCK Season 2                                                                         | 2024 | 15 Feb 2026 | [SeaDex](https://releases.moe/163146/), [AniList](https://anilist.co/anime/163146) |
-| 32  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
-| 33  | Takopi's Original Sin                                                                      | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
+| 32  | Takopi's Original Sin                                                                      | 2025 | 27 Jan 2026 | [SeaDex](https://releases.moe/185407/), [AniList](https://anilist.co/anime/185407) |
+| 33  | Plunderer                                                                                  | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 34  | Golden Kamuy                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 35  | Fire Force Season 3                                                                        | 2025 | 10 Aug 2026 | [SeaDex](https://releases.moe/149118/), [AniList](https://anilist.co/anime/149118) |
 | 36  | The Hidden Dungeon Only I Can Enter                                                        | 2021 | 28 Jan 2026 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |

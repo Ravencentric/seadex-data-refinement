@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                       | Count |
 | :----| :---------------------------| :-----|
-| 🥇   | Headpatter                  | 175   |
+| 🥇   | Headpatter                  | 176   |
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
@@ -25,13 +25,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Moxie                       | 98    |
 | 10   | SubsPlease                  | 70    |
 | 11   | YURI                        | 68    |
-| 12   | Erai-raws                   | 62    |
+| 12   | Erai-raws                   | 64    |
 | 13   | Drag                        | 58    |
 | 14   | smol                        | 56    |
 | 15   | KH                          | 55    |
-| 16   | NOGRP                       | 48    |
+| 16   | NOGRP                       | 49    |
 | 17   | GetItTwisted                | 47    |
-| 18   | Okay-Subs                   | 42    |
+| 18   | Okay-Subs                   | 43    |
 | 19   | LostYears / PMR             | 41    |
 | 20   | Arid                        | 40    |
 | 21   | TTGA                        | 39    |
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                            | 97    |
 | 4    | NAN0                                           | 86    |
 | 5    | hchcsen                                        | 56    |
-| 6    | Headpatter                                     | 43    |
+| 6    | Headpatter                                     | 44    |
 | 7    | LYS1TH3A                                       | 32    |
 | 8    | TTGA                                           | 29    |
 | 9    | YURASUKA                                       | 26    |
@@ -62,8 +62,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | koala                                          | 15    |
 | 17   | YURI                                           | 14    |
 | 18   | Arid / BlackRose                               | 13    |
-| 19   | FraMeSToR / Mehul / Vodes                      | 12    |
-| 20   | LostYears                                      | 11    |
+| 19   | Mehul / Vodes                                  | 12    |
+| 20   | FraMeSToR / LostYears                          | 11    |
 | 21   | DemiHuman / nekotan                            | 10    |
 | 22   | NTRX / SCY / hydes                             | 9     |
 | 23   | KH / LaCroiX / Meakes / NOGRP / Sylvar         | 8     |
@@ -78,13 +78,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                       | 129   |
 | 🥉   | sam                            | 128   |
 | 4    | NAN0                           | 116   |
-| 5    | Headpatter                     | 107   |
+| 5    | Headpatter                     | 108   |
 | 6    | Moxie                          | 98    |
 | 7    | MTBB                           | 76    |
 | 8    | hchcsen                        | 73    |
 | 9    | smol                           | 54    |
 | 10   | PMR                            | 41    |
-| 11   | Okay-Subs                      | 39    |
+| 11   | Okay-Subs                      | 40    |
 | 12   | TTGA                           | 38    |
 | 13   | GetItTwisted / YURASUKA        | 35    |
 | 14   | B00BA                          | 34    |
@@ -107,16 +107,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | Headpatter                                     | 88    |
 | 🥈   | YURASUKA                                       | 64    |
 | 🥉   | SubsPlease                                     | 60    |
-| 4    | Erai-raws                                      | 53    |
+| 4    | Erai-raws                                      | 54    |
 | 5    | KH                                             | 47    |
 | 6    | Drag                                           | 43    |
 | 7    | hchcsen                                        | 39    |
 | 8    | YURI                                           | 38    |
 | 9    | -ZR- / Commie                                  | 35    |
-| 10   | NOGRP                                          | 33    |
+| 10   | NOGRP                                          | 34    |
 | 11   | GetItTwisted / LostYears / MTBB                | 30    |
-| 12   | Holomux                                        | 26    |
-| 13   | Bunny-Apocalypse / VARYG                       | 25    |
+| 12   | Holomux / VARYG                                | 26    |
+| 13   | Bunny-Apocalypse                               | 25    |
 | 14   | Arid / Chihiro                                 | 23    |
 | 15   | Kametsu                                        | 21    |
 | 16   | Kitsune                                        | 20    |

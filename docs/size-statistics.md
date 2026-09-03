@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `151.3 TiB`
-- Best size: `114.9 TiB`
+- Total size: `151.4 TiB`
+- Best size: `115.0 TiB`
 - Alt size: `36.4 TiB`
-- Realistic size: `118.2 TiB`
+- Realistic size: `118.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 9.4 TiB    | 9.4 TiB (100.00%)   | 129 (~75.0 GiB each)  |
 | 3    | hchcsen          | 9.1 TiB    | 7.8 TiB (86.09%)    | 112 (~83.2 GiB each)  |
 | 4    | NAN0             | 8.8 TiB    | 8.7 TiB (98.72%)    | 118 (~76.8 GiB each)  |
-| 5    | Headpatter       | 5.7 TiB    | 4.2 TiB (74.12%)    | 195 (~30.0 GiB each)  |
+| 5    | Headpatter       | 5.7 TiB    | 4.2 TiB (74.16%)    | 196 (~29.9 GiB each)  |
 | 6    | sam              | 4.1 TiB    | 3.8 TiB (93.58%)    | 137 (~30.7 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 98 (~39.2 GiB each)   |
 | 8    | PMR              | 3.2 TiB    | 3.2 TiB (100.00%)   | 41 (~80.4 GiB each)   |
@@ -32,7 +32,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
 | 11   | GetItTwisted     | 2.0 TiB    | 1.5 TiB (77.14%)    | 65 (~31.5 GiB each)   |
 | 12   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
-| 13   | NOGRP            | 1.8 TiB    | 1.1 TiB (62.83%)    | 48 (~38.5 GiB each)   |
+| 13   | NOGRP            | 1.8 TiB    | 1.1 TiB (62.49%)    | 49 (~37.9 GiB each)   |
 | 14   | MTBB             | 1.6 TiB    | 1.3 TiB (84.09%)    | 106 (~15.1 GiB each)  |
 | 15   | Sylvar           | 1.4 TiB    | 1.3 TiB (94.97%)    | 17 (~83.3 GiB each)   |
 | 16   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~74.3 GiB each)   |
@@ -43,15 +43,15 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | SubsPlease       | 1.2 TiB    | 160.2 GiB (13.00%)  | 70 (~17.6 GiB each)   |
 | 22   | YURASUKA         | 1.2 TiB    | 464.7 GiB (38.96%)  | 99 (~12.0 GiB each)   |
 | 23   | FLE              | 1.1 TiB    | 1.0 TiB (93.83%)    | 29 (~38.3 GiB each)   |
-| 24   | Erai-raws        | 1.0 TiB    | 134.4 GiB (12.97%)  | 62 (~16.7 GiB each)   |
+| 24   | Erai-raws        | 1.0 TiB    | 144.5 GiB (13.59%)  | 64 (~16.6 GiB each)   |
 | 25   | smol             | 991.2 GiB  | 941.7 GiB (95.01%)  | 56 (~17.7 GiB each)   |
 | 26   | Mehul            | 969.8 GiB  | 910.5 GiB (93.89%)  | 28 (~34.6 GiB each)   |
-| 27   | FraMeSToR        | 959.9 GiB  | 822.9 GiB (85.73%)  | 13 (~73.8 GiB each)   |
-| 28   | ZeroBuild        | 938.7 GiB  | 889.7 GiB (94.79%)  | 22 (~42.7 GiB each)   |
-| 29   | Holomux          | 931.8 GiB  | 193.5 GiB (20.76%)  | 36 (~25.9 GiB each)   |
+| 27   | ZeroBuild        | 938.7 GiB  | 889.7 GiB (94.79%)  | 22 (~42.7 GiB each)   |
+| 28   | Holomux          | 931.8 GiB  | 193.5 GiB (20.76%)  | 36 (~25.9 GiB each)   |
+| 29   | Okay-Subs        | 922.7 GiB  | 867.1 GiB (93.98%)  | 43 (~21.5 GiB each)   |
 | 30   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 31   | KH               | 914.0 GiB  | 116.7 GiB (12.77%)  | 57 (~16.0 GiB each)   |
-| 32   | Okay-Subs        | 905.7 GiB  | 850.2 GiB (93.87%)  | 42 (~21.6 GiB each)   |
+| 32   | FraMeSToR        | 882.6 GiB  | 745.7 GiB (84.48%)  | 12 (~73.6 GiB each)   |
 | 33   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
 | 34   | Vodes            | 851.4 GiB  | 557.9 GiB (65.53%)  | 19 (~44.8 GiB each)   |
 | 35   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 47.8 TiB   | 25.5 TiB (53.37%)   | 2086 (~23.5 GiB each) |
+| 50   | Others           | 48.0 TiB   | 25.7 TiB (53.48%)   | 2090 (~23.5 GiB each) |
