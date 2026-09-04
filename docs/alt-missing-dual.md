@@ -80,7 +80,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 73  | My Roommate is a Cat                                                                       | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 74  | Thus Spoke Rohan Kishibe                                                                   | 2017 | 20 Mar 2026 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 75  | Tokyo Ghoul: [PINTO]                                                                       | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
-| 76  | Children who Chase Lost Voices                                                             | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
+| 76  | Children who Chase Lost Voices                                                             | 2011 | 03 Sep 2026 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
 | 77  | Tales of Wedding Rings                                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
 | 78  | Japan Sinks: 2020                                                                          | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 79  | I'm Standing on a Million Lives Season 2                                                   | 2021 | 26 Aug 2026 | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
