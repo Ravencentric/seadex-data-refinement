@@ -106,8 +106,8 @@
 | 103 | Ground Control to Psychoelectric Girl                                              | 2011 | 28 Oct 2024 | [SeaDex](https://releases.moe/9379/), [AniList](https://anilist.co/anime/9379)     |
 | 104 | BELLE                                                                              | 2021 | 01 Jul 2026 | [SeaDex](https://releases.moe/127271/), [AniList](https://anilist.co/anime/127271) |
 | 105 | PSYCHO-PASS: The Movie                                                             | 2015 | 07 Jul 2026 | [SeaDex](https://releases.moe/20514/), [AniList](https://anilist.co/anime/20514)   |
-| 106 | Black Lagoon: Roberta's Blood Trail                                                | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
-| 107 | The Boy and the Heron                                                              | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/109979/), [AniList](https://anilist.co/anime/109979) |
+| 106 | The Boy and the Heron                                                              | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/109979/), [AniList](https://anilist.co/anime/109979) |
+| 107 | Black Lagoon: Roberta's Blood Trail                                                | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
 | 108 | RADIANT                                                                            | 2018 | 04 Aug 2025 | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
 | 109 | Maken-Ki! Battling Venus                                                           | 2011 | 15 Jun 2026 | [SeaDex](https://releases.moe/9936/), [AniList](https://anilist.co/anime/9936)     |
 | 110 | Baka and Test - Summon the Beasts 2                                                | 2011 | 11 Oct 2025 | [SeaDex](https://releases.moe/8516/), [AniList](https://anilist.co/anime/8516)     |
