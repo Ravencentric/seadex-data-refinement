@@ -23,13 +23,12 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 16  | New Saga                                                          | 2025 | 06 Aug 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
 | 17  | Private Tutor to the Duke's Daughter                              | 2025 | 29 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
 | 18  | Wash It All Away                                                  | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
-| 19  | An Adventurer’s Daily Grind at Age 29                             | 2026 | 09 Aug 2026 | [SeaDex](https://releases.moe/192261/), [AniList](https://anilist.co/anime/192261) |
-| 20  | Dear Brother                                                      | 1991 | 21 Aug 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
-| 21  | I Want to Deliver Your Voice                                      | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
-| 22  | Majestic Prince                                                   | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 23  | Shagahai ReLIFE Kenkyuujo Support-ka                              | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 24  | Minami Kamakura High School Girls Cycling Club                    | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/21298/), [AniList](https://anilist.co/anime/21298)   |
-| 25  | Suna no Bara: Yuki no Mokushiroku                                 | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 26  | LUPIN THE 3rd vs. CAT’S EYE                                       | 2023 | 26 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
-| 27  | Combattler V                                                      | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 28  | Minami Kamakura High School Girls Cycling Club: We're In Taiwan!! | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/98997/), [AniList](https://anilist.co/anime/98997)   |
+| 19  | Dear Brother                                                      | 1991 | 21 Aug 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
+| 20  | I Want to Deliver Your Voice                                      | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 21  | Majestic Prince                                                   | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
+| 22  | Shagahai ReLIFE Kenkyuujo Support-ka                              | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 23  | Minami Kamakura High School Girls Cycling Club                    | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/21298/), [AniList](https://anilist.co/anime/21298)   |
+| 24  | Suna no Bara: Yuki no Mokushiroku                                 | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 25  | LUPIN THE 3rd vs. CAT’S EYE                                       | 2023 | 26 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
+| 26  | Combattler V                                                      | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
+| 27  | Minami Kamakura High School Girls Cycling Club: We're In Taiwan!! | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/98997/), [AniList](https://anilist.co/anime/98997)   |
