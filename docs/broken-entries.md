@@ -70,8 +70,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 63  | Revenger                                                                   | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
 | 64  | DRAMAtical Murder                                                          | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 65  | Ace of the Diamond Second Season                                           | 2015 | 29 Apr 2026 | [SeaDex](https://releases.moe/21085/), [AniList](https://anilist.co/anime/21085)   |
-| 66  | Celestial Method                                                           | 2014 | 02 Feb 2026 | [SeaDex](https://releases.moe/20672/), [AniList](https://anilist.co/anime/20672)   |
-| 67  | TONIKAWA: Over The Moon For You ~High School Days~                         | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 66  | TONIKAWA: Over The Moon For You ~High School Days~                         | 2023 | 03 Feb 2026 | [SeaDex](https://releases.moe/166104/), [AniList](https://anilist.co/anime/166104) |
+| 67  | Celestial Method                                                           | 2014 | 02 Feb 2026 | [SeaDex](https://releases.moe/20672/), [AniList](https://anilist.co/anime/20672)   |
 | 68  | A Ninja and an Assassin Under One Roof                                     | 2025 | 11 May 2026 | [SeaDex](https://releases.moe/177120/), [AniList](https://anilist.co/anime/177120) |
 | 69  | RahXephon                                                                  | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
 | 70  | Sweet Blue Flowers                                                         | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6164/), [AniList](https://anilist.co/anime/6164)     |

@@ -84,8 +84,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 77  | Tales of Wedding Rings                                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
 | 78  | Japan Sinks: 2020                                                                          | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 79  | I'm Standing on a Million Lives Season 2                                                   | 2021 | 26 Aug 2026 | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
-| 80  | Gurren Lagann The Movie: The Lights in the Sky are Stars                                   | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
-| 81  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 80  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 81  | Gurren Lagann The Movie: The Lights in the Sky are Stars                                   | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
 | 82  | Date A Live II: Kurumi Star Festival                                                       | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
 | 83  | Sarazanmai                                                                                 | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 84  | RE-MAIN                                                                                    | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |

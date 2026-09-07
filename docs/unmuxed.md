@@ -149,8 +149,8 @@
 | 146 | Joker Game                                                                         | 2016 | 07 Dec 2024 | [SeaDex](https://releases.moe/21291/), [AniList](https://anilist.co/anime/21291)   |
 | 147 | By the Grace of the Gods 2                                                         | 2023 | 25 Aug 2026 | [SeaDex](https://releases.moe/135102/), [AniList](https://anilist.co/anime/135102) |
 | 148 | Chaika -The Coffin Princess- AVENGING BATTLE                                       | 2014 | 02 Aug 2025 | [SeaDex](https://releases.moe/20719/), [AniList](https://anilist.co/anime/20719)   |
-| 149 | Terra Formars                                                                      | 2014 | 23 Dec 2024 | [SeaDex](https://releases.moe/20629/), [AniList](https://anilist.co/anime/20629)   |
-| 150 | Princess Lover!                                                                    | 2009 | 16 Mar 2025 | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
+| 149 | Princess Lover!                                                                    | 2009 | 16 Mar 2025 | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
+| 150 | Terra Formars                                                                      | 2014 | 23 Dec 2024 | [SeaDex](https://releases.moe/20629/), [AniList](https://anilist.co/anime/20629)   |
 | 151 | Ghost in the Shell: Stand Alone Complex 2nd GIG                                    | 2004 | 19 Jul 2026 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
 | 152 | Prison School: Mad Wax                                                             | 2016 | 03 Sep 2025 | [SeaDex](https://releases.moe/21565/), [AniList](https://anilist.co/anime/21565)   |
 | 153 | She Professed Herself Pupil of the Wise Man                                        | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
