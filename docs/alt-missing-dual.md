@@ -72,8 +72,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 65  | Taboo Tattoo                                                                               | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
 | 66  | Golden Kamuy Season 2                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
 | 67  | From Up on Poppy Hill                                                                      | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
-| 68  | No Guns Life                                                                               | 2019 | 02 Feb 2026 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
-| 69  | Tokyo Ghoul: [JACK]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
+| 68  | Tokyo Ghoul: [JACK]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
+| 69  | No Guns Life                                                                               | 2019 | 02 Feb 2026 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 70  | Possibly the Greatest Alchemist of All Time                                                | 2025 | 20 Aug 2026 | [SeaDex](https://releases.moe/177506/), [AniList](https://anilist.co/anime/177506) |
 | 71  | Infinite Dendrogram                                                                        | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
 | 72  | MEGALOBOX 2: NOMAD                                                                         | 2021 | 08 Oct 2025 | [SeaDex](https://releases.moe/113359/), [AniList](https://anilist.co/anime/113359) |
