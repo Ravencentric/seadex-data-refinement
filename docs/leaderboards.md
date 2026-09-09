@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                       | Count |
 | :----| :---------------------------| :-----|
-| 🥇   | Headpatter                  | 179   |
+| 🥇   | Headpatter                  | 180   |
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
@@ -25,12 +25,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Moxie                       | 98    |
 | 10   | SubsPlease                  | 70    |
 | 11   | YURI                        | 68    |
-| 12   | Erai-raws                   | 65    |
+| 12   | Erai-raws                   | 64    |
 | 13   | Drag                        | 58    |
 | 14   | smol                        | 56    |
 | 15   | KH                          | 55    |
-| 16   | NOGRP                       | 49    |
-| 17   | GetItTwisted                | 48    |
+| 16   | GetItTwisted                | 50    |
+| 17   | NOGRP                       | 48    |
 | 18   | Okay-Subs                   | 43    |
 | 19   | LostYears / PMR             | 41    |
 | 20   | Arid                        | 40    |
@@ -49,11 +49,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                            | 97    |
 | 4    | NAN0                                           | 86    |
 | 5    | hchcsen                                        | 56    |
-| 6    | Headpatter                                     | 45    |
+| 6    | Headpatter                                     | 46    |
 | 7    | LYS1TH3A                                       | 32    |
 | 8    | TTGA                                           | 29    |
-| 9    | YURASUKA                                       | 26    |
-| 10   | GetItTwisted                                   | 25    |
+| 9    | GetItTwisted                                   | 27    |
+| 10   | YURASUKA                                       | 26    |
 | 11   | FLE                                            | 23    |
 | 12   | Moxie / smol                                   | 21    |
 | 13   | ZeroBuild                                      | 20    |
@@ -66,8 +66,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | FraMeSToR / LostYears                          | 11    |
 | 21   | DemiHuman / nekotan                            | 10    |
 | 22   | NTRX / hydes                                   | 9     |
-| 23   | KH / LaCroiX / Meakes / NOGRP & Others         | 8     |
-| 24   | IK / Kametsu / SubsMix                         | 7     |
+| 23   | KH / LaCroiX / Meakes / SCY / Sylvar           | 8     |
+| 24   | IK / Kametsu / NOGRP / SubsMix                 | 7     |
 | 25   | B00BA / Bunny-Apocalypse / CTR / Drag & Others | 6     |
 
 ## Top 25 - Best entries
@@ -78,33 +78,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                       | 129   |
 | 🥉   | sam                            | 128   |
 | 4    | NAN0                           | 116   |
-| 5    | Headpatter                     | 109   |
+| 5    | Headpatter                     | 110   |
 | 6    | Moxie                          | 98    |
 | 7    | MTBB                           | 76    |
 | 8    | hchcsen                        | 73    |
 | 9    | smol                           | 54    |
 | 10   | PMR                            | 41    |
 | 11   | Okay-Subs                      | 40    |
-| 12   | TTGA                           | 38    |
-| 13   | GetItTwisted                   | 36    |
-| 14   | YURASUKA                       | 35    |
-| 15   | B00BA                          | 34    |
-| 16   | LYS1TH3A                       | 33    |
-| 17   | YURI                           | 31    |
-| 18   | FLE / Orphan                   | 26    |
-| 19   | Mehul                          | 24    |
-| 20   | nekotan                        | 22    |
-| 21   | Lulu / ZeroBuild               | 20    |
-| 22   | Kawatare / LaCroiX / LazyRemux | 19    |
-| 23   | Arid / koala                   | 18    |
-| 24   | Flugel                         | 17    |
-| 25   | Drag / Reza                    | 16    |
+| 12   | GetItTwisted / TTGA            | 38    |
+| 13   | YURASUKA                       | 35    |
+| 14   | B00BA                          | 34    |
+| 15   | LYS1TH3A                       | 33    |
+| 16   | YURI                           | 31    |
+| 17   | FLE / Orphan                   | 26    |
+| 18   | Mehul                          | 24    |
+| 19   | nekotan                        | 22    |
+| 20   | Lulu / ZeroBuild               | 20    |
+| 21   | Kawatare / LaCroiX / LazyRemux | 19    |
+| 22   | Arid / koala                   | 18    |
+| 23   | Flugel                         | 17    |
+| 24   | Drag / Reza                    | 16    |
+| 25   | Vodes                          | 15    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group                                       | Count |
 | :----| :-------------------------------------------| :-----|
-| 🥇   | Headpatter                                  | 90    |
+| 🥇   | Headpatter                                  | 91    |
 | 🥈   | YURASUKA                                    | 64    |
 | 🥉   | SubsPlease                                  | 60    |
 | 4    | Erai-raws                                   | 54    |

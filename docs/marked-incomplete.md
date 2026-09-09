@@ -108,9 +108,9 @@
 | 105 | Akagi                                                                                | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
 | 106 | Tsugumomo2                                                                           | 2020 | 20 Apr 2025 | [SeaDex](https://releases.moe/108266/), [AniList](https://anilist.co/anime/108266) |
 | 107 | Monster Musume: Everyday Life With Monster Girls OVA                                 | 2016 | 24 Jan 2024 | [SeaDex](https://releases.moe/21650/), [AniList](https://anilist.co/anime/21650)   |
-| 108 | RahXephon                                                                            | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
-| 109 | Laughing Under the Clouds                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20817/), [AniList](https://anilist.co/anime/20817)   |
-| 110 | The Testament of Sister New Devil DEPARTURES                                         | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/100451/), [AniList](https://anilist.co/anime/100451) |
+| 108 | The Testament of Sister New Devil DEPARTURES                                         | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/100451/), [AniList](https://anilist.co/anime/100451) |
+| 109 | RahXephon                                                                            | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
+| 110 | Laughing Under the Clouds                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20817/), [AniList](https://anilist.co/anime/20817)   |
 | 111 | Time of Eve: The Movie                                                               | 2010 | 17 Jul 2025 | [SeaDex](https://releases.moe/7465/), [AniList](https://anilist.co/anime/7465)     |
 | 112 | Food Wars! The Third Plate: Erina at Polar Star Dormitory                            | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/101924/), [AniList](https://anilist.co/anime/101924) |
 | 113 | Slow Start                                                                           | 2018 | 03 Aug 2025 | [SeaDex](https://releases.moe/98693/), [AniList](https://anilist.co/anime/98693)   |
@@ -188,8 +188,8 @@
 | 185 | Big Fish & Begonia                                                                   | 2016 | 11 Aug 2025 | [SeaDex](https://releases.moe/10259/), [AniList](https://anilist.co/anime/10259)   |
 | 186 | Beyond the Boundary: Mini Theater                                                    | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20531/), [AniList](https://anilist.co/anime/20531)   |
 | 187 | GIRLS Bravo: second season                                                           | 2005 | 03 Jul 2024 | [SeaDex](https://releases.moe/487/), [AniList](https://anilist.co/anime/487)       |
-| 188 | Waiting in the Summer OVA                                                            | 2014 | 28 Aug 2026 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
-| 189 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 188 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 189 | Waiting in the Summer OVA                                                            | 2014 | 28 Aug 2026 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
 | 190 | Stella Women's Academy, High School Division Class C3                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/17821/), [AniList](https://anilist.co/anime/17821)   |
 | 191 | Gunslinger Girl -Il Teatrino-                                                        | 2008 | 02 Aug 2025 | [SeaDex](https://releases.moe/3231/), [AniList](https://anilist.co/anime/3231)     |
 | 192 | Angel of Legend                                                                      | 1996 | 27 Nov 2024 | [SeaDex](https://releases.moe/5251/), [AniList](https://anilist.co/anime/5251)     |
@@ -243,8 +243,8 @@
 | 240 | Gokujo.                                                                              | 2012 | 03 Jul 2024 | [SeaDex](https://releases.moe/11769/), [AniList](https://anilist.co/anime/11769)   |
 | 241 | Kurau Phantom Memory                                                                 | 2004 | 18 Jul 2024 | [SeaDex](https://releases.moe/483/), [AniList](https://anilist.co/anime/483)       |
 | 242 | Asura                                                                                | 2012 | 19 Aug 2024 | [SeaDex](https://releases.moe/8475/), [AniList](https://anilist.co/anime/8475)     |
-| 243 | Amatsuki                                                                             | 2008 | 06 May 2024 | [SeaDex](https://releases.moe/3359/), [AniList](https://anilist.co/anime/3359)     |
-| 244 | One Room: another                                                                    | 2017 | 30 Dec 2023 | [SeaDex](https://releases.moe/99054/), [AniList](https://anilist.co/anime/99054)   |
+| 243 | One Room: another                                                                    | 2017 | 30 Dec 2023 | [SeaDex](https://releases.moe/99054/), [AniList](https://anilist.co/anime/99054)   |
+| 244 | Amatsuki                                                                             | 2008 | 06 May 2024 | [SeaDex](https://releases.moe/3359/), [AniList](https://anilist.co/anime/3359)     |
 | 245 | Legend of the Galactic Heroes Gaiden: A Hundred Billion Stars                        | 1998 | 23 Feb 2026 | [SeaDex](https://releases.moe/3371/), [AniList](https://anilist.co/anime/3371)     |
 | 246 | Kud Wafter                                                                           | 2020 | 01 Feb 2025 | [SeaDex](https://releases.moe/104749/), [AniList](https://anilist.co/anime/104749) |
 | 247 | Strawberry Marshmallow Encore                                                        | 2009 | 03 Sep 2026 | [SeaDex](https://releases.moe/4811/), [AniList](https://anilist.co/anime/4811)     |
@@ -283,8 +283,8 @@
 | 280 | Detroit Metal City: Birth of the Metal Devil                                         | 2008 | 25 Jun 2024 | [SeaDex](https://releases.moe/5065/), [AniList](https://anilist.co/anime/5065)     |
 | 281 | Kanokon: Manatsu no Dai Shanikusai Specials                                          | 2009 | 16 Jul 2024 | [SeaDex](https://releases.moe/7875/), [AniList](https://anilist.co/anime/7875)     |
 | 282 | Lost Universe                                                                        | 1998 | 29 Sep 2025 | [SeaDex](https://releases.moe/1184/), [AniList](https://anilist.co/anime/1184)     |
-| 283 | Captain Harlock: Arcadia of my Youth                                                 | 1982 | 13 Nov 2023 | [SeaDex](https://releases.moe/2202/), [AniList](https://anilist.co/anime/2202)     |
-| 284 | El Hazard: The Wanderers                                                             | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 283 | El Hazard: The Wanderers                                                             | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 284 | Captain Harlock: Arcadia of my Youth                                                 | 1982 | 13 Nov 2023 | [SeaDex](https://releases.moe/2202/), [AniList](https://anilist.co/anime/2202)     |
 | 285 | Honoo no Tenkousei                                                                   | 1991 | 10 Jul 2024 | [SeaDex](https://releases.moe/2050/), [AniList](https://anilist.co/anime/2050)     |
 | 286 | Photon: The Idiot Adventures                                                         | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
 | 287 | Pokémon: Twilight Wings - The Gathering of Stars                                     | 2020 | 12 Jul 2025 | [SeaDex](https://releases.moe/125308/), [AniList](https://anilist.co/anime/125308) |

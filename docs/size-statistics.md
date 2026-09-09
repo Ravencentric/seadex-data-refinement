@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `151.5 TiB`
+- Total size: `151.6 TiB`
 - Best size: `115.1 TiB`
 - Alt size: `36.4 TiB`
 - Realistic size: `118.4 TiB`
@@ -24,15 +24,15 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 9.4 TiB    | 9.4 TiB (100.00%)   | 129 (~75.0 GiB each)  |
 | 3    | hchcsen          | 9.1 TiB    | 7.8 TiB (86.09%)    | 112 (~83.2 GiB each)  |
 | 4    | NAN0             | 8.8 TiB    | 8.7 TiB (98.72%)    | 118 (~76.8 GiB each)  |
-| 5    | Headpatter       | 5.8 TiB    | 4.3 TiB (74.01%)    | 199 (~29.6 GiB each)  |
+| 5    | Headpatter       | 5.8 TiB    | 4.3 TiB (74.04%)    | 201 (~29.7 GiB each)  |
 | 6    | sam              | 4.1 TiB    | 3.8 TiB (93.58%)    | 137 (~30.7 GiB each)  |
 | 7    | Moxie            | 3.8 TiB    | 3.8 TiB (100.00%)   | 98 (~39.2 GiB each)   |
 | 8    | PMR              | 3.2 TiB    | 3.2 TiB (100.00%)   | 41 (~80.4 GiB each)   |
 | 9    | B00BA            | 3.0 TiB    | 3.0 TiB (100.00%)   | 34 (~90.2 GiB each)   |
 | 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
-| 11   | GetItTwisted     | 2.1 TiB    | 1.6 TiB (77.58%)    | 67 (~31.9 GiB each)   |
+| 11   | GetItTwisted     | 2.1 TiB    | 1.7 TiB (78.02%)    | 69 (~31.6 GiB each)   |
 | 12   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
-| 13   | NOGRP            | 1.8 TiB    | 1.1 TiB (62.49%)    | 49 (~37.9 GiB each)   |
+| 13   | NOGRP            | 1.8 TiB    | 1.1 TiB (61.39%)    | 48 (~37.6 GiB each)   |
 | 14   | MTBB             | 1.6 TiB    | 1.3 TiB (84.09%)    | 106 (~15.1 GiB each)  |
 | 15   | Sylvar           | 1.4 TiB    | 1.3 TiB (94.97%)    | 17 (~83.3 GiB each)   |
 | 16   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~74.3 GiB each)   |
@@ -43,7 +43,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | SubsPlease       | 1.2 TiB    | 160.2 GiB (13.00%)  | 70 (~17.6 GiB each)   |
 | 22   | YURASUKA         | 1.2 TiB    | 464.7 GiB (38.96%)  | 99 (~12.0 GiB each)   |
 | 23   | FLE              | 1.1 TiB    | 1.0 TiB (93.83%)    | 29 (~38.3 GiB each)   |
-| 24   | Erai-raws        | 1.0 TiB    | 154.5 GiB (14.40%)  | 65 (~16.5 GiB each)   |
+| 24   | Erai-raws        | 1.0 TiB    | 136.6 GiB (12.95%)  | 64 (~16.5 GiB each)   |
 | 25   | smol             | 991.2 GiB  | 941.7 GiB (95.01%)  | 56 (~17.7 GiB each)   |
 | 26   | Mehul            | 969.8 GiB  | 910.5 GiB (93.89%)  | 28 (~34.6 GiB each)   |
 | 27   | ZeroBuild        | 938.7 GiB  | 889.7 GiB (94.79%)  | 22 (~42.7 GiB each)   |
@@ -68,5 +68,5 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 46   | uba              | 587.8 GiB  | 587.8 GiB (100.00%) | 10 (~58.8 GiB each)   |
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 49   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
-| 50   | Others           | 48.0 TiB   | 25.7 TiB (53.52%)   | 2089 (~23.5 GiB each) |
+| 49   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
+| 50   | Others           | 48.0 TiB   | 25.3 TiB (52.79%)   | 2082 (~23.6 GiB each) |
