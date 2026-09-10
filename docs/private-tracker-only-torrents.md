@@ -22,12 +22,11 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 15  | New Saga                                                          | 2025 | 06 Aug 2026 | [SeaDex](https://releases.moe/155838/), [AniList](https://anilist.co/anime/155838) |
 | 16  | Private Tutor to the Duke's Daughter                              | 2025 | 29 Jul 2026 | [SeaDex](https://releases.moe/170113/), [AniList](https://anilist.co/anime/170113) |
 | 17  | Wash It All Away                                                  | 2026 | 01 Aug 2026 | [SeaDex](https://releases.moe/194028/), [AniList](https://anilist.co/anime/194028) |
-| 18  | Dear Brother                                                      | 1991 | 21 Aug 2026 | [SeaDex](https://releases.moe/795/), [AniList](https://anilist.co/anime/795)       |
-| 19  | I Want to Deliver Your Voice                                      | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
-| 20  | Majestic Prince                                                   | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 21  | Shagahai ReLIFE Kenkyuujo Support-ka                              | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 22  | Minami Kamakura High School Girls Cycling Club                    | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/21298/), [AniList](https://anilist.co/anime/21298)   |
-| 23  | Suna no Bara: Yuki no Mokushiroku                                 | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 24  | LUPIN THE 3rd vs. CAT’S EYE                                       | 2023 | 26 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
-| 25  | Combattler V                                                      | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 26  | Minami Kamakura High School Girls Cycling Club: We're In Taiwan!! | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/98997/), [AniList](https://anilist.co/anime/98997)   |
+| 18  | I Want to Deliver Your Voice                                      | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
+| 19  | Majestic Prince                                                   | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
+| 20  | Shagahai ReLIFE Kenkyuujo Support-ka                              | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 21  | Minami Kamakura High School Girls Cycling Club                    | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/21298/), [AniList](https://anilist.co/anime/21298)   |
+| 22  | Suna no Bara: Yuki no Mokushiroku                                 | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 23  | LUPIN THE 3rd vs. CAT’S EYE                                       | 2023 | 26 Aug 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
+| 24  | Combattler V                                                      | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
+| 25  | Minami Kamakura High School Girls Cycling Club: We're In Taiwan!! | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/98997/), [AniList](https://anilist.co/anime/98997)   |
