@@ -11,7 +11,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 4   | Clannad                                                                    | 2007 | 07 Sep 2025 | [SeaDex](https://releases.moe/2167/), [AniList](https://anilist.co/anime/2167)     |
 | 5   | Classroom of the Elite Season 2                                            | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
 | 6   | Great Pretender                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
-| 7   | Clannad: After Story                                                       | 2008 | 07 Sep 2025 | [SeaDex](https://releases.moe/4181/), [AniList](https://anilist.co/anime/4181)     |
+| 7   | Clannad: After Story                                                       | 2008 | 10 Sep 2026 | [SeaDex](https://releases.moe/4181/), [AniList](https://anilist.co/anime/4181)     |
 | 8   | Welcome to the N-H-K                                                       | 2006 | 09 Sep 2026 | [SeaDex](https://releases.moe/1210/), [AniList](https://anilist.co/anime/1210)     |
 | 9   | From the New World                                                         | 2012 | 10 Aug 2025 | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
 | 10  | takt op.Destiny                                                            | 2021 | 14 Jan 2026 | [SeaDex](https://releases.moe/131565/), [AniList](https://anilist.co/anime/131565) |

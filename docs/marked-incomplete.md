@@ -2,7 +2,7 @@
 | Idx | Title                                                                                | Year | Updated At  | Links                                                                              |
 | :---| :------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Death Note                                                                           | 2006 | 30 Jun 2025 | [SeaDex](https://releases.moe/1535/), [AniList](https://anilist.co/anime/1535)     |
-| 2   | ONE PIECE                                                                            | 1999 | 10 Jul 2026 | [SeaDex](https://releases.moe/21/), [AniList](https://anilist.co/anime/21)         |
+| 2   | ONE PIECE                                                                            | 1999 | 11 Sep 2026 | [SeaDex](https://releases.moe/21/), [AniList](https://anilist.co/anime/21)         |
 | 3   | Naruto                                                                               | 2002 | 02 Aug 2025 | [SeaDex](https://releases.moe/20/), [AniList](https://anilist.co/anime/20)         |
 | 4   | Bleach                                                                               | 2004 | 30 Dec 2025 | [SeaDex](https://releases.moe/269/), [AniList](https://anilist.co/anime/269)       |
 | 5   | Cowboy Bebop                                                                         | 1998 | 20 Jul 2026 | [SeaDex](https://releases.moe/1/), [AniList](https://anilist.co/anime/1)           |
@@ -291,8 +291,8 @@
 | 288 | Shaman King Tokubetsu Soushuuhen                                                     | 2002 | 02 Aug 2025 | [SeaDex](https://releases.moe/3861/), [AniList](https://anilist.co/anime/3861)     |
 | 289 | I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job. Specials            | 2014 | 11 Jul 2024 | [SeaDex](https://releases.moe/102033/), [AniList](https://anilist.co/anime/102033) |
 | 290 | Miyori no Mori                                                                       | 2007 | 08 Jun 2025 | [SeaDex](https://releases.moe/2751/), [AniList](https://anilist.co/anime/2751)     |
-| 291 | Tetsujin 28                                                                          | 2004 | 14 Nov 2024 | [SeaDex](https://releases.moe/2337/), [AniList](https://anilist.co/anime/2337)     |
-| 292 | Kamichu! OVA                                                                         | 2005 | 14 Jul 2024 | [SeaDex](https://releases.moe/3449/), [AniList](https://anilist.co/anime/3449)     |
+| 291 | Kamichu! OVA                                                                         | 2005 | 14 Jul 2024 | [SeaDex](https://releases.moe/3449/), [AniList](https://anilist.co/anime/3449)     |
+| 292 | Tetsujin 28                                                                          | 2004 | 14 Nov 2024 | [SeaDex](https://releases.moe/2337/), [AniList](https://anilist.co/anime/2337)     |
 | 293 | Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!! Special                       | 2011 | 30 Dec 2023 | [SeaDex](https://releases.moe/10219/), [AniList](https://anilist.co/anime/10219)   |
 | 294 | Hidamari no Ki                                                                       | 2000 | 09 Jul 2024 | [SeaDex](https://releases.moe/2694/), [AniList](https://anilist.co/anime/2694)     |
 | 295 | Princess Principal Picture Drama                                                     | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/100519/), [AniList](https://anilist.co/anime/100519) |

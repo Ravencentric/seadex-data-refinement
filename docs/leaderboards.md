@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
-| 5    | NAN0                        | 118   |
+| 5    | NAN0                        | 117   |
 | 6    | MTBB                        | 106   |
 | 7    | hchcsen                     | 104   |
 | 8    | YURASUKA                    | 99    |
@@ -29,16 +29,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Drag                        | 58    |
 | 14   | smol                        | 56    |
 | 15   | KH                          | 55    |
-| 16   | GetItTwisted                | 50    |
-| 17   | NOGRP                       | 48    |
-| 18   | Okay-Subs                   | 43    |
-| 19   | LostYears / PMR             | 41    |
-| 20   | Arid                        | 40    |
-| 21   | TTGA                        | 39    |
-| 22   | Commie / Holomux / LYS1TH3A | 35    |
-| 23   | B00BA                       | 34    |
-| 24   | Lulu                        | 33    |
-| 25   | Bunny-Apocalypse            | 31    |
+| 16   | GetItTwisted                | 51    |
+| 17   | NOGRP                       | 47    |
+| 18   | Okay-Subs                   | 45    |
+| 19   | PMR                         | 42    |
+| 20   | LostYears                   | 41    |
+| 21   | Arid                        | 40    |
+| 22   | TTGA                        | 39    |
+| 23   | Commie / Holomux / LYS1TH3A | 35    |
+| 24   | B00BA                       | 34    |
+| 25   | Lulu                        | 33    |
 
 ## Top 25 - Best dual audio entries
 
@@ -47,24 +47,24 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                                           | 103   |
 | 🥈   | CRUCiBLE                                       | 102   |
 | 🥉   | sam                                            | 97    |
-| 4    | NAN0                                           | 86    |
+| 4    | NAN0                                           | 85    |
 | 5    | hchcsen                                        | 56    |
 | 6    | Headpatter                                     | 46    |
 | 7    | LYS1TH3A                                       | 32    |
 | 8    | TTGA                                           | 29    |
-| 9    | GetItTwisted                                   | 27    |
+| 9    | GetItTwisted                                   | 28    |
 | 10   | YURASUKA                                       | 26    |
 | 11   | FLE                                            | 23    |
 | 12   | Moxie / smol                                   | 21    |
 | 13   | ZeroBuild                                      | 20    |
-| 14   | Flugel / Lulu / PMR                            | 17    |
-| 15   | LazyRemux                                      | 16    |
-| 16   | koala                                          | 15    |
-| 17   | YURI                                           | 14    |
-| 18   | Arid / BlackRose                               | 13    |
+| 14   | PMR                                            | 18    |
+| 15   | Flugel / Lulu                                  | 17    |
+| 16   | LazyRemux                                      | 16    |
+| 17   | koala                                          | 15    |
+| 18   | Arid / BlackRose / YURI                        | 13    |
 | 19   | Mehul / Vodes                                  | 12    |
-| 20   | FraMeSToR / LostYears                          | 11    |
-| 21   | DemiHuman / nekotan                            | 10    |
+| 20   | FraMeSToR / LostYears / nekotan                | 11    |
+| 21   | DemiHuman                                      | 10    |
 | 22   | NTRX / hydes                                   | 9     |
 | 23   | KH / LaCroiX / Meakes / SCY / Sylvar           | 8     |
 | 24   | IK / Kametsu / NOGRP / SubsMix                 | 7     |
@@ -77,22 +77,22 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                           | 144   |
 | 🥈   | CRUCiBLE                       | 129   |
 | 🥉   | sam                            | 128   |
-| 4    | NAN0                           | 116   |
+| 4    | NAN0                           | 115   |
 | 5    | Headpatter                     | 110   |
 | 6    | Moxie                          | 98    |
 | 7    | MTBB                           | 76    |
 | 8    | hchcsen                        | 73    |
 | 9    | smol                           | 54    |
-| 10   | PMR                            | 41    |
-| 11   | Okay-Subs                      | 40    |
-| 12   | GetItTwisted / TTGA            | 38    |
+| 10   | Okay-Subs / PMR                | 42    |
+| 11   | GetItTwisted                   | 39    |
+| 12   | TTGA                           | 38    |
 | 13   | YURASUKA                       | 35    |
 | 14   | B00BA                          | 34    |
 | 15   | LYS1TH3A                       | 33    |
-| 16   | YURI                           | 31    |
+| 16   | YURI                           | 30    |
 | 17   | FLE / Orphan                   | 26    |
 | 18   | Mehul                          | 24    |
-| 19   | nekotan                        | 22    |
+| 19   | nekotan                        | 23    |
 | 20   | Lulu / ZeroBuild               | 20    |
 | 21   | Kawatare / LaCroiX / LazyRemux | 19    |
 | 22   | Arid / koala                   | 18    |
@@ -110,21 +110,21 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | Erai-raws                                   | 54    |
 | 5    | KH                                          | 47    |
 | 6    | Drag                                        | 43    |
-| 7    | hchcsen                                     | 39    |
-| 8    | YURI                                        | 38    |
-| 9    | -ZR- / Commie                               | 35    |
-| 10   | NOGRP                                       | 34    |
-| 11   | GetItTwisted                                | 31    |
-| 12   | LostYears / MTBB                            | 30    |
-| 13   | Holomux / VARYG                             | 26    |
-| 14   | Bunny-Apocalypse                            | 25    |
-| 15   | Arid / Chihiro                              | 23    |
-| 16   | Kametsu                                     | 21    |
-| 17   | Kitsune                                     | 20    |
-| 18   | CTR                                         | 19    |
-| 19   | Pog42                                       | 17    |
-| 20   | SCY                                         | 16    |
-| 21   | HorribleSubs / nekotan                      | 14    |
+| 7    | YURI / hchcsen                              | 39    |
+| 8    | -ZR- / Commie                               | 35    |
+| 9    | NOGRP                                       | 33    |
+| 10   | GetItTwisted                                | 32    |
+| 11   | LostYears / MTBB                            | 30    |
+| 12   | Holomux / VARYG                             | 26    |
+| 13   | Bunny-Apocalypse                            | 25    |
+| 14   | Arid / Chihiro                              | 23    |
+| 15   | Kametsu                                     | 21    |
+| 16   | Kitsune                                     | 20    |
+| 17   | CTR                                         | 19    |
+| 18   | Pog42                                       | 17    |
+| 19   | SCY                                         | 16    |
+| 20   | nekotan                                     | 15    |
+| 21   | HorribleSubs                                | 14    |
 | 22   | CBT / Datte13 / Lulu / WBDP                 | 13    |
 | 23   | NH / UDF / o7                               | 12    |
 | 24   | FFF / Mysteria / Netaro / SEV / TROLLORANGE | 11    |
