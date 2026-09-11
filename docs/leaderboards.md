@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                       | Count |
 | :----| :---------------------------| :-----|
-| 🥇   | Headpatter                  | 180   |
+| 🥇   | Headpatter                  | 182   |
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
@@ -25,7 +25,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Moxie                       | 98    |
 | 10   | SubsPlease                  | 70    |
 | 11   | YURI                        | 68    |
-| 12   | Erai-raws                   | 64    |
+| 12   | Erai-raws                   | 63    |
 | 13   | Drag                        | 58    |
 | 14   | smol                        | 56    |
 | 15   | KH                          | 55    |
@@ -104,10 +104,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                       | Count |
 | :----| :-------------------------------------------| :-----|
-| 🥇   | Headpatter                                  | 91    |
+| 🥇   | Headpatter                                  | 93    |
 | 🥈   | YURASUKA                                    | 64    |
 | 🥉   | SubsPlease                                  | 60    |
-| 4    | Erai-raws                                   | 54    |
+| 4    | Erai-raws                                   | 53    |
 | 5    | KH                                          | 47    |
 | 6    | Drag                                        | 43    |
 | 7    | YURI / hchcsen                              | 39    |

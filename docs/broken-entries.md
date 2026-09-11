@@ -76,7 +76,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 69  | Sweet Blue Flowers                                                         | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6164/), [AniList](https://anilist.co/anime/6164)     |
 | 70  | Zetman                                                                     | 2012 | 21 Aug 2026 | [SeaDex](https://releases.moe/11837/), [AniList](https://anilist.co/anime/11837)   |
 | 71  | Sengoku Basara: Samurai Kings                                              | 2009 | 14 Jul 2026 | [SeaDex](https://releases.moe/5355/), [AniList](https://anilist.co/anime/5355)     |
-| 72  | Sasaki and Miyano: Graduation                                              | 2023 | 24 Aug 2026 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 72  | Sasaki and Miyano: Graduation                                              | 2023 | 11 Sep 2026 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
 | 73  | The Qwaser of Stigmata II                                                  | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
 | 74  | My First Girlfriend is a Gal OVA                                           | 2017 | 14 Aug 2025 | [SeaDex](https://releases.moe/98878/), [AniList](https://anilist.co/anime/98878)   |
 | 75  | HYPNOSISMIC -Division Rap Battle- Rhyme Anima                              | 2020 | 08 Sep 2026 | [SeaDex](https://releases.moe/113652/), [AniList](https://anilist.co/anime/113652) |
