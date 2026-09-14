@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `152.0 TiB`
-- Best size: `115.4 TiB`
+- Total size: `152.1 TiB`
+- Best size: `115.5 TiB`
 - Alt size: `36.6 TiB`
 - Realistic size: `118.6 TiB`
 
@@ -30,9 +30,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 8    | PMR              | 3.2 TiB    | 3.2 TiB (100.00%)   | 40 (~83.0 GiB each)   |
 | 9    | B00BA            | 3.0 TiB    | 3.0 TiB (100.00%)   | 34 (~90.2 GiB each)   |
 | 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
-| 11   | GetItTwisted     | 2.2 TiB    | 1.7 TiB (77.77%)    | 71 (~31.7 GiB each)   |
+| 11   | GetItTwisted     | 2.3 TiB    | 1.8 TiB (78.34%)    | 72 (~32.1 GiB each)   |
 | 12   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
-| 13   | NOGRP            | 1.8 TiB    | 1.1 TiB (61.51%)    | 47 (~38.3 GiB each)   |
+| 13   | NOGRP            | 1.8 TiB    | 1.1 TiB (60.90%)    | 47 (~38.3 GiB each)   |
 | 14   | MTBB             | 1.6 TiB    | 1.3 TiB (84.09%)    | 106 (~15.1 GiB each)  |
 | 15   | A&C              | 1.4 TiB    | 1.4 TiB (98.14%)    | 5 (~285.4 GiB each)   |
 | 16   | Sylvar           | 1.4 TiB    | 1.3 TiB (94.97%)    | 17 (~83.3 GiB each)   |
@@ -43,7 +43,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | YURASUKA         | 1.2 TiB    | 515.8 GiB (41.47%)  | 102 (~12.2 GiB each)  |
 | 22   | SubsPlease       | 1.2 TiB    | 144.0 GiB (11.84%)  | 69 (~17.6 GiB each)   |
 | 23   | FLE              | 1.1 TiB    | 1.0 TiB (93.83%)    | 29 (~38.3 GiB each)   |
-| 24   | Erai-raws        | 1.1 TiB    | 136.6 GiB (12.57%)  | 65 (~16.7 GiB each)   |
+| 24   | Erai-raws        | 1.1 TiB    | 136.6 GiB (12.61%)  | 64 (~16.9 GiB each)   |
 | 25   | smol             | 991.2 GiB  | 941.7 GiB (95.01%)  | 56 (~17.7 GiB each)   |
 | 26   | Mehul            | 969.8 GiB  | 910.5 GiB (93.89%)  | 28 (~34.6 GiB each)   |
 | 27   | Okay-Subs        | 940.2 GiB  | 884.6 GiB (94.09%)  | 45 (~20.9 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | CTR              | 561.2 GiB  | 138.6 GiB (24.69%)  | 26 (~21.6 GiB each)   |
 | 49   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 50   | Others           | 48.0 TiB   | 25.5 TiB (53.19%)   | 2076 (~23.7 GiB each) |
+| 50   | Others           | 48.0 TiB   | 25.5 TiB (53.21%)   | 2077 (~23.7 GiB each) |
