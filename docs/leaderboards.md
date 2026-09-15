@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                       | Count |
 | :----| :---------------------------| :-----|
-| 🥇   | Headpatter                  | 180   |
+| 🥇   | Headpatter                  | 181   |
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
@@ -22,10 +22,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | MTBB                        | 106   |
 | 7    | hchcsen                     | 104   |
 | 8    | YURASUKA                    | 102   |
-| 9    | Moxie                       | 98    |
-| 10   | SubsPlease                  | 69    |
+| 9    | Moxie                       | 101   |
+| 10   | SubsPlease                  | 70    |
 | 11   | YURI                        | 68    |
-| 12   | Erai-raws                   | 64    |
+| 12   | Erai-raws                   | 63    |
 | 13   | Drag                        | 58    |
 | 14   | smol                        | 56    |
 | 15   | KH                          | 55    |
@@ -78,8 +78,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE            | 129   |
 | 🥉   | sam                 | 128   |
 | 4    | NAN0                | 115   |
-| 5    | Headpatter          | 109   |
-| 6    | Moxie               | 98    |
+| 5    | Headpatter          | 110   |
+| 6    | Moxie               | 101   |
 | 7    | MTBB                | 76    |
 | 8    | hchcsen             | 73    |
 | 9    | smol                | 54    |
@@ -90,7 +90,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | LYS1TH3A            | 33    |
 | 15   | YURI                | 30    |
 | 16   | FLE / Orphan        | 26    |
-| 17   | Mehul               | 24    |
+| 17   | Mehul               | 25    |
 | 18   | nekotan             | 23    |
 | 19   | Kawatare            | 22    |
 | 20   | Lulu / ZeroBuild    | 20    |
@@ -106,8 +106,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------------------------------------| :-----|
 | 🥇   | Headpatter                                     | 93    |
 | 🥈   | YURASUKA                                       | 64    |
-| 🥉   | SubsPlease                                     | 60    |
-| 4    | Erai-raws                                      | 54    |
+| 🥉   | SubsPlease                                     | 61    |
+| 4    | Erai-raws                                      | 53    |
 | 5    | KH                                             | 47    |
 | 6    | Drag                                           | 43    |
 | 7    | YURI / hchcsen                                 | 39    |

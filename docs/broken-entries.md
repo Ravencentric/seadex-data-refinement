@@ -38,13 +38,13 @@ An entry appears here if at least one of its releases is marked as broken.
 | 31  | LAID-BACK CAMP SEASON2                                                     | 2021 | 13 Aug 2025 | [SeaDex](https://releases.moe/104459/), [AniList](https://anilist.co/anime/104459) |
 | 32  | Hell Girl                                                                  | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
 | 33  | ONIMAI: I'm Now Your Sister!                                               | 2023 | 07 Aug 2025 | [SeaDex](https://releases.moe/147864/), [AniList](https://anilist.co/anime/147864) |
-| 34  | Tales of Zestiria the X                                                    | 2016 | 27 Aug 2026 | [SeaDex](https://releases.moe/21221/), [AniList](https://anilist.co/anime/21221)   |
-| 35  | Rent-a-Girlfriend Season 3                                                 | 2023 | 05 Jun 2026 | [SeaDex](https://releases.moe/154745/), [AniList](https://anilist.co/anime/154745) |
+| 34  | Rent-a-Girlfriend Season 3                                                 | 2023 | 05 Jun 2026 | [SeaDex](https://releases.moe/154745/), [AniList](https://anilist.co/anime/154745) |
+| 35  | Tales of Zestiria the X                                                    | 2016 | 27 Aug 2026 | [SeaDex](https://releases.moe/21221/), [AniList](https://anilist.co/anime/21221)   |
 | 36  | My Hero Academia: Vigilantes                                               | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
 | 37  | Monster Girl Doctor                                                        | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
 | 38  | Ace of the Diamond                                                         | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
-| 39  | K: RETURN OF KINGS                                                         | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
-| 40  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | 2025 | 30 Jun 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 39  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | 2025 | 30 Jun 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 40  | K: RETURN OF KINGS                                                         | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 41  | Gintama.: Silver Soul Arc                                                  | 2018 | 26 Aug 2026 | [SeaDex](https://releases.moe/100784/), [AniList](https://anilist.co/anime/100784) |
 | 42  | Possibly the Greatest Alchemist of All Time                                | 2025 | 13 Sep 2026 | [SeaDex](https://releases.moe/177506/), [AniList](https://anilist.co/anime/177506) |
 | 43  | Air Gear                                                                   | 2006 | 05 Jan 2026 | [SeaDex](https://releases.moe/857/), [AniList](https://anilist.co/anime/857)       |
