@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                       | Count |
 | :----| :---------------------------| :-----|
-| 🥇   | Headpatter                  | 181   |
+| 🥇   | Headpatter                  | 185   |
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
@@ -23,9 +23,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | hchcsen                     | 104   |
 | 8    | YURASUKA                    | 102   |
 | 9    | Moxie                       | 101   |
-| 10   | SubsPlease                  | 70    |
+| 10   | SubsPlease                  | 71    |
 | 11   | YURI                        | 68    |
-| 12   | Erai-raws                   | 63    |
+| 12   | Erai-raws                   | 62    |
 | 13   | Drag                        | 58    |
 | 14   | smol                        | 56    |
 | 15   | KH                          | 55    |
@@ -78,7 +78,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE            | 129   |
 | 🥉   | sam                 | 128   |
 | 4    | NAN0                | 115   |
-| 5    | Headpatter          | 110   |
+| 5    | Headpatter          | 111   |
 | 6    | Moxie               | 101   |
 | 7    | MTBB                | 76    |
 | 8    | hchcsen             | 73    |
@@ -104,10 +104,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
-| 🥇   | Headpatter                                     | 93    |
+| 🥇   | Headpatter                                     | 97    |
 | 🥈   | YURASUKA                                       | 64    |
-| 🥉   | SubsPlease                                     | 61    |
-| 4    | Erai-raws                                      | 53    |
+| 🥉   | SubsPlease                                     | 62    |
+| 4    | Erai-raws                                      | 52    |
 | 5    | KH                                             | 47    |
 | 6    | Drag                                           | 43    |
 | 7    | YURI / hchcsen                                 | 39    |
@@ -120,12 +120,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Arid / Chihiro                                 | 23    |
 | 15   | Kametsu                                        | 21    |
 | 16   | CTR / Kitsune                                  | 20    |
-| 17   | Pog42                                          | 17    |
-| 18   | SCY                                            | 16    |
-| 19   | HorribleSubs / nekotan                         | 15    |
-| 20   | CBT / Datte13 / Lulu / WBDP                    | 13    |
-| 21   | UDF / o7                                       | 12    |
-| 22   | FFF / Mysteria / NH / Netaro & Others          | 11    |
-| 23   | CyC                                            | 10    |
-| 24   | Asakura / GSK_kun / Pookie / Tsundere & Others | 9     |
-| 25   | RASETSU / Reza / crane0922                     | 8     |
+| 17   | HorribleSubs / Pog42 / SCY                     | 16    |
+| 18   | nekotan                                        | 15    |
+| 19   | CBT / Datte13 / Lulu / WBDP                    | 13    |
+| 20   | UDF / o7                                       | 12    |
+| 21   | FFF / Mysteria / NH / Netaro & Others          | 11    |
+| 22   | CyC                                            | 10    |
+| 23   | Asakura / GSK_kun / Pookie / Tsundere & Others | 9     |
+| 24   | RASETSU / Reza / crane0922                     | 8     |
+| 25   | Baws / BlurayDesuYo / Kawatare / LCE & Others  | 7     |
