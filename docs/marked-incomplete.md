@@ -121,8 +121,8 @@
 | 118 | House of Five Leaves                                                                 | 2010 | 10 Jul 2024 | [SeaDex](https://releases.moe/7588/), [AniList](https://anilist.co/anime/7588)     |
 | 119 | Senyuu                                                                               | 2013 | 15 Nov 2023 | [SeaDex](https://releases.moe/15751/), [AniList](https://anilist.co/anime/15751)   |
 | 120 | Hand Shakers                                                                         | 2017 | 07 Jul 2024 | [SeaDex](https://releases.moe/21731/), [AniList](https://anilist.co/anime/21731)   |
-| 121 | Bartender                                                                            | 2006 | 11 Jun 2024 | [SeaDex](https://releases.moe/1589/), [AniList](https://anilist.co/anime/1589)     |
-| 122 | Free! -Take Your Marks-                                                              | 2017 | 08 Jun 2025 | [SeaDex](https://releases.moe/98497/), [AniList](https://anilist.co/anime/98497)   |
+| 121 | Free! -Take Your Marks-                                                              | 2017 | 08 Jun 2025 | [SeaDex](https://releases.moe/98497/), [AniList](https://anilist.co/anime/98497)   |
+| 122 | Bartender                                                                            | 2006 | 11 Jun 2024 | [SeaDex](https://releases.moe/1589/), [AniList](https://anilist.co/anime/1589)     |
 | 123 | NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...                              | 2017 | 01 Jan 2024 | [SeaDex](https://releases.moe/97637/), [AniList](https://anilist.co/anime/97637)   |
 | 124 | Rumbling Hearts                                                                      | 2003 | 07 Jun 2025 | [SeaDex](https://releases.moe/147/), [AniList](https://anilist.co/anime/147)       |
 | 125 | The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life | 2016 | 26 Feb 2025 | [SeaDex](https://releases.moe/21489/), [AniList](https://anilist.co/anime/21489)   |
@@ -220,8 +220,8 @@
 | 217 | GJ-bu@                                                                               | 2014 | 03 Jul 2024 | [SeaDex](https://releases.moe/20567/), [AniList](https://anilist.co/anime/20567)   |
 | 218 | Is the Order a Rabbit?? ～Sing For You～                                             | 2019 | 12 Jul 2024 | [SeaDex](https://releases.moe/104199/), [AniList](https://anilist.co/anime/104199) |
 | 219 | Yokohama Kaidashi Kikou: Quiet Country Cafe                                          | 2002 | 13 Nov 2024 | [SeaDex](https://releases.moe/976/), [AniList](https://anilist.co/anime/976)       |
-| 220 | Megazone 23                                                                          | 1985 | 22 Jul 2024 | [SeaDex](https://releases.moe/1935/), [AniList](https://anilist.co/anime/1935)     |
-| 221 | Sound! Euphonium 2 Shorts                                                            | 2016 | 15 Nov 2023 | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
+| 220 | Sound! Euphonium 2 Shorts                                                            | 2016 | 15 Nov 2023 | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
+| 221 | Megazone 23                                                                          | 1985 | 22 Jul 2024 | [SeaDex](https://releases.moe/1935/), [AniList](https://anilist.co/anime/1935)     |
 | 222 | The Master of Killing Time Specials                                                  | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20738/), [AniList](https://anilist.co/anime/20738)   |
 | 223 | Overlord: Ple Ple Pleiades 3                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/103209/), [AniList](https://anilist.co/anime/103209) |
 | 224 | IS: Infinite Stratos 2 - Infinite Wedding                                            | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |

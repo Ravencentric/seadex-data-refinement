@@ -65,8 +65,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 58  | BEATLESS                                                                               | 2018 | 01 Aug 2025 | [SeaDex](https://releases.moe/100245/), [AniList](https://anilist.co/anime/100245) |
 | 59  | Clockwork Planet                                                                       | 2017 | 29 Jan 2026 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 60  | Scott Pilgrim Takes Off                                                                | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
-| 61  | Minami-ke                                                                              | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
-| 62  | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!                        | 2024 | 01 Aug 2026 | [SeaDex](https://releases.moe/167087/), [AniList](https://anilist.co/anime/167087) |
+| 61  | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!                        | 2024 | 01 Aug 2026 | [SeaDex](https://releases.moe/167087/), [AniList](https://anilist.co/anime/167087) |
+| 62  | Minami-ke                                                                              | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
 | 63  | Revenger                                                                               | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/155202/), [AniList](https://anilist.co/anime/155202) |
 | 64  | DRAMAtical Murder                                                                      | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 65  | Ace of the Diamond Second Season                                                       | 2015 | 29 Apr 2026 | [SeaDex](https://releases.moe/21085/), [AniList](https://anilist.co/anime/21085)   |
@@ -91,7 +91,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 84  | Symphogear GX                                                                          | 2015 | 08 Aug 2025 | [SeaDex](https://releases.moe/20560/), [AniList](https://anilist.co/anime/20560)   |
 | 85  | Natsuyuki Rendezvous                                                                   | 2012 | 15 Mar 2026 | [SeaDex](https://releases.moe/13585/), [AniList](https://anilist.co/anime/13585)   |
 | 86  | Muv-Luv Alternative: Total Eclipse                                                     | 2012 | 20 Mar 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
-| 87  | Scum of the Brave                                                                      | 2026 | 02 Sep 2026 | [SeaDex](https://releases.moe/187989/), [AniList](https://anilist.co/anime/187989) |
+| 87  | Scum of the Brave                                                                      | 2026 | 16 Sep 2026 | [SeaDex](https://releases.moe/187989/), [AniList](https://anilist.co/anime/187989) |
 | 88  | Bakuon!!                                                                               | 2016 | 05 Feb 2026 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 89  | Inu X Boku Secret Service Special                                                      | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
 | 90  | Mobile Suit Gundam: Char's Counterattack                                               | 1988 | 02 Sep 2026 | [SeaDex](https://releases.moe/87/), [AniList](https://anilist.co/anime/87)         |

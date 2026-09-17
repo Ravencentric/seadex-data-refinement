@@ -123,8 +123,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | HorribleSubs / Pog42 / SCY                     | 16    |
 | 18   | nekotan                                        | 15    |
 | 19   | CBT / Datte13 / Lulu / WBDP                    | 13    |
-| 20   | UDF / o7                                       | 12    |
-| 21   | FFF / Mysteria / NH / Netaro & Others          | 11    |
+| 20   | SEV / UDF / o7                                 | 12    |
+| 21   | FFF / Mysteria / NH / Netaro / TROLLORANGE     | 11    |
 | 22   | CyC                                            | 10    |
 | 23   | Asakura / GSK_kun / Pookie / Tsundere & Others | 9     |
 | 24   | RASETSU / Reza / crane0922                     | 8     |
