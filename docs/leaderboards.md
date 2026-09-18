@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                       | Count |
 | :----| :---------------------------| :-----|
-| 🥇   | Headpatter                  | 185   |
+| 🥇   | Headpatter                  | 186   |
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
@@ -23,7 +23,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | hchcsen                     | 104   |
 | 8    | YURASUKA                    | 102   |
 | 9    | Moxie                       | 101   |
-| 10   | SubsPlease                  | 71    |
+| 10   | SubsPlease                  | 70    |
 | 11   | YURI                        | 68    |
 | 12   | Erai-raws                   | 62    |
 | 13   | Drag                        | 58    |
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                             | 97    |
 | 4    | NAN0                                            | 85    |
 | 5    | hchcsen                                         | 56    |
-| 6    | Headpatter                                      | 46    |
+| 6    | Headpatter                                      | 47    |
 | 7    | LYS1TH3A                                        | 32    |
 | 8    | GetItTwisted / TTGA                             | 29    |
 | 9    | YURASUKA                                        | 28    |
@@ -78,7 +78,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE            | 129   |
 | 🥉   | sam                 | 128   |
 | 4    | NAN0                | 115   |
-| 5    | Headpatter          | 111   |
+| 5    | Headpatter          | 112   |
 | 6    | Moxie               | 101   |
 | 7    | MTBB                | 76    |
 | 8    | hchcsen             | 73    |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------------------------------------| :-----|
 | 🥇   | Headpatter                                     | 97    |
 | 🥈   | YURASUKA                                       | 64    |
-| 🥉   | SubsPlease                                     | 62    |
+| 🥉   | SubsPlease                                     | 61    |
 | 4    | Erai-raws                                      | 52    |
 | 5    | KH                                             | 47    |
 | 6    | Drag                                           | 43    |

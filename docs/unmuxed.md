@@ -9,8 +9,8 @@
 | 6   | Soul Eater                                                                         | 2008 | 27 Jul 2026 | [SeaDex](https://releases.moe/3588/), [AniList](https://anilist.co/anime/3588)     |
 | 7   | BLUE LOCK                                                                          | 2022 | 30 Dec 2025 | [SeaDex](https://releases.moe/137822/), [AniList](https://anilist.co/anime/137822) |
 | 8   | Princess Mononoke                                                                  | 1997 | 21 Jul 2026 | [SeaDex](https://releases.moe/164/), [AniList](https://anilist.co/anime/164)       |
-| 9   | The Seven Deadly Sins: Revival of the Commandments                                 | 2018 | 04 Nov 2024 | [SeaDex](https://releases.moe/99539/), [AniList](https://anilist.co/anime/99539)   |
-| 10  | Kuroko's Basketball                                                                | 2012 | 24 Apr 2026 | [SeaDex](https://releases.moe/11771/), [AniList](https://anilist.co/anime/11771)   |
+| 9   | Kuroko's Basketball                                                                | 2012 | 24 Apr 2026 | [SeaDex](https://releases.moe/11771/), [AniList](https://anilist.co/anime/11771)   |
+| 10  | The Seven Deadly Sins: Revival of the Commandments                                 | 2018 | 04 Nov 2024 | [SeaDex](https://releases.moe/99539/), [AniList](https://anilist.co/anime/99539)   |
 | 11  | My Hero Academia Season 6                                                          | 2022 | 04 Jun 2026 | [SeaDex](https://releases.moe/139630/), [AniList](https://anilist.co/anime/139630) |
 | 12  | Black Lagoon                                                                       | 2006 | 22 May 2026 | [SeaDex](https://releases.moe/889/), [AniList](https://anilist.co/anime/889)       |
 | 13  | Deadman Wonderland                                                                 | 2011 | 30 Jun 2026 | [SeaDex](https://releases.moe/6880/), [AniList](https://anilist.co/anime/6880)     |
@@ -46,8 +46,8 @@
 | 43  | Strike the Blood                                                                   | 2013 | 15 Feb 2026 | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
 | 44  | Twin Star Exorcists                                                                | 2016 | 01 Jun 2025 | [SeaDex](https://releases.moe/21499/), [AniList](https://anilist.co/anime/21499)   |
 | 45  | AJIN: Demi-Human                                                                   | 2016 | 31 May 2025 | [SeaDex](https://releases.moe/21341/), [AniList](https://anilist.co/anime/21341)   |
-| 46  | NEW GAME!                                                                          | 2016 | 17 Nov 2025 | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
-| 47  | Skeleton Knight in Another World                                                   | 2022 | 24 Feb 2026 | [SeaDex](https://releases.moe/132474/), [AniList](https://anilist.co/anime/132474) |
+| 46  | Skeleton Knight in Another World                                                   | 2022 | 24 Feb 2026 | [SeaDex](https://releases.moe/132474/), [AniList](https://anilist.co/anime/132474) |
+| 47  | NEW GAME!                                                                          | 2016 | 17 Nov 2025 | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
 | 48  | World Trigger                                                                      | 2014 | 02 Jul 2025 | [SeaDex](https://releases.moe/20729/), [AniList](https://anilist.co/anime/20729)   |
 | 49  | Baka and Test - Summon the Beasts                                                  | 2010 | 04 May 2025 | [SeaDex](https://releases.moe/6347/), [AniList](https://anilist.co/anime/6347)     |
 | 50  | LOVE and LIES                                                                      | 2017 | 30 Dec 2024 | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
@@ -67,8 +67,8 @@
 | 64  | Bunny Drop                                                                         | 2011 | 16 Aug 2025 | [SeaDex](https://releases.moe/10162/), [AniList](https://anilist.co/anime/10162)   |
 | 65  | Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie? | 2019 | 10 Aug 2025 | [SeaDex](https://releases.moe/107961/), [AniList](https://anilist.co/anime/107961) |
 | 66  | HELLO WORLD                                                                        | 2019 | 27 Apr 2025 | [SeaDex](https://releases.moe/106240/), [AniList](https://anilist.co/anime/106240) |
-| 67  | Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side      | 2017 | 23 Jun 2025 | [SeaDex](https://releases.moe/21676/), [AniList](https://anilist.co/anime/21676)   |
-| 68  | Kids on the Slope                                                                  | 2012 | 17 Jul 2025 | [SeaDex](https://releases.moe/12531/), [AniList](https://anilist.co/anime/12531)   |
+| 67  | Kids on the Slope                                                                  | 2012 | 17 Jul 2025 | [SeaDex](https://releases.moe/12531/), [AniList](https://anilist.co/anime/12531)   |
+| 68  | Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side      | 2017 | 23 Jun 2025 | [SeaDex](https://releases.moe/21676/), [AniList](https://anilist.co/anime/21676)   |
 | 69  | Pseudo Harem                                                                       | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
 | 70  | Inu X Boku Secret Service                                                          | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/11013/), [AniList](https://anilist.co/anime/11013)   |
 | 71  | Rage of Bahamut: Genesis                                                           | 2014 | 22 Dec 2025 | [SeaDex](https://releases.moe/20590/), [AniList](https://anilist.co/anime/20590)   |
@@ -129,7 +129,7 @@
 | 126 | Jin-Roh: The Wolf Brigade                                                          | 2000 | 05 Apr 2026 | [SeaDex](https://releases.moe/570/), [AniList](https://anilist.co/anime/570)       |
 | 127 | Teasing Master Takagi-san Season 3                                                 | 2022 | 04 Mar 2026 | [SeaDex](https://releases.moe/138424/), [AniList](https://anilist.co/anime/138424) |
 | 128 | Danganronpa 3: The End of Hope's Peak High School - Hope Arc                       | 2016 | 10 May 2026 | [SeaDex](https://releases.moe/97672/), [AniList](https://anilist.co/anime/97672)   |
-| 129 | The Irregular at Magic High School Season 3                                        | 2024 | 31 Mar 2026 | [SeaDex](https://releases.moe/143271/), [AniList](https://anilist.co/anime/143271) |
+| 129 | The Irregular at Magic High School Season 3                                        | 2024 | 18 Sep 2026 | [SeaDex](https://releases.moe/143271/), [AniList](https://anilist.co/anime/143271) |
 | 130 | Free! -Dive to the Future-                                                         | 2018 | 05 Jan 2025 | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
 | 131 | The Master of Ragnarök & Blesser of Einherjar                                      | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/101289/), [AniList](https://anilist.co/anime/101289) |
 | 132 | Gintama: THE VERY FINAL                                                            | 2021 | 09 Jul 2026 | [SeaDex](https://releases.moe/114129/), [AniList](https://anilist.co/anime/114129) |
@@ -175,21 +175,21 @@
 | 172 | Easygoing Territory Defense by the Optimistic Lord                                 | 2026 | 26 Aug 2026 | [SeaDex](https://releases.moe/191205/), [AniList](https://anilist.co/anime/191205) |
 | 173 | Higurashi: When They Cry - SOTSU                                                   | 2021 | 25 Aug 2026 | [SeaDex](https://releases.moe/131149/), [AniList](https://anilist.co/anime/131149) |
 | 174 | Hyperdimension Neptunia                                                            | 2013 | 01 Jul 2026 | [SeaDex](https://releases.moe/16157/), [AniList](https://anilist.co/anime/16157)   |
-| 175 | The Banished Court Magician Aims to Become the Strongest                           | 2025 | 14 Sep 2026 | [SeaDex](https://releases.moe/188487/), [AniList](https://anilist.co/anime/188487) |
-| 176 | The Honor at Magic High School                                                     | 2021 | 17 Jul 2025 | [SeaDex](https://releases.moe/127688/), [AniList](https://anilist.co/anime/127688) |
-| 177 | Scott Pilgrim Takes Off                                                            | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
-| 178 | Forest of Piano                                                                    | 2018 | 24 Apr 2026 | [SeaDex](https://releases.moe/100401/), [AniList](https://anilist.co/anime/100401) |
-| 179 | World Trigger 3rd Season                                                           | 2021 | 16 Sep 2025 | [SeaDex](https://releases.moe/127400/), [AniList](https://anilist.co/anime/127400) |
-| 180 | Minami-ke                                                                          | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
-| 181 | Re: Hamatora                                                                       | 2014 | 22 Apr 2026 | [SeaDex](https://releases.moe/20711/), [AniList](https://anilist.co/anime/20711)   |
-| 182 | Divine Gate                                                                        | 2016 | 10 Apr 2025 | [SeaDex](https://releases.moe/21380/), [AniList](https://anilist.co/anime/21380)   |
-| 183 | The Royal Tutor                                                                    | 2017 | 09 Apr 2025 | [SeaDex](https://releases.moe/97932/), [AniList](https://anilist.co/anime/97932)   |
-| 184 | Yashahime: Princess Half-Demon                                                     | 2020 | 14 Nov 2024 | [SeaDex](https://releases.moe/118399/), [AniList](https://anilist.co/anime/118399) |
-| 185 | Scarlet Nexus                                                                      | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 186 | Samurai Flamenco                                                                   | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/19365/), [AniList](https://anilist.co/anime/19365)   |
-| 187 | Tekkonkinkreet                                                                     | 2006 | 24 Aug 2026 | [SeaDex](https://releases.moe/2154/), [AniList](https://anilist.co/anime/2154)     |
-| 188 | Anonymous Noise                                                                    | 2017 | 24 Aug 2026 | [SeaDex](https://releases.moe/21773/), [AniList](https://anilist.co/anime/21773)   |
-| 189 | Lady Oscar: The Rose of Versailles                                                 | 1979 | 05 Feb 2026 | [SeaDex](https://releases.moe/338/), [AniList](https://anilist.co/anime/338)       |
+| 175 | The Honor at Magic High School                                                     | 2021 | 17 Jul 2025 | [SeaDex](https://releases.moe/127688/), [AniList](https://anilist.co/anime/127688) |
+| 176 | Scott Pilgrim Takes Off                                                            | 2023 | 01 Jul 2026 | [SeaDex](https://releases.moe/170206/), [AniList](https://anilist.co/anime/170206) |
+| 177 | Forest of Piano                                                                    | 2018 | 24 Apr 2026 | [SeaDex](https://releases.moe/100401/), [AniList](https://anilist.co/anime/100401) |
+| 178 | World Trigger 3rd Season                                                           | 2021 | 16 Sep 2025 | [SeaDex](https://releases.moe/127400/), [AniList](https://anilist.co/anime/127400) |
+| 179 | Minami-ke                                                                          | 2007 | 01 Jun 2026 | [SeaDex](https://releases.moe/2963/), [AniList](https://anilist.co/anime/2963)     |
+| 180 | Re: Hamatora                                                                       | 2014 | 22 Apr 2026 | [SeaDex](https://releases.moe/20711/), [AniList](https://anilist.co/anime/20711)   |
+| 181 | Divine Gate                                                                        | 2016 | 10 Apr 2025 | [SeaDex](https://releases.moe/21380/), [AniList](https://anilist.co/anime/21380)   |
+| 182 | The Royal Tutor                                                                    | 2017 | 09 Apr 2025 | [SeaDex](https://releases.moe/97932/), [AniList](https://anilist.co/anime/97932)   |
+| 183 | Yashahime: Princess Half-Demon                                                     | 2020 | 14 Nov 2024 | [SeaDex](https://releases.moe/118399/), [AniList](https://anilist.co/anime/118399) |
+| 184 | Scarlet Nexus                                                                      | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
+| 185 | Samurai Flamenco                                                                   | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/19365/), [AniList](https://anilist.co/anime/19365)   |
+| 186 | Tekkonkinkreet                                                                     | 2006 | 24 Aug 2026 | [SeaDex](https://releases.moe/2154/), [AniList](https://anilist.co/anime/2154)     |
+| 187 | Anonymous Noise                                                                    | 2017 | 24 Aug 2026 | [SeaDex](https://releases.moe/21773/), [AniList](https://anilist.co/anime/21773)   |
+| 188 | Lady Oscar: The Rose of Versailles                                                 | 1979 | 05 Feb 2026 | [SeaDex](https://releases.moe/338/), [AniList](https://anilist.co/anime/338)       |
+| 189 | La Storia Della Arcana Famiglia                                                    | 2012 | 18 Sep 2026 | [SeaDex](https://releases.moe/12967/), [AniList](https://anilist.co/anime/12967)   |
 | 190 | UN-GO                                                                              | 2011 | 05 Mar 2026 | [SeaDex](https://releases.moe/10798/), [AniList](https://anilist.co/anime/10798)   |
 | 191 | DRAMAtical Murder                                                                  | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 192 | TRIGUN STARGAZE                                                                    | 2026 | 25 Aug 2026 | [SeaDex](https://releases.moe/163144/), [AniList](https://anilist.co/anime/163144) |
