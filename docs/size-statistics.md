@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `152.7 TiB`
-- Best size: `116.0 TiB`
+- Total size: `152.8 TiB`
+- Best size: `116.1 TiB`
 - Alt size: `36.7 TiB`
 - Realistic size: `119.2 TiB`
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | CTR              | 561.2 GiB  | 138.6 GiB (24.69%)  | 26 (~21.6 GiB each)   |
 | 49   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 50   | Others           | 48.2 TiB   | 25.7 TiB (53.31%)   | 2081 (~23.7 GiB each) |
+| 50   | Others           | 48.3 TiB   | 25.8 TiB (53.40%)   | 2081 (~23.8 GiB each) |
