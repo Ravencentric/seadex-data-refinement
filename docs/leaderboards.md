@@ -14,16 +14,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                       | Count |
 | :----| :---------------------------| :-----|
-| 🥇   | Headpatter                  | 186   |
+| 🥇   | Headpatter                  | 187   |
 | 🥈   | -ZR-                        | 170   |
 | 🥉   | sam                         | 137   |
 | 4    | CRUCiBLE                    | 129   |
 | 5    | NAN0                        | 117   |
 | 6    | MTBB                        | 106   |
 | 7    | hchcsen                     | 104   |
-| 8    | YURASUKA                    | 102   |
+| 8    | YURASUKA                    | 103   |
 | 9    | Moxie                       | 101   |
-| 10   | SubsPlease                  | 70    |
+| 10   | SubsPlease                  | 69    |
 | 11   | YURI                        | 68    |
 | 12   | Erai-raws                   | 62    |
 | 13   | Drag                        | 58    |
@@ -49,26 +49,26 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                             | 97    |
 | 4    | NAN0                                            | 85    |
 | 5    | hchcsen                                         | 56    |
-| 6    | Headpatter                                      | 47    |
+| 6    | Headpatter                                      | 48    |
 | 7    | LYS1TH3A                                        | 32    |
-| 8    | GetItTwisted / TTGA                             | 29    |
-| 9    | YURASUKA                                        | 28    |
-| 10   | FLE                                             | 23    |
-| 11   | Moxie / smol                                    | 21    |
-| 12   | ZeroBuild                                       | 20    |
-| 13   | Flugel / Lulu                                   | 17    |
-| 14   | LazyRemux / PMR                                 | 16    |
-| 15   | koala                                           | 15    |
-| 16   | Arid / BlackRose / YURI                         | 13    |
-| 17   | Mehul / Vodes                                   | 12    |
-| 18   | FraMeSToR / LostYears / nekotan                 | 11    |
-| 19   | DemiHuman                                       | 10    |
-| 20   | NTRX / hydes                                    | 9     |
-| 21   | KH / LaCroiX / Meakes / SCY / Sylvar            | 8     |
-| 22   | IK / Kametsu / NOGRP / SubsMix                  | 7     |
-| 23   | B00BA / Bunny-Apocalypse / CTR / Drag & Others  | 6     |
-| 24   | DeeVeeDee / Doc / Holomux / Kuraze & Others     | 5     |
-| 25   | Arg0 / Chika / Ignore / Iznjie Biznjie & Others | 4     |
+| 8    | GetItTwisted / TTGA / YURASUKA                  | 29    |
+| 9    | FLE                                             | 23    |
+| 10   | Moxie / smol                                    | 21    |
+| 11   | ZeroBuild                                       | 20    |
+| 12   | Flugel / Lulu                                   | 17    |
+| 13   | LazyRemux / PMR                                 | 16    |
+| 14   | koala                                           | 15    |
+| 15   | Arid / BlackRose / YURI                         | 13    |
+| 16   | Mehul / Vodes                                   | 12    |
+| 17   | FraMeSToR / LostYears / nekotan                 | 11    |
+| 18   | DemiHuman                                       | 10    |
+| 19   | NTRX / hydes                                    | 9     |
+| 20   | KH / LaCroiX / Meakes / SCY / Sylvar            | 8     |
+| 21   | IK / Kametsu / NOGRP                            | 7     |
+| 22   | B00BA / Bunny-Apocalypse / CTR / Drag & Others  | 6     |
+| 23   | DeeVeeDee / Doc / Holomux / Kuraze & Others     | 5     |
+| 24   | Arg0 / Chika / Ignore / Iznjie Biznjie & Others | 4     |
+| 25   | Aergia / AnoZu / CiNEPHiLES / EJF & Others      | 3     |
 
 ## Top 25 - Best entries
 
@@ -78,35 +78,35 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE            | 129   |
 | 🥉   | sam                 | 128   |
 | 4    | NAN0                | 115   |
-| 5    | Headpatter          | 112   |
+| 5    | Headpatter          | 113   |
 | 6    | Moxie               | 101   |
 | 7    | MTBB                | 76    |
 | 8    | hchcsen             | 73    |
 | 9    | smol                | 54    |
 | 10   | Okay-Subs           | 42    |
 | 11   | GetItTwisted / PMR  | 40    |
-| 12   | TTGA / YURASUKA     | 38    |
-| 13   | B00BA               | 34    |
-| 14   | LYS1TH3A            | 33    |
-| 15   | YURI                | 30    |
-| 16   | FLE / Orphan        | 26    |
-| 17   | Mehul               | 25    |
-| 18   | nekotan             | 23    |
-| 19   | Kawatare            | 22    |
-| 20   | Lulu / ZeroBuild    | 20    |
-| 21   | LaCroiX / LazyRemux | 19    |
-| 22   | Arid / koala        | 18    |
-| 23   | Flugel              | 17    |
-| 24   | Drag / Reza         | 16    |
-| 25   | Vodes               | 15    |
+| 12   | YURASUKA            | 39    |
+| 13   | TTGA                | 38    |
+| 14   | B00BA               | 34    |
+| 15   | LYS1TH3A            | 33    |
+| 16   | YURI                | 30    |
+| 17   | FLE / Orphan        | 26    |
+| 18   | Mehul               | 25    |
+| 19   | nekotan             | 23    |
+| 20   | Kawatare            | 22    |
+| 21   | Lulu / ZeroBuild    | 20    |
+| 22   | LaCroiX / LazyRemux | 19    |
+| 23   | Arid / koala        | 18    |
+| 24   | Flugel              | 17    |
+| 25   | Drag / Reza         | 16    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
-| 🥇   | Headpatter                                     | 97    |
+| 🥇   | Headpatter                                     | 98    |
 | 🥈   | YURASUKA                                       | 64    |
-| 🥉   | SubsPlease                                     | 61    |
+| 🥉   | SubsPlease                                     | 60    |
 | 4    | Erai-raws                                      | 52    |
 | 5    | KH                                             | 47    |
 | 6    | Drag                                           | 43    |
