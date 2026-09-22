@@ -92,8 +92,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 85  | given The Movie: Hiiragi Mix                                                           | 2024 | 09 Jun 2026 | [SeaDex](https://releases.moe/162987/), [AniList](https://anilist.co/anime/162987) |
 | 86  | Symphogear GX                                                                          | 2015 | 08 Aug 2025 | [SeaDex](https://releases.moe/20560/), [AniList](https://anilist.co/anime/20560)   |
 | 87  | Natsuyuki Rendezvous                                                                   | 2012 | 15 Mar 2026 | [SeaDex](https://releases.moe/13585/), [AniList](https://anilist.co/anime/13585)   |
-| 88  | Muv-Luv Alternative: Total Eclipse                                                     | 2012 | 20 Mar 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
-| 89  | Scum of the Brave                                                                      | 2026 | 16 Sep 2026 | [SeaDex](https://releases.moe/187989/), [AniList](https://anilist.co/anime/187989) |
+| 88  | Scum of the Brave                                                                      | 2026 | 16 Sep 2026 | [SeaDex](https://releases.moe/187989/), [AniList](https://anilist.co/anime/187989) |
+| 89  | Muv-Luv Alternative: Total Eclipse                                                     | 2012 | 20 Mar 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
 | 90  | Bakuon!!                                                                               | 2016 | 05 Feb 2026 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 91  | Inu X Boku Secret Service Special                                                      | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
 | 92  | Mobile Suit Gundam: Char's Counterattack                                               | 1988 | 02 Sep 2026 | [SeaDex](https://releases.moe/87/), [AniList](https://anilist.co/anime/87)         |
