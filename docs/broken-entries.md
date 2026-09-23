@@ -40,8 +40,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 33  | Hell Girl                                                                              | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
 | 34  | ONIMAI: I'm Now Your Sister!                                                           | 2023 | 07 Aug 2025 | [SeaDex](https://releases.moe/147864/), [AniList](https://anilist.co/anime/147864) |
 | 35  | Rent-a-Girlfriend Season 3                                                             | 2023 | 05 Jun 2026 | [SeaDex](https://releases.moe/154745/), [AniList](https://anilist.co/anime/154745) |
-| 36  | Tales of Zestiria the X                                                                | 2016 | 27 Aug 2026 | [SeaDex](https://releases.moe/21221/), [AniList](https://anilist.co/anime/21221)   |
-| 37  | My Hero Academia: Vigilantes                                                           | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
+| 36  | My Hero Academia: Vigilantes                                                           | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
+| 37  | Tales of Zestiria the X                                                                | 2016 | 27 Aug 2026 | [SeaDex](https://releases.moe/21221/), [AniList](https://anilist.co/anime/21221)   |
 | 38  | Monster Girl Doctor                                                                    | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
 | 39  | Ace of the Diamond                                                                     | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
 | 40  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time             | 2025 | 30 Jun 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
@@ -52,8 +52,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 45  | Gintama.: Silver Soul Arc - Second Half War                                            | 2018 | 26 Aug 2026 | [SeaDex](https://releases.moe/101925/), [AniList](https://anilist.co/anime/101925) |
 | 46  | Puella Magi Madoka Magica the Movie Part 1: Beginnings                                 | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11977/), [AniList](https://anilist.co/anime/11977)   |
 | 47  | I'm Standing on a Million Lives Season 2                                               | 2021 | 26 Aug 2026 | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
-| 48  | KanColle                                                                               | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
-| 49  | Gintama.: Slip Arc                                                                     | 2017 | 26 Aug 2026 | [SeaDex](https://releases.moe/99714/), [AniList](https://anilist.co/anime/99714)   |
+| 48  | Gintama.: Slip Arc                                                                     | 2017 | 26 Aug 2026 | [SeaDex](https://releases.moe/99714/), [AniList](https://anilist.co/anime/99714)   |
+| 49  | KanColle                                                                               | 2015 | 19 Nov 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 50  | Puella Magi Madoka Magica the Movie Part 2: Eternal                                    | 2012 | 02 Oct 2025 | [SeaDex](https://releases.moe/11979/), [AniList](https://anilist.co/anime/11979)   |
 | 51  | BARTENDER Glass of God                                                                 | 2024 | 24 Aug 2026 | [SeaDex](https://releases.moe/155890/), [AniList](https://anilist.co/anime/155890) |
 | 52  | RE-MAIN                                                                                | 2021 | 05 Apr 2026 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |

@@ -220,8 +220,8 @@
 | 217 | GJ-bu@                                                                               | 2014 | 03 Jul 2024 | [SeaDex](https://releases.moe/20567/), [AniList](https://anilist.co/anime/20567)   |
 | 218 | Is the Order a Rabbit?? ～Sing For You～                                             | 2019 | 12 Jul 2024 | [SeaDex](https://releases.moe/104199/), [AniList](https://anilist.co/anime/104199) |
 | 219 | Yokohama Kaidashi Kikou: Quiet Country Cafe                                          | 2002 | 13 Nov 2024 | [SeaDex](https://releases.moe/976/), [AniList](https://anilist.co/anime/976)       |
-| 220 | Sound! Euphonium 2 Shorts                                                            | 2016 | 15 Nov 2023 | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
-| 221 | Megazone 23                                                                          | 1985 | 22 Jul 2024 | [SeaDex](https://releases.moe/1935/), [AniList](https://anilist.co/anime/1935)     |
+| 220 | Megazone 23                                                                          | 1985 | 22 Jul 2024 | [SeaDex](https://releases.moe/1935/), [AniList](https://anilist.co/anime/1935)     |
+| 221 | Sound! Euphonium 2 Shorts                                                            | 2016 | 15 Nov 2023 | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
 | 222 | The Master of Killing Time Specials                                                  | 2014 | 04 Jan 2024 | [SeaDex](https://releases.moe/20738/), [AniList](https://anilist.co/anime/20738)   |
 | 223 | Overlord: Ple Ple Pleiades 3                                                         | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/103209/), [AniList](https://anilist.co/anime/103209) |
 | 224 | IS: Infinite Stratos 2 - Infinite Wedding                                            | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |

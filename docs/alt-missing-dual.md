@@ -79,8 +79,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 72  | Tokyo Ghoul: [PINTO]                                                                       | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 73  | Children who Chase Lost Voices                                                             | 2011 | 03 Sep 2026 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
 | 74  | Tales of Wedding Rings                                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
-| 75  | Japan Sinks: 2020                                                                          | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
-| 76  | I'm Standing on a Million Lives Season 2                                                   | 2021 | 26 Aug 2026 | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
+| 75  | I'm Standing on a Million Lives Season 2                                                   | 2021 | 26 Aug 2026 | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
+| 76  | Japan Sinks: 2020                                                                          | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 77  | The Weakest Tamer Began a Journey to Pick Up Trash                                         | 2024 | 16 Apr 2025 | [SeaDex](https://releases.moe/156891/), [AniList](https://anilist.co/anime/156891) |
 | 78  | Gurren Lagann The Movie: The Lights in the Sky are Stars                                   | 2009 | 20 Mar 2026 | [SeaDex](https://releases.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
 | 79  | Date A Live II: Kurumi Star Festival                                                       | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20767/), [AniList](https://anilist.co/anime/20767)   |
