@@ -19,9 +19,7 @@
 | 16  | Majestic Prince                                                                  | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
 | 17  | Shagahai ReLIFE Kenkyuujo Support-ka                                             | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 18  | The Royal Tutor Movie                                                            | 2019 | 15 Sep 2026 | [SeaDex](https://releases.moe/104286/), [AniList](https://anilist.co/anime/104286) |
-| 19  | Minami Kamakura High School Girls Cycling Club                                   | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/21298/), [AniList](https://anilist.co/anime/21298)   |
-| 20  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
-| 21  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 22  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 23  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
-| 24  | Minami Kamakura High School Girls Cycling Club: We're In Taiwan!!                | 2017 | 03 Sep 2026 | [SeaDex](https://releases.moe/98997/), [AniList](https://anilist.co/anime/98997)   |
+| 19  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
+| 20  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 21  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
+| 22  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |

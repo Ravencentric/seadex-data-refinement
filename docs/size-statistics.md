@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `152.9 TiB`
-- Best size: `116.2 TiB`
+- Total size: `153.0 TiB`
+- Best size: `116.3 TiB`
 - Alt size: `36.7 TiB`
-- Realistic size: `119.3 TiB`
+- Realistic size: `119.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -26,8 +26,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 4    | NAN0             | 8.8 TiB    | 8.7 TiB (98.72%)    | 117 (~77.2 GiB each)  |
 | 5    | Headpatter       | 6.1 TiB    | 4.5 TiB (73.11%)    | 211 (~29.8 GiB each)  |
 | 6    | sam              | 4.1 TiB    | 3.8 TiB (93.58%)    | 137 (~30.7 GiB each)  |
-| 7    | Moxie            | 3.9 TiB    | 3.9 TiB (100.00%)   | 101 (~39.5 GiB each)  |
-| 8    | PMR              | 3.2 TiB    | 3.2 TiB (100.00%)   | 40 (~83.0 GiB each)   |
+| 7    | Moxie            | 4.0 TiB    | 4.0 TiB (100.00%)   | 102 (~39.8 GiB each)  |
+| 8    | PMR              | 3.3 TiB    | 3.3 TiB (100.00%)   | 41 (~82.7 GiB each)   |
 | 9    | B00BA            | 3.0 TiB    | 3.0 TiB (100.00%)   | 34 (~90.2 GiB each)   |
 | 10   | TTGA             | 2.8 TiB    | 2.7 TiB (95.47%)    | 39 (~73.9 GiB each)   |
 | 11   | GetItTwisted     | 2.3 TiB    | 1.8 TiB (78.34%)    | 72 (~32.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | CTR              | 561.2 GiB  | 138.6 GiB (24.69%)  | 26 (~21.6 GiB each)   |
 | 49   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 50   | Others           | 48.3 TiB   | 25.8 TiB (53.39%)   | 2080 (~23.8 GiB each) |
+| 50   | Others           | 48.3 TiB   | 25.8 TiB (53.37%)   | 2082 (~23.8 GiB each) |

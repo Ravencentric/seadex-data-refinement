@@ -16,7 +16,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 9   | Evangelion: 1.0 You Are (Not) Alone                                                    | 2007 | 30 Jun 2026 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
 | 10  | Hajime no Ippo: The Fighting!                                                          | 2000 | 03 May 2026 | [SeaDex](https://releases.moe/263/), [AniList](https://anilist.co/anime/263)       |
 | 11  | How a Realist Hero Rebuilt the Kingdom                                                 | 2021 | 21 Jan 2026 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
-| 12  | My Hero Academia FINAL SEASON                                                          | 2025 | 18 Sep 2026 | [SeaDex](https://releases.moe/182896/), [AniList](https://anilist.co/anime/182896) |
+| 12  | My Hero Academia FINAL SEASON                                                          | 2025 | 25 Sep 2026 | [SeaDex](https://releases.moe/182896/), [AniList](https://anilist.co/anime/182896) |
 | 13  | Record of Ragnarok                                                                     | 2021 | 16 Sep 2025 | [SeaDex](https://releases.moe/127399/), [AniList](https://anilist.co/anime/127399) |
 | 14  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                 | 2021 | 30 Jan 2026 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 15  | SHIROBAKO                                                                              | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
@@ -92,7 +92,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 85  | given The Movie: Hiiragi Mix                                                           | 2024 | 09 Jun 2026 | [SeaDex](https://releases.moe/162987/), [AniList](https://anilist.co/anime/162987) |
 | 86  | Symphogear GX                                                                          | 2015 | 08 Aug 2025 | [SeaDex](https://releases.moe/20560/), [AniList](https://anilist.co/anime/20560)   |
 | 87  | Natsuyuki Rendezvous                                                                   | 2012 | 15 Mar 2026 | [SeaDex](https://releases.moe/13585/), [AniList](https://anilist.co/anime/13585)   |
-| 88  | Scum of the Brave                                                                      | 2026 | 16 Sep 2026 | [SeaDex](https://releases.moe/187989/), [AniList](https://anilist.co/anime/187989) |
+| 88  | Scum of the Brave                                                                      | 2026 | 25 Sep 2026 | [SeaDex](https://releases.moe/187989/), [AniList](https://anilist.co/anime/187989) |
 | 89  | Muv-Luv Alternative: Total Eclipse                                                     | 2012 | 20 Mar 2026 | [SeaDex](https://releases.moe/11021/), [AniList](https://anilist.co/anime/11021)   |
 | 90  | Bakuon!!                                                                               | 2016 | 05 Feb 2026 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 91  | Inu X Boku Secret Service Special                                                      | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
