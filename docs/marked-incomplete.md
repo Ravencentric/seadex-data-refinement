@@ -67,8 +67,8 @@
 | 64  | Memories                                                                             | 1995 | 29 Dec 2025 | [SeaDex](https://releases.moe/1462/), [AniList](https://anilist.co/anime/1462)     |
 | 65  | Ore no Imouto ga Konna ni Kawaii Wake ga Nai TRUE ROUTE                              | 2011 | 04 Jan 2024 | [SeaDex](https://releases.moe/10020/), [AniList](https://anilist.co/anime/10020)   |
 | 66  | Bokurano                                                                             | 2007 | 04 Aug 2025 | [SeaDex](https://releases.moe/1690/), [AniList](https://anilist.co/anime/1690)     |
-| 67  | Skip Beat!                                                                           | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/4722/), [AniList](https://anilist.co/anime/4722)     |
-| 68  | Moribito: Guardian of the Spirit                                                     | 2007 | 24 Jan 2024 | [SeaDex](https://releases.moe/1827/), [AniList](https://anilist.co/anime/1827)     |
+| 67  | Moribito: Guardian of the Spirit                                                     | 2007 | 24 Jan 2024 | [SeaDex](https://releases.moe/1827/), [AniList](https://anilist.co/anime/1827)     |
+| 68  | Skip Beat!                                                                           | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/4722/), [AniList](https://anilist.co/anime/4722)     |
 | 69  | Ghost in the Shell: Stand Alone Complex 2nd GIG                                      | 2004 | 19 Jul 2026 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
 | 70  | Pupa                                                                                 | 2014 | 01 Apr 2026 | [SeaDex](https://releases.moe/19315/), [AniList](https://anilist.co/anime/19315)   |
 | 71  | Soul Eater Not!                                                                      | 2014 | 15 Nov 2023 | [SeaDex](https://releases.moe/20547/), [AniList](https://anilist.co/anime/20547)   |
@@ -129,8 +129,8 @@
 | 126 | The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life | 2016 | 26 Feb 2025 | [SeaDex](https://releases.moe/21489/), [AniList](https://anilist.co/anime/21489)   |
 | 127 | Cardcaptor Sakura the Movie 2: The Sealed Card                                       | 2000 | 24 Dec 2025 | [SeaDex](https://releases.moe/372/), [AniList](https://anilist.co/anime/372)       |
 | 128 | Witch Hunter ROBIN                                                                   | 2002 | 08 Jun 2025 | [SeaDex](https://releases.moe/7/), [AniList](https://anilist.co/anime/7)           |
-| 129 | Hanasaku Iroha the Movie ~ HOME SWEET HOME ~                                         | 2013 | 22 Nov 2023 | [SeaDex](https://releases.moe/14175/), [AniList](https://anilist.co/anime/14175)   |
-| 130 | Re:ZERO ~Starting Break Time From Zero~                                              | 2016 | 18 Nov 2023 | [SeaDex](https://releases.moe/21780/), [AniList](https://anilist.co/anime/21780)   |
+| 129 | Re:ZERO ~Starting Break Time From Zero~                                              | 2016 | 18 Nov 2023 | [SeaDex](https://releases.moe/21780/), [AniList](https://anilist.co/anime/21780)   |
+| 130 | Hanasaku Iroha the Movie ~ HOME SWEET HOME ~                                         | 2013 | 22 Nov 2023 | [SeaDex](https://releases.moe/14175/), [AniList](https://anilist.co/anime/14175)   |
 | 131 | We Never Learn OVAs                                                                  | 2019 | 13 Nov 2024 | [SeaDex](https://releases.moe/109492/), [AniList](https://anilist.co/anime/109492) |
 | 132 | Hi Score Girl: Extra Stage                                                           | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
 | 133 | The Severing Crime Edge                                                              | 2013 | 03 Sep 2026 | [SeaDex](https://releases.moe/16355/), [AniList](https://anilist.co/anime/16355)   |
