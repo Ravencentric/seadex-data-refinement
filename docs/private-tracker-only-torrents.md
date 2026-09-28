@@ -29,13 +29,13 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 22  | BLACK ROCK SHOOTER DAWN FALL                                                           | 2022 | 25 Sep 2026 | [SeaDex](https://releases.moe/139303/), [AniList](https://anilist.co/anime/139303) |
 | 23  | I Want to Deliver Your Voice                                                           | 2017 | 07 Feb 2026 | [SeaDex](https://releases.moe/21683/), [AniList](https://anilist.co/anime/21683)   |
 | 24  | Majestic Prince                                                                        | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 25  | Shagahai ReLIFE Kenkyuujo Support-ka                                                   | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 26  | Fantastic Children                                                                     | 2004 | 26 Sep 2026 | [SeaDex](https://releases.moe/455/), [AniList](https://anilist.co/anime/455)       |
-| 27  | TIGER & BUNNY 2                                                                        | 2022 | 11 Sep 2026 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
-| 28  | The Royal Tutor Movie                                                                  | 2019 | 15 Sep 2026 | [SeaDex](https://releases.moe/104286/), [AniList](https://anilist.co/anime/104286) |
-| 29  | Suna no Bara: Yuki no Mokushiroku                                                      | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 30  | TIGER & BUNNY 2 Part 2                                                                 | 2022 | 11 Sep 2026 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
-| 31  | Kusunoki no Bannin                                                                     | 2026 | 11 Sep 2026 | [SeaDex](https://releases.moe/189956/), [AniList](https://anilist.co/anime/189956) |
-| 32  | LUPIN THE 3rd vs. CAT’S EYE                                                            | 2023 | 13 Sep 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
-| 33  | Combattler V                                                                           | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 34  | Densetsu no Yuusha Da-Garn                                                             | 1992 | 26 Sep 2026 | [SeaDex](https://releases.moe/2803/), [AniList](https://anilist.co/anime/2803)     |
+| 25  | Prétear: The New Legend of Snow White                                                  | 2001 | 27 Sep 2026 | [SeaDex](https://releases.moe/100/), [AniList](https://anilist.co/anime/100)       |
+| 26  | Shagahai ReLIFE Kenkyuujo Support-ka                                                   | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 27  | Fantastic Children                                                                     | 2004 | 26 Sep 2026 | [SeaDex](https://releases.moe/455/), [AniList](https://anilist.co/anime/455)       |
+| 28  | TIGER & BUNNY 2                                                                        | 2022 | 11 Sep 2026 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
+| 29  | The Royal Tutor Movie                                                                  | 2019 | 15 Sep 2026 | [SeaDex](https://releases.moe/104286/), [AniList](https://anilist.co/anime/104286) |
+| 30  | Suna no Bara: Yuki no Mokushiroku                                                      | 1993 | 13 Aug 2026 | [SeaDex](https://releases.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 31  | TIGER & BUNNY 2 Part 2                                                                 | 2022 | 11 Sep 2026 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
+| 32  | Kusunoki no Bannin                                                                     | 2026 | 11 Sep 2026 | [SeaDex](https://releases.moe/189956/), [AniList](https://anilist.co/anime/189956) |
+| 33  | LUPIN THE 3rd vs. CAT’S EYE                                                            | 2023 | 13 Sep 2026 | [SeaDex](https://releases.moe/154924/), [AniList](https://anilist.co/anime/154924) |
+| 34  | Combattler V                                                                           | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |

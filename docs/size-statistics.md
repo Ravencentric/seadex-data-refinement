@@ -68,5 +68,5 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 46   | uba              | 587.8 GiB  | 587.8 GiB (100.00%) | 10 (~58.8 GiB each)   |
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | CTR              | 561.2 GiB  | 138.6 GiB (24.69%)  | 26 (~21.6 GiB each)   |
-| 49   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
-| 50   | Others           | 48.4 TiB   | 25.9 TiB (53.45%)   | 2086 (~23.7 GiB each) |
+| 49   | BBT-RMX          | 559.5 GiB  | 374.5 GiB (66.93%)  | 14 (~40.0 GiB each)   |
+| 50   | Others           | 48.4 TiB   | 26.0 TiB (53.81%)   | 2076 (~23.9 GiB each) |

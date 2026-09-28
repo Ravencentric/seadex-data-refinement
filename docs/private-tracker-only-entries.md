@@ -24,5 +24,4 @@
 | 21  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
 | 22  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
 | 23  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 24  | Densetsu no Yuusha Da-Garn                                                       | 1992 | 26 Sep 2026 | [SeaDex](https://releases.moe/2803/), [AniList](https://anilist.co/anime/2803)     |
-| 25  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 24  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |

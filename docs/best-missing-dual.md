@@ -39,12 +39,13 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 32  | Mobile Suit Gundam Hathaway                                                | 2021 | 26 Sep 2026 | [SeaDex](https://releases.moe/105595/), [AniList](https://anilist.co/anime/105595) |
 | 33  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                  | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
 | 34  | Aesthetica of a Rogue Hero Specials                                        | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
-| 35  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 36  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
-| 37  | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                  | 2016 | 20 Feb 2026 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
-| 38  | Gatchaman Crowds: Embrace                                                  | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
-| 39  | Flying Witch Petit                                                         | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
-| 40  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 41  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
-| 42  | Hakumei and Mikochi: A Screw and a Bed / The Fireside and Gambling         | 2018 | 27 Jun 2026 | [SeaDex](https://releases.moe/101696/), [AniList](https://anilist.co/anime/101696) |
-| 43  | Flying Witch Petit Special                                                 | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
+| 35  | Prétear: The New Legend of Snow White                                      | 2001 | 27 Sep 2026 | [SeaDex](https://releases.moe/100/), [AniList](https://anilist.co/anime/100)       |
+| 36  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 37  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
+| 38  | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                  | 2016 | 20 Feb 2026 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
+| 39  | Gatchaman Crowds: Embrace                                                  | 2014 | 20 Mar 2026 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
+| 40  | Flying Witch Petit                                                         | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
+| 41  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 42  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 43  | Hakumei and Mikochi: A Screw and a Bed / The Fireside and Gambling         | 2018 | 27 Jun 2026 | [SeaDex](https://releases.moe/101696/), [AniList](https://anilist.co/anime/101696) |
+| 44  | Flying Witch Petit Special                                                 | 2016 | 20 Mar 2026 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
