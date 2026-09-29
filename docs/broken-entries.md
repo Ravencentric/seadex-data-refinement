@@ -99,8 +99,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 92  | Inu X Boku Secret Service Special                                                      | 2012 | 24 Dec 2025 | [SeaDex](https://releases.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
 | 93  | Mobile Suit Gundam: Char's Counterattack                                               | 1988 | 02 Sep 2026 | [SeaDex](https://releases.moe/87/), [AniList](https://anilist.co/anime/87)         |
 | 94  | Gun x Sword                                                                            | 2005 | 28 Jan 2026 | [SeaDex](https://releases.moe/411/), [AniList](https://anilist.co/anime/411)       |
-| 95  | Minami-ke: Okawari                                                                     | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3225/), [AniList](https://anilist.co/anime/3225)     |
-| 96  | Alma-chan Wants to Be a Family!                                                        | 2025 | 02 Sep 2026 | [SeaDex](https://releases.moe/186190/), [AniList](https://anilist.co/anime/186190) |
+| 95  | Alma-chan Wants to Be a Family!                                                        | 2025 | 02 Sep 2026 | [SeaDex](https://releases.moe/186190/), [AniList](https://anilist.co/anime/186190) |
+| 96  | Minami-ke: Okawari                                                                     | 2008 | 01 Jun 2026 | [SeaDex](https://releases.moe/3225/), [AniList](https://anilist.co/anime/3225)     |
 | 97  | given The Movie: To the Sea                                                            | 2024 | 24 Aug 2026 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
 | 98  | Inazuma Eleven Ares                                                                    | 2018 | 12 Apr 2026 | [SeaDex](https://releases.moe/21879/), [AniList](https://anilist.co/anime/21879)   |
 | 99  | Minami-ke: Okaeri                                                                      | 2009 | 12 May 2026 | [SeaDex](https://releases.moe/5162/), [AniList](https://anilist.co/anime/5162)     |

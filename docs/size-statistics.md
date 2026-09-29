@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `153.8 TiB`
+- Total size: `153.7 TiB`
 - Best size: `117.0 TiB`
 - Alt size: `36.7 TiB`
 - Realistic size: `120.0 TiB`
@@ -22,9 +22,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.1 TiB   | 14.3 TiB (94.73%)   | 179 (~86.1 GiB each)  |
 | 2    | CRUCiBLE         | 9.4 TiB    | 9.4 TiB (100.00%)   | 129 (~75.0 GiB each)  |
-| 3    | hchcsen          | 9.4 TiB    | 8.1 TiB (86.36%)    | 114 (~84.4 GiB each)  |
+| 3    | hchcsen          | 9.4 TiB    | 8.1 TiB (86.50%)    | 113 (~85.0 GiB each)  |
 | 4    | NAN0             | 8.8 TiB    | 8.7 TiB (98.72%)    | 117 (~77.2 GiB each)  |
-| 5    | Headpatter       | 6.1 TiB    | 4.5 TiB (73.11%)    | 211 (~29.8 GiB each)  |
+| 5    | Headpatter       | 6.2 TiB    | 4.5 TiB (73.39%)    | 215 (~29.5 GiB each)  |
 | 6    | Moxie            | 4.2 TiB    | 4.2 TiB (100.00%)   | 104 (~41.3 GiB each)  |
 | 7    | sam              | 4.1 TiB    | 3.8 TiB (93.58%)    | 137 (~30.7 GiB each)  |
 | 8    | PMR              | 3.3 TiB    | 3.3 TiB (100.00%)   | 41 (~82.7 GiB each)   |
@@ -39,7 +39,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~74.3 GiB each)   |
 | 18   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
 | 19   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~68.9 GiB each)   |
-| 20   | YURASUKA         | 1.2 TiB    | 549.7 GiB (43.03%)  | 104 (~12.3 GiB each)  |
+| 20   | YURASUKA         | 1.2 TiB    | 533.9 GiB (42.31%)  | 103 (~12.3 GiB each)  |
 | 21   | nekotan          | 1.2 TiB    | 999.9 GiB (79.64%)  | 38 (~33.0 GiB each)   |
 | 22   | SubsPlease       | 1.2 TiB    | 144.0 GiB (11.84%)  | 69 (~17.6 GiB each)   |
 | 23   | Mehul            | 1.1 TiB    | 1.0 TiB (94.74%)    | 29 (~38.9 GiB each)   |
@@ -51,8 +51,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 29   | Holomux          | 931.8 GiB  | 193.5 GiB (20.76%)  | 36 (~25.9 GiB each)   |
 | 30   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 31   | KH               | 914.0 GiB  | 116.7 GiB (12.77%)  | 57 (~16.0 GiB each)   |
-| 32   | Kawatare         | 896.8 GiB  | 778.2 GiB (86.78%)  | 30 (~29.9 GiB each)   |
-| 33   | FraMeSToR        | 882.6 GiB  | 745.7 GiB (84.48%)  | 12 (~73.6 GiB each)   |
+| 32   | FraMeSToR        | 882.6 GiB  | 745.7 GiB (84.48%)  | 12 (~73.6 GiB each)   |
+| 33   | Kawatare         | 881.8 GiB  | 763.2 GiB (86.55%)  | 29 (~30.4 GiB each)   |
 | 34   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
 | 35   | Vodes            | 851.4 GiB  | 557.9 GiB (65.53%)  | 19 (~44.8 GiB each)   |
 | 36   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
@@ -62,11 +62,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 40   | Lulu             | 681.0 GiB  | 354.4 GiB (52.05%)  | 33 (~20.6 GiB each)   |
 | 41   | Crash            | 653.9 GiB  | 653.9 GiB (100.00%) | 3 (~218.0 GiB each)   |
 | 42   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
-| 43   | Bunny-Apocalypse | 639.4 GiB  | 161.0 GiB (25.17%)  | 31 (~20.6 GiB each)   |
-| 44   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
+| 43   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
+| 44   | Bunny-Apocalypse | 610.4 GiB  | 161.0 GiB (26.37%)  | 30 (~20.3 GiB each)   |
 | 45   | Arid             | 599.1 GiB  | 201.1 GiB (33.56%)  | 41 (~14.6 GiB each)   |
 | 46   | uba              | 587.8 GiB  | 587.8 GiB (100.00%) | 10 (~58.8 GiB each)   |
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | CTR              | 561.2 GiB  | 138.6 GiB (24.69%)  | 26 (~21.6 GiB each)   |
 | 49   | BBT-RMX          | 559.5 GiB  | 374.5 GiB (66.93%)  | 14 (~40.0 GiB each)   |
-| 50   | Others           | 48.4 TiB   | 26.0 TiB (53.81%)   | 2076 (~23.9 GiB each) |
+| 50   | Others           | 48.3 TiB   | 26.0 TiB (53.75%)   | 2074 (~23.8 GiB each) |
