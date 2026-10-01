@@ -32,13 +32,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | GetItTwisted      | 52    |
 | 17   | NOGRP             | 46    |
 | 18   | Okay-Subs         | 45    |
-| 19   | LostYears / PMR   | 41    |
-| 20   | Arid              | 40    |
-| 21   | TTGA              | 39    |
-| 22   | Commie / LYS1TH3A | 35    |
-| 23   | B00BA / Holomux   | 34    |
-| 24   | Lulu              | 33    |
-| 25   | Bunny-Apocalypse  | 30    |
+| 19   | PMR               | 42    |
+| 20   | LostYears         | 41    |
+| 21   | Arid              | 40    |
+| 22   | TTGA              | 39    |
+| 23   | Commie / LYS1TH3A | 35    |
+| 24   | B00BA / Holomux   | 34    |
+| 25   | Lulu              | 33    |
 
 ## Top 25 - Best dual audio entries
 
@@ -56,49 +56,49 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | FLE / Moxie                                    | 23    |
 | 11   | smol                                           | 21    |
 | 12   | ZeroBuild                                      | 20    |
-| 13   | Flugel / Lulu / PMR                            | 17    |
-| 14   | LazyRemux                                      | 16    |
-| 15   | koala                                          | 15    |
-| 16   | Arid / BlackRose / YURI                        | 13    |
-| 17   | Mehul / Vodes                                  | 12    |
-| 18   | FraMeSToR / LostYears / nekotan                | 11    |
-| 19   | DemiHuman / Sylvar                             | 10    |
-| 20   | NTRX / hydes                                   | 9     |
-| 21   | KH / LaCroiX / Meakes / SCY                    | 8     |
-| 22   | IK / Kametsu / NOGRP                           | 7     |
-| 23   | B00BA / Bunny-Apocalypse / CTR / Drag & Others | 6     |
-| 24   | DeeVeeDee / Doc / Holomux / Kuraze & Others    | 5     |
-| 25   | Arg0 / Chika / CiNEPHiLES / Ignore & Others    | 4     |
+| 13   | PMR                                            | 18    |
+| 14   | Flugel / Lulu                                  | 17    |
+| 15   | LazyRemux                                      | 16    |
+| 16   | koala                                          | 15    |
+| 17   | Arid / BlackRose / YURI                        | 13    |
+| 18   | Mehul / Vodes                                  | 12    |
+| 19   | FraMeSToR / LostYears / nekotan                | 11    |
+| 20   | DemiHuman / Sylvar                             | 10    |
+| 21   | NTRX / hydes                                   | 9     |
+| 22   | KH / LaCroiX / Meakes / SCY                    | 8     |
+| 23   | IK / Kametsu / NOGRP / SubsMix                 | 7     |
+| 24   | B00BA / Bunny-Apocalypse / CTR / Drag & Others | 6     |
+| 25   | DeeVeeDee / Doc / Holomux / Kuraze & Others    | 5     |
 
 ## Top 25 - Best entries
 
-| Rank | Group               | Count |
-| :----| :-------------------| :-----|
-| 🥇   | -ZR-                | 144   |
-| 🥈   | CRUCiBLE            | 129   |
-| 🥉   | sam                 | 128   |
-| 4    | Headpatter          | 118   |
-| 5    | NAN0                | 115   |
-| 6    | Moxie               | 104   |
-| 7    | MTBB                | 76    |
-| 8    | hchcsen             | 74    |
-| 9    | smol                | 54    |
-| 10   | Okay-Subs           | 42    |
-| 11   | PMR                 | 41    |
-| 12   | GetItTwisted        | 40    |
-| 13   | YURASUKA            | 39    |
-| 14   | TTGA                | 38    |
-| 15   | B00BA               | 34    |
-| 16   | LYS1TH3A            | 33    |
-| 17   | YURI                | 30    |
-| 18   | FLE / Orphan        | 26    |
-| 19   | Mehul               | 25    |
-| 20   | nekotan             | 23    |
-| 21   | Kawatare            | 22    |
-| 22   | Lulu / ZeroBuild    | 20    |
-| 23   | LaCroiX / LazyRemux | 19    |
-| 24   | Arid / koala        | 18    |
-| 25   | Flugel              | 17    |
+| Rank | Group                | Count |
+| :----| :--------------------| :-----|
+| 🥇   | -ZR-                 | 144   |
+| 🥈   | CRUCiBLE             | 129   |
+| 🥉   | sam                  | 128   |
+| 4    | Headpatter           | 118   |
+| 5    | NAN0                 | 115   |
+| 6    | Moxie                | 104   |
+| 7    | MTBB                 | 76    |
+| 8    | hchcsen              | 74    |
+| 9    | smol                 | 54    |
+| 10   | Okay-Subs / PMR      | 42    |
+| 11   | GetItTwisted         | 40    |
+| 12   | YURASUKA             | 39    |
+| 13   | TTGA                 | 38    |
+| 14   | B00BA                | 34    |
+| 15   | LYS1TH3A             | 33    |
+| 16   | YURI                 | 30    |
+| 17   | FLE / Orphan         | 26    |
+| 18   | Mehul                | 25    |
+| 19   | Kawatare / nekotan   | 23    |
+| 20   | Lulu / ZeroBuild     | 20    |
+| 21   | LaCroiX / LazyRemux  | 19    |
+| 22   | Arid / koala         | 18    |
+| 23   | Flugel               | 17    |
+| 24   | Drag / Reza / Sylvar | 16    |
+| 25   | Vodes                | 15    |
 
 ## Top 25 - Alt entries
 
@@ -120,12 +120,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Arid                                        | 23    |
 | 15   | Chihiro                                     | 22    |
 | 16   | Kametsu                                     | 21    |
-| 17   | CTR / Kitsune                               | 20    |
-| 18   | Pog42 / SCY                                 | 16    |
-| 19   | HorribleSubs / nekotan                      | 15    |
-| 20   | CBT / Datte13 / Lulu / WBDP                 | 13    |
-| 21   | SEV / UDF / o7                              | 12    |
-| 22   | FFF / Mysteria / NH / Netaro / TROLLORANGE  | 11    |
-| 23   | CyC                                         | 10    |
-| 24   | Asakura / Pookie / Tsundere / Yoghurt / sam | 9     |
-| 25   | GSK_kun / RASETSU / Reza / crane0922        | 8     |
+| 17   | Kitsune                                     | 20    |
+| 18   | CTR                                         | 19    |
+| 19   | Pog42 / SCY                                 | 16    |
+| 20   | HorribleSubs / nekotan                      | 15    |
+| 21   | CBT / Datte13 / Lulu / WBDP                 | 13    |
+| 22   | SEV / UDF / o7                              | 12    |
+| 23   | FFF / Mysteria / NH / Netaro / TROLLORANGE  | 11    |
+| 24   | CyC                                         | 10    |
+| 25   | Asakura / Pookie / Tsundere / Yoghurt / sam | 9     |
