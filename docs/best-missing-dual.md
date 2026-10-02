@@ -7,7 +7,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | :---| :--------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Death Parade                                                               | 2015 | 07 Jun 2025 | [SeaDex](https://releases.moe/20931/), [AniList](https://anilist.co/anime/20931)   |
 | 2   | Soul Eater                                                                 | 2008 | 27 Jul 2026 | [SeaDex](https://releases.moe/3588/), [AniList](https://anilist.co/anime/3588)     |
-| 3   | BANANA FISH                                                                | 2018 | 09 Sep 2026 | [SeaDex](https://releases.moe/100388/), [AniList](https://anilist.co/anime/100388) |
+| 3   | BANANA FISH                                                                | 2018 | 01 Oct 2026 | [SeaDex](https://releases.moe/100388/), [AniList](https://anilist.co/anime/100388) |
 | 4   | Clannad                                                                    | 2007 | 07 Sep 2025 | [SeaDex](https://releases.moe/2167/), [AniList](https://anilist.co/anime/2167)     |
 | 5   | Classroom of the Elite Season 2                                            | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
 | 6   | Great Pretender                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
