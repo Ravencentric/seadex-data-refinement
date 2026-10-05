@@ -24,11 +24,12 @@
 | 21  | The Qwaser of Stigmata II                                                        | 2011 | 26 Feb 2026 | [SeaDex](https://releases.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
 | 22  | There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~                 | 2026 | 29 Sep 2026 | [SeaDex](https://releases.moe/199112/), [AniList](https://anilist.co/anime/199112) |
 | 23  | Mobile Suit Gundam Hathaway                                                      | 2021 | 29 Sep 2026 | [SeaDex](https://releases.moe/105595/), [AniList](https://anilist.co/anime/105595) |
-| 24  | Majestic Prince                                                                  | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 25  | Shagahai ReLIFE Kenkyuujo Support-ka                                             | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 26  | Fantastic Children                                                               | 2004 | 26 Sep 2026 | [SeaDex](https://releases.moe/455/), [AniList](https://anilist.co/anime/455)       |
-| 27  | The Royal Tutor Movie                                                            | 2019 | 15 Sep 2026 | [SeaDex](https://releases.moe/104286/), [AniList](https://anilist.co/anime/104286) |
-| 28  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
-| 29  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 30  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 31  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 24  | Drifting Dragons                                                                 | 2020 | 04 Oct 2026 | [SeaDex](https://releases.moe/108450/), [AniList](https://anilist.co/anime/108450) |
+| 25  | Majestic Prince                                                                  | 2013 | 10 Jul 2026 | [SeaDex](https://releases.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
+| 26  | Shagahai ReLIFE Kenkyuujo Support-ka                                             | 2018 | 19 Apr 2026 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 27  | Fantastic Children                                                               | 2004 | 26 Sep 2026 | [SeaDex](https://releases.moe/455/), [AniList](https://anilist.co/anime/455)       |
+| 28  | The Royal Tutor Movie                                                            | 2019 | 15 Sep 2026 | [SeaDex](https://releases.moe/104286/), [AniList](https://anilist.co/anime/104286) |
+| 29  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://releases.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
+| 30  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 31  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://releases.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
+| 32  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://releases.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
