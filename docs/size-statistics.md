@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `154.5 TiB`
+- Total size: `154.7 TiB`
 - Best size: `117.6 TiB`
-- Alt size: `36.9 TiB`
-- Realistic size: `120.8 TiB`
+- Alt size: `37.0 TiB`
+- Realistic size: `120.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -52,8 +52,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 30   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 31   | KH               | 914.0 GiB  | 116.7 GiB (12.77%)  | 57 (~16.0 GiB each)   |
 | 32   | Holomux          | 905.9 GiB  | 193.5 GiB (21.36%)  | 35 (~25.9 GiB each)   |
-| 33   | Kawatare         | 888.2 GiB  | 769.6 GiB (86.65%)  | 30 (~29.6 GiB each)   |
-| 34   | LYS1TH3A         | 855.0 GiB  | 829.7 GiB (97.04%)  | 35 (~24.4 GiB each)   |
+| 33   | Kawatare         | 899.8 GiB  | 781.3 GiB (86.82%)  | 31 (~29.0 GiB each)   |
+| 34   | LYS1TH3A         | 855.0 GiB  | 824.7 GiB (96.45%)  | 35 (~24.4 GiB each)   |
 | 35   | Vodes            | 851.4 GiB  | 557.9 GiB (65.53%)  | 19 (~44.8 GiB each)   |
 | 36   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 37   | YURI             | 820.1 GiB  | 353.7 GiB (43.13%)  | 69 (~11.9 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
 | 48   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 49   | BBT-RMX          | 555.0 GiB  | 374.5 GiB (67.47%)  | 13 (~42.7 GiB each)   |
-| 50   | Others           | 48.6 TiB   | 25.8 TiB (53.03%)   | 2112 (~23.6 GiB each) |
+| 50   | Others           | 48.8 TiB   | 25.8 TiB (53.01%)   | 2116 (~23.6 GiB each) |
