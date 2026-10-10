@@ -146,8 +146,8 @@
 | 143 | Snow White with the Red Hair: Nandemonai Takaramono, Kono Page                       | 2016 | 17 Jan 2025 | [SeaDex](https://releases.moe/21313/), [AniList](https://anilist.co/anime/21313)   |
 | 144 | Kumamiko -Girl Meets Bear                                                            | 2016 | 18 Jul 2024 | [SeaDex](https://releases.moe/21423/), [AniList](https://anilist.co/anime/21423)   |
 | 145 | Overlord: Ple Ple Pleiades                                                           | 2015 | 29 Dec 2023 | [SeaDex](https://releases.moe/21305/), [AniList](https://anilist.co/anime/21305)   |
-| 146 | Honey and Clover II                                                                  | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/1142/), [AniList](https://anilist.co/anime/1142)     |
-| 147 | Wicked City                                                                          | 1987 | 04 Aug 2025 | [SeaDex](https://releases.moe/1107/), [AniList](https://anilist.co/anime/1107)     |
+| 146 | Wicked City                                                                          | 1987 | 04 Aug 2025 | [SeaDex](https://releases.moe/1107/), [AniList](https://anilist.co/anime/1107)     |
+| 147 | Honey and Clover II                                                                  | 2006 | 02 Aug 2025 | [SeaDex](https://releases.moe/1142/), [AniList](https://anilist.co/anime/1142)     |
 | 148 | Ansatsu Kyoushitsu: Jump Festa 2013 Special                                          | 2013 | 08 May 2024 | [SeaDex](https://releases.moe/19759/), [AniList](https://anilist.co/anime/19759)   |
 | 149 | Blue Exorcist Specials                                                               | 2011 | 25 Nov 2024 | [SeaDex](https://releases.moe/10647/), [AniList](https://anilist.co/anime/10647)   |
 | 150 | Accel World: Infinite∞Burst                                                          | 2016 | 27 Jul 2024 | [SeaDex](https://releases.moe/21404/), [AniList](https://anilist.co/anime/21404)   |
@@ -182,8 +182,8 @@
 | 179 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://releases.moe/4983/), [AniList](https://anilist.co/anime/4983)     |
 | 180 | Maria†Holic Alive                                                                    | 2011 | 28 Jun 2026 | [SeaDex](https://releases.moe/9712/), [AniList](https://anilist.co/anime/9712)     |
 | 181 | Takunomi                                                                             | 2018 | 13 Nov 2023 | [SeaDex](https://releases.moe/99753/), [AniList](https://anilist.co/anime/99753)   |
-| 182 | Durarara!! X2 The Second Arc: Onoroke Chakapoko                                      | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21331/), [AniList](https://anilist.co/anime/21331)   |
-| 183 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 182 | My Hero Academia UA BATTLE HEROES                                                    | 2023 | 20 Mar 2025 | [SeaDex](https://releases.moe/169402/), [AniList](https://anilist.co/anime/169402) |
+| 183 | Durarara!! X2 The Second Arc: Onoroke Chakapoko                                      | 2015 | 27 Jun 2024 | [SeaDex](https://releases.moe/21331/), [AniList](https://anilist.co/anime/21331)   |
 | 184 | Big Fish & Begonia                                                                   | 2016 | 11 Aug 2025 | [SeaDex](https://releases.moe/10259/), [AniList](https://anilist.co/anime/10259)   |
 | 185 | Beyond the Boundary: Mini Theater                                                    | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20531/), [AniList](https://anilist.co/anime/20531)   |
 | 186 | GIRLS Bravo: second season                                                           | 2005 | 03 Jul 2024 | [SeaDex](https://releases.moe/487/), [AniList](https://anilist.co/anime/487)       |
@@ -226,8 +226,8 @@
 | 223 | IS: Infinite Stratos 2 - Infinite Wedding                                            | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
 | 224 | Ronja, the Robber's Daughter                                                         | 2014 | 16 Nov 2023 | [SeaDex](https://releases.moe/20617/), [AniList](https://anilist.co/anime/20617)   |
 | 225 | Demon City Shinjuku                                                                  | 1988 | 25 Jun 2024 | [SeaDex](https://releases.moe/499/), [AniList](https://anilist.co/anime/499)       |
-| 226 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://releases.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
-| 227 | ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes                                   | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/114981/), [AniList](https://anilist.co/anime/114981) |
+| 226 | ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes                                   | 2020 | 16 Nov 2023 | [SeaDex](https://releases.moe/114981/), [AniList](https://anilist.co/anime/114981) |
+| 227 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://releases.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
 | 228 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
 | 229 | Natsume's Book of Friends: Nyanko-sensei & The First Errand                          | 2013 | 01 Jan 2024 | [SeaDex](https://releases.moe/18849/), [AniList](https://anilist.co/anime/18849)   |
 | 230 | Beyond the Boundary: Idol Trial!                                                     | 2013 | 17 Jun 2024 | [SeaDex](https://releases.moe/20524/), [AniList](https://anilist.co/anime/20524)   |
