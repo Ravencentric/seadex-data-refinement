@@ -19,8 +19,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 12  | Hajime no Ippo: The Fighting!                                                          | 2000 | 03 May 2026 | [SeaDex](https://releases.moe/263/), [AniList](https://anilist.co/anime/263)       |
 | 13  | Evangelion: 1.0 You Are (Not) Alone                                                    | 2007 | 30 Jun 2026 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
 | 14  | How a Realist Hero Rebuilt the Kingdom                                                 | 2021 | 21 Jan 2026 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
-| 15  | Re:CREATORS                                                                            | 2017 | 01 Oct 2026 | [SeaDex](https://releases.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
-| 16  | My Hero Academia FINAL SEASON                                                          | 2025 | 25 Sep 2026 | [SeaDex](https://releases.moe/182896/), [AniList](https://anilist.co/anime/182896) |
+| 15  | My Hero Academia FINAL SEASON                                                          | 2025 | 25 Sep 2026 | [SeaDex](https://releases.moe/182896/), [AniList](https://anilist.co/anime/182896) |
+| 16  | Re:CREATORS                                                                            | 2017 | 01 Oct 2026 | [SeaDex](https://releases.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
 | 17  | Record of Ragnarok                                                                     | 2021 | 16 Sep 2025 | [SeaDex](https://releases.moe/127399/), [AniList](https://anilist.co/anime/127399) |
 | 18  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                 | 2021 | 30 Jan 2026 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 19  | SHIROBAKO                                                                              | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
@@ -39,16 +39,16 @@ An entry appears here if at least one of its releases is marked as broken.
 | 32  | Life Lessons with Uramichi Oniisan                                                     | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 33  | Gintama Season 4                                                                       | 2017 | 30 Jun 2026 | [SeaDex](https://releases.moe/97889/), [AniList](https://anilist.co/anime/97889)   |
 | 34  | Ghost in the Shell: Stand Alone Complex                                                | 2002 | 27 Jun 2026 | [SeaDex](https://releases.moe/467/), [AniList](https://anilist.co/anime/467)       |
-| 35  | LAID-BACK CAMP SEASON2                                                                 | 2021 | 13 Aug 2025 | [SeaDex](https://releases.moe/104459/), [AniList](https://anilist.co/anime/104459) |
-| 36  | TOUGEN ANKI                                                                            | 2025 | 30 Sep 2026 | [SeaDex](https://releases.moe/177474/), [AniList](https://anilist.co/anime/177474) |
+| 35  | TOUGEN ANKI                                                                            | 2025 | 30 Sep 2026 | [SeaDex](https://releases.moe/177474/), [AniList](https://anilist.co/anime/177474) |
+| 36  | LAID-BACK CAMP SEASON2                                                                 | 2021 | 13 Aug 2025 | [SeaDex](https://releases.moe/104459/), [AniList](https://anilist.co/anime/104459) |
 | 37  | Hell Girl                                                                              | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
 | 38  | ONIMAI: I'm Now Your Sister!                                                           | 2023 | 07 Aug 2025 | [SeaDex](https://releases.moe/147864/), [AniList](https://anilist.co/anime/147864) |
 | 39  | My Hero Academia: Vigilantes                                                           | 2025 | 01 Aug 2026 | [SeaDex](https://releases.moe/185736/), [AniList](https://anilist.co/anime/185736) |
 | 40  | Rent-a-Girlfriend Season 3                                                             | 2023 | 05 Jun 2026 | [SeaDex](https://releases.moe/154745/), [AniList](https://anilist.co/anime/154745) |
 | 41  | Tales of Zestiria the X                                                                | 2016 | 27 Aug 2026 | [SeaDex](https://releases.moe/21221/), [AniList](https://anilist.co/anime/21221)   |
 | 42  | Monster Girl Doctor                                                                    | 2020 | 01 Jun 2026 | [SeaDex](https://releases.moe/113286/), [AniList](https://anilist.co/anime/113286) |
-| 43  | Ace of the Diamond                                                                     | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
-| 44  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time             | 2025 | 30 Jun 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 43  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time             | 2025 | 30 Jun 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 44  | Ace of the Diamond                                                                     | 2013 | 18 May 2026 | [SeaDex](https://releases.moe/18689/), [AniList](https://anilist.co/anime/18689)   |
 | 45  | K: RETURN OF KINGS                                                                     | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 46  | Golden Kamuy Season 2                                                                  | 2018 | 01 Oct 2026 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
 | 47  | Gintama.: Silver Soul Arc                                                              | 2018 | 26 Aug 2026 | [SeaDex](https://releases.moe/100784/), [AniList](https://anilist.co/anime/100784) |
@@ -85,7 +85,7 @@ An entry appears here if at least one of its releases is marked as broken.
 | 78  | A Ninja and an Assassin Under One Roof                                                 | 2025 | 11 May 2026 | [SeaDex](https://releases.moe/177120/), [AniList](https://anilist.co/anime/177120) |
 | 79  | RahXephon                                                                              | 2002 | 11 Feb 2026 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
 | 80  | You Can't Be In a Rom-Com with Your Childhood Friends!                                 | 2026 | 26 Sep 2026 | [SeaDex](https://releases.moe/189565/), [AniList](https://anilist.co/anime/189565) |
-| 81  | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!    | 2026 | 09 Oct 2026 | [SeaDex](https://releases.moe/191718/), [AniList](https://anilist.co/anime/191718) |
+| 81  | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!    | 2026 | 12 Oct 2026 | [SeaDex](https://releases.moe/191718/), [AniList](https://anilist.co/anime/191718) |
 | 82  | The Demon Girl Next Door Season 2                                                      | 2022 | 03 Oct 2026 | [SeaDex](https://releases.moe/123330/), [AniList](https://anilist.co/anime/123330) |
 | 83  | Sweet Blue Flowers                                                                     | 2009 | 02 Aug 2025 | [SeaDex](https://releases.moe/6164/), [AniList](https://anilist.co/anime/6164)     |
 | 84  | Zetman                                                                                 | 2012 | 21 Aug 2026 | [SeaDex](https://releases.moe/11837/), [AniList](https://anilist.co/anime/11837)   |

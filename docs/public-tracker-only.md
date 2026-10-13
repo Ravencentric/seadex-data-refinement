@@ -5,10 +5,10 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                     | Year | Updated At  | Links                                                                              |
 | :---| :-----------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | Little Witch Academia                                                                     | 2013 | 08 Oct 2026 | [SeaDex](https://releases.moe/14349/), [AniList](https://anilist.co/anime/14349)   |
-| 2   | Magia Record: Puella Magi Madoka Magica Side Story Final Season -Dawn of a Shallow Dream- | 2022 | 06 Oct 2026 | [SeaDex](https://releases.moe/136080/), [AniList](https://anilist.co/anime/136080) |
-| 3   | The Demon Girl Next Door Season 2                                                         | 2022 | 03 Oct 2026 | [SeaDex](https://releases.moe/123330/), [AniList](https://anilist.co/anime/123330) |
-| 4   | Magia Record: Puella Magi Madoka Magica Side Story Season 2 -The Eve of Awakening-        | 2021 | 02 Oct 2026 | [SeaDex](https://releases.moe/117002/), [AniList](https://anilist.co/anime/117002) |
+| 1   | Magia Record: Puella Magi Madoka Magica Side Story Season 2 -The Eve of Awakening-        | 2021 | 12 Oct 2026 | [SeaDex](https://releases.moe/117002/), [AniList](https://anilist.co/anime/117002) |
+| 2   | Little Witch Academia                                                                     | 2013 | 08 Oct 2026 | [SeaDex](https://releases.moe/14349/), [AniList](https://anilist.co/anime/14349)   |
+| 3   | Magia Record: Puella Magi Madoka Magica Side Story Final Season -Dawn of a Shallow Dream- | 2022 | 06 Oct 2026 | [SeaDex](https://releases.moe/136080/), [AniList](https://anilist.co/anime/136080) |
+| 4   | The Demon Girl Next Door Season 2                                                         | 2022 | 03 Oct 2026 | [SeaDex](https://releases.moe/123330/), [AniList](https://anilist.co/anime/123330) |
 | 5   | Wandering Witch: The Journey of Elaina                                                    | 2020 | 02 Oct 2026 | [SeaDex](https://releases.moe/112609/), [AniList](https://anilist.co/anime/112609) |
 | 6   | My Roommate is a Cat                                                                      | 2019 | 01 Oct 2026 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 7   | Waiting in the Summer OVA                                                                 | 2014 | 01 Oct 2026 | [SeaDex](https://releases.moe/20659/), [AniList](https://anilist.co/anime/20659)   |
