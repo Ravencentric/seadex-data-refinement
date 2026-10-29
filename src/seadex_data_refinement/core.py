@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 from typing import Final, Literal, Self
 
-import httpx
+import httpx2
 import pyanilist
 import seadex
 from prettytable import PrettyTable, TableStyle
@@ -84,7 +84,7 @@ class MediaEntryCollection(BaseModel):
             The amount of releases
         """
         results: list[MediaEntry] = []
-        ids = [int(id) for id in httpx.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")]
+        ids = [int(id) for id in httpx2.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")]
 
         with pyanilist.AniList() as anilist:
             media_iter = itertools.islice(
