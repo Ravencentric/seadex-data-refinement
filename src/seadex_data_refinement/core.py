@@ -56,7 +56,7 @@ class MediaEntryCollection(BaseModel):
                             year=media.start_date.year if media.start_date else None,
                             updated_at=entries[media.id].updated_at,
                             popularity=media.popularity,
-                            seadex_url=f"https://releases.moe/{media.id}/",
+                            seadex_url=f"https://seadex.moe/{media.id}/",
                             anilist_url=f"https://anilist.co/anime/{media.id}",
                         ),
                     )
@@ -104,7 +104,7 @@ class MediaEntryCollection(BaseModel):
                         year=media.start_date.year if media.start_date else None,
                         updated_at=None,
                         popularity=media.popularity,
-                        seadex_url=f"https://releases.moe/{media.id}/",
+                        seadex_url=f"https://seadex.moe/{media.id}/",
                         anilist_url=f"https://anilist.co/anime/{media.id}",
                     ),
                 )
