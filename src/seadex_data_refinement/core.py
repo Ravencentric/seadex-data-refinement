@@ -11,7 +11,7 @@ import seadex
 from prettytable import PrettyTable, TableStyle
 from pydantic import BaseModel, ConfigDict
 
-SEADEX_ANILIST_IDS_URL = "https://releases.moe/api/listIDs"
+SEADEX_ANILIST_IDS_URL = "https://seadex.moe/api/listIDs"
 
 EXCLUSIVE_GROUPS: Final = {"-ZR-", "FraMeSToR", "NAN0", "KEKKU", "Doc", "Kitsune"}
 
