@@ -14,8 +14,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                  | Count |
 | :----| :----------------------| :-----|
-| 🥇   | Headpatter             | 216   |
-| 🥈   | -ZR-                   | 172   |
+| 🥇   | Headpatter             | 218   |
+| 🥈   | -ZR-                   | 173   |
 | 🥉   | sam                    | 137   |
 | 4    | CRUCiBLE               | 128   |
 | 5    | NAN0                   | 121   |
@@ -23,7 +23,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | Moxie / YURASUKA       | 107   |
 | 8    | MTBB                   | 106   |
 | 9    | SubsPlease / YURI      | 68    |
-| 10   | Erai-raws              | 63    |
+| 10   | Erai-raws              | 64    |
 | 11   | Drag                   | 59    |
 | 12   | KH / smol              | 56    |
 | 13   | GetItTwisted           | 52    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                           | Count |
 | :----| :-----------------------------------------------| :-----|
-| 🥇   | -ZR-                                            | 104   |
+| 🥇   | -ZR-                                            | 105   |
 | 🥈   | CRUCiBLE                                        | 101   |
 | 🥉   | sam                                             | 97    |
 | 4    | NAN0                                            | 89    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                        | Count |
 | :----| :----------------------------| :-----|
-| 🥇   | -ZR-                         | 146   |
+| 🥇   | -ZR-                         | 147   |
 | 🥈   | CRUCiBLE / sam               | 128   |
 | 🥉   | Headpatter                   | 125   |
 | 4    | NAN0                         | 119   |
@@ -82,32 +82,32 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | MTBB                         | 76    |
 | 7    | hchcsen                      | 75    |
 | 8    | smol                         | 54    |
-| 9    | YURASUKA                     | 43    |
-| 10   | Okay-Subs                    | 42    |
-| 11   | PMR                          | 41    |
-| 12   | GetItTwisted / TTGA          | 40    |
-| 13   | B00BA                        | 34    |
-| 14   | LYS1TH3A                     | 32    |
-| 15   | YURI                         | 29    |
-| 16   | FLE / Orphan                 | 26    |
-| 17   | Kawatare / Mehul             | 25    |
-| 18   | nekotan                      | 24    |
-| 19   | Lulu / ZeroBuild             | 20    |
-| 20   | LaCroiX / LazyRemux          | 19    |
-| 21   | Arid / koala                 | 18    |
-| 22   | Flugel                       | 17    |
-| 23   | Drag / Reza / Sylvar         | 16    |
-| 24   | Vodes                        | 15    |
-| 25   | Beatrice / BlackRose / NOGRP | 13    |
+| 9    | Okay-Subs / YURASUKA         | 42    |
+| 10   | PMR                          | 41    |
+| 11   | GetItTwisted / TTGA          | 40    |
+| 12   | B00BA                        | 34    |
+| 13   | LYS1TH3A                     | 32    |
+| 14   | YURI                         | 29    |
+| 15   | FLE / Orphan                 | 26    |
+| 16   | Kawatare / Mehul             | 25    |
+| 17   | nekotan                      | 24    |
+| 18   | Lulu / ZeroBuild             | 20    |
+| 19   | LaCroiX / LazyRemux          | 19    |
+| 20   | Arid / koala                 | 18    |
+| 21   | Flugel                       | 17    |
+| 22   | Drag / Reza / Sylvar         | 16    |
+| 23   | Vodes                        | 15    |
+| 24   | Beatrice / BlackRose / NOGRP | 13    |
+| 25   | FraMeSToR / cappybara        | 12    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
-| 🥇   | Headpatter                                     | 119   |
-| 🥈   | YURASUKA                                       | 64    |
+| 🥇   | Headpatter                                     | 121   |
+| 🥈   | YURASUKA                                       | 65    |
 | 🥉   | SubsPlease                                     | 59    |
-| 4    | Erai-raws                                      | 54    |
+| 4    | Erai-raws                                      | 55    |
 | 5    | KH                                             | 48    |
 | 6    | Drag                                           | 44    |
 | 7    | YURI                                           | 42    |

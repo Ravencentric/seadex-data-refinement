@@ -46,3 +46,4 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 39  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://seadex.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
 | 40  | Hakumei and Mikochi: A Screw and a Bed / The Fireside and Gambling         | 2018 | 27 Jun 2026 | [SeaDex](https://seadex.moe/101696/), [AniList](https://anilist.co/anime/101696) |
 | 41  | Flying Witch Petit Special                                                 | 2016 | 20 Mar 2026 | [SeaDex](https://seadex.moe/102001/), [AniList](https://anilist.co/anime/102001) |
+| 42  | Majestic Prince: Genetic Awakening                                         | 2016 | 29 Oct 2026 | [SeaDex](https://seadex.moe/21750/), [AniList](https://anilist.co/anime/21750)   |

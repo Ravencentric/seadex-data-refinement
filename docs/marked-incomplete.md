@@ -223,8 +223,8 @@
 | 220 | Ronja, the Robber's Daughter                                                         | 2014 | 16 Nov 2023 | [SeaDex](https://seadex.moe/20617/), [AniList](https://anilist.co/anime/20617)   |
 | 221 | Demon City Shinjuku                                                                  | 1988 | 25 Jun 2024 | [SeaDex](https://seadex.moe/499/), [AniList](https://anilist.co/anime/499)       |
 | 222 | ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes                                   | 2020 | 16 Nov 2023 | [SeaDex](https://seadex.moe/114981/), [AniList](https://anilist.co/anime/114981) |
-| 223 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://seadex.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
-| 224 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://seadex.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
+| 223 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://seadex.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
+| 224 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://seadex.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
 | 225 | Natsume's Book of Friends: Nyanko-sensei & The First Errand                          | 2013 | 01 Jan 2024 | [SeaDex](https://seadex.moe/18849/), [AniList](https://anilist.co/anime/18849)   |
 | 226 | Beyond the Boundary: Idol Trial!                                                     | 2013 | 17 Jun 2024 | [SeaDex](https://seadex.moe/20524/), [AniList](https://anilist.co/anime/20524)   |
 | 227 | Golden Kamuy 2nd Season OVA                                                          | 2019 | 31 Jan 2026 | [SeaDex](https://seadex.moe/124756/), [AniList](https://anilist.co/anime/124756) |
