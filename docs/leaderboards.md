@@ -15,30 +15,30 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                  | Count |
 | :----| :----------------------| :-----|
 | 🥇   | Headpatter             | 218   |
-| 🥈   | -ZR-                   | 173   |
+| 🥈   | -ZR-                   | 174   |
 | 🥉   | sam                    | 137   |
 | 4    | CRUCiBLE               | 128   |
 | 5    | NAN0                   | 121   |
 | 6    | hchcsen                | 108   |
 | 7    | Moxie / YURASUKA       | 107   |
 | 8    | MTBB                   | 106   |
-| 9    | SubsPlease / YURI      | 68    |
-| 10   | Erai-raws              | 64    |
-| 11   | Drag                   | 59    |
-| 12   | KH / smol              | 56    |
-| 13   | GetItTwisted           | 52    |
-| 14   | NOGRP / Okay-Subs      | 46    |
-| 15   | LostYears / PMR / TTGA | 41    |
-| 16   | Arid                   | 40    |
-| 17   | Commie / LYS1TH3A      | 35    |
-| 18   | B00BA / Holomux        | 34    |
-| 19   | Lulu                   | 33    |
-| 20   | Kawatare               | 32    |
-| 21   | Bunny-Apocalypse       | 31    |
-| 22   | FLE / Orphan / nekotan | 29    |
-| 23   | Kametsu                | 28    |
-| 24   | Mehul                  | 27    |
-| 25   | CTR                    | 26    |
+| 9    | SubsPlease             | 69    |
+| 10   | YURI                   | 68    |
+| 11   | Erai-raws              | 64    |
+| 12   | Drag                   | 59    |
+| 13   | KH / smol              | 56    |
+| 14   | GetItTwisted           | 52    |
+| 15   | NOGRP / Okay-Subs      | 46    |
+| 16   | LostYears / PMR / TTGA | 41    |
+| 17   | Arid                   | 40    |
+| 18   | Commie / LYS1TH3A      | 35    |
+| 19   | B00BA / Holomux        | 34    |
+| 20   | Lulu                   | 33    |
+| 21   | Kawatare               | 32    |
+| 22   | Bunny-Apocalypse       | 31    |
+| 23   | FLE / Orphan / nekotan | 29    |
+| 24   | Kametsu                | 28    |
+| 25   | Mehul                  | 27    |
 
 ## Top 25 - Best dual audio entries
 
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                        | Count |
 | :----| :----------------------------| :-----|
-| 🥇   | -ZR-                         | 147   |
+| 🥇   | -ZR-                         | 148   |
 | 🥈   | CRUCiBLE / sam               | 128   |
 | 🥉   | Headpatter                   | 125   |
 | 4    | NAN0                         | 119   |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------------------------------------| :-----|
 | 🥇   | Headpatter                                     | 121   |
 | 🥈   | YURASUKA                                       | 65    |
-| 🥉   | SubsPlease                                     | 59    |
+| 🥉   | SubsPlease                                     | 60    |
 | 4    | Erai-raws                                      | 55    |
 | 5    | KH                                             | 48    |
 | 6    | Drag                                           | 44    |

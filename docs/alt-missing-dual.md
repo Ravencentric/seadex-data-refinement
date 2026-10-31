@@ -73,8 +73,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 66  | Tales of Wedding Rings                                                                 | 2024 | 03 Aug 2025 | [SeaDex](https://seadex.moe/160389/), [AniList](https://anilist.co/anime/160389) |
 | 67  | Tokyo Ghoul: [PINTO]                                                                   | 2015 | 24 Apr 2025 | [SeaDex](https://seadex.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 68  | Children who Chase Lost Voices                                                         | 2011 | 03 Sep 2026 | [SeaDex](https://seadex.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
-| 69  | I'm Standing on a Million Lives Season 2                                               | 2021 | 26 Aug 2026 | [SeaDex](https://seadex.moe/127366/), [AniList](https://anilist.co/anime/127366) |
-| 70  | The Weakest Tamer Began a Journey to Pick Up Trash                                     | 2024 | 16 Apr 2025 | [SeaDex](https://seadex.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 69  | The Weakest Tamer Began a Journey to Pick Up Trash                                     | 2024 | 16 Apr 2025 | [SeaDex](https://seadex.moe/156891/), [AniList](https://anilist.co/anime/156891) |
+| 70  | I'm Standing on a Million Lives Season 2                                               | 2021 | 26 Aug 2026 | [SeaDex](https://seadex.moe/127366/), [AniList](https://anilist.co/anime/127366) |
 | 71  | Japan Sinks: 2020                                                                      | 2020 | 14 Aug 2025 | [SeaDex](https://seadex.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 72  | Gurren Lagann The Movie: The Lights in the Sky are Stars                               | 2009 | 20 Mar 2026 | [SeaDex](https://seadex.moe/4565/), [AniList](https://anilist.co/anime/4565)     |
 | 73  | Date A Live II: Kurumi Star Festival                                                   | 2014 | 20 Mar 2026 | [SeaDex](https://seadex.moe/20767/), [AniList](https://anilist.co/anime/20767)   |

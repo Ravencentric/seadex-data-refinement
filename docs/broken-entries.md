@@ -119,8 +119,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 112 | Bakuon!!                                                                               | 2016 | 05 Feb 2026 | [SeaDex](https://seadex.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 113 | Inu X Boku Secret Service Special                                                      | 2012 | 24 Dec 2025 | [SeaDex](https://seadex.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
 | 114 | Mobile Suit Gundam: Char's Counterattack                                               | 1988 | 02 Sep 2026 | [SeaDex](https://seadex.moe/87/), [AniList](https://anilist.co/anime/87)         |
-| 115 | Good Luck! Ninomiya-kun                                                                | 2007 | 19 Oct 2026 | [SeaDex](https://seadex.moe/2494/), [AniList](https://anilist.co/anime/2494)     |
-| 116 | Shiki Specials                                                                         | 2011 | 25 Oct 2026 | [SeaDex](https://seadex.moe/10083/), [AniList](https://anilist.co/anime/10083)   |
+| 115 | Shiki Specials                                                                         | 2011 | 25 Oct 2026 | [SeaDex](https://seadex.moe/10083/), [AniList](https://anilist.co/anime/10083)   |
+| 116 | Good Luck! Ninomiya-kun                                                                | 2007 | 19 Oct 2026 | [SeaDex](https://seadex.moe/2494/), [AniList](https://anilist.co/anime/2494)     |
 | 117 | Gun x Sword                                                                            | 2005 | 28 Jan 2026 | [SeaDex](https://seadex.moe/411/), [AniList](https://anilist.co/anime/411)       |
 | 118 | Alma-chan Wants to Be a Family!                                                        | 2025 | 02 Sep 2026 | [SeaDex](https://seadex.moe/186190/), [AniList](https://anilist.co/anime/186190) |
 | 119 | Minami-ke: Okawari                                                                     | 2008 | 01 Jun 2026 | [SeaDex](https://seadex.moe/3225/), [AniList](https://anilist.co/anime/3225)     |
@@ -147,11 +147,12 @@ An entry appears here if at least one of its releases is marked as broken.
 | 140 | Granblue Fantasy: The Animation Special                                                | 2017 | 26 Feb 2025 | [SeaDex](https://seadex.moe/100469/), [AniList](https://anilist.co/anime/100469) |
 | 141 | Minami-ke Natsuyasumi                                                                  | 2013 | 12 May 2026 | [SeaDex](https://seadex.moe/20221/), [AniList](https://anilist.co/anime/20221)   |
 | 142 | Active Raid 2nd Season                                                                 | 2016 | 01 Jun 2026 | [SeaDex](https://seadex.moe/21534/), [AniList](https://anilist.co/anime/21534)   |
-| 143 | Celestial Method: Aru Shoujo no Kyuujitsu★                                             | 2015 | 15 Jul 2024 | [SeaDex](https://seadex.moe/21276/), [AniList](https://anilist.co/anime/21276)   |
-| 144 | Bakuon!! OVA                                                                           | 2016 | 10 Nov 2024 | [SeaDex](https://seadex.moe/21441/), [AniList](https://anilist.co/anime/21441)   |
-| 145 | Marriage of God & Soul Godannar!! (2004)                                               | 2004 | 28 Jun 2026 | [SeaDex](https://seadex.moe/1104/), [AniList](https://anilist.co/anime/1104)     |
-| 146 | Dancouga: Super Beast Machine God                                                      | 1985 | 29 Oct 2026 | [SeaDex](https://seadex.moe/2255/), [AniList](https://anilist.co/anime/2255)     |
-| 147 | Idol Densetsu Eriko                                                                    | 1989 | 29 Apr 2026 | [SeaDex](https://seadex.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
-| 148 | Bakuon!! no Kobeya                                                                     | 2016 | 08 Jun 2025 | [SeaDex](https://seadex.moe/99841/), [AniList](https://anilist.co/anime/99841)   |
-| 149 | Garo: Crimson Moon - The Butterfly of Time                                             | 2016 | 03 Jul 2026 | [SeaDex](https://seadex.moe/102429/), [AniList](https://anilist.co/anime/102429) |
-| 150 | Mankatsu                                                                               | 2004 | 16 Jul 2026 | [SeaDex](https://seadex.moe/5343/), [AniList](https://anilist.co/anime/5343)     |
+| 143 | alice gear aegis Expansion                                                             | 2023 | 30 Oct 2026 | [SeaDex](https://seadex.moe/144188/), [AniList](https://anilist.co/anime/144188) |
+| 144 | Celestial Method: Aru Shoujo no Kyuujitsu★                                             | 2015 | 15 Jul 2024 | [SeaDex](https://seadex.moe/21276/), [AniList](https://anilist.co/anime/21276)   |
+| 145 | Bakuon!! OVA                                                                           | 2016 | 10 Nov 2024 | [SeaDex](https://seadex.moe/21441/), [AniList](https://anilist.co/anime/21441)   |
+| 146 | Marriage of God & Soul Godannar!! (2004)                                               | 2004 | 28 Jun 2026 | [SeaDex](https://seadex.moe/1104/), [AniList](https://anilist.co/anime/1104)     |
+| 147 | Dancouga: Super Beast Machine God                                                      | 1985 | 29 Oct 2026 | [SeaDex](https://seadex.moe/2255/), [AniList](https://anilist.co/anime/2255)     |
+| 148 | Idol Densetsu Eriko                                                                    | 1989 | 29 Apr 2026 | [SeaDex](https://seadex.moe/2938/), [AniList](https://anilist.co/anime/2938)     |
+| 149 | Bakuon!! no Kobeya                                                                     | 2016 | 08 Jun 2025 | [SeaDex](https://seadex.moe/99841/), [AniList](https://anilist.co/anime/99841)   |
+| 150 | Garo: Crimson Moon - The Butterfly of Time                                             | 2016 | 03 Jul 2026 | [SeaDex](https://seadex.moe/102429/), [AniList](https://anilist.co/anime/102429) |
+| 151 | Mankatsu                                                                               | 2004 | 16 Jul 2026 | [SeaDex](https://seadex.moe/5343/), [AniList](https://anilist.co/anime/5343)     |

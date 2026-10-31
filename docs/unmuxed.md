@@ -167,8 +167,8 @@
 | 164 | Gonna be the Twin-Tail!!                                                           | 2014 | 12 Aug 2025 | [SeaDex](https://seadex.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
 | 165 | Listen to Me, Girls. I Am Your Father!                                             | 2012 | 30 Jul 2025 | [SeaDex](https://seadex.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
 | 166 | Clockwork Planet                                                                   | 2017 | 29 Jan 2026 | [SeaDex](https://seadex.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
-| 167 | Tari Tari                                                                          | 2012 | 27 Aug 2024 | [SeaDex](https://seadex.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
-| 168 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                              | 2024 | 05 Jun 2025 | [SeaDex](https://seadex.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 167 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                              | 2024 | 05 Jun 2025 | [SeaDex](https://seadex.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 168 | Tari Tari                                                                          | 2012 | 27 Aug 2024 | [SeaDex](https://seadex.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
 | 169 | Easygoing Territory Defense by the Optimistic Lord                                 | 2026 | 26 Aug 2026 | [SeaDex](https://seadex.moe/191205/), [AniList](https://anilist.co/anime/191205) |
 | 170 | Natsume's Book of Friends Season 5                                                 | 2016 | 23 Mar 2025 | [SeaDex](https://seadex.moe/21710/), [AniList](https://anilist.co/anime/21710)   |
 | 171 | Gugure! Kokkuri-san                                                                | 2014 | 13 Jul 2025 | [SeaDex](https://seadex.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
@@ -239,8 +239,8 @@
 | 236 | Blood: The Last Vampire                                                            | 2000 | 15 Oct 2026 | [SeaDex](https://seadex.moe/405/), [AniList](https://anilist.co/anime/405)       |
 | 237 | Kodomo no Jikan                                                                    | 2007 | 07 Oct 2026 | [SeaDex](https://seadex.moe/2403/), [AniList](https://anilist.co/anime/2403)     |
 | 238 | DearS                                                                              | 2004 | 21 May 2026 | [SeaDex](https://seadex.moe/63/), [AniList](https://anilist.co/anime/63)         |
-| 239 | Knights of Sidonia: Battle for Planet Nine                                         | 2015 | 17 Jul 2024 | [SeaDex](https://seadex.moe/20762/), [AniList](https://anilist.co/anime/20762)   |
-| 240 | Kaiju No.8: Hoshina's Day Off                                                      | 2025 | 06 Feb 2026 | [SeaDex](https://seadex.moe/179999/), [AniList](https://anilist.co/anime/179999) |
+| 239 | Kaiju No.8: Hoshina's Day Off                                                      | 2025 | 06 Feb 2026 | [SeaDex](https://seadex.moe/179999/), [AniList](https://anilist.co/anime/179999) |
+| 240 | Knights of Sidonia: Battle for Planet Nine                                         | 2015 | 17 Jul 2024 | [SeaDex](https://seadex.moe/20762/), [AniList](https://anilist.co/anime/20762)   |
 | 241 | Listeners                                                                          | 2020 | 26 Feb 2025 | [SeaDex](https://seadex.moe/109856/), [AniList](https://anilist.co/anime/109856) |
 | 242 | No Guns Life Season 2                                                              | 2020 | 14 Dec 2025 | [SeaDex](https://seadex.moe/112803/), [AniList](https://anilist.co/anime/112803) |
 | 243 | Aria the Scarlet Ammo AA                                                           | 2015 | 07 May 2024 | [SeaDex](https://seadex.moe/20991/), [AniList](https://anilist.co/anime/20991)   |

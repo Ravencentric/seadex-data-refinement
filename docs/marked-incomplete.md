@@ -150,8 +150,8 @@
 | 147 | Patlabor: The Movie                                                                  | 1989 | 08 Jun 2025 | [SeaDex](https://seadex.moe/1095/), [AniList](https://anilist.co/anime/1095)     |
 | 148 | Angel's 3Piece!                                                                      | 2017 | 09 Sep 2026 | [SeaDex](https://seadex.moe/97683/), [AniList](https://anilist.co/anime/97683)   |
 | 149 | Strike Witches 2                                                                     | 2010 | 14 Nov 2023 | [SeaDex](https://seadex.moe/6381/), [AniList](https://anilist.co/anime/6381)     |
-| 150 | Asobi Asobase -workshop of fun- OVA                                                  | 2018 | 08 May 2024 | [SeaDex](https://seadex.moe/104170/), [AniList](https://anilist.co/anime/104170) |
-| 151 | Kamichu!                                                                             | 2005 | 14 Jul 2024 | [SeaDex](https://seadex.moe/489/), [AniList](https://anilist.co/anime/489)       |
+| 150 | Kamichu!                                                                             | 2005 | 14 Jul 2024 | [SeaDex](https://seadex.moe/489/), [AniList](https://anilist.co/anime/489)       |
+| 151 | Asobi Asobase -workshop of fun- OVA                                                  | 2018 | 08 May 2024 | [SeaDex](https://seadex.moe/104170/), [AniList](https://anilist.co/anime/104170) |
 | 152 | Dropkick on My Devil!! Dash                                                          | 2020 | 26 Jun 2024 | [SeaDex](https://seadex.moe/107294/), [AniList](https://anilist.co/anime/107294) |
 | 153 | Natsume's Book of Friends the Movie: Ephemeral Bond                                  | 2018 | 01 Oct 2024 | [SeaDex](https://seadex.moe/100268/), [AniList](https://anilist.co/anime/100268) |
 | 154 | Baby Steps 2                                                                         | 2015 | 13 Jul 2025 | [SeaDex](https://seadex.moe/20854/), [AniList](https://anilist.co/anime/20854)   |
@@ -223,8 +223,8 @@
 | 220 | Ronja, the Robber's Daughter                                                         | 2014 | 16 Nov 2023 | [SeaDex](https://seadex.moe/20617/), [AniList](https://anilist.co/anime/20617)   |
 | 221 | Demon City Shinjuku                                                                  | 1988 | 25 Jun 2024 | [SeaDex](https://seadex.moe/499/), [AniList](https://anilist.co/anime/499)       |
 | 222 | ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes                                   | 2020 | 16 Nov 2023 | [SeaDex](https://seadex.moe/114981/), [AniList](https://anilist.co/anime/114981) |
-| 223 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://seadex.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
-| 224 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://seadex.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
+| 223 | School Days: Magical Heart☆Kokoro-chan                                               | 2008 | 15 Nov 2023 | [SeaDex](https://seadex.moe/3328/), [AniList](https://anilist.co/anime/3328)     |
+| 224 | Big Windup! 2                                                                        | 2010 | 02 Aug 2025 | [SeaDex](https://seadex.moe/7720/), [AniList](https://anilist.co/anime/7720)     |
 | 225 | Natsume's Book of Friends: Nyanko-sensei & The First Errand                          | 2013 | 01 Jan 2024 | [SeaDex](https://seadex.moe/18849/), [AniList](https://anilist.co/anime/18849)   |
 | 226 | Beyond the Boundary: Idol Trial!                                                     | 2013 | 17 Jun 2024 | [SeaDex](https://seadex.moe/20524/), [AniList](https://anilist.co/anime/20524)   |
 | 227 | Golden Kamuy 2nd Season OVA                                                          | 2019 | 31 Jan 2026 | [SeaDex](https://seadex.moe/124756/), [AniList](https://anilist.co/anime/124756) |
@@ -277,8 +277,8 @@
 | 274 | Anime de Training! XX                                                                | 2016 | 27 Nov 2024 | [SeaDex](https://seadex.moe/21886/), [AniList](https://anilist.co/anime/21886)   |
 | 275 | Detroit Metal City: Birth of the Metal Devil                                         | 2008 | 25 Jun 2024 | [SeaDex](https://seadex.moe/5065/), [AniList](https://anilist.co/anime/5065)     |
 | 276 | Lost Universe                                                                        | 1998 | 29 Sep 2025 | [SeaDex](https://seadex.moe/1184/), [AniList](https://anilist.co/anime/1184)     |
-| 277 | El Hazard: The Wanderers                                                             | 1995 | 27 Jun 2024 | [SeaDex](https://seadex.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 278 | Captain Harlock: Arcadia of my Youth                                                 | 1982 | 13 Nov 2023 | [SeaDex](https://seadex.moe/2202/), [AniList](https://anilist.co/anime/2202)     |
+| 277 | Captain Harlock: Arcadia of my Youth                                                 | 1982 | 13 Nov 2023 | [SeaDex](https://seadex.moe/2202/), [AniList](https://anilist.co/anime/2202)     |
+| 278 | El Hazard: The Wanderers                                                             | 1995 | 27 Jun 2024 | [SeaDex](https://seadex.moe/116/), [AniList](https://anilist.co/anime/116)       |
 | 279 | Photon: The Idiot Adventures                                                         | 1997 | 02 Aug 2025 | [SeaDex](https://seadex.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
 | 280 | Honoo no Tenkousei                                                                   | 1991 | 10 Jul 2024 | [SeaDex](https://seadex.moe/2050/), [AniList](https://anilist.co/anime/2050)     |
 | 281 | Pokémon: Twilight Wings - The Gathering of Stars                                     | 2020 | 12 Jul 2025 | [SeaDex](https://seadex.moe/125308/), [AniList](https://anilist.co/anime/125308) |
