@@ -1,0 +1,14 @@
+# {{ page.title | literal }}
+
+Entries with best releases but no dual-audio best release,
+where at least one alt release includes dual audio.
+
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+
+{% if data %}
+{% include "table.md.jinja" %}
+{% else %}
+!!! success "No matching entries"
+
+    There are currently no entries with best releases missing dual audio.
+{% endif %}

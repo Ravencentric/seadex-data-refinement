@@ -1,0 +1,19 @@
+# {{ page.title | literal }}
+
+Entries with releases available only on public trackers.
+You can help by crossposting these releases to private trackers, respecting
+their rules and requirements.
+
+This list excludes torrents that have been manually verified to break AB rules, last checked on {{ data.cutoff.strftime("%d %b %Y") }}.
+
+{{ data.entries | length }} {{ "entry" if data.entries | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+
+{% if data.entries %}
+{% with data = data.entries %}
+{% include "table.md.jinja" %}
+{% endwith %}
+{% else %}
+!!! success "No matching entries"
+
+    There are currently no matching entries.
+{% endif %}

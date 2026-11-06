@@ -1,0 +1,36 @@
+# {{ page.title | literal }}
+
+Entries where the best release doesn't actually exist but
+requires someone to mux video, audio, or subtitles
+from different releases.
+
+See the [muxing guide](https://thewiki.moe/advanced/muxing/) to get started.
+
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+
+{% for item in data %}
+## {{ item.title | literal }} { #{{ item.title | slug }}-{{ item.anilist.id }} }
+
+{% if item.year is not none %}
+{{ item.year }} · {% endif %}Updated {{ item.seadex.updated_at.strftime("%d %b %Y") }} · [AniList]({{ item.anilist.site_url }}) · [SeaDex]({{ item.seadex.url }})
+
+{# Callout content needs four spaces of indentation, including the first line. #}
+!!! abstract "Recommended"
+
+{{ item.seadex.theoretical_best | indent(4, first=true) }}
+
+{% if item.seadex.notes | trim %}
+!!! note "Notes"
+
+{{ item.seadex.notes | indent(4, first=true) }}
+
+{% endif %}
+{% if not loop.last %}
+---
+
+{% endif %}
+{% else %}
+!!! success "No matching entries"
+
+    There are currently no unmuxed entries.
+{% endfor %}

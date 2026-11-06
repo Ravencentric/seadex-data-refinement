@@ -1,0 +1,9 @@
+<div class="sortable-table" markdown="1">
+
+| # { data-sort-method="number" } | Title { data-sort-method="string" } | Year { data-sort-method="number" } | Updated { data-sort-method="date" } |
+| ---: | --- | --- | --- |
+{% for item in data %}
+| {{ loop.index }} | [{{ item.title | literal }}]({{ item.seadex.url }}) | {{ item.year if item.year is not none else "—" }} | {{ item.seadex.updated_at.strftime("%d %b %Y") }} |
+{% endfor %}
+
+</div>

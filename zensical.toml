@@ -1,0 +1,104 @@
+[project]
+site_name = "SeaDex Data Refinement"
+site_description = """
+SeaDex Data Refinement, brought to you by Lumon Industries, 
+provides information and identifies specific SeaDex entries that 
+are currently lacking in one way or another. 
+"""
+site_author = "Ravencentric"
+site_url = "https://ravencentri.cc/seadex-data-refinement-2/"
+repo_url = "https://github.com/Ravencentric/seadex-data-refinement-2"
+repo_name = "Ravencentric/seadex-data-refinement-2"
+copyright = "Copyright &copy; 2025-present Ravencentric"
+docs_dir = "build/docs"
+site_dir = "site"
+extra_javascript = [
+    "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
+    "https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js",
+    "https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.date.min.js",
+    "javascripts/tablesort.js",
+]
+nav = [
+    "index.md",
+    { "Statistics" = [
+        "leaderboards.md",
+        "size-statistics.md",
+    ] },
+    { "Fixes and Additions" = [
+        "unmuxed.md",
+        "releases-needing-patches.md",
+        "broken-releases.md",
+        "incomplete-entries.md",
+        "missing-season-packs.md",
+        "missing-comparisons.md",
+        "top-500-missing-anime.md",
+    ] },
+    { "Dubs, Encodes, and Remuxes" = [
+        "best-releases-without-dual-audio.md",
+        "alt-releases-without-dual-audio.md",
+        "dubbed-entries-without-dual-audio.md",
+        "best-encode-releases.md",
+        "best-remux-releases-without-alts.md",
+    ] },
+    { "Tracker Coverage" = [
+        "public-releases-outside-nyaa.md",
+        "entries-only-on-private-trackers.md",
+        "releases-only-on-private-trackers.md",
+        "releases-only-on-public-trackers.md",
+    ] },
+]
+
+[project.theme]
+language = "en"
+features = [
+    "content.code.copy",
+    "content.footnote.tooltips",
+    "content.tabs.link",
+    "content.tooltips",
+    "navigation.footer",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.instant.progress",
+    "navigation.path",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+    "toc.follow",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+[[project.extra.social]]
+icon = "lucide/globe"
+link = "https://seadex.moe"
+name = "SeaDex"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/seadex-moe/seadex"
+name = "SeaDex on GitHub"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/Ravencentric/seadex-data-refinement/"
+name = "SeaDex Data Refinement on GitHub"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/discord"
+link = "https://discord.com/invite/jPeeZewWRn"
+name = "SeaDex Discord"

@@ -1,0 +1,63 @@
+# {{ page.title | literal }}
+
+These statistics are NOT 100% accurate, but they likely are as realistic as (reasonably) possible.
+
+??? info "How This Is Calculated"
+
+    The definition of an entry (or a "complete" torrent) is quite murky.
+    SeaDex defines it as an AniList entry, but every private tracker has their own definition
+    (typically, they follow AniDB or TVDB), while Nyaa does not enforce a specific definition.
+    Every release can quite possibly have slightly different torrents across trackers,
+    or a single torrent on Nyaa can include several SeaDex entries.
+    A Nyaa torrent might contain an entire franchise, but only a single file out of it might be relevant.
+
+    All of this and more means that we need to settle on a method to calculate these statistics.
+    For each SeaDex entry and exact group name, private tracker torrents are preferred:
+    if any exist, only those are considered; otherwise, all of the group's public torrents are considered.
+    Exact duplicate torrent records are discarded across entries before summing their file sizes.
+    Group names are not normalized.
+
+    The entry count records how many times a group appears across entries,
+    with each group counted up to twice per entry—once for best torrents and once for alt torrents.
+    This avoids skewing counts from entries with multiple torrents
+    (e.g., a group with 12 single-episode alt torrents counts as one alt entry).
+    Counts include both statuses even when the private-tracker preference removes their public torrents from size calculations.
+
+    The realistic size estimates downloading one preferred release per entry.
+    It first considers the best dual-audio torrent on a private tracker, then best dual-audio torrent on any tracker,
+    then the best torrent on a private tracker, then best torrent on any tracker, and finally any available release.
+    The first torrent in SeaDex's order within that preference is selected, and exact duplicate records count once.
+
+    The average is the total size divided by the entry count, rather than the number of torrents.
+
+Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+
+{% if data.rows %}
+## Overview
+
+- Total size: `{{ data.total | filesizeformat(true) }}`
+- Best size: `{{ data.best | filesizeformat(true) }}`
+- Alt size: `{{ data.alt | filesizeformat(true) }}`
+- Realistic size: `{{ data.realistic | filesizeformat(true) }}`
+
+For releases split into individual episodes, this selects only one torrent, so it can underestimate a complete download.
+
+## Breakdown by Group
+
+The 49 largest groups are listed by total size, with equal sizes ordered alphabetically.
+Any remaining groups are combined as Others.
+
+<div class="sortable-table" markdown="1">
+
+| Rank { data-sort-method="number" } | Group { data-sort-method="string" } | Total size { data-sort-method="number" } | Best size { data-sort-method="number" } | Total entries { data-sort-method="number" } |
+| ---: | --- | ---: | ---: | ---: |
+{% for row in data.rows %}
+| {{ loop.index }} | {{ row.name | literal }} | {{ row.total | filesizeformat(true) }} { data-sort="{{ row.total }}" } | {{ row.best | filesizeformat(true) }} ({% if row.percentage is not none %}{{ "%.2f" | format(row.percentage) }}%{% else %}—{% endif %}) { data-sort="{{ row.best }}" } | {{ row.count }} (~{{ row.average | filesizeformat(true) }} each) { data-sort="{{ row.count }}" } |
+{% endfor %}
+
+</div>
+{% else %}
+!!! success "No matching entries"
+
+    There are currently no entries with torrents to calculate size statistics.
+{% endif %}

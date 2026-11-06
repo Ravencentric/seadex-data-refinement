@@ -1,0 +1,27 @@
+# {{ page.title | literal }}
+
+The 500 most popular finished anime on AniList that aren't yet on SeaDex.
+
+If you'd like to see any of these added, your comparison submissions are needed.
+The [tutorial](https://thewiki.moe/tutorials/comparison/) provides a step-by-step guide.
+Once you've made your comparisons, please share them in the `#comparisons` channel
+on [Discord](https://discord.com/invite/jPeeZewWRn).
+
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+
+{% if data %}
+<div class="sortable-table" markdown="1">
+
+| # { data-sort-method="number" } | Title { data-sort-method="string" } | Year { data-sort-method="number" } |
+| ---: | --- | ---: |
+{% for anime in data %}
+{% set year = anime.start_date.year if anime.start_date else none %}
+| {{ loop.index }} | [{{ anime.title.to_str() | literal }}](https://anilist.co/anime/{{ anime.id }}) | {{ year if year is not none else "—" }} |
+{% endfor %}
+
+</div>
+{% else %}
+!!! success "No matching entries"
+
+    No finished anime are missing from SeaDex.
+{% endif %}
