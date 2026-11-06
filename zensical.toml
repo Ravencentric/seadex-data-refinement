@@ -6,9 +6,9 @@ provides information and identifies specific SeaDex entries that
 are currently lacking in one way or another. 
 """
 site_author = "Ravencentric"
-site_url = "https://ravencentri.cc/seadex-data-refinement-2/"
-repo_url = "https://github.com/Ravencentric/seadex-data-refinement-2"
-repo_name = "Ravencentric/seadex-data-refinement-2"
+site_url = "https://ravencentri.cc/seadex-data-refinement/"
+repo_url = "https://github.com/Ravencentric/seadex-data-refinement"
+repo_name = "Ravencentric/seadex-data-refinement"
 copyright = "Copyright &copy; 2025-present Ravencentric"
 docs_dir = "build/docs"
 site_dir = "site"
