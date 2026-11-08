@@ -1,8 +1,8 @@
-# {{ page.title | literal }}
+# {{ title | literal }}
 
 Entries with at least one release on a public tracker other than Nyaa.
 
-{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
 {% if data %}
 {% include "table.md.jinja" %}

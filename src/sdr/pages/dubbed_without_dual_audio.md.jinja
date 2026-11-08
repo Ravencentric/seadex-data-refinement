@@ -1,11 +1,11 @@
-# {{ page.title | literal }}
+# {{ title | literal }}
 
 Entries that have an English dub according to AniList but have no dual-audio torrents.
 
 Unfortunately, AniList doesn't directly tell us whether an anime is dubbed
 so we check the English voice-actor credits and consider it dubbed if we find any.
 
-{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
 {% if data %}
 {% include "table.md.jinja" %}

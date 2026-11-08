@@ -1,9 +1,9 @@
-# {{ page.title | literal }}
+# {{ title | literal }}
 
 Entries with alt releases but no dual-audio alt release,
 where at least one best release includes dual audio.
 
-{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
 {% if data %}
 {% include "table.md.jinja" %}

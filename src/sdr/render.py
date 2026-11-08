@@ -1,10 +1,8 @@
 import html
 import re
+from datetime import datetime
 
 from jinja2 import Environment, PackageLoader, StrictUndefined
-
-from sdr.pages import Page
-from sdr.snapshot import Snapshot
 
 
 def literal(value: str) -> str:
@@ -45,7 +43,7 @@ def environment() -> Environment:
     return environment
 
 
-def render[Data](environment: Environment, name: str, page: Page[Data], snapshot: Snapshot) -> str:
-    """Render a page."""
+def render[Data](environment: Environment, name: str, *, title: str, captured: datetime, data: Data) -> str:
+    """Render a page from its title, capture time, and prepared data."""
     template = environment.get_template(f"{name}.md.jinja")
-    return template.render(page=page, snapshot=snapshot, data=page.prepare(snapshot))
+    return template.render(title=title, captured=captured, data=data)

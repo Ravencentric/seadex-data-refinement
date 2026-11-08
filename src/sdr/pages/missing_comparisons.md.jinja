@@ -1,4 +1,4 @@
-# {{ page.title | literal }}
+# {{ title | literal }}
 
 Entries without [slow.pics](https://slow.pics/) comparisons on SeaDex.
 
@@ -6,7 +6,7 @@ To contribute, follow the [comparison tutorial](https://thewiki.moe/tutorials/co
 and share your comparisons in the `#comparisons` channel on
 [Discord](https://discord.com/invite/jPeeZewWRn).
 
-{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
 {% if data %}
 {% include "table.md.jinja" %}

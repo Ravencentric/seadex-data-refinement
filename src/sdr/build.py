@@ -20,7 +20,8 @@ def generate(snapshot: Snapshot) -> dict[str, str]:
         filename = f"{stem}.md"
         if filename in documents:
             raise ValueError(f"Page title {page.title!r} produces a duplicate output: {filename}")
-        documents[filename] = render(env, name, page, snapshot)
+        data = page.prepare(snapshot)
+        documents[filename] = render(env, name, title=page.title, captured=snapshot.captured, data=data)
     return documents
 
 

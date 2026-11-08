@@ -1,4 +1,4 @@
-# {{ page.title | literal }}
+# {{ title | literal }}
 
 These statistics are NOT 100% accurate, but they likely are as realistic as (reasonably) possible.
 
@@ -30,7 +30,7 @@ These statistics are NOT 100% accurate, but they likely are as realistic as (rea
 
     The average is the total size divided by the entry count, rather than the number of torrents.
 
-Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
 {% if data.rows %}
 ## Overview

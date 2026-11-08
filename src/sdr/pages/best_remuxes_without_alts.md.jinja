@@ -1,11 +1,11 @@
-# {{ page.title | literal }}
+# {{ title | literal }}
 
 Entries with a remux listed as best and no alt releases.
 
 It looks for "remux" in the name of each best torrent's largest file.
 If no filename matches, it checks the entry notes.
 
-{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+{{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
 {% if data %}
 {% include "table.md.jinja" %}

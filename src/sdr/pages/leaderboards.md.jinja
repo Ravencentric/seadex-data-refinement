@@ -1,4 +1,4 @@
-# {{ page.title | literal }}
+# {{ title | literal }}
 
 These rankings are NOT 100% accurate, but they likely are as realistic as (reasonably) possible.
 
@@ -21,7 +21,7 @@ These rankings are NOT 100% accurate, but they likely are as realistic as (reaso
     This leaderboard is just for fun! Please don't take these rankings too seriously.
     We appreciate all the hard work that every release group puts into making releases. ❤️
 
-Last updated: {{ snapshot.captured.strftime("%d %b %Y, %H:%M %Z") }}
+Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
 {% set medals = ("🥇", "🥈", "🥉") %}
 {% for board in data %}
