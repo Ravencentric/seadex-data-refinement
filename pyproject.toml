@@ -38,6 +38,7 @@ preset = "all"
 python-platform = "all"
 project-includes = [
   "src/**/*.py",
+  "scripts/*.py",
 ]
 
 [tool.pyrefly.errors]

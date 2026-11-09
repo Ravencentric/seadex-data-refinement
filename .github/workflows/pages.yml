@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
-      contents: read
+      contents: write # Update the page-history release
       pages: read # Read the site's Pages configuration
     steps:
       - name: Check out the repository
@@ -47,7 +47,13 @@ jobs:
         run: uv run sdr fetch
 
       - name: Build the site
-        run: uv run sdr build
+        run: uv run --offline sdr build
+
+      - name: Update page history
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: uv run --offline python scripts/history.py
 
       - name: Upload the site
         uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
