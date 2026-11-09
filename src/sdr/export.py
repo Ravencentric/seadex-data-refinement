@@ -22,7 +22,7 @@ class Observation[T](msgspec.Struct, frozen=True, kw_only=True, forbid_unknown_f
 
 
 def export(snapshot: Snapshot, destination: Path) -> Path:
-    """Append page observations offline, skipping an already exported capture time."""
+    """Append offline page histories by UTC year, skipping an already exported capture time."""
     observations = generate(snapshot)
     write(observations, destination)
     return destination
@@ -43,12 +43,14 @@ def generate(snapshot: Snapshot) -> SlugToObservationMap:
 
 
 def write(observations: SlugToObservationMap, destination: Path) -> None:
-    """Append observations, preserving existing captures."""
+    """Append observations to histories by UTC year, preserving existing captures."""
     destination.mkdir(parents=True, exist_ok=True)
     pending: list[AtomicWriter] = []
 
     for filename, observation in observations.items():
-        source = destination / filename
+        year = observation.captured.year
+        source = destination / str(year) / filename
+        source.parent.mkdir(parents=True, exist_ok=True)
         exists = source.exists()
 
         if exists:
