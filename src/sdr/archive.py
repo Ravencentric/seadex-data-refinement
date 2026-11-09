@@ -1,4 +1,5 @@
 import tarfile
+from compression.zstd import CompressionParameter
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
@@ -16,7 +17,14 @@ def pack(source: Path, destination: Path) -> Path:
     # Finish the compressed archive beside its destination before replacing it.
     with TemporaryDirectory(dir=destination.parent) as directory:
         temporary = Path(directory) / destination.name
-        with tarfile.open(temporary, mode="w|zst") as archive:
+        with tarfile.open(
+            temporary,
+            mode="w:zst",
+            options={
+                CompressionParameter.compression_level: 9,
+                CompressionParameter.window_log: 27,  # 128 MiB to match repeated observations across days.
+            },
+        ) as archive:
             for path in histories:
                 archive.add(path, arcname=path.name, recursive=False)
         temporary.replace(destination)
@@ -25,7 +33,7 @@ def pack(source: Path, destination: Path) -> Path:
 
 def unpack(source: Path, destination: Path) -> Path:
     """Restore archived page histories into an empty directory."""
-    with tarfile.open(source, mode="r|zst") as archive:
+    with tarfile.open(source, mode="r:zst") as archive:
         destination.mkdir(parents=True, exist_ok=True)
         if any(destination.iterdir()):
             raise FileExistsError(f"History destination must be empty: {destination}")
