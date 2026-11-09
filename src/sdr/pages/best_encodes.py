@@ -3,7 +3,7 @@ import re
 from seadex import EntryRecord
 
 from sdr.pages import Page
-from sdr.shared import is_slowpics_url, sort_by_popularity
+from sdr.shared import is_slowpics_url, sort_by_popularity, summarize
 from sdr.snapshot import Anime, Snapshot
 
 
@@ -31,4 +31,8 @@ def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
 
 
 def create() -> Page[tuple[Anime, ...]]:
-    return Page(title="Best Encode Releases", prepare=prepare)
+    return Page(
+        title="Best Encode Releases",
+        prepare=prepare,
+        export=lambda snapshot: summarize(prepare(snapshot)),
+    )

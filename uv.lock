@@ -387,6 +387,7 @@ name = "sdr"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+    { name = "atomicwriter" },
     { name = "httpcore" },
     { name = "httpx" },
     { name = "jinja2" },
@@ -405,6 +406,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
+    { name = "atomicwriter", specifier = ">=0.3.0" },
     { name = "httpcore", specifier = ">=1.0.9" },
     { name = "httpx", specifier = ">=0.28.1" },
     { name = "jinja2", specifier = ">=3.1.6" },

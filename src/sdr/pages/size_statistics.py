@@ -27,12 +27,9 @@ class Row:
 class Report:
     total: int
     best: int
+    alt: int
     realistic: int
     rows: tuple[Row, ...]
-
-    @property
-    def alt(self) -> int:
-        return self.total - self.best
 
 
 def select(snapshot: Snapshot) -> frozenset[TorrentRecord]:
@@ -133,16 +130,25 @@ def rank(groups: tuple[Row, ...]) -> tuple[Row, ...]:
     return tuple(rows)
 
 
+def export(snapshot: Snapshot) -> Report:
+    """A callable that's supposed to produce page data suitable for serialization."""
+    groups = tuple(sorted(measure(snapshot), key=lambda row: row.name))
+    total = sum(group.total for group in groups)
+    best = sum(group.best for group in groups)
+    return Report(total=total, best=best, alt=total - best, realistic=realistic(snapshot), rows=groups)
+
+
 def prepare(snapshot: Snapshot) -> Report:
     """Assemble the overall totals, download estimate, and ranked group breakdown."""
-    groups = measure(snapshot)
+    report = export(snapshot)
     return Report(
-        total=sum(group.total for group in groups),
-        best=sum(group.best for group in groups),
-        realistic=realistic(snapshot),
-        rows=rank(groups),
+        total=report.total,
+        best=report.best,
+        alt=report.alt,
+        realistic=report.realistic,
+        rows=rank(report.rows),
     )
 
 
 def create() -> Page[Report]:
-    return Page(title="Size Statistics", prepare=prepare)
+    return Page(title="Size Statistics", prepare=prepare, export=export)

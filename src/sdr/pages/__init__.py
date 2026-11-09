@@ -8,12 +8,16 @@ from sdr.snapshot import Snapshot
 
 @dataclass(frozen=True, slots=True, kw_only=True)
 class Page[Data]:
-    """
-    Skeleton of a Page.
-    """
+    """The skeleton of a page."""
 
     title: str
+    """The human-readable name of the page."""
+
     prepare: Callable[[Snapshot], Data]
+    """A callable that's supposed to produce the data necessary for templates."""
+
+    export: Callable[[Snapshot], object]
+    """A callable that's supposed to produce page data suitable for serialization."""
 
 
 def discover() -> dict[str, Page[object]]:

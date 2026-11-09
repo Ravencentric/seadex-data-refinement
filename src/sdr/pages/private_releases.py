@@ -1,7 +1,7 @@
 from typing import Final
 
 from sdr.pages import Page
-from sdr.shared import sort_by_popularity
+from sdr.shared import sort_by_popularity, summarize
 from sdr.snapshot import Anime, Snapshot
 
 # Groups that do not want their releases mirrored to public trackers.
@@ -37,4 +37,8 @@ def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
 
 
 def create() -> Page[tuple[Anime, ...]]:
-    return Page(title="Releases Only on Private Trackers", prepare=prepare)
+    return Page(
+        title="Releases Only on Private Trackers",
+        prepare=prepare,
+        export=lambda snapshot: summarize(prepare(snapshot)),
+    )
