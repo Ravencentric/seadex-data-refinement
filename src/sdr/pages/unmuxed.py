@@ -1,5 +1,5 @@
 from sdr.pages import Page
-from sdr.shared import sort_by_popularity
+from sdr.shared import sort_by_popularity, summarize
 from sdr.snapshot import Anime, Snapshot
 
 
@@ -11,4 +11,8 @@ def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
 
 
 def create() -> Page[tuple[Anime, ...]]:
-    return Page(title="Unmuxed", prepare=prepare)
+    return Page(
+        title="Unmuxed",
+        prepare=prepare,
+        export=lambda snapshot: summarize(prepare(snapshot)),
+    )

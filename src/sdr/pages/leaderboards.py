@@ -56,8 +56,8 @@ def rank(title: str, counts: Counter[str]) -> Board:
     return Board(title=title, rows=tuple(rows))
 
 
-def prepare(snapshot: Snapshot) -> tuple[Board, ...]:
-    """Count each group once per anime within each leaderboard category."""
+def export(snapshot: Snapshot) -> dict[str, Counter[str]]:
+    """A callable that's supposed to produce page data suitable for serialization."""
     total: Counter[str] = Counter()
     dual: Counter[str] = Counter()
     best: Counter[str] = Counter()
@@ -68,13 +68,19 @@ def prepare(snapshot: Snapshot) -> tuple[Board, ...]:
         dual.update({torrent.release_group for torrent in torrents if torrent.is_best and torrent.is_dual_audio})
         best.update({torrent.release_group for torrent in torrents if torrent.is_best})
         alt.update({torrent.release_group for torrent in torrents if not torrent.is_best})
+    return {"total": total, "dual": dual, "best": best, "alt": alt}
+
+
+def prepare(snapshot: Snapshot) -> tuple[Board, ...]:
+    """Rank each group once per anime within each leaderboard category."""
+    counts = export(snapshot)
     return (
-        rank("Total Entries", total),
-        rank("Best Dual-Audio Entries", dual),
-        rank("Best Entries", best),
-        rank("Alt Entries", alt),
+        rank("Total Entries", counts["total"]),
+        rank("Best Dual-Audio Entries", counts["dual"]),
+        rank("Best Entries", counts["best"]),
+        rank("Alt Entries", counts["alt"]),
     )
 
 
 def create() -> Page[tuple[Board, ...]]:
-    return Page(title="Leaderboards", prepare=prepare)
+    return Page(title="Leaderboards", prepare=prepare, export=export)
