@@ -18,6 +18,7 @@ class Arguments(argparse.Namespace):
 
 
 def parser() -> argparse.ArgumentParser:
+    archive = Path("archives/seadex-data-refinement-history.tar.zst")
     snapshot = argparse.ArgumentParser(add_help=False)
     snapshot.add_argument(
         "--snapshot", type=Path, default=Path("snapshot.json"), help="Snapshot file (default: %(default)s)"
@@ -41,19 +42,26 @@ def parser() -> argparse.ArgumentParser:
         "--destination", type=Path, default=Path("exports"), help="Export directory (default: %(default)s)"
     )
 
-    description = "Package the exported JSONL files into yearly .tar.zst archives."
+    description = "Package the exported JSONL files into one .tar.zst archive."
     command = commands.add_parser("pack", help=description, description=description)
     command.add_argument(
         "source", type=Path, nargs="?", default=Path("exports"), help="Export directory (default: %(default)s)"
     )
     command.add_argument(
-        "--destination", type=Path, default=Path("archives"), help="Archive directory (default: %(default)s)"
+        "--destination",
+        type=Path,
+        default=archive,
+        help="Archive file (default: %(default)s)",
     )
 
-    description = "Unpack the yearly .tar.zst archives into empty year directories."
+    description = "Unpack the .tar.zst archive into an empty export directory."
     command = commands.add_parser("unpack", help=description, description=description)
     command.add_argument(
-        "source", type=Path, nargs="?", default=Path("archives"), help="Archive directory (default: %(default)s)"
+        "source",
+        type=Path,
+        nargs="?",
+        default=archive,
+        help="Archive file (default: %(default)s)",
     )
     command.add_argument(
         "--destination", type=Path, default=Path("exports"), help="Export directory (default: %(default)s)"
@@ -74,27 +82,11 @@ def main() -> None:
             destination = export(load(arguments.snapshot), arguments.destination)
             print(f"Exported snapshot to {destination}")
         case "pack":
-            directories = sorted(arguments.source.iterdir())
-            if not directories:
-                raise ValueError(f"No yearly histories found in {arguments.source}")
-            for source in directories:
-                if not source.is_dir() or not source.name.isdecimal():
-                    raise ValueError(f"Expected a year directory: {source}")
-            for source in directories:
-                destination = pack(source, arguments.destination / f"{source.name}.tar.zst")
-                print(f"Packed page histories into {destination}")
+            destination = pack(arguments.source, arguments.destination)
+            print(f"Packed page histories into {destination}")
         case "unpack":
-            archives = sorted(arguments.source.iterdir())
-            if not archives:
-                raise ValueError(f"No yearly archives found in {arguments.source}")
-            for source in archives:
-                year = source.name.removesuffix(".tar.zst")
-                if not source.is_file() or not source.name.endswith(".tar.zst") or not year.isdecimal():
-                    raise ValueError(f"Expected a yearly .tar.zst archive: {source}")
-            for source in archives:
-                year = source.name.removesuffix(".tar.zst")
-                destination = unpack(source, arguments.destination / year)
-                print(f"Restored page histories to {destination}")
+            destination = unpack(arguments.source, arguments.destination)
+            print(f"Restored page histories to {destination}")
         case _:
             assert_never(arguments.command)
 

@@ -17,6 +17,7 @@ SNAPSHOT = Path("snapshot.json")
 EXPORTS = Path("exports")
 ARCHIVES = Path("archives")
 TOKEN = os.environ["GH_TOKEN"]
+NAME = "seadex-data-refinement-history.tar.zst"
 
 
 class Asset(msgspec.Struct, frozen=True):
@@ -51,11 +52,12 @@ def release() -> Release | None:
 def main() -> None:
     """Persist the saved snapshot's page histories in the history release."""
     snapshot = load(SNAPSHOT)
-    year = str(snapshot.captured.year)
     existing = release()
-    archive = ARCHIVES / f"{year}.tar.zst"
+    archive = ARCHIVES / NAME
 
-    if existing is not None and any(asset.name == archive.name for asset in existing.assets):
+    if existing is not None:
+        if not any(asset.name == archive.name for asset in existing.assets):
+            raise ValueError(f"History release is missing {archive.name}; refusing to replace stored history")
         subprocess.run(
             [
                 "gh",
@@ -71,10 +73,10 @@ def main() -> None:
             ],
             check=True,
         )
-        unpack(archive, EXPORTS / year)
+        unpack(archive, EXPORTS)
 
     export(snapshot, EXPORTS)
-    pack(EXPORTS / year, archive)
+    pack(EXPORTS, archive)
 
     if existing is None:
         subprocess.run(
@@ -91,7 +93,7 @@ def main() -> None:
                 "--title",
                 "Page history",
                 "--notes",
-                "Yearly page history archives, updated automatically.",
+                "Page history archive, updated automatically.",
                 "--latest=false",
             ],
             check=True,
