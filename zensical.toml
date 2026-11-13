@@ -13,57 +13,63 @@ copyright = "Copyright &copy; 2025-present Ravencentric"
 docs_dir = "build/docs"
 site_dir = "site"
 extra_javascript = [
-    "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
-    "https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js",
-    "https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.date.min.js",
-    "javascripts/tablesort.js",
+  "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
+  "https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js",
+  "https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.date.min.js",
+  "javascripts/tablesort.js",
+  "https://unpkg.com/uplot@1.6.32/dist/uPlot.iife.min.js",
+  "javascripts/size-history.js",
+]
+extra_css = [
+  "https://unpkg.com/uplot@1.6.32/dist/uPlot.min.css",
+  "stylesheets/size-history.css",
 ]
 nav = [
-    "index.md",
-    { "Statistics" = [
-        "leaderboards.md",
-        "size-statistics.md",
-    ] },
-    { "Fixes and Additions" = [
-        "unmuxed.md",
-        "releases-needing-patches.md",
-        "broken-releases.md",
-        "incomplete-entries.md",
-        "missing-season-packs.md",
-        "missing-comparisons.md",
-        "top-500-missing-anime.md",
-    ] },
-    { "Dubs, Encodes, and Remuxes" = [
-        "best-releases-without-dual-audio.md",
-        "alt-releases-without-dual-audio.md",
-        "dubbed-entries-without-dual-audio.md",
-        "best-encode-releases.md",
-        "best-remux-releases-without-alts.md",
-    ] },
-    { "Tracker Coverage" = [
-        "public-releases-outside-nyaa.md",
-        "entries-only-on-private-trackers.md",
-        "releases-only-on-private-trackers.md",
-        "releases-only-on-public-trackers.md",
-    ] },
+  "index.md",
+  { "Statistics" = [
+    "leaderboards.md",
+    "size-statistics.md",
+  ] },
+  { "Fixes and Additions" = [
+    "unmuxed.md",
+    "releases-needing-patches.md",
+    "broken-releases.md",
+    "incomplete-entries.md",
+    "missing-season-packs.md",
+    "missing-comparisons.md",
+    "top-500-missing-anime.md",
+  ] },
+  { "Dubs, Encodes, and Remuxes" = [
+    "best-releases-without-dual-audio.md",
+    "alt-releases-without-dual-audio.md",
+    "dubbed-entries-without-dual-audio.md",
+    "best-encode-releases.md",
+    "best-remux-releases-without-alts.md",
+  ] },
+  { "Tracker Coverage" = [
+    "public-releases-outside-nyaa.md",
+    "entries-only-on-private-trackers.md",
+    "releases-only-on-private-trackers.md",
+    "releases-only-on-public-trackers.md",
+  ] },
 ]
 
 [project.theme]
 language = "en"
 features = [
-    "content.code.copy",
-    "content.footnote.tooltips",
-    "content.tabs.link",
-    "content.tooltips",
-    "navigation.footer",
-    "navigation.instant",
-    "navigation.instant.prefetch",
-    "navigation.instant.progress",
-    "navigation.path",
-    "navigation.top",
-    "navigation.tracking",
-    "search.highlight",
-    "toc.follow",
+  "content.code.copy",
+  "content.footnote.tooltips",
+  "content.tabs.link",
+  "content.tooltips",
+  "navigation.footer",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.instant.progress",
+  "navigation.path",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+  "toc.follow",
 ]
 
 [[project.theme.palette]]

@@ -4,23 +4,34 @@ from collections.abc import Mapping
 from pathlib import Path
 from shutil import copytree
 
-from sdr.pages import discover
+from sdr import history
+from sdr.pages import Page, discover
 from sdr.render import environment, render, slug
 from sdr.snapshot import Snapshot
 
 
-def generate(snapshot: Snapshot) -> dict[str, str]:
-    """Render every page into a dict, without writing anything to disk."""
+def prepare[P, E](page: Page[P, E], snapshot: Snapshot, source: Path) -> P:
+    """Prepare a page with history decoded using its export schema."""
+    observations = history.load(source, page.export.type)
+    return page.prepare(snapshot, observations)
+
+
+def generate(snapshot: Snapshot, history: Path) -> dict[str, str]:
+    """Render every page with saved history, without writing anything to disk."""
+    if not history.is_dir():
+        if not history.exists():
+            raise FileNotFoundError(f"History directory does not exist: {history}")
+        raise NotADirectoryError(f"History path is not a directory: {history}")
     env = environment()
     documents: dict[str, str] = {}
     for name, page in discover().items():
-        stem = "index" if name == "index" else slug(page.title)
+        stem = slug(page.title)
         if not stem:
             raise ValueError(f"Page title {page.title!r} must produce a nonempty URL slug")
-        filename = f"{stem}.md"
+        filename = "index.md" if name == "index" else f"{stem}.md"
         if filename in documents:
             raise ValueError(f"Page title {page.title!r} produces a duplicate output: {filename}")
-        data = page.prepare(snapshot)
+        data = prepare(page, snapshot, history / f"{stem}.jsonl")
         documents[filename] = render(env, name, title=page.title, captured=snapshot.captured, data=data)
     return documents
 
@@ -36,12 +47,13 @@ def write(documents: Mapping[str, str], destination: Path) -> None:
             path.unlink()
 
 
-def build(snapshot: Snapshot) -> Path:
-    """Build the site from a snapshot."""
+def build(snapshot: Snapshot, history: Path) -> Path:
+    """Build the site from a snapshot and locally saved page histories."""
     project = Path(__file__).resolve().parents[2]
-    documents = generate(snapshot)
+    documents = generate(snapshot, history)
     write(documents, project / "build" / "docs")
     copytree(project / "javascripts", project / "build" / "docs" / "javascripts", dirs_exist_ok=True)
+    copytree(project / "stylesheets", project / "build" / "docs" / "stylesheets", dirs_exist_ok=True)
     subprocess.run(
         [sys.executable, "-m", "zensical", "build", "--strict", "--config-file", str(project / "zensical.toml")],
         cwd=project,

@@ -2,16 +2,16 @@ from datetime import datetime
 
 from seadex import TorrentRecord
 
+from sdr.history import Export, History
 from sdr.pages import Page
 from sdr.snapshot import Snapshot
 
 
-def prepare(snapshot: Snapshot) -> datetime:
+def prepare(snapshot: Snapshot, history: History[dict[str, int]]) -> datetime:
     return snapshot.captured
 
 
 def export(snapshot: Snapshot) -> dict[str, int]:
-    """A callable that's supposed to produce page data suitable for serialization."""
     torrents: set[TorrentRecord] = set()
     for anime in snapshot.entries.values():
         torrents.update(anime.seadex.torrents)
@@ -19,5 +19,5 @@ def export(snapshot: Snapshot) -> dict[str, int]:
     return {"entries": len(snapshot.entries), "torrents": len(torrents), "groups": len(groups)}
 
 
-def create() -> Page[datetime]:
-    return Page(title="Home", prepare=prepare, export=export)
+def create() -> Page[datetime, dict[str, int]]:
+    return Page(title="Home", prepare=prepare, export=Export(type=dict[str, int], collect=export))

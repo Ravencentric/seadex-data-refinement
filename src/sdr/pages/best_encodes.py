@@ -2,8 +2,9 @@ import re
 
 from seadex import EntryRecord
 
+from sdr.history import Export
 from sdr.pages import Page
-from sdr.shared import is_slowpics_url, sort_by_popularity, summarize
+from sdr.shared import Summary, is_slowpics_url, sort_by_popularity, summarize
 from sdr.snapshot import Anime, Snapshot
 
 
@@ -25,14 +26,14 @@ def predicate(entry: EntryRecord, /) -> bool:
     return any(torrent.is_best for torrent in entry.torrents)
 
 
-def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
+def select(snapshot: Snapshot) -> tuple[Anime, ...]:
     """Find entries where an encode beats the store."""
     return sort_by_popularity(anime for anime in snapshot.entries.values() if predicate(anime.seadex))
 
 
-def create() -> Page[tuple[Anime, ...]]:
+def create() -> Page[tuple[Anime, ...], tuple[Summary, ...]]:
     return Page(
         title="Best Encode Releases",
-        prepare=prepare,
-        export=lambda snapshot: summarize(prepare(snapshot)),
+        prepare=lambda snapshot, _: select(snapshot),
+        export=Export(type=tuple[Summary, ...], collect=lambda snapshot: summarize(select(snapshot))),
     )

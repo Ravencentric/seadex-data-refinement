@@ -1,8 +1,11 @@
 from collections import Counter
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
+from datetime import timedelta
 
+import msgspec
 from seadex import TorrentRecord
 
+from sdr.history import Export, History
 from sdr.pages import Page
 from sdr.snapshot import Snapshot
 
@@ -30,6 +33,63 @@ class Report:
     alt: int
     realistic: int
     rows: tuple[Row, ...]
+
+
+@dataclass(frozen=True, slots=True, kw_only=True)
+class GrowthPerDay:
+    total: float
+    best: float
+    alt: float
+    realistic: float
+
+
+@dataclass(frozen=True, slots=True, kw_only=True)
+class Timeline:
+    """The ranked report and complete history used for the chart and growth rates."""
+
+    current: Report
+    history: History[Report]
+
+    def to_uplot(self) -> str:
+        """
+        Serialize history for the data argument of new uPlot(options, data, container).
+
+        The Python equivalent will probably look something like this:
+
+            def uplot(
+                options: Options,
+                data: tuple[list[float], list[float], list[float], list[float], list[float]],
+                container: HTMLElement,
+            ) -> UPlot: ...
+
+        The five aligned columns are [timestamps, total, best, alt, realistic].
+        Each column has one value per observation, ordered by capture time.
+        Timestamps are Unix seconds. We convert sizes to TiB here to keep
+        the JavaScript focused on rendering.
+
+        Lastly, convert the whole thing to JSON so we can feed it to JS over the boundary.
+        """
+        times = [observation.captured.timestamp() for observation in self.history]
+        total = [observation.data.total / 1024**4 for observation in self.history]
+        best = [observation.data.best / 1024**4 for observation in self.history]
+        alt = [observation.data.alt / 1024**4 for observation in self.history]
+        realistic = [observation.data.realistic / 1024**4 for observation in self.history]
+        return msgspec.json.encode((times, total, best, alt, realistic)).decode()
+
+    @property
+    def growth(self) -> GrowthPerDay:
+        """Average daily net growth for each size measure across the complete history."""
+        # Arbitrary number for sanity check
+        assert len(self.history) > 100, "Expected more than 100 size observations"
+        first = self.history[0]
+        last = self.history[-1]
+        days = (last.captured - first.captured) / timedelta(days=1)
+        return GrowthPerDay(
+            total=(last.data.total - first.data.total) / days,
+            best=(last.data.best - first.data.best) / days,
+            alt=(last.data.alt - first.data.alt) / days,
+            realistic=(last.data.realistic - first.data.realistic) / days,
+        )
 
 
 def select(snapshot: Snapshot) -> frozenset[TorrentRecord]:
@@ -138,17 +198,11 @@ def export(snapshot: Snapshot) -> Report:
     return Report(total=total, best=best, alt=total - best, realistic=realistic(snapshot), rows=groups)
 
 
-def prepare(snapshot: Snapshot) -> Report:
-    """Assemble the overall totals, download estimate, and ranked group breakdown."""
+def prepare(snapshot: Snapshot, history: History[Report]) -> Timeline:
+    """Rank the current report and use saved observations as supplied."""
     report = export(snapshot)
-    return Report(
-        total=report.total,
-        best=report.best,
-        alt=report.alt,
-        realistic=report.realistic,
-        rows=rank(report.rows),
-    )
+    return Timeline(current=replace(report, rows=rank(report.rows)), history=history)
 
 
-def create() -> Page[Report]:
-    return Page(title="Size Statistics", prepare=prepare, export=export)
+def create() -> Page[Timeline, Report]:
+    return Page(title="Size Statistics", prepare=prepare, export=Export(type=Report, collect=export))

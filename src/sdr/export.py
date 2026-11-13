@@ -1,24 +1,16 @@
 from collections.abc import Mapping
 from datetime import datetime
 from pathlib import Path
-from typing import Annotated, Literal
 
 import msgspec
 from atomicwriter import AtomicWriter
 
+from sdr.history import Observation
 from sdr.pages import discover
 from sdr.render import slug
 from sdr.snapshot import Snapshot
 
 type SlugToObservationMap = Mapping[str, Observation[object]]
-
-
-class Observation[T](msgspec.Struct, frozen=True, kw_only=True, forbid_unknown_fields=True):
-    """One complete page export, identified by its snapshot's capture time."""
-
-    version: Literal[1]
-    captured: Annotated[datetime, msgspec.Meta(tz=True)]
-    data: T
 
 
 def export(snapshot: Snapshot, destination: Path) -> Path:

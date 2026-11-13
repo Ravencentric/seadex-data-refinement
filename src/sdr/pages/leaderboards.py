@@ -1,6 +1,8 @@
 from collections import Counter, defaultdict
+from collections.abc import Mapping
 from dataclasses import dataclass
 
+from sdr.history import Export, History
 from sdr.pages import Page
 from sdr.snapshot import Snapshot
 
@@ -28,7 +30,7 @@ class Board:
     rows: tuple[Row, ...]
 
 
-def rank(title: str, counts: Counter[str]) -> Board:
+def rank(title: str, counts: Mapping[str, int]) -> Board:
     """Group equal counts into one rank, with names sorted alphabetically."""
     # Example: title = "Top 25", counts = Counter({"sam": 128, "CRUCiBLE": 128, "-ZR-": 148})
 
@@ -56,7 +58,7 @@ def rank(title: str, counts: Counter[str]) -> Board:
     return Board(title=title, rows=tuple(rows))
 
 
-def export(snapshot: Snapshot) -> dict[str, Counter[str]]:
+def export(snapshot: Snapshot) -> dict[str, dict[str, int]]:
     """A callable that's supposed to produce page data suitable for serialization."""
     total: Counter[str] = Counter()
     dual: Counter[str] = Counter()
@@ -68,10 +70,10 @@ def export(snapshot: Snapshot) -> dict[str, Counter[str]]:
         dual.update({torrent.release_group for torrent in torrents if torrent.is_best and torrent.is_dual_audio})
         best.update({torrent.release_group for torrent in torrents if torrent.is_best})
         alt.update({torrent.release_group for torrent in torrents if not torrent.is_best})
-    return {"total": total, "dual": dual, "best": best, "alt": alt}
+    return {"total": dict(total), "dual": dict(dual), "best": dict(best), "alt": dict(alt)}
 
 
-def prepare(snapshot: Snapshot) -> tuple[Board, ...]:
+def prepare(snapshot: Snapshot, _: History[dict[str, dict[str, int]]]) -> tuple[Board, ...]:
     """Rank each group once per anime within each leaderboard category."""
     counts = export(snapshot)
     return (
@@ -82,5 +84,5 @@ def prepare(snapshot: Snapshot) -> tuple[Board, ...]:
     )
 
 
-def create() -> Page[tuple[Board, ...]]:
-    return Page(title="Leaderboards", prepare=prepare, export=export)
+def create() -> Page[tuple[Board, ...], dict[str, dict[str, int]]]:
+    return Page(title="Leaderboards", prepare=prepare, export=Export(type=dict[str, dict[str, int]], collect=export))

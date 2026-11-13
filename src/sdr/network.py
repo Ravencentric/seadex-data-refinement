@@ -43,6 +43,10 @@ class RetryingTransport(httpx.HTTPTransport):
             response.read()
         finally:
             response.close()
+
+        if response.has_redirect_location:
+            return response
+
         response.raise_for_status()
         return response
 
@@ -54,7 +58,7 @@ class Client(httpx.Client):
 
     def __init__(self) -> None:
         self.transport = RetryingTransport()
-        super().__init__(transport=self.transport, timeout=60)
+        super().__init__(transport=self.transport, timeout=60, follow_redirects=True)
 
     @property
     def requests(self) -> int:

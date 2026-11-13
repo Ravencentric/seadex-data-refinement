@@ -1,11 +1,12 @@
 from seadex import Tag
 
+from sdr.history import Export
 from sdr.pages import Page
-from sdr.shared import sort_by_popularity, summarize
+from sdr.shared import Summary, sort_by_popularity, summarize
 from sdr.snapshot import Anime, Snapshot
 
 
-def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
+def select(snapshot: Snapshot) -> tuple[Anime, ...]:
     """Find entries with at least one release marked as broken."""
     return sort_by_popularity(
         anime
@@ -14,9 +15,9 @@ def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
     )
 
 
-def create() -> Page[tuple[Anime, ...]]:
+def create() -> Page[tuple[Anime, ...], tuple[Summary, ...]]:
     return Page(
         title="Broken Releases",
-        prepare=prepare,
-        export=lambda snapshot: summarize(prepare(snapshot)),
+        prepare=lambda snapshot, _: select(snapshot),
+        export=Export(type=tuple[Summary, ...], collect=lambda snapshot: summarize(select(snapshot))),
     )

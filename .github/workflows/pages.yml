@@ -43,7 +43,9 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
-      - name: Fetch entries
+      - name: Fetch entries and page history
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: uv run sdr fetch
 
       - name: Build the site
@@ -53,7 +55,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: uv run --offline python scripts/history.py
+        run: uv run --offline sdr publish
 
       - name: Upload the site
         uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4

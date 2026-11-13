@@ -1,14 +1,15 @@
 from typing import Final
 
+from sdr.history import Export
 from sdr.pages import Page
-from sdr.shared import sort_by_popularity, summarize
+from sdr.shared import Summary, sort_by_popularity, summarize
 from sdr.snapshot import Anime, Snapshot
 
 # Groups that do not want their releases mirrored to public trackers.
 EXCLUDED: Final[frozenset[str]] = frozenset({"-ZR-", "FraMeSToR", "NAN0", "KEKKU", "Doc", "Kitsune"})
 
 
-def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
+def select(snapshot: Snapshot) -> tuple[Anime, ...]:
     """Find entries with private releases lacking a public alternative."""
     entries: list[Anime] = []
     for anime in snapshot.entries.values():
@@ -36,9 +37,9 @@ def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
     return sort_by_popularity(entries)
 
 
-def create() -> Page[tuple[Anime, ...]]:
+def create() -> Page[tuple[Anime, ...], tuple[Summary, ...]]:
     return Page(
         title="Releases Only on Private Trackers",
-        prepare=prepare,
-        export=lambda snapshot: summarize(prepare(snapshot)),
+        prepare=lambda snapshot, _: select(snapshot),
+        export=Export(type=tuple[Summary, ...], collect=lambda snapshot: summarize(select(snapshot))),
     )
