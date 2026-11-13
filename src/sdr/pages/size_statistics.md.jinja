@@ -28,20 +28,34 @@ These statistics are NOT 100% accurate, but they likely are as realistic as (rea
     then the best torrent on a private tracker, then best torrent on any tracker, and finally any available release.
     The first torrent in SeaDex's order within that preference is selected, and exact duplicate records count once.
 
+    For releases split into individual episodes, this selects only one torrent, so it can underestimate a complete download.
+
     The average is the total size divided by the entry count, rather than the number of torrents.
 
 Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
-{% if data.rows %}
+{% set current = data.current %}
+{% set growth = data.growth %}
+{% if current.rows %}
 ## Overview
 
-- Total size: `{{ data.total | filesizeformat(true) }}`
-- Best size: `{{ data.best | filesizeformat(true) }}`
-- Alt size: `{{ data.alt | filesizeformat(true) }}`
-- Realistic size: `{{ data.realistic | filesizeformat(true) }}`
+- Total size is `{{ current.total | filesizeformat(true) }}`, with average growth of `{{ growth.total | filesizeformat(true) }}/day`.
+- Best size is `{{ current.best | filesizeformat(true) }}`, with average growth of `{{ growth.best | filesizeformat(true) }}/day`.
+- Alt size is `{{ current.alt | filesizeformat(true) }}`, with average growth of `{{ growth.alt | filesizeformat(true) }}/day`.
+- Realistic size is `{{ current.realistic | filesizeformat(true) }}`, with average growth of `{{ growth.realistic | filesizeformat(true) }}/day`.
+{% else %}
+!!! success "No matching entries"
 
-For releases split into individual episodes, this selects only one torrent, so it can underestimate a complete download.
+    There are currently no entries with torrents to calculate size statistics.
+{% endif %}
 
+## Size Over Time
+
+<div class="size-history"></div>
+
+<script type="application/json" id="size-history-data">{{ data.to_uplot() }}</script>
+
+{% if current.rows %}
 ## Breakdown by Group
 
 The 49 largest groups are listed by total size, with equal sizes ordered alphabetically.
@@ -51,13 +65,9 @@ Any remaining groups are combined as Others.
 
 | Rank { data-sort-method="number" } | Group { data-sort-method="string" } | Total size { data-sort-method="number" } | Best size { data-sort-method="number" } | Total entries { data-sort-method="number" } |
 | ---: | --- | ---: | ---: | ---: |
-{% for row in data.rows %}
+{% for row in current.rows %}
 | {{ loop.index }} | {{ row.name | literal }} | {{ row.total | filesizeformat(true) }} { data-sort="{{ row.total }}" } | {{ row.best | filesizeformat(true) }} ({% if row.percentage is not none %}{{ "%.2f" | format(row.percentage) }}%{% else %}—{% endif %}) { data-sort="{{ row.best }}" } | {{ row.count }} (~{{ row.average | filesizeformat(true) }} each) { data-sort="{{ row.count }}" } |
 {% endfor %}
 
 </div>
-{% else %}
-!!! success "No matching entries"
-
-    There are currently no entries with torrents to calculate size statistics.
 {% endif %}
