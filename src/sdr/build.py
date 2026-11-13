@@ -4,9 +4,8 @@ from collections.abc import Mapping
 from pathlib import Path
 from shutil import copytree
 
-from sdr import history
-from sdr.pages import Page, discover
-from sdr.render import environment, render, slug
+from sdr import history, pages, render
+from sdr.pages import Page
 from sdr.snapshot import Snapshot
 
 
@@ -22,17 +21,17 @@ def generate(snapshot: Snapshot, history: Path) -> dict[str, str]:
         if not history.exists():
             raise FileNotFoundError(f"History directory does not exist: {history}")
         raise NotADirectoryError(f"History path is not a directory: {history}")
-    env = environment()
+    env = render.environment()
     documents: dict[str, str] = {}
-    for name, page in discover().items():
-        stem = slug(page.title)
+    for name, page in pages.discover().items():
+        stem = render.slug(page.title)
         if not stem:
             raise ValueError(f"Page title {page.title!r} must produce a nonempty URL slug")
         filename = "index.md" if name == "index" else f"{stem}.md"
         if filename in documents:
             raise ValueError(f"Page title {page.title!r} produces a duplicate output: {filename}")
         data = prepare(page, snapshot, history / f"{stem}.jsonl")
-        documents[filename] = render(env, name, title=page.title, captured=snapshot.captured, data=data)
+        documents[filename] = render.render(env, name, title=page.title, captured=snapshot.captured, data=data)
     return documents
 
 

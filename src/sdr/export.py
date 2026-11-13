@@ -5,9 +5,8 @@ from pathlib import Path
 import msgspec
 from atomicwriter import AtomicWriter
 
+from sdr import pages, render
 from sdr.history import Observation
-from sdr.pages import discover
-from sdr.render import slug
 from sdr.snapshot import Snapshot
 
 type SlugToObservationMap = Mapping[str, Observation[object]]
@@ -23,8 +22,8 @@ def export(snapshot: Snapshot, destination: Path) -> Path:
 def generate(snapshot: Snapshot) -> SlugToObservationMap:
     """Collect every page's observation without reading or writing history files."""
     observations: dict[str, Observation[object]] = {}
-    for page in discover().values():
-        stem = slug(page.title)
+    for page in pages.discover().values():
+        stem = render.slug(page.title)
         if not stem:
             raise ValueError(f"Page title {page.title!r} must produce a nonempty slug")
         filename = f"{stem}.jsonl"

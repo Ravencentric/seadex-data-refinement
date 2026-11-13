@@ -6,9 +6,7 @@ from time import perf_counter
 
 import msgspec
 
-from sdr import network
-from sdr.archive import pack, unpack
-from sdr.export import export
+from sdr import archive, export, network
 from sdr.snapshot import Snapshot
 
 REPO = "Ravencentric/seadex-data-refinement"
@@ -54,7 +52,7 @@ def fetch(destination: Path) -> Path:
         with TemporaryDirectory(dir=destination.parent) as staging:
             temporary = Path(staging) / FILENAME
             temporary.write_bytes(response.content)
-            restored = unpack(temporary, Path(staging) / "exports")
+            restored = archive.unpack(temporary, Path(staging) / "exports")
             if destination.exists():
                 destination.rmdir()
             restored.replace(destination)
@@ -66,15 +64,15 @@ def fetch(destination: Path) -> Path:
     return destination
 
 
-def publish(snapshot: Snapshot, source: Path, archive: Path) -> Path:
+def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
     """Append and publish the histories already acquired before a successful build."""
     if not source.is_dir():
         raise FileNotFoundError(f"Fetched history directory does not exist: {source}")
     if not any(source.glob("*.jsonl")):
         raise ValueError(f"Fetched page histories are missing: {source}")
 
-    export(snapshot, source)
-    pack(source, archive)
+    export.export(snapshot, source)
+    archive.pack(source, destination)
 
     subprocess.run(
         [
@@ -82,11 +80,11 @@ def publish(snapshot: Snapshot, source: Path, archive: Path) -> Path:
             "release",
             "upload",
             TAG,
-            str(archive),
+            str(destination),
             "--repo",
             REPO,
             "--clobber",
         ],
         check=True,
     )
-    return archive
+    return destination

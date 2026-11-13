@@ -6,9 +6,8 @@ from pathlib import Path
 from pyanilist import AniList, Media, MediaSort, MediaStatus, MediaType
 from seadex import EntryRecord, SeaDexEntry
 
-from sdr import network
-from sdr.dubs import dubs
-from sdr.snapshot import AniListId, Anime, Snapshot, save
+from sdr import dubs, network, snapshot
+from sdr.snapshot import AniListId, Anime, Snapshot
 
 
 def seadex() -> dict[AniListId, EntryRecord]:
@@ -67,7 +66,7 @@ def fetch(path: Path) -> Snapshot:
     captured = dt.datetime.now(dt.UTC)
     entries = seadex()
     media = anilist(entries.keys())
-    dubbed = dubs(entries.keys())
+    dubbed = dubs.dubs(entries.keys())
     absent = missing(entries.keys())
     joined: dict[AniListId, Anime] = {}
     for identity, entry in entries.items():
@@ -77,11 +76,11 @@ def fetch(path: Path) -> Snapshot:
             dubbed=dubbed[identity],
         )
 
-    snapshot = Snapshot(
+    result = Snapshot(
         version=3,
         captured=captured,
         entries=joined,
         missing=absent,
     )
-    save(snapshot, path)
-    return snapshot
+    snapshot.save(result, path)
+    return result

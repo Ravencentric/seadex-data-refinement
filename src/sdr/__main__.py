@@ -2,12 +2,7 @@ import argparse
 from pathlib import Path
 from typing import Literal, assert_never
 
-from sdr import github
-from sdr.archive import pack, unpack
-from sdr.build import build
-from sdr.export import export
-from sdr.fetch import fetch
-from sdr.snapshot import load
+from sdr import archive, build, export, fetch, github, snapshot
 
 
 # https://github.com/meta/pyrefly/issues/5554
@@ -85,22 +80,22 @@ def main() -> None:
     match arguments.command:
         case "fetch":
             github.fetch(arguments.history)
-            snapshot = fetch(arguments.snapshot)
-            print(f"Saved {len(snapshot.entries)} entries to {arguments.snapshot}")
+            captured = fetch.fetch(arguments.snapshot)
+            print(f"Saved {len(captured.entries)} entries to {arguments.snapshot}")
         case "build":
-            site = build(load(arguments.snapshot), arguments.history)
+            site = build.build(snapshot.load(arguments.snapshot), arguments.history)
             print(f"Built {site}")
         case "export":
-            destination = export(load(arguments.snapshot), arguments.destination)
+            destination = export.export(snapshot.load(arguments.snapshot), arguments.destination)
             print(f"Exported snapshot to {destination}")
         case "publish":
-            archive = github.publish(load(arguments.snapshot), arguments.history, arguments.archive)
-            print(f"Published page histories from {archive}")
+            destination = github.publish(snapshot.load(arguments.snapshot), arguments.history, arguments.archive)
+            print(f"Published page histories from {destination}")
         case "pack":
-            destination = pack(arguments.source, arguments.destination)
+            destination = archive.pack(arguments.source, arguments.destination)
             print(f"Packed page histories into {destination}")
         case "unpack":
-            destination = unpack(arguments.source, arguments.destination)
+            destination = archive.unpack(arguments.source, arguments.destination)
             print(f"Restored page histories to {destination}")
         case _:
             assert_never(arguments.command)
