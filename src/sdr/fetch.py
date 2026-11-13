@@ -1,5 +1,6 @@
 import datetime as dt
 from collections.abc import Iterable
+from concurrent.futures import ThreadPoolExecutor
 from itertools import islice
 from pathlib import Path
 
@@ -65,9 +66,15 @@ def fetch(path: Path) -> Snapshot:
     """Fetch a snapshot of SeaDex enriched with AniList metadata."""
     captured = dt.datetime.now(dt.UTC)
     entries = seadex()
-    media = anilist(entries.keys())
-    dubbed = dubs.dubs(entries.keys())
-    absent = missing(entries.keys())
+    # Three independent requests so we can try to get them done together.
+    # 2 workers because 3 ends up slowing us down due to rate limits kicking in.
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        metadata = executor.submit(anilist, entries.keys())
+        evidence = executor.submit(dubs.dubs, entries.keys())
+        popular = executor.submit(missing, entries.keys())
+        media = metadata.result()
+        dubbed = evidence.result()
+        absent = popular.result()
     joined: dict[AniListId, Anime] = {}
     for identity, entry in entries.items():
         joined[identity] = Anime(
