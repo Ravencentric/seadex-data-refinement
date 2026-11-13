@@ -3,6 +3,7 @@ from dataclasses import dataclass
 
 from seadex import TorrentRecord
 
+from sdr.history import Export, History
 from sdr.pages import Page
 from sdr.snapshot import Snapshot
 
@@ -138,7 +139,7 @@ def export(snapshot: Snapshot) -> Report:
     return Report(total=total, best=best, alt=total - best, realistic=realistic(snapshot), rows=groups)
 
 
-def prepare(snapshot: Snapshot) -> Report:
+def prepare(snapshot: Snapshot, _: History[Report]) -> Report:
     """Assemble the overall totals, download estimate, and ranked group breakdown."""
     report = export(snapshot)
     return Report(
@@ -150,5 +151,5 @@ def prepare(snapshot: Snapshot) -> Report:
     )
 
 
-def create() -> Page[Report]:
-    return Page(title="Size Statistics", prepare=prepare, export=export)
+def create() -> Page[Report, Report]:
+    return Page(title="Size Statistics", prepare=prepare, export=Export(type=Report, collect=export))

@@ -1,9 +1,10 @@
+from sdr.history import Export
 from sdr.pages import Page
-from sdr.shared import sort_by_popularity, summarize
+from sdr.shared import Summary, sort_by_popularity, summarize
 from sdr.snapshot import Anime, Snapshot
 
 
-def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
+def select(snapshot: Snapshot) -> tuple[Anime, ...]:
     """Find entries whose Alt releases lack the dual audio available in Best releases."""
     entries: list[Anime] = []
     for anime in snapshot.entries.values():
@@ -14,9 +15,9 @@ def prepare(snapshot: Snapshot) -> tuple[Anime, ...]:
     return sort_by_popularity(entries)
 
 
-def create() -> Page[tuple[Anime, ...]]:
+def create() -> Page[tuple[Anime, ...], tuple[Summary, ...]]:
     return Page(
         title="Alt Releases Without Dual Audio",
-        prepare=prepare,
-        export=lambda snapshot: summarize(prepare(snapshot)),
+        prepare=lambda snapshot, _: select(snapshot),
+        export=Export(type=tuple[Summary, ...], collect=lambda snapshot: summarize(select(snapshot))),
     )

@@ -2,6 +2,7 @@ from dataclasses import dataclass
 
 from pyanilist import Media, MediaFormat, MediaSeason
 
+from sdr.history import Export, History
 from sdr.pages import Page
 from sdr.snapshot import Snapshot
 
@@ -19,7 +20,7 @@ class MissingMedia:
     popularity: int
 
 
-def prepare(snapshot: Snapshot) -> tuple[Media, ...]:
+def prepare(snapshot: Snapshot, _: History[tuple[MissingMedia, ...]]) -> tuple[Media, ...]:
     """Return finished anime missing from SeaDex, ordered by popularity."""
     return snapshot.missing
 
@@ -51,5 +52,7 @@ def export(snapshot: Snapshot) -> tuple[MissingMedia, ...]:
     return tuple(entries)
 
 
-def create() -> Page[tuple[Media, ...]]:
-    return Page(title="Top 500 Missing Anime", prepare=prepare, export=export)
+def create() -> Page[tuple[Media, ...], tuple[MissingMedia, ...]]:
+    return Page(
+        title="Top 500 Missing Anime", prepare=prepare, export=Export(type=tuple[MissingMedia, ...], collect=export)
+    )

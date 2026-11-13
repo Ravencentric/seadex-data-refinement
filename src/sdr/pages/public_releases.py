@@ -5,6 +5,7 @@ from typing import Annotated, Final
 import msgspec
 from seadex import Tag
 
+from sdr.history import Export, History
 from sdr.pages import Page
 from sdr.shared import Summary, summarize
 from sdr.snapshot import Anime, Snapshot
@@ -20,7 +21,7 @@ class Report[T]:
     entries: tuple[T, ...]
 
 
-def prepare(snapshot: Snapshot) -> Report[Anime]:
+def select(snapshot: Snapshot) -> Report[Anime]:
     """Find recent public releases whose groups have no private release listed."""
     entries: list[Anime] = []
     for anime in snapshot.entries.values():
@@ -43,11 +44,18 @@ def prepare(snapshot: Snapshot) -> Report[Anime]:
     return Report(cutoff=CUTOFF, entries=ordered)
 
 
+def prepare(snapshot: Snapshot, _: History[Report[Summary]]) -> Report[Anime]:
+    """Prepare the selected entries and cutoff for rendering."""
+    return select(snapshot)
+
+
 def export(snapshot: Snapshot) -> Report[Summary]:
     """A callable that's supposed to produce page data suitable for serialization."""
-    report = prepare(snapshot)
+    report = select(snapshot)
     return Report(cutoff=report.cutoff, entries=summarize(report.entries))
 
 
-def create() -> Page[Report[Anime]]:
-    return Page(title="Releases Only on Public Trackers", prepare=prepare, export=export)
+def create() -> Page[Report[Anime], Report[Summary]]:
+    return Page(
+        title="Releases Only on Public Trackers", prepare=prepare, export=Export(type=Report[Summary], collect=export)
+    )
