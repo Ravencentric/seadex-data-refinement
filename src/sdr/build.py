@@ -53,6 +53,7 @@ def build(snapshot: Snapshot, history: Path) -> Path:
     documents = generate(snapshot, history)
     write(documents, project / "build" / "docs")
     copytree(project / "javascripts", project / "build" / "docs" / "javascripts", dirs_exist_ok=True)
+    copytree(project / "stylesheets", project / "build" / "docs" / "stylesheets", dirs_exist_ok=True)
     subprocess.run(
         [sys.executable, "-m", "zensical", "build", "--strict", "--config-file", str(project / "zensical.toml")],
         cwd=project,
