@@ -56,6 +56,7 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
     if not any(source.glob("*.jsonl")):
         raise ValueError(f"Fetched page histories are missing: {source}")
 
+    commit = subprocess.run(["git", "rev-parse", "HEAD"], check=True, capture_output=True, text=True).stdout.strip()
     export.export(snapshot, source)
     archive.pack(source, destination)
 
@@ -63,7 +64,7 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
     temptag = f"{HISTORY}-{uuid4().hex}"
     command = ["gh", "release", "--repo", REPO]
     # The CLI uploads assets before publishing the new release. Keep the old
-    # release until that succeeds, then reuse its Git tag without moving it.
+    # release until that succeeds, then recreate its rolling tag at this commit.
     subprocess.run(
         [
             *command,
@@ -71,7 +72,7 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
             temptag,
             str(destination),
             "--target",
-            "main",
+            commit,
             "--title",
             "Page history",
             "--notes",
@@ -79,9 +80,9 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
         ],
         check=True,
     )
-    subprocess.run([*command, "delete", HISTORY, "--yes"], check=True)
+    subprocess.run([*command, "delete", HISTORY, "--yes", "--cleanup-tag"], check=True)
     # If retagging fails, the uploaded release remains available on its temporary tag.
-    subprocess.run([*command, "edit", temptag, "--tag", HISTORY, "--verify-tag"], check=True)
+    subprocess.run([*command, "edit", temptag, "--tag", HISTORY, "--target", commit], check=True)
     subprocess.run(["gh", "api", "--method", "DELETE", f"repos/{REPO}/git/refs/tags/{temptag}"], check=True)
     print(f"Published page history ({perf_counter() - started:.2f}s)", flush=True)
     return destination
