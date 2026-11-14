@@ -5,28 +5,17 @@ from typing import Literal, assert_never
 
 from sdr import archive, build, export, fetch, github, snapshot
 
+SNAPSHOT = Path("snapshot.json")
+HISTORY = Path("history")
+ARCHIVE = Path("archives") / github.FILENAME
+
 
 # https://github.com/meta/pyrefly/issues/5554
 class Arguments(argparse.Namespace):
     command: Literal["fetch", "build", "export", "publish", "pack", "unpack"]  # pyrefly: ignore[uninitialized-instance-variable]
-    snapshot: Path  # pyrefly: ignore[uninitialized-instance-variable]
-    destination: Path  # pyrefly: ignore[uninitialized-instance-variable]
-    history: Path  # pyrefly: ignore[uninitialized-instance-variable]
-    archive: Path  # pyrefly: ignore[uninitialized-instance-variable]
-    source: Path  # pyrefly: ignore[uninitialized-instance-variable]
 
 
 def parser() -> argparse.ArgumentParser:
-    archive = Path("archives") / github.FILENAME
-    snapshot = argparse.ArgumentParser(add_help=False)
-    snapshot.add_argument(
-        "--snapshot", type=Path, default=Path("snapshot.json"), help="Snapshot file (default: %(default)s)"
-    )
-    histories = argparse.ArgumentParser(add_help=False)
-    histories.add_argument(
-        "--history", type=Path, default=Path("history"), help="Page history directory (default: %(default)s)"
-    )
-
     parser = argparse.ArgumentParser(
         prog="sdr",
         description="Fetch source data, build the SDR site, or export, archive, and publish page history.",
@@ -34,45 +23,22 @@ def parser() -> argparse.ArgumentParser:
     commands = parser.add_subparsers(dest="command", required=True)
 
     description = "Fetch page history and save a snapshot of SeaDex and AniList data."
-    commands.add_parser("fetch", parents=[snapshot, histories], help=description, description=description)
+    commands.add_parser("fetch", help=description, description=description)
 
     description = "Build the site from a saved snapshot without fetching source data."
-    commands.add_parser("build", parents=[snapshot, histories], help=description, description=description)
+    commands.add_parser("build", help=description, description=description)
 
     description = "Append page observations from a saved snapshot to history."
-    command = commands.add_parser("export", parents=[snapshot], help=description, description=description)
-    command.add_argument(
-        "--destination", type=Path, default=Path("history"), help="Page history directory (default: %(default)s)"
-    )
+    commands.add_parser("export", help=description, description=description)
 
     description = "Append page observations from a saved snapshot to fetched history and publish its archive."
-    command = commands.add_parser("publish", parents=[snapshot, histories], help=description, description=description)
-    command.add_argument("--archive", type=Path, default=archive, help="History archive file (default: %(default)s)")
+    commands.add_parser("publish", help=description, description=description)
 
     description = "Package page history into one .tar.zst archive."
-    command = commands.add_parser("pack", help=description, description=description)
-    command.add_argument(
-        "source", type=Path, nargs="?", default=Path("history"), help="Page history directory (default: %(default)s)"
-    )
-    command.add_argument(
-        "--destination",
-        type=Path,
-        default=archive,
-        help="Archive file (default: %(default)s)",
-    )
+    commands.add_parser("pack", help=description, description=description)
 
     description = "Unpack the .tar.zst archive into an empty page history directory."
-    command = commands.add_parser("unpack", help=description, description=description)
-    command.add_argument(
-        "source",
-        type=Path,
-        nargs="?",
-        default=archive,
-        help="Archive file (default: %(default)s)",
-    )
-    command.add_argument(
-        "--destination", type=Path, default=Path("history"), help="Page history directory (default: %(default)s)"
-    )
+    commands.add_parser("unpack", help=description, description=description)
     return parser
 
 
@@ -81,28 +47,28 @@ def main() -> None:
     match arguments.command:
         case "fetch":
             # Fail before starting source requests if local history cannot be replaced.
-            if arguments.history.exists() and any(arguments.history.iterdir()):
-                raise FileExistsError(f"History destination must be empty: {arguments.history}")
+            if HISTORY.exists() and any(HISTORY.iterdir()):
+                raise FileExistsError(f"History destination must be empty: {HISTORY}")
             with ThreadPoolExecutor(max_workers=1) as executor:
-                histories = executor.submit(github.fetch, arguments.history)
+                histories = executor.submit(github.fetch, HISTORY)
                 captured = fetch.fetch()
                 histories.result()
-            snapshot.save(captured, arguments.snapshot)
-            print(f"Saved {len(captured.entries)} entries to {arguments.snapshot}")
+            snapshot.save(captured, SNAPSHOT)
+            print(f"Saved {len(captured.entries)} entries to {SNAPSHOT}")
         case "build":
-            site = build.build(snapshot.load(arguments.snapshot), arguments.history)
+            site = build.build(snapshot.load(SNAPSHOT), HISTORY)
             print(f"Built {site}")
         case "export":
-            destination = export.export(snapshot.load(arguments.snapshot), arguments.destination)
+            destination = export.export(snapshot.load(SNAPSHOT), HISTORY)
             print(f"Exported page observations to history in {destination}")
         case "publish":
-            destination = github.publish(snapshot.load(arguments.snapshot), arguments.history, arguments.archive)
+            destination = github.publish(snapshot.load(SNAPSHOT), HISTORY, ARCHIVE)
             print(f"Published page history archive at {destination}")
         case "pack":
-            destination = archive.pack(arguments.source, arguments.destination)
+            destination = archive.pack(HISTORY, ARCHIVE)
             print(f"Packed page histories into {destination}")
         case "unpack":
-            destination = archive.unpack(arguments.source, arguments.destination)
+            destination = archive.unpack(ARCHIVE, HISTORY)
             print(f"Restored page histories to {destination}")
         case _:
             assert_never(arguments.command)
