@@ -1,7 +1,10 @@
 import tarfile
-from compression.zstd import CompressionParameter
+from compression.zstd import CompressionParameter, DecompressionParameter
 from pathlib import Path
 from tempfile import TemporaryDirectory
+
+# A 1 GiB window matches repeated observations across days. Readers must allow it too.
+WINDOW = 30
 
 
 def pack(source: Path, destination: Path) -> Path:
@@ -22,7 +25,7 @@ def pack(source: Path, destination: Path) -> Path:
             mode="w:zst",
             options={
                 CompressionParameter.compression_level: 10,
-                CompressionParameter.window_log: 30,  # 1 << 30 = 1 GiB to match repeated observations across days.
+                CompressionParameter.window_log: WINDOW,
             },
         ) as archive:
             for path in histories:
@@ -33,7 +36,7 @@ def pack(source: Path, destination: Path) -> Path:
 
 def unpack(source: Path, destination: Path) -> Path:
     """Restore archived page histories into an empty directory."""
-    with tarfile.open(source, mode="r:zst") as archive:
+    with tarfile.open(source, mode="r:zst", options={DecompressionParameter.window_log_max: WINDOW}) as archive:
         destination.mkdir(parents=True, exist_ok=True)
         if any(destination.iterdir()):
             raise FileExistsError(f"History destination must be empty: {destination}")
