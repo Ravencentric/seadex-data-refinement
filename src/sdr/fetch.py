@@ -3,6 +3,7 @@ from collections.abc import Iterable
 from concurrent.futures import ThreadPoolExecutor
 from itertools import islice
 from pathlib import Path
+from time import perf_counter
 
 from pyanilist import AniList, Media, MediaSort, MediaStatus, MediaType
 from seadex import EntryRecord, SeaDexEntry
@@ -13,6 +14,7 @@ from sdr.snapshot import AniListId, Anime, Snapshot
 
 def seadex() -> dict[AniListId, EntryRecord]:
     """Get seadex entries."""
+    started = perf_counter()
     http = network.Client()
     records: dict[AniListId, EntryRecord] = {}
     print("Fetching SeaDex entries...", flush=True)
@@ -24,12 +26,16 @@ def seadex() -> dict[AniListId, EntryRecord]:
             records[identity] = record
 
     assert records, "SeaDex returned no entries"
-    print(f"Fetched {len(records)} SeaDex entries in {http.requests} HTTP requests", flush=True)
+    print(
+        f"Fetched {len(records)} SeaDex entries in {http.requests} HTTP requests ({perf_counter() - started:.2f}s)",
+        flush=True,
+    )
     return records
 
 
 def anilist(identities: Iterable[AniListId]) -> dict[AniListId, Media]:
     """Get the AniList data for every given AniList ID."""
+    started = perf_counter()
     http = network.Client()
     records: dict[AniListId, Media] = {}
     print("Fetching AniList metadata...", flush=True)
@@ -40,12 +46,16 @@ def anilist(identities: Iterable[AniListId]) -> dict[AniListId, Media]:
             assert identity not in records, f"Duplicate AniList entry {identity}"
             records[identity] = record
 
-    print(f"Fetched {len(records)} AniList entries in {http.requests} HTTP requests", flush=True)
+    print(
+        f"Fetched {len(records)} AniList entries in {http.requests} HTTP requests ({perf_counter() - started:.2f}s)",
+        flush=True,
+    )
     return records
 
 
 def missing(identities: Iterable[AniListId]) -> tuple[Media, ...]:
     """Get the 500 most popular finished anime absent from SeaDex."""
+    started = perf_counter()
     http = network.Client()
     print("Fetching AniList titles missing from SeaDex...", flush=True)
 
@@ -58,7 +68,10 @@ def missing(identities: Iterable[AniListId]) -> tuple[Media, ...]:
         )
         records = tuple(islice(media, 500))
 
-    print(f"Fetched {len(records)} missing titles in {http.requests} HTTP requests", flush=True)
+    print(
+        f"Fetched {len(records)} missing titles in {http.requests} HTTP requests ({perf_counter() - started:.2f}s)",
+        flush=True,
+    )
     return records
 
 

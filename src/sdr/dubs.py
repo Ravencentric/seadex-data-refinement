@@ -1,5 +1,6 @@
 from collections.abc import Iterable
 from itertools import batched
+from time import perf_counter
 
 import msgspec
 
@@ -119,6 +120,7 @@ def request(http: network.Client, identities: tuple[AniListId, ...]) -> tuple[Me
 
 def dubs(identities: Iterable[AniListId]) -> dict[AniListId, bool]:
     """Check English credits among each anime's popular characters."""
+    started = perf_counter()
     ordered = sorted(identities)
     total = len(ordered)
     records: dict[AniListId, bool] = {}
@@ -128,6 +130,10 @@ def dubs(identities: Iterable[AniListId]) -> dict[AniListId, bool]:
             for media in request(http, batch):
                 records[media.id] = is_dubbed(media.characters)
             print(f"Dub checks: {len(records)} of {total} anime checked", flush=True)
-        print(f"Fetched dub evidence for {len(records)} AniList entries in {http.requests} HTTP requests", flush=True)
+        print(
+            f"Fetched dub evidence for {len(records)} AniList entries in {http.requests} HTTP requests "
+            f"({perf_counter() - started:.2f}s)",
+            flush=True,
+        )
 
     return records
