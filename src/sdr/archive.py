@@ -21,8 +21,8 @@ def pack(source: Path, destination: Path) -> Path:
             temporary,
             mode="w:zst",
             options={
-                CompressionParameter.compression_level: 9,
-                CompressionParameter.window_log: 27,  # 128 MiB to match repeated observations across days.
+                CompressionParameter.compression_level: 10,
+                CompressionParameter.window_log: 30,  # 1 << 30 = 1 GiB to match repeated observations across days.
             },
         ) as archive:
             for path in histories:
