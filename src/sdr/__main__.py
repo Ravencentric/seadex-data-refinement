@@ -1,7 +1,6 @@
 import argparse
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from typing import Literal, assert_never
 
 from sdr import archive, build, export, fetch, github, snapshot
 
@@ -9,10 +8,14 @@ SNAPSHOT = Path("snapshot.json")
 HISTORY = Path("history")
 ARCHIVE = Path("archives") / github.FILENAME
 
-
-# https://github.com/meta/pyrefly/issues/5554
-class Arguments(argparse.Namespace):
-    command: Literal["fetch", "build", "export", "publish", "pack", "unpack"]  # pyrefly: ignore[uninitialized-instance-variable]
+COMMANDS = {
+    "fetch": "Fetch page history and save a snapshot of SeaDex and AniList data.",
+    "build": "Build the site from a saved snapshot without fetching source data.",
+    "export": "Append page observations from a saved snapshot to history.",
+    "publish": "Append page observations from a saved snapshot to fetched history and publish its archive.",
+    "pack": "Package page history into one .tar.zst archive.",
+    "unpack": "Unpack the .tar.zst archive into an empty page history directory.",
+}
 
 
 def parser() -> argparse.ArgumentParser:
@@ -22,28 +25,13 @@ def parser() -> argparse.ArgumentParser:
     )
     commands = parser.add_subparsers(dest="command", required=True)
 
-    description = "Fetch page history and save a snapshot of SeaDex and AniList data."
-    commands.add_parser("fetch", help=description, description=description)
-
-    description = "Build the site from a saved snapshot without fetching source data."
-    commands.add_parser("build", help=description, description=description)
-
-    description = "Append page observations from a saved snapshot to history."
-    commands.add_parser("export", help=description, description=description)
-
-    description = "Append page observations from a saved snapshot to fetched history and publish its archive."
-    commands.add_parser("publish", help=description, description=description)
-
-    description = "Package page history into one .tar.zst archive."
-    commands.add_parser("pack", help=description, description=description)
-
-    description = "Unpack the .tar.zst archive into an empty page history directory."
-    commands.add_parser("unpack", help=description, description=description)
+    for name, description in COMMANDS.items():
+        commands.add_parser(name, help=description, description=description)
     return parser
 
 
 def main() -> None:
-    arguments = parser().parse_args(namespace=Arguments())
+    arguments = parser().parse_args()
     match arguments.command:
         case "fetch":
             # Fail before starting source requests if local history cannot be replaced.
@@ -55,23 +43,32 @@ def main() -> None:
                 histories.result()
             snapshot.save(captured, SNAPSHOT)
             print(f"Saved {len(captured.entries)} entries to {SNAPSHOT}")
+
         case "build":
-            site = build.build(snapshot.load(SNAPSHOT), HISTORY)
+            _snapshot = snapshot.load(SNAPSHOT)
+            site = build.build(_snapshot, HISTORY)
             print(f"Built {site}")
+
         case "export":
-            destination = export.export(snapshot.load(SNAPSHOT), HISTORY)
+            _snapshot = snapshot.load(SNAPSHOT)
+            destination = export.export(_snapshot, HISTORY)
             print(f"Exported page observations to history in {destination}")
+
         case "publish":
-            destination = github.publish(snapshot.load(SNAPSHOT), HISTORY, ARCHIVE)
+            _snapshot = snapshot.load(SNAPSHOT)
+            destination = github.publish(_snapshot, HISTORY, ARCHIVE)
             print(f"Published page history archive at {destination}")
+
         case "pack":
             destination = archive.pack(HISTORY, ARCHIVE)
             print(f"Packed page histories into {destination}")
+
         case "unpack":
             destination = archive.unpack(ARCHIVE, HISTORY)
             print(f"Restored page histories to {destination}")
+
         case _:
-            assert_never(arguments.command)
+            raise ValueError(f"Unknown command: {arguments.command!r}")
 
 
 if __name__ == "__main__":
