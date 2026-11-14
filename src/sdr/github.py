@@ -74,7 +74,7 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
             "--target",
             commit,
             "--title",
-            "SeaDex Data Refinement History",
+            "History",
             "--notes",
             "Page history, updated automatically.\n",
         ],
