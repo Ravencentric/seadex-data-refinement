@@ -1,4 +1,5 @@
 import argparse
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Literal, assert_never
 
@@ -79,8 +80,14 @@ def main() -> None:
     arguments = parser().parse_args(namespace=Arguments())
     match arguments.command:
         case "fetch":
-            github.fetch(arguments.history)
-            captured = fetch.fetch(arguments.snapshot)
+            # Fail before starting source requests if local history cannot be replaced.
+            if arguments.history.exists() and any(arguments.history.iterdir()):
+                raise FileExistsError(f"History destination must be empty: {arguments.history}")
+            with ThreadPoolExecutor(max_workers=1) as executor:
+                histories = executor.submit(github.fetch, arguments.history)
+                captured = fetch.fetch()
+                histories.result()
+            snapshot.save(captured, arguments.snapshot)
             print(f"Saved {len(captured.entries)} entries to {arguments.snapshot}")
         case "build":
             site = build.build(snapshot.load(arguments.snapshot), arguments.history)

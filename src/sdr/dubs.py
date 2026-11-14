@@ -21,6 +21,18 @@ query Dubs($ids: [Int!]!) {
   page4: Page(page: 4, perPage: 50) {
     ...Dubs
   }
+  page5: Page(page: 5, perPage: 50) {
+    ...Dubs
+  }
+  page6: Page(page: 6, perPage: 50) {
+    ...Dubs
+  }
+  page7: Page(page: 7, perPage: 50) {
+    ...Dubs
+  }
+  page8: Page(page: 8, perPage: 50) {
+    ...Dubs
+  }
 }
 
 fragment Dubs on Page {
@@ -74,6 +86,10 @@ class Data(msgspec.Struct, frozen=True):
     page2: Page
     page3: Page
     page4: Page
+    page5: Page
+    page6: Page
+    page7: Page
+    page8: Page
 
 
 class Error(msgspec.Struct, frozen=True):
@@ -97,7 +113,7 @@ def is_dubbed(characters: Connection) -> bool:
 
 
 def request(http: network.Client, identities: tuple[AniListId, ...]) -> tuple[Media, ...]:
-    """Check the most popular characters for up to 200 anime."""
+    """Check the most popular characters for up to 400 anime."""
     response = http.post(
         "https://graphql.anilist.co",
         json={
@@ -111,7 +127,16 @@ def request(http: network.Client, identities: tuple[AniListId, ...]) -> tuple[Me
     if result.data is None:
         raise ValueError("AniList returned no dub data")
     data = result.data
-    media = data.page1.media + data.page2.media + data.page3.media + data.page4.media
+    media = (
+        data.page1.media
+        + data.page2.media
+        + data.page3.media
+        + data.page4.media
+        + data.page5.media
+        + data.page6.media
+        + data.page7.media
+        + data.page8.media
+    )
     received = [record.id for record in media]
     if len(received) != len(identities) or set(received) != set(identities):
         raise ValueError(f"AniList dub query returned IDs {received}, expected {list(identities)}")
@@ -126,7 +151,7 @@ def dubs(identities: Iterable[AniListId]) -> dict[AniListId, bool]:
     records: dict[AniListId, bool] = {}
     print("Fetching AniList dub evidence...", flush=True)
     with network.Client() as http:
-        for batch in batched(ordered, 200, strict=False):
+        for batch in batched(ordered, 400, strict=False):
             for media in request(http, batch):
                 records[media.id] = is_dubbed(media.characters)
             print(f"Dub checks: {len(records)} of {total} anime checked", flush=True)

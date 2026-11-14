@@ -2,13 +2,12 @@ import datetime as dt
 from collections.abc import Iterable
 from concurrent.futures import ThreadPoolExecutor
 from itertools import islice
-from pathlib import Path
 from time import perf_counter
 
 from pyanilist import AniList, Media, MediaSort, MediaStatus, MediaType
 from seadex import EntryRecord, SeaDexEntry
 
-from sdr import dubs, network, snapshot
+from sdr import dubs, network
 from sdr.snapshot import AniListId, Anime, Snapshot
 
 
@@ -75,12 +74,11 @@ def missing(identities: Iterable[AniListId]) -> tuple[Media, ...]:
     return records
 
 
-def fetch(path: Path) -> Snapshot:
+def fetch() -> Snapshot:
     """Fetch a snapshot of SeaDex enriched with AniList metadata."""
     captured = dt.datetime.now(dt.UTC)
     entries = seadex()
-    # Three independent requests so we can try to get them done together.
-    # 2 workers because 3 ends up slowing us down due to rate limits kicking in.
+    # These independent queries share AniList's request limit, so use two workers.
     with ThreadPoolExecutor(max_workers=2) as executor:
         metadata = executor.submit(anilist, entries.keys())
         evidence = executor.submit(dubs.dubs, entries.keys())
@@ -102,5 +100,4 @@ def fetch(path: Path) -> Snapshot:
         entries=joined,
         missing=absent,
     )
-    snapshot.save(result, path)
     return result
