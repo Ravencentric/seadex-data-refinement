@@ -14,5 +14,6 @@ site/
 .cache/
 .ruff_cache/
 /snapshot.json
+/history/
 /exports/
 /archives/

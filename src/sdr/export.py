@@ -13,7 +13,7 @@ type SlugToObservationMap = Mapping[str, Observation[object]]
 
 
 def export(snapshot: Snapshot, destination: Path) -> Path:
-    """Append offline page histories, skipping an already exported capture time."""
+    """Append page observations from a saved snapshot to history, skipping an already exported capture time."""
     observations = generate(snapshot)
     write(observations, destination)
     return destination

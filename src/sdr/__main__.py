@@ -24,7 +24,7 @@ def parser() -> argparse.ArgumentParser:
     )
     histories = argparse.ArgumentParser(add_help=False)
     histories.add_argument(
-        "--history", type=Path, default=Path("exports"), help="Page history directory (default: %(default)s)"
+        "--history", type=Path, default=Path("history"), help="Page history directory (default: %(default)s)"
     )
 
     parser = argparse.ArgumentParser(
@@ -39,20 +39,20 @@ def parser() -> argparse.ArgumentParser:
     description = "Build the site from a saved snapshot without fetching source data."
     commands.add_parser("build", parents=[snapshot, histories], help=description, description=description)
 
-    description = "Export the reports as JSONL files."
+    description = "Append page observations from a saved snapshot to history."
     command = commands.add_parser("export", parents=[snapshot], help=description, description=description)
     command.add_argument(
-        "--destination", type=Path, default=Path("exports"), help="Export directory (default: %(default)s)"
+        "--destination", type=Path, default=Path("history"), help="Page history directory (default: %(default)s)"
     )
 
-    description = "Append the snapshot to fetched page history and publish its archive."
+    description = "Append page observations from a saved snapshot to fetched history and publish its archive."
     command = commands.add_parser("publish", parents=[snapshot, histories], help=description, description=description)
     command.add_argument("--archive", type=Path, default=archive, help="History archive file (default: %(default)s)")
 
-    description = "Package the exported JSONL files into one .tar.zst archive."
+    description = "Package page history into one .tar.zst archive."
     command = commands.add_parser("pack", help=description, description=description)
     command.add_argument(
-        "source", type=Path, nargs="?", default=Path("exports"), help="Export directory (default: %(default)s)"
+        "source", type=Path, nargs="?", default=Path("history"), help="Page history directory (default: %(default)s)"
     )
     command.add_argument(
         "--destination",
@@ -61,7 +61,7 @@ def parser() -> argparse.ArgumentParser:
         help="Archive file (default: %(default)s)",
     )
 
-    description = "Unpack the .tar.zst archive into an empty export directory."
+    description = "Unpack the .tar.zst archive into an empty page history directory."
     command = commands.add_parser("unpack", help=description, description=description)
     command.add_argument(
         "source",
@@ -71,7 +71,7 @@ def parser() -> argparse.ArgumentParser:
         help="Archive file (default: %(default)s)",
     )
     command.add_argument(
-        "--destination", type=Path, default=Path("exports"), help="Export directory (default: %(default)s)"
+        "--destination", type=Path, default=Path("history"), help="Page history directory (default: %(default)s)"
     )
     return parser
 
@@ -94,10 +94,10 @@ def main() -> None:
             print(f"Built {site}")
         case "export":
             destination = export.export(snapshot.load(arguments.snapshot), arguments.destination)
-            print(f"Exported snapshot to {destination}")
+            print(f"Exported page observations to history in {destination}")
         case "publish":
             destination = github.publish(snapshot.load(arguments.snapshot), arguments.history, arguments.archive)
-            print(f"Published page histories from {destination}")
+            print(f"Published page history archive at {destination}")
         case "pack":
             destination = archive.pack(arguments.source, arguments.destination)
             print(f"Packed page histories into {destination}")

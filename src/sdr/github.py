@@ -38,7 +38,7 @@ def fetch(destination: Path) -> Path:
             ],
             check=True,
         )
-        restored = archive.unpack(temporary, Path(staging) / "exports")
+        restored = archive.unpack(temporary, Path(staging) / "history")
         if destination.exists():
             destination.rmdir()
         restored.replace(destination)
@@ -50,7 +50,7 @@ def fetch(destination: Path) -> Path:
 
 
 def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
-    """Append built histories and replace their release after uploading a new archive."""
+    """Append page observations to history and replace its release after uploading a new archive."""
     if not source.is_dir():
         raise FileNotFoundError(f"Fetched history directory does not exist: {source}")
     if not any(source.glob("*.jsonl")):
@@ -74,9 +74,9 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
             "--target",
             commit,
             "--title",
-            "Page history",
+            "SeaDex Data Refinement History",
             "--notes",
-            "Page history archive, updated automatically.\n",
+            "Page history, updated automatically.\n",
         ],
         check=True,
     )
