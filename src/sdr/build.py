@@ -10,7 +10,7 @@ from sdr.snapshot import Snapshot
 
 
 def prepare[P, E](page: Page[P, E], snapshot: Snapshot, source: Path) -> P:
-    """Prepare a page with history decoded using its export schema."""
+    """Prepare a page from a snapshot and its saved history."""
     observations = history.load(source, page.export.type)
     return page.prepare(snapshot, observations)
 

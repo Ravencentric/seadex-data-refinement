@@ -1,4 +1,4 @@
-from collections.abc import Callable
+from collections.abc import Callable, Iterable, Iterator
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -17,7 +17,7 @@ class Observation[T](msgspec.Struct, frozen=True, kw_only=True, forbid_unknown_f
     data: T
 
 
-type History[E] = tuple[Observation[E], ...]
+type History[E] = Iterable[Observation[E]]
 
 
 @dataclass(frozen=True, slots=True, kw_only=True)
@@ -31,16 +31,15 @@ class Export[E]:
         return self.collect(snapshot)
 
 
-def load[E](path: Path, schema: type[E]) -> History[E]:
-    """Decode all saved observations using the schema type, preserving order."""
+def load[E](path: Path, schema: type[E]) -> Iterator[Observation[E]]:
+    """Stream saved observations in capture order, validating each as it is read."""
 
     try:
         path.stat()
     except FileNotFoundError:
         # New page, no previous history
-        return ()
+        return
 
-    observations: list[Observation[E]] = []
     previous: datetime | None = None
 
     with open(path, "rb") as stream:
@@ -60,8 +59,7 @@ def load[E](path: Path, schema: type[E]) -> History[E]:
                 raise ValueError(f"{location}: capture times must be strictly increasing")
 
             previous = raw.captured
-            observations.append(Observation(version=raw.version, captured=raw.captured, data=data))
+            yield Observation(version=raw.version, captured=raw.captured, data=data)
 
     if previous is None:
         raise ValueError(f"{path} contains no observations")
-    return tuple(observations)

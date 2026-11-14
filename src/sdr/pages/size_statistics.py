@@ -5,7 +5,7 @@ from datetime import timedelta
 import msgspec
 from seadex import TorrentRecord
 
-from sdr.history import Export, History
+from sdr.history import Export, History, Observation
 from sdr.pages import Page
 from sdr.snapshot import Snapshot
 
@@ -48,7 +48,7 @@ class Timeline:
     """The ranked report and complete history used for the chart and growth rates."""
 
     current: Report
-    history: History[Report]
+    history: tuple[Observation[Report], ...]
 
     def to_uplot(self) -> str:
         """
@@ -201,7 +201,9 @@ def export(snapshot: Snapshot) -> Report:
 def prepare(snapshot: Snapshot, history: History[Report]) -> Timeline:
     """Rank the current report and use saved observations as supplied."""
     report = export(snapshot)
-    return Timeline(current=replace(report, rows=rank(report.rows)), history=history)
+    # The chart and growth rates make several passes over the observations.
+    observations = tuple(history)
+    return Timeline(current=replace(report, rows=rank(report.rows)), history=observations)
 
 
 def create() -> Page[Timeline, Report]:
