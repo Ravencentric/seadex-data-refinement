@@ -6,6 +6,8 @@ decisions and their rationale with the relevant implementation.
 
 ## Workflow
 
+- Push only with explicit approval for the current change. Approval for an earlier
+  push does not authorize later pushes.
 - Use `uv`, the existing lockfile, and the project's configured tooling.
   Discuss additional dependencies before installing them.
 - `uv run sdr fetch` acquires data; `uv run sdr build` builds it;
@@ -40,8 +42,11 @@ changing reports, and check selections against their criteria using real data.
 - Keep strong types and reuse existing records; avoid unnecessary wrappers.
 - Fail clearly on broken invariants. Handle nullable source data explicitly
   rather than concealing missing required data with defaults.
-- Docstrings explain purpose and contracts. Update only those affected by the change.
-  Preserve useful reasoning comments.
+- Docstrings explain purpose and contracts without depending on implementation
+  details. Changing the implementation without changing the contract should not
+  require a docstring update. Avoid repeating what the signature makes obvious.
+  Update only docstrings affected by a contract change. Preserve useful reasoning
+  comments.
 - Preserve source text and escape it appropriately for its output format.
 - Simplify heuristics around realistic cases. Check actual results before claiming
   accuracy is preserved.
