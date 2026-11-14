@@ -12,6 +12,26 @@ HISTORY = "history"
 FILENAME = "seadex-data-refinement-history.tar.zst"
 
 
+def format_size(size: int) -> str:
+    value = float(size)
+    for unit in ("B", "KB", "MB", "GB"):
+        if value < 1000:
+            return f"{value:.1f} {unit}"
+        value /= 1000
+    return f"{value:.1f} TB"
+
+
+def filetree(source: Path) -> str:
+    nodes = [source.name]
+    files = [p for p in source.iterdir() if p.suffix == ".jsonl"]
+
+    for i, file in enumerate(files):
+        branch = "└──" if i == len(files) - 1 else "├──"
+        nodes.append(f"{branch} {file.name} ({format_size(file.stat().st_size)})")
+
+    return "\n".join(nodes)
+
+
 def fetch(destination: Path) -> Path:
     """Download and unpack page history into an empty destination, discarding the archive."""
     if destination.exists() and any(destination.iterdir()):
@@ -57,8 +77,22 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
         raise ValueError(f"Fetched page histories are missing: {source}")
 
     commit = subprocess.run(["git", "rev-parse", "HEAD"], check=True, capture_output=True, text=True).stdout.strip()
+
     export.export(snapshot, source)
     archive.pack(source, destination)
+
+    expanded = sum(path.stat().st_size for path in source.iterdir() if path.suffix == ".jsonl")
+    compressed = destination.stat().st_size
+
+    notes = "\n".join(
+        (
+            "Historical data collected by every page, updated automatically.",
+            f"Note that this {format_size(compressed)} archive expands to approximately {format_size(expanded)} of JSONL files.",
+            "```",
+            filetree(source),
+            "```",
+        )
+    )
 
     started = perf_counter()
     temptag = f"{HISTORY}-{uuid4().hex}"
@@ -76,7 +110,7 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
             "--title",
             "History",
             "--notes",
-            "Page history, updated automatically.\n",
+            notes,
         ],
         check=True,
     )
