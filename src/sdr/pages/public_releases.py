@@ -10,7 +10,7 @@ from sdr.pages import Page
 from sdr.shared import Summary, summarize
 from sdr.snapshot import Anime, Snapshot
 
-CUTOFF: Final[datetime] = datetime(2026, 11, 13, tzinfo=UTC)
+CUTOFF: Final[datetime] = datetime(2026, 11, 20, tzinfo=UTC)
 
 
 @dataclass(frozen=True, slots=True, kw_only=True)
