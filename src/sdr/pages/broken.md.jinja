@@ -4,10 +4,29 @@ Entries with at least one release tagged `Broken`.
 
 {{ data | length }} {{ "entry" if data | length == 1 else "entries" }} · Last updated: {{ captured.strftime("%d %b %Y, %H:%M %Z") }}
 
-{% if data %}
-{% include "table.md.jinja" %}
+{% for row in data %}
+{% set anime = row.anime %}
+## {{ anime.title | literal }} { #{{ anime.title | slug }}-{{ anime.anilist.id }} }
+
+{% if anime.year is not none %}
+{{ anime.year }} · {% endif %}Updated {{ anime.seadex.updated_at.strftime("%d %b %Y") }} · [AniList]({{ anime.anilist.site_url }}) · [SeaDex]({{ anime.seadex.url }})
+
+!!! abstract "Broken"
+
+    {{ row.groups | map("literal") | join(", ") }}
+
+{% if anime.seadex.notes | trim %}
+!!! note "Notes"
+
+    <span>{{ anime.seadex.notes.splitlines() | map("literal") | join("<br>") | replace(":", "&#58;") }}</span>
+
+{% endif %}
+{% if not loop.last %}
+---
+
+{% endif %}
 {% else %}
 !!! success "No matching entries"
 
     There are currently no entries with releases marked as broken.
-{% endif %}
+{% endfor %}
