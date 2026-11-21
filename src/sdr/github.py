@@ -1,4 +1,5 @@
 import subprocess
+from hashlib import file_digest
 from pathlib import Path
 from tempfile import TemporaryDirectory
 from time import perf_counter
@@ -22,7 +23,7 @@ def format_size(size: int) -> str:
 
 
 def filetree(source: Path) -> str:
-    nodes = [source.name]
+    nodes = ["seadex-data-refinement-history/"]
     files = [p for p in source.iterdir() if p.suffix == ".jsonl"]
 
     for i, file in enumerate(files):
@@ -97,14 +98,17 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
     started = perf_counter()
     temptag = f"{HISTORY}-{uuid4().hex}"
     command = ["gh", "release", "--repo", REPO]
-    # The CLI uploads assets before publishing the new release. Keep the old
-    # release until that succeeds, then recreate its rolling tag at this commit.
+    with destination.open("rb") as file:
+        digest = file_digest(file, "sha256").hexdigest()
+
+    # Stage the new release in draft
     subprocess.run(
         [
             *command,
             "create",
             temptag,
             str(destination),
+            "--draft",
             "--target",
             commit,
             "--title",
@@ -114,9 +118,42 @@ def publish(snapshot: Snapshot, source: Path, destination: Path) -> Path:
         ],
         check=True,
     )
-    subprocess.run([*command, "delete", HISTORY, "--yes", "--cleanup-tag"], check=True)
-    # If retagging fails, the uploaded release remains available on its temporary tag.
-    subprocess.run([*command, "edit", temptag, "--tag", HISTORY, "--target", commit], check=True)
-    subprocess.run(["gh", "api", "--method", "DELETE", f"repos/{REPO}/git/refs/tags/{temptag}"], check=True)
+
+    # Move the `history` tag to the latest commit
+    subprocess.run(
+        [
+            "gh",
+            "api",
+            "--method",
+            "PATCH",
+            f"repos/{REPO}/git/refs/tags/{HISTORY}",
+            "-f",
+            f"sha={commit}",
+            "-F",
+            "force=true",
+            "--silent",
+        ],
+        check=True,
+    )
+
+    # Delete the older release WITHOUT deleting it's tag
+    subprocess.run([*command, "delete", HISTORY, "--yes"], check=True)
+
+    # Change the draft release's tag to `history` and undraft it.
+    subprocess.run([*command, "edit", temptag, "--tag", HISTORY, "--verify-tag", "--draft=false"], check=True)
+
+    # Sanity check
+    expected = (
+        ".draft == false and any(.assets[]; "
+        f'.name == "{FILENAME}" and .state == "uploaded" and .digest == "sha256:{digest}")'
+    )
+    release = subprocess.run(
+        ["gh", "api", f"repos/{REPO}/releases/tags/{HISTORY}", "--jq", expected],
+        check=True,
+        stdout=subprocess.PIPE,
+        text=True,
+    )
+    if release.stdout.strip() != "true":
+        raise RuntimeError(f"Published {HISTORY} release is missing the verified {FILENAME} asset")
     print(f"Published page history ({perf_counter() - started:.2f}s)", flush=True)
     return destination
