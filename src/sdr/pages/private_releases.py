@@ -1,5 +1,7 @@
 from typing import Final
 
+from seadex import TorrentRecord
+
 from sdr.history import Export
 from sdr.pages import Page
 from sdr.shared import Summary, sort_by_popularity, summarize
@@ -7,6 +9,18 @@ from sdr.snapshot import Anime, Snapshot
 
 # Groups that do not want their releases mirrored to public trackers.
 EXCLUDED: Final[frozenset[str]] = frozenset({"-ZR-", "FraMeSToR", "NAN0", "KEKKU", "Doc", "Kitsune"})
+
+
+def same_torrent(left: TorrentRecord, right: TorrentRecord) -> bool:
+    """Check whether two tracker records contain the same release files."""
+    left_files = {(file.name, file.size) for file in left.files}
+    right_files = {(file.name, file.size) for file in right.files}
+    if not left_files or not right_files:
+        return False
+
+    # A public megapack may contain every file from a private standalone torrent.
+    same_files = left_files <= right_files or right_files <= left_files
+    return same_files
 
 
 def select(snapshot: Snapshot) -> tuple[Anime, ...]:
@@ -22,12 +36,14 @@ def select(snapshot: Snapshot) -> tuple[Anime, ...]:
                 and other.is_dual_audio >= torrent.is_dual_audio
                 for other in anime.seadex.torrents
             )
-            # For a given show (defined by AniList), the same torrent can exist on its own
-            # on AB (because they enforce strict grouping) but in a megapack on Nyaa.
-            # In these cases, SeaDex marks the AB torrent as Best, but the Nyaa
-            # torrent as an Alt because the megapack also contains non-Best shows.
+            # The same release can have different Best/Alt labels across trackers,
+            # for example when a public megapack contains more than this entry.
+            # Match its files as well so a separate release by the same group does
+            # not hide the private-only torrent.
             counterpart = any(
-                other.release_group == torrent.release_group and other.is_best != torrent.is_best
+                other.release_group == torrent.release_group
+                and other.is_best != torrent.is_best
+                and same_torrent(torrent, other)
                 for other in anime.seadex.torrents
             )
             if mirrored or counterpart:
